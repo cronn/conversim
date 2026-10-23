@@ -1,0 +1,69 @@
+Menter: Nennen Sie Ihr Anliegen, bitte kurz.
+Thomas: (nervös) Ich habe Ausfluss und Brennen beim Wasserlassen.
+Menter: Seit wann bestehen die Beschwerden?
+Thomas: Seit dem 15.05.2024.
+Menter: Hatten Sie kürzlich sexuelle Kontakte?
+Thomas: Ja.
+Menter: Geschlecht der Partner?
+Thomas: Männlich.
+Menter: Wie viele Partner in den letzten zwölf Monaten?
+Thomas: Fünf.
+Menter: War der letzte Kontakt geschützt?
+Thomas: Nein, es war ungeschützter Sex auf einer Dienstreise.
+Menter: Datum des letzten Geschlechtsverkehrs?
+Thomas: Am 08.05.2024.
+Menter: Gab es Juckreiz zusätzlich zum Ausfluss und Dysurie?
+Thomas: Ja, etwas Jucken.
+Menter: Sind Sie homosexuell?
+Thomas: Ja.
+Menter: In welcher Beziehungsform leben Sie?
+Thomas: In einer offenen Beziehung. Ich bin verheiratet, habe aber Vereinbarungen.
+Menter: (kühl) Verstehe. Haben Sie oder Ihre Partner bekannte STI-Risikofaktoren oder bekannten STI-Status?
+Thomas: Bei dem Partner war der STI-Status für mich unbekannt.
+Menter: Nutzen Sie Schutzmaßnahmen wie Kondome oder PrEP?
+Thomas: Gelegentlich Kondome, PrEP nehme ich ab und zu, nicht regelmäßig.
+Menter: Haben Sie Impfungen gegen Hepatitis A, B oder HPV?
+Thomas: Ja, Hepatitis A und B und HPV sind gemacht.
+Menter: Frühere STI-Erkrankungen?
+Thomas: Ich hatte früher Chlamydien.
+Menter: Sonstige schwere Erkrankungen, Hepatitis C, HIV, Syphilis, Herpes?
+Thomas: Nein, nichts davon.
+Menter: Letzte allgemeine Untersuchung wann?
+Thomas: Am 10.10.2023.
+Menter: Letzter HIV-Test?
+Thomas: 01.12.2023.
+Menter: Letzter Syphilis-Test?
+Thomas: 01.12.2023, gleichzeitig.
+Menter: Letzter Chlamydien/Gonorrhö-Test?
+Thomas: 15.02.2024.
+Menter: Nehmen Sie aktuell Medikamente?
+Thomas: Nur manchmal PrEP, sonst keine.
+Menter: Haben Sie Allergien gegen Antibiotika?
+Thomas: Keine Allergien bekannt.
+Menter: (kurz) Ich werde einen Urintest, einen NAAT-Abstrich auf Chlamydien/Gonorrhoe und Bluttests (HIV, Syphilis, Hepatitis) veranlassen. Ein Abstrich ist möglich, ein Urintest nicht ausreichend für alle Erreger.
+Thomas: (dringlich) Wird meine Frau davon erfahren? Gilt das unter Schweigepflicht?
+Menter: Ärztliche Schweigepflicht gilt. Informationen werden nicht ohne Ihre Einwilligung weitergegeben, außer bei rechtlich zwingender Mitteilungspflicht.
+Thomas: Gibt es Situationen, in denen trotzdem jemand informiert wird?
+Menter: Nur bei gesetzlichen Meldepflichten oder gerichtlicher Anordnung; zudem kann das Gesundheitsamt anonym Kontaktpersonen informieren, nicht mit Ihrem Namen.
+Thomas: (erleichtert) Das heißt, das Gesundheitsamt würde meinem Namen nicht nennen?
+Menter: Ja, Kontaktaufnahme kann anonym erfolgen; persönlicher Name wird in der Regel nicht ohne Ihre Zustimmung weitergegeben.
+Thomas: Können Sie mir kurz erklären, was getestet wird und wie lange das dauert?
+Menter: Urin/NAAT: Ergebnis oft innerhalb 3–7 Tage. Bluttests: Syphilis, HIV, Hepatitis meist 1–7 Tage je nach Labor.
+Thomas: Muss ich sofort behandelt werden?
+Menter: Wir können bei starkem Verdacht empirisch behandeln, aber ich empfehle erst Abstrich/Urintest und bei positivem Befund zielgerichtet therapieren.
+Thomas: Wenn etwas positiv ist, muss ich mein Privatleben offenlegen?
+Menter: Behandlung erfordert meist Angaben zu Partnern für Kontakt­nachverfolgung; das kann auch anonym durch das Gesundheitsamt erfolgen. Ihre Privatsphäre bleibt vorrangig.
+Thomas: (leise) Ich habe wirklich Angst, dass meine Frau davon erfährt.
+Menter: Das ist verständlich, betrifft aber nicht meine Entscheidung. Medizinisch handeln wir vertraulich; bringen Sie bitte alle relevanten Informationen, um Ihre Gesundheit zu sichern.
+Thomas: Okay. Soll ich heute noch etwas tun, bis die Ergebnisse da sind?
+Menter: Vermeiden Sie sexuelle Kontakte, bis Abklärung erfolgt. Bei starken Schmerzen oder Fieber sofort wiederkommen.
+Thomas: Kann die Behandlung Auswirkungen auf meine Ehe haben, wenn sie später erfahren würde?
+Menter: Medizinisch nein. Sozialrechtliche oder persönliche Folgen sind außerhalb meiner Zuständigkeit.
+Thomas: (zögernd) Ich möchte, dass alles so diskret wie möglich bleibt.
+Menter: Notiert. Ich dokumentiere medizinisch relevant, Zugriff nur für Behandlungszwecke. Ich entnehme jetzt den Abstrich, dann Blut und Urin.
+Thomas: (nervös) Noch mal: Ich kann darauf vertrauen, dass das in der Akte bleibt und nicht an Dritte geht?
+Menter: Ja. Ohne Ihre Einwilligung erfolgt keine Weitergabe, außer gesetzliche Verpflichtungen greifen.
+Thomas: Gut. Danke. Was ist die nächste Maßnahme, wenn der NAAT positiv ist?
+Menter: Antibiotische Therapie bei Chlamydien/Gonorrhö entsprechend Leitlinie; ich bespreche Medikamente, Dosierung und Partnerbehandlung, falls nötig.
+Thomas: Ich bin bereit für den Test. Bitte so schnell und diskret wie möglich.
+Menter: (sachlich) Gut. Ich nehme die Proben jetzt, dann Besprechung der Ergebnisse per Anruf oder in der Sprechstunde.

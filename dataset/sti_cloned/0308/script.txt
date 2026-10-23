@@ -1,0 +1,36 @@
+Weber: Guten Morgen, ich bin Dr. Weber von der Uniklinik, spezialambulanz STI/HIV. Wir sprechen vertraulich, ja?
+Alex: Jo, moin. Alles klar, danke. Ich bin Alex, geboren 15. Mai 1985.
+Weber: Danke. Wie identifizieren Sie sich geschlechtlich, und war bei der Geburt männlich zugeordnet?
+Alex: Ich bin ein Mann — bei der Geburt auch männlich. Kein Schnickschnack mit Hormonen oder so, keine OP.
+Weber: Also keine Hormontherapie, keine geschlechtsangleichende Operationen. Und anatomisch alles da, was wir bei Männern erwarten?
+Alex: Ja, klar — Penis, Hoden, Prostata, Enddarm halt auch.
+Weber: Gut. Warum sind Sie heute hier?
+Alex: Ich wollte mich zur PrEP beraten lassen. Ich arbeite in der Sexarbeit und dachte, das wäre sinnvoll.
+Weber: In Ordnung. Nehmen Sie aktuell PrEP?
+Alex: Nein, nehme es nicht im Moment.
+Weber: Verstanden. Gab es in letzter Zeit einen konkreten Vorfall, bei dem Sie denken, Sie könnten HIV ausgesetzt gewesen sein?
+Alex: Nee, ich vermute da nichts Spezielles. Keine akute Exposition jetzt — also nichts innerhalb der letzten 72 Stunden oder so, und auch nicht in den letzten sechs Wochen.
+Weber: Okay. Welche Arten von Sex hatten Sie in den letzten drei Monaten?
+Alex: Meist vaginal, und ich krieg manchmal oralen Sex — also ich werd geleckt.
+Weber: Wie sieht das mit Kondomen aus?
+Alex: Beim Vaginalen benutzen wir meistens Kondome. Beim Oralen nur manchmal.
+Weber: Danke. Wie viele Sexualpartner hatten Sie ungefähr in den letzten drei Monaten?
+Alex: Im Grunde einen Partner in den letzten drei Monaten.
+Weber: Und wann war Ihr letzter Sex ungefähr — können Sie ein Datum nennen?
+Alex: Letzten richtigen Kontakt kann ich ungefähr sagen: das war so um den 10. April 2024 rum.
+Weber: Alles klar. Hatten Sie früher schon mal eine STI?
+Alex: Ja, Chlamydien, das war irgendwann, glaub im Juli 2018.
+Weber: Danke für die Offenheit. Wie ist es mit Impfungen — wissen Sie was zu Hepatitis A/B oder HPV?
+Alex: Hep B hab ich komplett durchgeimpft. Hep A nicht, und HPV hab ich auch nicht bekommen.
+Weber: Gut zu wissen. Rauchen oder Drogen, Alkohol?
+Alex: Ich trink ab und zu mal, so gelegentlich. Keine Freizeitdrogen, kein Spritzkram.
+Weber: Danke. Ich würde vorschlagen, wir machen ein Blutbild für HIV und Syphilis und zusätzlich Tests auf Chlamydien und Gonorrhöe — per Urin und Rachenabstrich. Ein Teil geht per Blutabnahme.
+Alex: Klingt gut. Tut das weh?
+Weber: Nur kurz die Blutabnahme, der Rachenabstrich ist unangenehm für'n Moment, Urin ist easy. Wir klären dann auch PrEP-Vor- und Nachteile, einfache Erklärung, keine Fachbegriffe, wenn Sie wollen.
+Alex: Ja, bitte. Ich brauch das verständlich. Und wie krieg ich die Ergebnisse?
+Weber: Die Ergebnisse schicken wir Ihnen ins Patientenportal, in der Regel innerhalb einer Woche. Soll ich Sie beim Impfstatus zu Hepatitis A noch beraten?
+Alex: Ja, wär super. Ich hab das nicht.
+Weber: Machen wir. Und Kondomberatung haben wir auch kurz angesprochen — Sie nutzen sie ja meist vaginal, das ist gut. Bei PrEP erkläre ich auch, wie man das richtig nimmt, und wir schauen, ob das für Sie passt.
+Alex: Alles klar, danke. Wann können wir mit den Tests anfangen?
+Weber: Wir können gleich anfangen — Blut, Urin und Rachenabstrich heute. Ich trage das ins System ein, und dann schauen wir gemeinsam, ob PrEP für Sie sinnvoll ist.
+Alex: Perfekt, machen wir so. Danke, Doktor.

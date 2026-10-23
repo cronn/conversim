@@ -1,0 +1,29 @@
+Lehmann: Guten Morgen, Alex, ich bin Dr. Lehmann. Können Sie mir kurz Ihr Geburtsdatum bestätigen?
+Alex: Ja, 15. Juli 1995.
+Lehmann: Danke. Wir führen heute eine STI-/HIV-Anamnese durch - erzählen Sie mir kurz, was Sie hierher geführt hat.
+Alex: Ich wollte einen Check machen, weil ich in den letzten Monaten mehrere Sexualpartner hatte. Einen hab ich auf einer Pride-Party kennengelernt, die anderen zwei über Grindr. In den letzten drei Monaten waren es drei verschiedene Personen, und der letzte sexuelle Kontakt war am 20.11.2023.
+Lehmann: Verstehe. Haben Sie aktuell Beschwerden, wie Ausfluss, Schmerzen beim Wasserlassen, Geschwüre oder Ähnliches?
+Alex: Nein, derzeit habe ich keine Beschwerden.
+Lehmann: Gut. Welche sexuellen Praktiken hatten Sie in den letzten drei Monaten?
+Alex: Vor allem anale rezeptive Sexkontakte, außerdem oralen rezeptiven Sex und ich war auch oral insertive.
+Lehmann: Und wie verhält es sich mit Kondomen bei diesen Kontakten?
+Alex: Beim Analverkehr habe ich manchmal ein Kondom verwendet, beim Oralverkehr nie.
+Lehmann: Wissen Sie etwas über den HIV-Status Ihrer Partner, oder wurde das nicht besprochen?
+Alex: Das haben wir nicht besprochen, ich weiß den Status nicht. Auf der Party wars laut und wir waren beide angetrunken, und bei den App-Dates redet man halt auch nicht immer so direkt darüber.
+Lehmann: Danke. Hatten Sie in der Vergangenheit schon einmal eine STI-Diagnose?
+Alex: Ja, ich hatte am 10.05.2022 eine Chlamydien-Diagnose.
+Lehmann: Alles klar. Vermuten Sie aktuell eine konkrete HIV-Exposition oder hatten Sie Symptome, die auf eine akute Infektion hindeuten könnten?
+Alex: Nein, eigentlich nicht, ich hatte auch keine entsprechenden Symptome.
+Lehmann: Haben Sie jemals PrEP genommen, oder nehmen Sie derzeit PrEP?
+Alex: Ich nehme kein PrEP aktuell. Das Thema wurde aber schon einmal mit mir besprochen.
+Lehmann: Wie ist Ihr Impfstatus bei Hepatitis A, Hepatitis B und HPV?
+Alex: Hepatitis A bin ich nicht geimpft, Hepatitis B ist komplett, HPV bin ich auch nicht geimpft.
+Lehmann: Danke. Noch eine kurze Frage zur Substanzanamnese: Alkohol konsumieren Sie regelmäßig, und wie ist es mit Freizeitdrogen oder injizierten Drogen?
+Alex: Ich trinke regelmäßig Alkohol, nehme gelegentlich Freizeitdrogen, aber niemals injizierte Drogen.
+Lehmann: Das ist hilfreich. Ich schlage vor, wir machen folgende Tests: HIV, Syphilis, Chlamydien, Gonorrhö, sowie Hepatitis A und B. Dafür würden wir Blut abnehmen, Urin testen und Abstriche rektal und im Rachen nehmen. Sind Sie damit einverstanden?
+Alex: Ja, das klingt gut - machen wir das so.
+Lehmann: Gut, ich mache die Probeentnahme dann gleich. Die Ergebnisse bekommen Sie über das Patientenportal; rechnen Sie bitte mit einer Rückmeldung innerhalb von sieben Tagen.
+Alex: Super, danke. Muss ich sonst noch etwas beachten?
+Lehmann: Wir können bei Bedarf auch über Präventionsmöglichkeiten sprechen - Sie hatten ja bereits eine Kondomberatung und die PrEP wurde einmal angesprochen. Wenn Sie möchten, können wir nach den Ergebnissen weitere Schritte oder Impfungen besprechen, zum Beispiel Hepatitis-A-Impfung oder HPV-Impfung.
+Alex: Ja, das würde ich nach den Ergebnissen gern besprechen. Danke.
+Lehmann: Sehr gut. Dann starte ich jetzt mit der Blutentnahme und den Abstrichen. Wenn währenddessen Fragen auftauchen, sagen Sie bitte kurz Bescheid.

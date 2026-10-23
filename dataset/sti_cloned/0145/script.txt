@@ -1,0 +1,31 @@
+Schneider: Guten Morgen, schön, dass Sie da sind — wie geht es Ihnen heute?
+Mika: Guten Morgen. Ganz gut, danke. Ich bin nur zur Routineuntersuchung, habe keine akuten Beschwerden.
+Schneider: Das ist kein Problem, wir machen das ganz entspannt. Darf ich kurz ein paar Basisdaten aufnehmen?
+Mika: Klar.
+Schneider: Wann sind Sie geboren, und wie bezeichnen Sie Ihr Geschlecht?
+Mika: Ich bin am 15. Mai 1993 geboren. Ich bin weiblich, bei der Geburt auch weiblich, und ich identifiziere mich als Frau.
+Schneider: Danke. Und anatomisch — haben Sie die weiblichen Genitalien, Gebärmutter und so weiter?
+Mika: Ja, ich habe eine Vagina, eine Zervix, einen Uterus und auch das Rektum.
+Schneider: Gut. Wie sieht es sexuell in den letzten Monaten aus — hatten Sie mehrere Partner*innen oder nur wenige?
+Mika: In den letzten drei Monaten hatte ich einen Partner.
+Schneider: Und wann war Ihr letzter sexueller Kontakt ungefähr?
+Mika: Das war am 10. Juni 2024, also vor einigen Wochen.
+Schneider: Welche Praktiken gab es dabei, wenn Sie kurz sagen mögen?
+Mika: Wir hatten Vaginalverkehr, und ich habe oralen Verkehr empfangen.
+Schneider: Und wie benutzen Sie dabei Kondome, besonders beim Vaginalverkehr?
+Mika: Beim Vaginalverkehr benutzen wir meistens Kondome — also größtenteils ja.
+Schneider: Verstehe. Haben Sie den Eindruck, dass es in den letzten Wochen ein relevantes Risiko für HIV oder andere STIs gegeben hat?
+Mika: Nein, ich vermute keine besondere Exposition.
+Schneider: Rauchen oder Drogen, oder Alkohol — wie ist das bei Ihnen?
+Mika: Alkohol trinke ich gelegentlich, aber nichts Dramatisches. Sonst nichts.
+Schneider: In Ordnung. Für die Routine hier würde ich folgende Tests empfehlen: HIV und Syphilis sowie Chlamydien und Gonokokken.
+Mika: Das klingt gut.
+Schneider: Dafür würden wir Blut abnehmen, Urin untersuchen, einen Vaginalabstrich machen und auch einen Rachenabstrich nehmen.
+Mika: Okay, das ist für mich in Ordnung.
+Schneider: Die Ergebnisse kann unser Team Ihnen telefonisch mitteilen; in der Regel dauert das bis zu zehn Tage.
+Mika: Super, so passt das. Haben Sie noch Tipps zur Verhütung oder zum Schutz?
+Schneider: Ich erkläre kurz noch einmal richtiges Kondomverhalten und Lagerung — wichtig ist, Kondome konsequent und korrekt anzulegen, besonders wenn Sie sagen, Sie nutzen sie meist. Wenn Sie mögen, zeige ich es kurz.
+Mika: Ja, das wäre gut, danke.
+Schneider: Gut, dann mache ich gleich die Proben klar und wir besprechen noch einmal, falls etwas auffällig ist. Haben Sie sonst noch Fragen?
+Mika: Nein, im Moment nicht. Danke, das beruhigt mich.
+Schneider: Gern. Dann starten wir mit der Blutabnahme und den Abstrichen.

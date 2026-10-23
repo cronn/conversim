@@ -1,0 +1,65 @@
+Lehmann: Guten Morgen, Jessy — schön, dass Sie gekommen sind. Wie geht's Ihnen sonst so heute?
+Jessy: Morgen. Ganz okay, danke. War nur ein bisschen nervös, deswegen bin ich froh, dass das hier entspannt wirkt.
+Lehmann: Kein Problem, das ist normal. Wir sitzen ja in einer Hausarztpraxis, das kriegen wir gut hin. Darf ich kurz Ihre Angaben prüfen — Geburtsdatum?
+Jessy: Klar, ich bin am 15. Juli 1995 geboren.
+Lehmann: Danke. Und in den Formularen steht Ihr amtliches Geschlecht als?
+Jessy: Da habe ich "divers" angegeben.
+Lehmann: Alles klar. Wie wurden Sie bei der Geburt registriert, wenn ich fragen darf?
+Jessy: Bei Geburt war ich weiblich registriert.
+Lehmann: Und wie identifizieren Sie sich selbst?
+Jessy: Ich bin nicht-binär.
+Lehmann: Danke. Möchten Sie, dass ich das in der Akte vermerke? Es hilft bei der Kommunikation.
+Jessy: Ja, bitte. Dann weiß das Team Bescheid.
+Lehmann: Gut. Haben Sie geschlechtsangleichende Operationen gehabt?
+Jessy: Nein, keine Operationen.
+Lehmann: Sind Sie aktuell in einer Hormontherapie?
+Jessy: Ja, ich nehme momentan Hormone.
+Lehmann: Verstanden. Was Ihre Anatomie angeht — haben Sie noch eine Vagina, Zervix und Gebärmutter?
+Jessy: Ja, Vagina, Zervix, Gebärmutter sind noch da, und ja, das Rektum natürlich auch.
+Lehmann: Okay, das ist wichtig für die Tests, die wir in Betracht ziehen. Kommen wir zum Grund Ihres Besuchs: Sie sagten bei der Anmeldung, es gab eine kürzliche Risikoexposition?
+Jessy: Genau. Ich hatte Sex mit einem Typen, und das war am 1. November 2023.
+Lehmann: Verstehe. Wie viele Partner hatten Sie in den letzten drei Monaten vor dem Kontakt?
+Jessy: In den drei Monaten davor hatte ich nur einen Partner.
+Lehmann: Welche Praktiken waren dabei relevant?
+Jessy: Es war vaginaler Sex, und wir hatten auch Oralsex — ich war mal der Gebende, mal der Empfangende beim Oralsex.
+Lehmann: In Ordnung. Und wie war das mit Kondomen?
+Jessy: Bei vaginalem Sex benutze ich meistens Kondome. Beim Oralsex nur manchmal, nicht immer.
+Lehmann: Gut, danke. Wissen Sie den HIV-Status dieses Partners?
+Jessy: Ja, der Typ hat mir gesagt, er ist HIV-negativ.
+Lehmann: Hatte der Partner kürzlich eine STI, von dem Sie wissen?
+Jessy: Nein, soweit ich weiß hatte der keine bekannten STIs.
+Lehmann: Haben Sie aktuell irgendwelche Beschwerden — Schmerzen, Ausfluss, Fieber, geschwollene Lymphknoten?
+Jessy: Nein, gar nichts. Keine Symptome.
+Lehmann: Gut. Sie erwähnten in der Anamnese, dass Sie bereits einmal eine STI hatten — können Sie das kurz beschreiben?
+Jessy: Ja, ich hatte Chlamydien, das war am 10. Mai 2020. Wurde behandelt und dann war's gut.
+Lehmann: Danke. Impfungen — wie ist Ihr Stand bei Hepatitis A und B und HPV?
+Jessy: HPV-Impfung habe ich komplett bekommen. Hepatitis A: gar nicht geimpft. Hepatitis B: angefangen, aber nicht komplett — hab nur teilweise Impfungen.
+Lehmann: Verstanden. Nehmen Sie aktuell PrEP gegen HIV?
+Jessy: Nein, ich nehme keine PrEP aktuell.
+Lehmann: Haben wir diese Option schon mal besprochen?
+Jessy: Ja, letztes Mal hat ein Kollege es kurz angesprochen, deswegen wollte ich das heute nochmal hören.
+Lehmann: Sehr gut — das können wir gleich ausführlicher besprechen. Zum Lebensstil: trinken Sie Alkohol gelegentlich, oder öfter?
+Jessy: Eher gelegentlich, wenn ich ausgehe oder so.
+Lehmann: Nehmen Sie Freizeitdrogen oder injizieren Sie Drogen?
+Jessy: Nein, ich nehme keine Freizeitdrogen, und spritzen tu ich auch nicht.
+Lehmann: Danke für die Offenheit. Zur Abschätzung des HIV-Risikos: würden Sie sagen, dass die Exposition relevant für eine mögliche HIV-Übertragung war?
+Jessy: Ich glaube nicht, dass es hochriskant war — ich halte es eher für unwahrscheinlich.
+Lehmann: War die Exposition in den letzten 72 Stunden?
+Jessy: Nein, das war ja im November.
+Lehmann: Gut, auch in den letzten sechs Wochen nicht. Und akuttypische HIV-Symptome haben Sie nicht — das haben Sie schon gesagt.
+Jessy: Genau, nichts.
+Lehmann: Dann wäre eine PEP nicht mehr relevant. Wir schlagen folgende Tests vor: Blutuntersuchungen für HIV und Syphilis, Hepatitis A und B; außerdem Abstriche für Chlamydien und Gonorrhö — als Vaginalabstrich, einen Rachenabstrich und eine Urinprobe.
+Jessy: Klingt gut. Also Blut, Urin, Vaginalabstrich und Rachenabstrich — notiere ich mir.
+Lehmann: Genau. Wir nehmen die Proben heute, und die Ergebnisse bekommen Sie über unser Patientenportal, in der Regel innerhalb einer Woche.
+Jessy: Super, dann passt das für mich.
+Lehmann: Wegen Hepatitis-Immunisierung: Sie sind gegen Hep A ungeimpft und Hep B unvollständig — wir können die Hep A-Impfung anbieten und die Hep B-Serie vervollständigen.
+Jessy: Ja, das würde ich gern machen.
+Lehmann: Zur Prävention: Wir sprechen nochmal kurz über Kondome und PrEP. Kondome sind sinnvoll, das haben wir ja kurz angesprochen — ich empfehle weiterhin konsequent bei Vaginalverkehr, und bei Oralsex ist es eine Option, je nach Situation.
+Jessy: Ja, ich nehme die Hinweise mit. Bei Vaginalem meistens Kondome, stimmt.
+Lehmann: Und PrEP: ich kann Ihnen die Optionen erklären — täglich oder on-demand, je nachdem, was zu Ihnen passt. Das ist nichts, was Sie heute einnehmen müssten, aber ich würde es Ihnen anbieten.
+Jessy: Klingt gut, bitte mehr Infos dazu. Ich bin offen dafür.
+Lehmann: Sehr gut, ich gebe Ihnen die Details nachher mit. Noch eine administrative Frage: könnte bei Ihnen eine Schwangerschaft eintreten derzeit?
+Jessy: Ja, das ist möglich — ich kann schwanger werden, bin aber nicht schwanger.
+Lehmann: Danke, das vermerken wir. Dann schauen wir, dass wir heute die Tests machen und die Impfungen besprechen. Haben Sie noch Fragen oder etwas, das ich vergessen habe?
+Jessy: Nein, das deckt alles ab. Danke, dass Sie so sachlich sind — das hilft.
+Lehmann: Gerne. Ich komme gleich für die Blutabnahme und erkläre Ihnen zusätzlich die Möglichkeiten zur PrEP und die Impfungen.

@@ -1,0 +1,51 @@
+Elena: (ruhig) Guten Morgen, Herr Müller, erzählen Sie mir bitte kurz, was Sie heute zu mir geführt hat.
+Thomas: (nervös) Guten Morgen. Ich habe seit etwa zehn Tagen Ausfluss und manchmal brennt es beim Wasserlassen — ich mache mir Sorgen, vielleicht eine STI.
+Elena: (tröstend) Danke, dass Sie kommen. Wann genau haben die Beschwerden angefangen?
+Thomas: Am 15. Juni 2024 habe ich das erste Mal bemerkt, dass etwas nicht stimmt.
+Elena: Hatten Sie Fieber oder Schmerzen in der Leistengegend dazu?
+Thomas: Leichte Schmerzen beim Wasserlassen, sonst kein Fieber, keine starken Schmerzen.
+Elena: Okay. Und wie sieht der Ausfluss aus — eher klar, trüb, gelblich oder grünlich?
+Thomas: Eher gelblich, manchmal etwas dick.
+Elena: (beruhigend) Verstanden. Damit wir das richtig einordnen können, muss ich ein paar Fragen zur Sexualgeschichte stellen. Das bleibt selbstverständlich vertraulich.
+Thomas: (eilig) Genau das wollte ich gleich fragen — die Schweigepflicht gilt, oder? Wird das meiner Frau gemeldet? Ich bin verheiratet, Vater, und das würde alles kaputtmachen.
+Elena: (ruhig) Die ärztliche Schweigepflicht gilt grundsätzlich. Ich bespreche ohne Ihre Zustimmung nichts mit Ihrer Frau. Es gibt nur sehr wenige Ausnahmen, und darüber würde ich Sie informieren, wenn sie relevant wären.
+Thomas: (misstrauisch) Können Sie das etwas genauer sagen? Gibt es Situationen, in denen Sie trotzdem informieren müssen?
+Elena: In der Regel nicht. Nur bei akuter Gefahr für Dritte oder speziellen meldepflichtigen Infektionen kann es Ausnahmen geben — aber das ist selten und wird vorher mit Ihnen besprochen. Bei normalen STI-Abklärungen gilt: vertraulich.
+Thomas: Gut, das beruhigt mich schon. Ich muss das sagen: Ich bin heterosexuell, verheiratet, wir haben eine offene Beziehung, aber ich hatte trotzdem einen ungeschützten Seitensprung auf einer Dienstreise und wollte das eigentlich nicht.
+Elena: Danke, dass Sie das sagen. Das hilft sehr. Mit wie vielen Partnerinnen hatten Sie denn in den letzten zwölf Monaten Sex?
+Thomas: Vier verschiedene Frauen insgesamt.
+Elena: Und das letzte Mal war am 5. Juni 2024, stimmt das?
+Thomas: Ja, genau am 5. Juni 2024 — es war ungeschützt, die Frau hat unbekannten STI-Status.
+Elena: Verstanden. Hatten Sie sonst noch Kontakte, bei denen der Status unsicher war?
+Thomas: Ja, das letzte war mit jemandem, von der ich das nicht weiß — also Risk-Faktor: unbekannt.
+Elena: (sachlich, ohne Fachjargon) Danke. Nutzen Sie sonst Verhütungsmittel oder Kondome?
+Thomas: Wir benutzen Kondome nur gelegentlich, also eher ab und zu.
+Elena: Und Impfungen gegen Hepatitis A und B haben Sie?
+Thomas: Ja, gegen A und B bin ich geimpft.
+Elena: Gut. Hatten Sie in der Vergangenheit schon einmal Chlamydien, Gonorrhö, Syphilis, HIV, Herpes oder HPV?
+Thomas: Nein, zu all dem habe ich nie etwas gehabt. Tests blieben bisher negativ.
+Elena: Wann war Ihr letztes allgemeines Gesundheits-Check-up?
+Thomas: Im Oktober 2023, genau am 20.10.2023.
+Elena: Alles klar. Ich würde vorschlagen: wir machen einen Urintest und einen Abstrich, um auf Gonorrhö und Chlamydien zu testen, und Bluttests für HIV, Syphilis und Hepatitis C — Hep A/B haben Sie ja schon. Ein Abstrich dauert nur kurz.
+Thomas: (unsicher) Muss das wirklich alles untersucht werden? Ich will nur schnell wissen, ob ich etwas habe.
+Elena: Ja, das ist sinnvoll, weil verschiedene Erreger ähnliche Symptome verursachen können. Die Tests sind schnell, zuverlässig und helfen uns, gezielt zu behandeln — und selbstverständlich diskret.
+Thomas: (wiederholt) Und das bleibt alles zwischen uns? Kein Eintrag bei der Krankenkasse, den meine Frau sehen könnte?
+Elena: Die Befunde gehen in Ihre Patientenakte. In Deutschland sieht die Krankenkasse normalerweise die Abrechnung, aber keine detaillierten Befunde im Sinne von freier Einsicht Dritter. Wenn Sie eine anonyme Laborlaborkennung wünschen, können wir das bei manchen Tests besprechen; grundsätzlich bespreche ich mit Ihnen, wie wir vorgehen.
+Thomas: Okay, das klingt schon besser. Wenn ich was habe — werde ich behandelt? Sofort?
+Elena: Wenn der Befund eindeutig ist, behandeln wir zielgerichtet. Bei starkem Verdacht kann ich auch eine Erstbehandlung geben, während die Labors noch laufen. Ich erkläre die Medikamente einfach und gebe Ihnen eine kurze Anleitung.
+Thomas: (leise) Ich habe Angst, dass meine Frau es rausfindet — obwohl wir offen sind, würde sie verletzt sein, wenn sie von dem Seitensprung ohne mein Zutun erfährt.
+Elena: (einfühlsam) Das kann ich verstehen. Wir können auch über anonyme Partnerbenachrichtigung sprechen: Gesundheitsämter bieten manchmal die Möglichkeit, Partnerinnen anonym zu informieren, damit sie testen lassen, ohne Ihren Namen nennen zu müssen.
+Thomas: Das wäre ideal. Ich will nicht, dass sie wegen mir unnötig leidet, aber ich will auch nicht, dass sie aus Zufall davon erfährt.
+Elena: Das ist vernünftig. Zuerst machen wir die Tests und behandeln die Symptome. Wenn ein meldepflichtiger Befund dabei ist, erkläre ich Ihnen Schritt für Schritt, was das heißt und welche Optionen Sie haben.
+Thomas: Wie lange dauert es, bis die Tests da sind?
+Elena: Bluttests und NAAT-Abstriche brauchen in der Regel zwei bis fünf Tage, manchmal schneller. Wenn etwas Dringendes ist, rufe ich Sie an.
+Thomas: Gut. Können Sie mir schon sagen, was es typischerweise sein könnte? Ich meine, ohne zu sehr ins Detail zu gehen.
+Elena: Die Kombination aus gelblichem Ausfluss und Brennen beim Wasserlassen passt oft zu Chlamydien oder Gonorrhö, seltener zu bakteriellen Infektionen oder anderen Ursachen. Aber das kann man nicht sicher sagen, ohne die Tests.
+Thomas: Verstanden. Ich bin jetzt sehr angespannt — könnten Sie bitte beim Abstrich vorsichtig sein? Ich möchte nicht noch mehr Stress.
+Elena: (ruhig) Natürlich, ich nehme mir Zeit und erkläre jeden Schritt. Es tut zwar kurz weh, ist aber schnell vorbei.
+Thomas: Danke. Noch eine letzte Frage zur Schweigepflicht: Wenn ich später Medikamente bekomme, erscheint das auf meiner normalen Arztrechnung?
+Elena: Die Abrechnung behandelt die Leistung, nicht den Grund ausführlich. Wenn Sie eine besonders diskrete Abrechnung wünschen, können wir das kurz mit der Praxisverwaltung klären. Ich notiere außerdem nur das, was medizinisch nötig ist.
+Thomas: Danke, das beruhigt mich sehr. Dann machen wir die Tests bitte und den Abstrich.
+Elena: In Ordnung, ich mache jetzt den Urin- und Abstrichtest und nehme Blut. Danach besprechen wir das weitere Vorgehen. Wenn Sie möchten, können Sie vorher noch etwas sagen, das wichtig ist für die Untersuchung?
+Thomas: Nein, das war’s erstmal. Danke, dass Sie so verständnisvoll sind.
+Elena: Gern. Ich begleite Sie dabei — wir kriegen das hin und bleiben diskret.

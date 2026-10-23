@@ -1,0 +1,45 @@
+Hannah: (streng) Guten Morgen, Herr Müller — warum sind Sie heute zur offenen Sprechstunde gekommen?
+Karsten: (abwehrend) Ich habe Ausfluss und ein Brennen beim Wasserlassen, deswegen bin ich hier.
+Hannah: Seit wann bestehen die Beschwerden genau?
+Karsten: Seit dem 5. Juni 2024, das hat sich langsam aufgebaut.
+Hannah: Haben Sie auch Juckreiz oder andere Beschwerden im Genitalbereich?
+Karsten: Ja, Juckreiz ist auch dabei, das ist ziemlich unangenehm.
+Hannah: (ruhig, bestimmt) Haben Sie Fieber oder Schmerzen in der Leiste?
+Karsten: Nein, Fieber nicht, aber beim Wasserlassen zieht es schon.
+Hannah: Gut, wir müssen eine STI-Anamnese machen — das ist wichtig für die Diagnostik. Sind Sie derzeit sexuell aktiv?
+Karsten: Ja, ich bin in einer offenen Beziehung, heterosexuell, habe im letzten Jahr vier Partnerinnen gehabt.
+Hannah: Wann war Ihr letzter sexueller Kontakt?
+Karsten: Am 28. Mai 2024.
+Hannah: Verwenden Sie regelmäßig Kondome?
+Karsten: Nur gelegentlich, also eher ab und zu.
+Hannah: Wissen Sie etwas über den STI-Status Ihrer Partnerinnen?
+Karsten: Nicht wirklich, bei einigen weiß ich das nicht — also unbekannter Status.
+Hannah: (streng) Haben Sie früher schon STI gehabt oder Genitalwarzen?
+Karsten: Ich hatte mal HPV-Warzen, das war vor ein paar Jahren.
+Hannah: Sind Sie gegen Hepatitis A, Hepatitis B oder HPV geimpft?
+Karsten: Ja, gegen Hepatitis A, Hepatitis B und HPV wurde ich geimpft.
+Hannah: Letzte Routine- oder HIV-/Syphilis-/Chlamydien-Tests?
+Karsten: Letzte Generaluntersuchung und die STI-Tests waren am 15. August 2023.
+Hannah: Danke. Ich werde Ihnen nun erklären, was ich vorschlage: Wir nehmen eine Urinprobe für PCR/NAAT, ggf. einen Urethralabstrich, und Blut für HIV, Syphilis und Hepatitis-C-Tests.
+Karsten: (abwehrend) Muss das wirklich alles jetzt sein? Ich fühle mich ein bisschen angegriffen von den Fragen.
+Hannah: (sachlich) Ich frage gezielt, um eine genaue Diagnose zu bekommen und Sie schnell zu behandeln; alles ist vertraulich.
+Karsten: Können die Ergebnisse jemandem gemeldet werden?
+Hannah: Nur bei meldepflichtigen Krankheiten wie Syphilis oder Gonorrhö wird das Gesundheitsamt informiert, ansonsten bleibt alles zwischen uns. Ich kann Sie unterstützen bei der anonymen Partnerbenachrichtigung.
+Karsten: (leiser) Und was passiert, wenn etwas positiv ist?
+Hannah: Dann behandeln wir Sie umgehend — bei Chlamydien gibt es eine gezielte antibiotische Therapie, bei Gonorrhöe ebenfalls, und wir besprechen dann die notwendigen weiteren Schritte und die Information Ihrer Kontakte.
+Karsten: Könnten die Symptome auch von etwas Harmloserem kommen?
+Hannah: Ja, Reizungen oder Pilzinfektionen kommen vor, aber die Kombination aus Ausfluss, Brennen und Juckreiz spricht eher für eine STI, daher die Tests.
+Karsten: Kann man sofort etwas gegen das Brennen tun?
+Hannah: Ich kann eine symptomatische Behandlung anbieten und Schmerzmittel empfehlen; die spezifische Therapie hängt vom Testergebnis ab. Wenn der Verdacht sehr stark ist, können wir auch eine empirische Behandlung beginnen.
+Karsten: (zögernd) Ich will nicht, dass meine Partnerinnen davon erfahren, es wird kompliziert.
+Hannah: Ich verstehe Ihre Sorge. Es geht um Gesundheitsschutz — uninformierte Partnerinnen könnten sich anstecken. Es gibt die Möglichkeit der anonymen Benachrichtigung oder ich stelle Informationsmaterial zur Weitergabe aus.
+Karsten: Gut, machen wir die Tests dann. Was muss ich jetzt tun?
+Hannah: Wir entnehmen jetzt Blut, Sie geben Urin, und ich mache ggf. einen Abstrich; bitte bis zur Probenabgabe nicht mehr urinieren, wenn möglich.
+Karsten: (resigniert) Okay. Wie schnell kommen die Ergebnisse?
+Hannah: Urin-PCR-Ergebnisse in der Regel 1–3 Tage, Bluttests für HIV/Syphilis meist 1–5 Tage. Ich rufe Sie sofort an, wenn etwas Dringendes gefunden wird.
+Karsten: Und wenn alles negativ ist?
+Hannah: Dann besprechen wir weitere Ursachen und Verhaltensmaßnahmen; Sie sollten bis zur Klärung auf sexuelle Kontakte verzichten oder Kondome konsequent benutzen.
+Karsten: Verstanden. Ich möchte, dass das alles diskret bleibt.
+Hannah: Diskretion ist für uns selbstverständlich. Ich vermerke auch Ihre Impfungen gegen Hepatitis A und B sowie HPV.
+Karsten: Danke. Ich fühle mich immer noch etwas unwohl bei den Fragen, aber ich weiß, es muss sein.
+Hannah: Das ist normal, Herr Müller. Sie haben richtig gehandelt, indem Sie gekommen sind. Wir kümmern uns jetzt professionell um die Abklärung.

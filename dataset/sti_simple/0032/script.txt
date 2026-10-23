@@ -1,0 +1,49 @@
+Klein: (vorsichtig) Guten Morgen, Herr... ähm, Karsten, ich bin Klein, ich mache heute die offene Sprechstunde, wie kann ich Ihnen helfen?
+Karsten: (genervt) Guten Morgen. Ich habe seit ein paar Tagen Probleme untenrum, deswegen bin ich hier.
+Klein: (verlegen) Unter... untenrum, ja, können Sie das ein bisschen genauer beschreiben, also was genau stört Sie — Ausfluss, Schmerzen, so etwas in der Art?
+Karsten: Ja, genau, Ausfluss und beim Wasserlassen brennt es ziemlich.
+Klein: (leise) Okay, also Ausfluss und Brennen beim... beim Pipimachen — äh, beim Wasserlassen, verstanden. Seit wann haben Sie das?
+Karsten: Seit dem 20. Mai 2024 ungefähr, das kam erst ein paar Tage nach einem Treffen.
+Klein: (schielt kurz Richtung Wartezimmer) Verstehe. Waren Sie denn sexuell aktiv in letzter Zeit, also haben Sie mehrere Partner oder in einer festen Beziehung?
+Karsten: Ich bin bisexuell und in einer offenen Beziehung, also nicht nur ein Partner.
+Klein: (räuspert sich) Offen, ja. Können Sie sagen, mit welchen Geschlechtern Sie in den letzten zwölf Monaten Kontakt hatten?
+Karsten: Sowohl Männer als auch Frauen.
+Klein: (stotternd) Und ungefähr wie viele Partner waren das in den letzten zwölf Monaten?
+Karsten: Vier verschiedene Personen.
+Klein: (vorsichtig) Und der letzte sexuelle Kontakt war... wann genau?
+Karsten: Am 15. Mai 2024.
+Klein: (schnell) Also fünf Tage vor dem Beginn der Beschwerden, danke. Waren die Partner auf dem Laufenden, also wusste einer, dass er eventuell... äh, Risiken hat?
+Karsten: Ich weiß es nicht, das war nicht angesprochen — der Status war unbekannt.
+Klein: (leise) Also unbekannter Status, verstanden. Benutzen Sie Schutz, also Kondome, oder eher andere Methoden?
+Karsten: Ich benutze Kondome, aber nur gelegentlich, nicht immer.
+Klein: (etwas sicherer) Gelegentlich, okay. Haben Sie Impfungen gegen Hepatitis B oder HPV erhalten?
+Karsten: Ja, Hepatitis B und auch HPV wurden gemacht.
+Klein: Gut, das ist wichtig. Haben Sie in der Vergangenheit jemals eine HIV-, Syphilis- oder andere STI-Diagnose gehabt?
+Karsten: Nein, nie. Keine Gonorrhö, keine Chlamydien, kein Herpes, nichts von alledem.
+Klein: (notiert) Alles bisher negativ, verstanden. Wann waren Sie zuletzt generell untersucht oder auf HIV getestet?
+Karsten: Letzter Check-up und HIV-Test waren am 10. November 2023.
+Klein: (nickt) Perfekt, danke. Haben Sie noch Fieber, Schmerzen in der Leiste oder Blutungen bemerkt?
+Karsten: Kein Fieber, aber manchmal leichte Schmerzen seitlich, keine Blutungen.
+Klein: (zögernd) Gut, dann würde ich vorschlagen — also, wenn's okay ist — dass wir eine Urinprobe nehmen und einen Abstrich machen, und ein Blutbild, äh, Bluttest für HIV und andere Dinge.
+Karsten: (abwehrend) Warum denn so viele Tests? Ich habe nur Ausfluss und es brennt.
+Klein: (schnell, beruhigend) Ja, das verstehe ich, aber solche Proben helfen schnell zu klären, was das genau ist, damit Sie nicht länger leiden — und hier in der Praxis können wir das zügig machen.
+Karsten: (misstrauisch) Und ist das alles vertraulich? Ich will nicht, dass das hier jeder mitkriegt.
+Klein: (leise, bestimmt) Selbstverständlich vertraulich, Ihre Daten bleiben in der Praxis, und ich kann Sie, wenn Sie möchten, kurz in ein Seitengespräch holen oder die Ergebnisse per Anruf mitteilen.
+Karsten: Gut, dann machen Sie nur die Tests, aber ich will keine Kommentare von der Arzthelferin im Wartezimmer.
+Klein: (beruhigend) Klar, ich sprich das mit dem Team ab, wir gehen diskret vor. Haben Sie Allergien oder nehmen Sie regelmäßig Medikamente?
+Karsten: Keine Allergien, nehme sonst nichts regelmäßig.
+Klein: (notiert) Prima. Gab es in Ihrer Familie oder bei Ihnen Hepatitis A, B oder C oder ähnliche Erkrankungen?
+Karsten: Nein, soweit ich weiß, da gab es nichts.
+Klein: (leise) Gut. Bekamen Sie in letzter Zeit Ausschläge oder Warzen im Genitalbereich?
+Karsten: Nein, keine Warzen, nichts davon.
+Klein: (vorsichtig) Okay. Ich mache jetzt die Proben, das dauert nur kurz; falls wir etwas finden, besprechen wir die Behandlung direkt, das kann Antibiotika oder eine andere Therapie sein.
+Karsten: (sarkastisch) Toll, Antibiotika, das hört sich ja super an — aber wenn's nichts ist?
+Klein: (ehrlich) Wenn es nichts Bakterielles ist, schauen wir weiter — manchmal ist es eine Reizung, manchmal eine Pilzgeschichte, und dann behandeln wir entsprechend.
+Karsten: (kurz) Und wie schnell habe ich Ergebnisse?
+Klein: Urin und Abstrich können oft innerhalb ein bis zwei Tagen ausgewertet werden, Bluttests dauern gewöhnlich ein paar Tage, wir rufen Sie an oder geben Bescheid per Praxisportal.
+Karsten: In Ordnung. Ich will auch wissen, ob ich meine Partner informieren muss.
+Klein: Wenn ein STI nachgewiesen wird, erklären wir genau, wen Sie informieren sollten, und wir können auch Partner-Tests organisieren.
+Karsten: (resigniert) Okay, machen Sie die Tests dann.
+Klein: (erleichtert) Danke, Herr Karsten, dann bitte kurz zur Anmeldung für die Proben, ich melde mich, sobald die Ergebnisse da sind.
+Karsten: (knapp) Machen Sie das. Und bitte nichts laut in der Sprechstunde.
+Klein: (lächelnd) Versprochen, wir bleiben diskret.

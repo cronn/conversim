@@ -1,0 +1,59 @@
+Menter: Nennen Sie Ihr Anliegen.
+Thomas: (nervös) Ich habe Ausfluss und Brennen beim Wasserlassen.
+Menter: Seit wann bestehen die Beschwerden?
+Thomas: Seit dem 20.11.2023.
+Menter: Sexuelle Orientierung?
+Thomas: Bisexuell.
+Menter: Beziehungsmodell?
+Thomas: Offene Ehe. Verheiratet, aber wir haben außerhalb Sex.
+Menter: Wie viele Sexualpartner in den letzten 12 Monaten?
+Thomas: Vier.
+Menter: Geschlecht der Partner?
+Thomas: Männer und Frauen.
+Menter: Wann war der letzte sexuelle Kontakt?
+Thomas: Am 10.11.2023.
+Menter: Wurde Schutz verwendet?
+Thomas: Manchmal Kondome, eher gelegentlich. Beim letzten Mal nicht.
+Menter: War der STI-Status der Partner bekannt?
+Thomas: Nein, unbekannt.
+Menter: Gab es frühere STI-Erkrankungen bei Ihnen?
+Thomas: Nein. Nie HIV, Syphilis, Chlamydien, Gonorrhoe, Hepatitis, Herpes oder HPV-Warzen.
+Menter: Wann hatten Sie zuletzt allgemeine Untersuchungen oder Tests?
+Thomas: Am 15.03.2023 hatte ich einen Check, HIV-Test, Syphilis-Test und Chlamydien/Gonokokken — alles in Ordnung.
+Menter: Beschreiben Sie den Ausfluss bitte genauer: Farbe, Konsistenz.
+Thomas: Eher gelblich, zäh, nicht wässrig.
+Menter: Schmerzen beim Wasserlassen?
+Thomas: Ja, brennend.
+Menter: Fieber oder Schmerzen im Unterbauch beziehungsweise Hoden?
+Thomas: Kein Fieber, keine starken Schmerzen.
+Menter: Medikamente, Allergien, Rauchen?
+Thomas: Keine Dauermedikation, keine Allergien, ich rauche selten.
+Thomas: (ängstlich) Wird das hier vertraulich bleiben? Meine Frau darf das nicht erfahren.
+Menter: Ärztliche Schweigepflicht gilt. Ohne Ihre Einwilligung informiere ich niemanden, außer es besteht akute Gefahr oder eine gesetzliche Meldepflicht.
+Thomas: Und die Krankenkasse? Wird die informiert?
+Menter: Für die Abrechnung werden Leistungsdaten und Diagnosen kodiert an die Krankenkasse übermittelt; persönliche Details der Anamnese teilen wir nicht ohne Ihre Zustimmung.
+Thomas: (misstrauisch) Bedeutet das, meine Frau könnte Briefe bekommen oder die Arbeit Bescheid wissen?
+Menter: In der Regel erfolgt keine Mitteilung an Angehörige oder Arbeitgeber durch uns ohne Ihre ausdrückliche Freigabe.
+Menter: Ich empfehle Tests: Urinuntersuchung, Urethralabstrich für PCR auf Chlamydien und Gonokokken, sowie Blutentnahmen für HIV, Syphilis und Hepatitis A/B/C.
+Thomas: Wie lange dauert das mit den Ergebnissen?
+Menter: Schnelltests für HIV liefern vorläufige Ergebnisse in ca. 30 Minuten; PCR und Serologien benötigen in der Regel 2–7 Tage.
+Menter: Sind Sie mit den vorgeschlagenen Tests einverstanden?
+Thomas: Ja, machen Sie die Tests. Aber bitte diskret.
+Menter: Einverstanden. Möchten Sie, dass wir sofort eine empirische Behandlung beginnen?
+Thomas: Was würde das konkret bedeuten?
+Menter: Eine medikamentöse Behandlung gegen wahrscheinliche bakterielle Erreger vor Vorliegen der Testergebnisse; reduziert Symptome und Ansteckungszeit.
+Thomas: (zögernd) Wenn das nötig ist und niemand davon erfährt, ja.
+Menter: Notiert. Werden Sie gegen Hepatitis A, B und HPV geimpft?
+Thomas: Ja, Hepatitis A und B und HPV habe ich bekommen.
+Menter: Gab es Genitalbläschen oder ähnliche Läsionen?
+Thomas: Nein, nichts dergleichen.
+Menter: Hatten Sie Kontakt zu Personen mit bekannten Symptomen oder bestätigter STI?
+Thomas: Nicht sicher, Status der Partner war unbekannt.
+Menter: Wir dokumentieren alles im Patientenbefund. Möchten Sie Unterstützung bei der anonymen Partnerinformation, falls ein positives Ergebnis vorliegt?
+Thomas: Ja, das wäre gut. Ich will nicht, dass meine Frau davon erfährt.
+Menter: Wir können Sie beim anonymen Kontaktieren der Partner unterstützen und informieren, welche Schritte erforderlich sind. Ohne Ihre Zustimmung informieren wir keine Dritten.
+Thomas: Noch einmal: Ruft hier wirklich niemand meine Frau an?
+Menter: Niemand ruft Ihre Frau an. Sollten meldepflichtige Erkrankungen vorliegen, erkläre ich Ihnen, was gemeldet werden muss und welche Daten weitergegeben werden.
+Thomas: In Ordnung. Was passiert jetzt?
+Menter: Abstrich, Urin und Blut werden entnommen. Sie bekommen vorläufige Behandlung und eine Terminvereinbarung für die Befundbesprechung in wenigen Tagen. Haben Sie noch Fragen?
+Thomas: Nein. Bitte schnell und diskret.

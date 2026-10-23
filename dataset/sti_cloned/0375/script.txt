@@ -1,0 +1,28 @@
+Schneider: Guten Tag, ich bin Dr. Schneider. Alles, was wir hier besprechen, bleibt vertraulich — worum geht's heute bei Ihnen?
+Charlie: Hi, danke. Ich bin hier zur Routineuntersuchung, kein Notfall, aber ich hab seit ein bisschen Ausfluss und Jucken untenrum.
+Schneider: Seit wann genau haben Sie das bemerkt?
+Charlie: Seit ungefähr dem 20. Juni 2024, so ist es langsam aufgefallen.
+Schneider: Verstehe. Darf ich kurz ein paar Dinge zu Ihrer Person notieren? Geburtsdatum?
+Charlie: Klar, ich bin am 15. Mai 1984 geboren.
+Schneider: Danke. Wie würden Sie Ihr Geschlecht angeben, und wie waren Sie bei der Geburt eingeordnet?
+Charlie: Ich bin weiblich, bei der Geburt auch weiblich, ich lebe als Frau.
+Charlie: Und zur Anatomie: ich habe eine Vagina, einen Gebärmutterhals und natürlich ein Rektum.
+Schneider: Alles klar. Erzählen Sie kurz zu Ihrem Sexualleben in den letzten Monaten — wie viele Partner, welche Praxen?
+Charlie: In den letzten drei Monaten nur einen Partner. Wir hatten Vaginalverkehr und oral, also ich habe auch oral rezipiert.
+Schneider: Wann war denn der letzte sexuelle Kontakt ungefähr?
+Charlie: Das war am 10. Juni 2024.
+Schneider: Und wie handhaben Sie Schutz — Kondome beim Vaginalverkehr?
+Charlie: Ja, meistens benutzen wir Kondome beim Vaginalverkehr, nicht immer 100%, aber überwiegend.
+Charlie: Mein Partner hat übrigens einen negativen HIV-Test, das weiß ich sicher.
+Schneider: Gut zu wissen. Noch zur Vorgeschichte: hatten Sie früher schon STI-Diagnosen?
+Charlie: Ja, ich hatte mal Chlamydien, das war im August 2019, wurde behandelt.
+Schneider: Danke für die Offenheit. Zum Lebensstil noch kurz: Alkohol, Drogen?
+Charlie: Gelegentlich trinke ich abends was, sonst keine Freizeitdrogen, keine Injektionen.
+Schneider: Alles klar. Ich erkläre kurz die Risiken und Prävention: Ihre Symptome können von harmlosen bis zu sexuell übertragbaren Infektionen kommen. Kondome reduzieren das Risiko deutlich — weiter so, und ich rate zu Impfungen: wissen Sie, ob Ihre Hepatitis-B-Immunisierung komplett ist?
+Charlie: Ja, meine Hepatitis-B-Impfung ist komplett. HPV-Impfung habe ich nicht bekommen.
+Schneider: Danke. Ich würde heute Tests empfehlen: HIV, Syphilis, Chlamydien und Gonorrhöe. Wir nehmen Blut, einen Urin-Test und einen vaginalen Abstrich.
+Charlie: Okay, das klingt gut.
+Schneider: Die Ergebnisse schicken wir Ihnen per Telefonanruf, in der Regel innerhalb einer Woche, also etwa sieben Tage.
+Charlie: Perfekt. Danke — und zum Jucken/ Ausfluss, kriegen wir das hoffentlich schnell in den Griff?
+Schneider: Ja, wir schauen uns das an, behandeln je nach Befund gezielt und besprechen bei Bedarf weitere Schritte. Noch Fragen von Ihrer Seite?
+Charlie: Nein, alles klar. Danke für die schnelle und entspannte Abklärung.

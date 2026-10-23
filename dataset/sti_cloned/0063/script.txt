@@ -1,0 +1,55 @@
+Schneider: Guten Morgen, ich bin Dr. Schneider. Dieses Gespräch ist vertraulich, Sie können offen erzählen — ich verurteile nichts. Worum geht es heute bei Ihnen?
+Alex: Morgen. Ich wollte mich zur PrEP beraten lassen und habe außerdem seit ein paar Tagen Probleme am After.
+Schneider: Danke. Kurz zur Person, wie sollen wir Sie ansprechen, und dürfen wir ein paar Angaben für die Karte aufnehmen?
+Alex: Alex ist gut. Geburtsdatum 15. Mai 1990 — ich bin also 35.
+Schneider: Alles klar. Und wie würden Sie sich geschlechtlich einordnen?
+Alex: Ich bin transgender, lebe als Mann. Bei der Geburt war ich als männlich vermerkt, im System stehe ich auch als männlich.
+Schneider: Verstanden. Nehmen Sie geschlechtsangleichende Hormone oder hatten Sie Operationen?
+Alex: Nein, ich nehme keine Hormontherapie und hatte bisher keine geschlechtsangleichenden Operationen.
+Schneider: Danke. Haben Sie anatomisch Entscheidendes, das für Untersuchungen wichtig ist?
+Alex: Ja, ich habe Penis und Hoden, und klar, den Rectum-Bereich natürlich.
+Schneider: Gut, dann zur aktuellen Beschwerde — Sie sagten Probleme am After. Wie lange haben Sie das schon?
+Alex: Seit ungefähr dem 25. April habe ich Juckreiz und manchmal Brennen, vor allem beim Stuhlgang.
+Schneider: Schmerzen oder blutige Abgänge dazu?
+Alex: Schmerzen/Brennen ja, etwas gereizt, Blut nicht wirklich.
+Schneider: Okay. Wann war Ihr letzter sexueller Kontakt?
+Alex: Mein letzter Sexualkontakt war am 10. April 2024.
+Schneider: Und wie viele Partner hatten Sie in den letzten drei Monaten?
+Alex: Zwei verschiedene Partner in den letzten drei Monaten.
+Schneider: Welche Praktiken waren das, wenn das für Sie okay ist?
+Alex: Ich hatte rektalen Sex als rezeptiver Partner, beim Oralsex war ich sowohl Empfänger als auch manchmal aktiv — also oral-rezeptiv und auch insertiv.
+Schneider: Wie ist das mit Kondomen — wie oft nutzen Sie sie bei Anal- und Oralsex?
+Alex: Beim Analverkehr benutze ich meistens Kondome. Beim Oralsex nur manchmal.
+Schneider: Gut, das hilft. Verdächtigen Sie, in letzter Zeit ein hohes HIV-Risiko gehabt zu haben?
+Alex: Nein, ich vermute keine relevante HIV-Exposition in letzter Zeit.
+Schneider: Perfekt. Haben Sie in der Vergangenheit schon mal eine STI gehabt?
+Alex: Ja, 2022 wurde bei mir Chlamydien diagnostiziert — das war ungefähr am 1. März 2022.
+Schneider: Danke für die Offenheit. Wie ist Ihr Impfstatus, speziell Hepatitis B und HPV?
+Alex: Gegen HPV bin ich nicht geimpft. Bei Hepatitis B habe ich begonnen, aber die Impfung ist nicht komplett.
+Schneider: In Ordnung, das können wir ansprechen. Nehmen Sie derzeit PrEP?
+Alex: Nein, ich nehme keine PrEP aktuell. Deswegen bin ich ja hier — ich möchte wissen, ob das für mich sinnvoll ist.
+Schneider: Das ist ein guter Schritt. Kurz zur Substanzanamnese: trinken Sie Alkohol, verwenden Sie Freizeit- oder Injektionsdrogen?
+Alex: Ich trinke gelegentlich Alkohol, aber keine Freizeitdrogen und nie Spritzen.
+Schneider: Danke. Zu Ihrem Afterbeschwerde: wir werden das anschauen und auch gezielt auf mögliche STIs testen. Ich würde Tests auf HIV, Syphilis, Chlamydien und Gonorrhö empfehlen.
+Alex: Welche Proben brauchen Sie dafür?
+Schneider: Wir nehmen Blut für HIV und Syphilis, eine Urinprobe, einen Rektalabstrich und einen Rachenabstrich für Chlamydien und Gonorrhö.
+Alex: Klingt sinnvoll. Wie lange dauern die Ergebnisse, und wie bekomme ich die?
+Schneider: Wir rufen Sie per Telefon an; in der Regel sind die Ergebnisse innerhalb von sieben Tagen da.
+Alex: Gut. Und zur PrEP: wie schnell könnte ich anfangen, und gibt es Tests vorher?
+Schneider: Vor Beginn machen wir einen HIV-Test und Baseline-Blutwerte für Nierenfunktion. Wenn alles passt und kein akutes HIV-Symptom vorliegt, können Sie meist direkt starten — entweder täglich oder, je nach Ihrem Sexleben, auch on-demand, das besprechen wir individuell.
+Alex: Ich hatte kein akutes Risiko, also wäre beides möglich. Gibt es viele Nebenwirkungen?
+Schneider: Meist sind Nebenwirkungen mild — kurzzeitig Übelkeit oder Kopfschmerzen möglich, selten eine Beeinträchtigung der Nierenfunktion, deswegen kontrollieren wir das in den Folgeterminen.
+Alex: Und wie oft müssten Kontrolltermine sein?
+Schneider: Anfangs nach vier Wochen, dann alle drei Monate für HIV-Tests, Urin/Abstriche und Kontrolle der Nierenwerte. Bei Bedarf häufiger.
+Alex: Super. Wegen meiner aktuellen Beschwerden — kann das was mit einer STI zu tun haben?
+Schneider: Ja, rektale Juckreiz und Brennen können von verschiedenen Infektionen kommen, aber auch von Hämorrhoiden oder Irritation. Wir untersuchen das jetzt und testen gezielt.
+Alex: Okay. Sollte ich bis zu den Ergebnissen irgendwas vermeiden?
+Schneider: Vermeiden Sie bitte anale Kontakte ohne Kondom, bis wir die Ergebnisse haben und eventuelle Therapie begonnen wurde. Bei Geschlechtsverkehr empfehlen wir Kondomen — ich berate Sie dazu gleich noch konkreter.
+Alex: Das mache ich. Noch eine Frage: wenn ich PrEP nehme, brauche ich dann trotzdem Kondome?
+Schneider: PrEP schützt sehr gut vor HIV, aber nicht vor anderen STIs. Kondome reduzieren das Risiko für andere Infektionen und sind sinnvoll, vor allem bei wechselnden Partnern.
+Alex: Verstanden. Können Sie mir kurz sagen, wie ich die Hepatitis-B-Impfung komplett bekomme?
+Schneider: Ja, wir können den Impfplan vervollständigen — wir schauen, welche Dosen noch fehlen, und führen die fehlenden Termine durch.
+Alex: Super, danke.
+Schneider: Dann mache ich jetzt die Untersuchung und nehme die Proben. Wir besprechen danach nochmal PrEP-Optionen konkret und ich rufe Sie mit den Ergebnissen innerhalb einer Woche an.
+Alex: Danke, das klingt gut. Ich würde gern mit der täglichen PrEP starten, wenn alles in Ordnung ist.
+Schneider: Sehr gut, wir klären das durch die Basistests und besprechen dann den Startzeitpunkt. Wenn zwischendurch Fragen auftauchen, rufen Sie an.

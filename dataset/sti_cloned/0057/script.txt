@@ -1,0 +1,29 @@
+Schneider: Guten Morgen, ich bin Dr. Schneider. Was führt Sie heute zu uns?
+Charlie: Hallo, mein Partner hat mir gesagt, er könnte eine Infektion haben, deshalb wollte ich das hier checken lassen.
+Schneider: Verstehe. Darf ich kurz Ihre Daten aufnehmen?
+Charlie: Klar — ich bin weiblich, Geburtsdatum 15.05.1990. Ich habe eine Vagina.
+Schneider: Danke. Wann hatten Sie zuletzt sexuellen Kontakt?
+Charlie: Das war ungefähr am 10. Mai 2024, mit demselben Partner. In den letzten drei Monaten hatte ich nur den einen.
+Schneider: Welche Art von Sex hatten Sie?
+Charlie: Vaginalsex, ja. Kondome benutzen wir nur manchmal, nicht immer.
+Schneider: Haben Sie aktuell Beschwerden?
+Charlie: Ja, seit ungefähr dem 25. Mai 2024 habe ich vermehrten Ausfluss aus der Vagina, das ist das Hauptproblem.
+Schneider: Können Sie schwanger sein, oder sind Sie es aktuell?
+Charlie: Ich könnte schwanger werden, bin aber nicht schwanger im Moment.
+Schneider: Gab es in der Vergangenheit schon einmal eine STI bei Ihnen?
+Charlie: Ja, ich hatte früher Chlamydien, weiß aber nicht mehr genau, wann das war.
+Schneider: Machen Sie sich Sorgen um eine HIV-Exposition?
+Charlie: Ehrlich gesagt nicht — ich vermute keine relevante HIV-Exposition, deshalb mache ich mir da keine großen Gedanken.
+Schneider: Gut. Ich würde vorschlagen, wir testen Sie auf HIV, Chlamydien und Gonorrhö — das ist in Ihrem Fall sinnvoll.
+Charlie: Welche Proben braucht ihr dafür?
+Schneider: Wir nehmen Blut für den HIV-Test und einen Vaginalabstrich für Chlamydien und Gonorrhö.
+Charlie: Kann man schon vorher behandeln, oder wartet man auf Ergebnisse?
+Schneider: Bei ausgeprägten Beschwerden kann man manchmal empirisch behandeln, aber meistens warten wir auf den Abstrich und passen die Therapie dann an. Wenn nötig, sprechen wir das sofort durch.
+Charlie: Wie erfahre ich die Ergebnisse?
+Schneider: Wir rufen Sie an, sobald die Befunde da sind.
+Charlie: Okay. Gibt es noch etwas, das ich jetzt beachten sollte?
+Schneider: Ja — ich würde Ihnen empfehlen, Kondome konsequenter zu verwenden, solange die Abklärung läuft, und bei neuen oder schlimmeren Symptomen sofort wiederzukommen. Wir besprechen das kurz jetzt, damit Sie das handhaben können.
+Charlie: Muss ich meinen Partner informieren, falls etwas positiv ist?
+Schneider: Ja, im Fall einer bestätigten Infektion sollten Partner informiert werden, wir können Ihnen auch Hinweise geben, wie Sie das am besten machen.
+Charlie: Klingt gut, danke. Ich bin bereit für die Blutentnahme und den Abstrich.
+Schneider: Prima, dann erledigen wir das jetzt. Ich melde mich telefonisch mit den Ergebnissen.

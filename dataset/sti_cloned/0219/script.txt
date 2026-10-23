@@ -1,0 +1,35 @@
+Schneider: Guten Morgen, ich bin Dr. Schneider aus der Spezialambulanz. Wir sitzen hier vertraulich, alles, was Sie sagen, bleibt selbstverständlich bei uns. Was führt Sie heute zu uns?
+Charlie: Grüß Sie. Ich bin eher nervös – bin nur zur Routineuntersuchung, hab keine Beschwerden, aber wollt' das mal abklären lassen.
+Schneider: Das ist völlig in Ordnung, da machen wir uns keinen Stress. Dürfte ich kurz Ihr Geburtsdatum haben, damit ich das in die Akte schreibe?
+Charlie: Ja, sicher — ich bin am 15. Mai 1990 geboren.
+Schneider: Danke. Und wie bezeichnen Sie sich administrativ? Ich sehe hier schon, dass Sie als weiblich eingetragen sind — trifft das zu?
+Charlie: Jo, ich bin weiblich.
+Schneider: Gut. Haben Sie bestimmte anatomische Besonderheiten, die für die Untersuchung wichtig wären? Zum Beispiel operative Veränderungen?
+Charlie: Nein, nichts dergleichen. Ich hab eine Vagina, also ist auch vaginaler Sex möglich.
+Schneider: Alles klar. Sie sagten, es ist eine Routineuntersuchung — wann hatten Sie denn zuletzt Sex, ungefähr?
+Charlie: Eh, das war ungefähr am 10. November 2023, also so um den 10.11.2023 herum.
+Schneider: Und in den letzten drei Monaten — wie viele Partner hatten Sie da?
+Charlie: Nur einen Partner in den letzten drei Monaten.
+Schneider: Welche Art von Sexualpraktiken hatten Sie mit diesem Partner in diesem Zeitraum?
+Charlie: Hauptsächlich vaginaler Sex, sonst nix Besonderes.
+Schneider: Wie war das mit Schutz — haben Sie Kondome verwendet?
+Charlie: Manchmal schon, nicht immer. Also, ab und zu ein Kondom, aber nicht konsequent.
+Schneider: Alles klar, das ist wichtig zu wissen. Hatten Sie jemals früher eine sexuell übertragbare Infektion, oder wurde Ihnen jemals eine STI diagnostiziert?
+Charlie: Nein, ich hatte bisher keine STI-Diagnose, soweit ich weiß.
+Schneider: Gut. Gab es in letzter Zeit einen konkreten Anlass, wegen dem Sie sich Sorgen gemacht haben, zum Beispiel akute Symptome oder ein mögliches Risiko?
+Charlie: Nein, keine Symptome und auch kein konkreter Vorfall. Ich glaub nicht, dass da was Akutes war.
+Schneider: Das ist beruhigend. Und haben Sie in Bezug auf HIV in letzter Zeit eine mögliche Exposition vermutet — also etwas, das Sie als Risiko einschätzen würden?
+Charlie: Nein, da vermut' ich nichts, keine besondere Exposition.
+Schneider: Okay. Wie sieht es allgemein aus mit Alkohol — trinken Sie eher oft oder nur gelegentlich?
+Charlie: Nur gelegentlich, also a bisserl was, aber nicht regelmäßig.
+Schneider: Danke. Wegen der Untersuchung: Ich würde Ihnen Tests auf HIV, Syphilis und Chlamydien empfehlen. Dazu nehmen wir Blut, einen Urintest und einen vaginalen Abstrich — ist das für Sie in Ordnung?
+Charlie: Ja, alles klar, das passt.
+Schneider: Falls Sie Fragen zu den Tests haben: HIV und Syphilis brauchen Blut, Chlamydien prüfen wir häufig am Urin und mit dem vaginalen Abstrich, damit wir nichts übersehen.
+Charlie: Gut, so erklärts mir am liebsten — einfach und direkt, danke.
+Schneider: Ebenfalls wichtig: weil eine Schwangerschaft möglich ist, überlegen wir das kurz mit. Wollen Sie, dass wir das bei der Untersuchung berücksichtigen oder das nochmal separat besprechen?
+Charlie: Ja, bitte berücksichtigen. Ich könnte schwanger werden, das wär wichtig zu wissen im Zusammenhang mit allem.
+Schneider: Machen wir. Noch etwas zur Vorbeugung: Ich bespreche kurz die Kondomnutzung — weil Sie sagten, Sie verwenden sie nur manchmal, würde ich Ihnen empfehlen, bei neuen oder unbekannten Partnern konsequenter zu schützen. Haben Sie dazu Fragen?
+Charlie: Nein, das leuchtet ein. Ich werd' da aufmerksamer sein.
+Schneider: Gut. Zum Abschluss: Wir rufen Sie mit den Ergebnissen an — telefonisch — und in der Regel haben wir die Resultate innerhalb einer Woche, also in etwa sieben Tagen. Klingt das gut?
+Charlie: Ja, perfekt. Danke, das beruhigt mich schon.
+Schneider: Gerne. Dann mache ich die Proben gleich, und wenn unterwegs noch Fragen auftauchen, sagen Sie einfach Bescheid.

@@ -1,0 +1,33 @@
+Schneider: Guten Morgen, ich bin Dr. Schneider. Schön, dass Sie da sind — wir machen heute die Routineuntersuchung zur STI-/HIV-Abklärung. Kurz Small Talk: wie geht’s Ihnen?
+Mika: Morgen, also mir geht’s ganz gut, danke. Ein bissl nervös bin ich schon, aber sonst passt’s.
+Schneider: Das ist normal. Alles, was Sie hier sagen, bleibt vertraulich. Wollen Sie kurz sagen, wie Sie angesprochen werden und Ihr Alter?
+Mika: Ja, ich bin Mika, Frau, und ich wurde am 15. Mai 2000 geboren.
+Schneider: Danke. Sie identifizieren sich als Frau — notiert. Gibt es anatomische Besonderheiten, die wir berücksichtigen sollten?
+Mika: Nein, alles Standard bei mir: ich hab eine Vagina, einen Gebärmutterhals — also die Zervix — und den Rektum.
+Schneider: Perfekt. Sie können schwanger werden — ist das korrekt, und sind Sie aktuell schwanger?
+Mika: Ja, schwanger werden kann ich grundsätzlich, aber momentan bin ich nicht schwanger.
+Schneider: Gut. Erzählen Sie mir bitte kurz zu Ihrem Sexualverhalten: Wann war Ihr letzter sexueller Kontakt ungefähr?
+Mika: Mein letzter sexueller Kontakt war im Mai 2024, also im Mai letzten Jahres.
+Schneider: Und wie viele verschiedene Partnerinnen oder Partner hatten Sie in den letzten drei Monaten?
+Mika: In den letzten drei Monaten waren es zwei verschiedene Partner.
+Schneider: Welche Praktiken gab es bei diesen Kontakten — vaginal, anal, oral?
+Mika: Vor allem vaginaler Sex, und ich war auch die empfangende Person beim Oralsex.
+Schneider: Wie handhaben Sie Schutz — verwenden Sie Kondome?
+Mika: Bei vaginalem Sex verwende ich manchmal Kondome, nicht immer.
+Schneider: Danke. Gab es in letzter Zeit Verdacht auf eine konkrete STI-Exposition oder akute Beschwerden?
+Mika: Nein, ich habe keine akuten Symptome bemerkt und denke auch nicht, dass ein konkretes HIV-Risiko vorlag.
+Schneider: Verstanden. Noch kurz zum Lebensstil: Alkohol oder andere Substanzen?
+Mika: Ich trink ab und zu ein Glas Wein, also eher gelegentlich. Sonstige Drogen benutze ich nicht.
+Schneider: Danke, das hilft. Wie ist Ihr Impfstatus? Hepatitis B, HPV?
+Mika: Gegen Hepatitis B bin ich vollständig geimpft. HPV-Impfung habe ich nicht bekommen.
+Schneider: In Ordnung. Ich werde Ihnen Tests anbieten: HIV, Syphilis, Chlamydien und Gonokokken. Damit decken wir die relevanten Dinge ab.
+Mika: Klingt gut — was wird genau entnommen?
+Schneider: Wir nehmen Blut für HIV und Syphilis, Urin für Chlamydien und Gonokokken, zusätzlich einen vaginalen Abstrich und einen Rachenabstrich für Gonokokken/Chlamydien im Rachen.
+Mika: Alles klar, das ist nachvollziehbar.
+Schneider: Wir haben auch über Präexpositionsprophylaxe gesprochen — ich habe Ihnen PrEP angeboten und kurz erklärt; wenn Sie Interesse haben, können wir das weiter besprechen.
+Mika: Danke, das mit PrEP hab ich verstanden. Im Moment unsicher, aber ich merk’s mir.
+Schneider: Gut. Ich habe Ihnen außerdem Beratung zu Kondomen gegeben, gerade weil Sie sie nur manchmal nutzen — das ist wichtig zur Prävention.
+Mika: Ja, das Gespräch war hilfreich, danke.
+Schneider: Die Ergebnisse bekommen Sie über unser Patientenportal; rechnen Sie bitte mit etwa sieben Tagen, bis alles eingetragen ist.
+Mika: Super, das passt. Noch irgendwas, das ich vorher wissen sollte?
+Schneider: Nein, das wäre alles fürs Erste. Wenn Sie Fragen haben oder sich etwas verändert, melden Sie sich gern — und dann machen wir jetzt die Probenentnahme.

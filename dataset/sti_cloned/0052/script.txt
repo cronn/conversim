@@ -1,0 +1,52 @@
+Weber: Guten Morgen, ich bin Dr. Weber, alles vertraulich hier in der STI-Ambulanz. Worum geht’s heute?
+Sascha: Guten Morgen. Ich bin zum ersten Mal wegen einer möglichen STI hier, ich hab seit letztem Herbst Probleme.
+Weber: Wann genau haben die Beschwerden angefangen?
+Sascha: Ungefähr am 1. Oktober 2023.
+Weber: Was merken Sie genau?
+Sascha: Hauptsächlich Ausfluss aus der Vagina und Juckreiz, und manchmal irritierte Haut außen.
+Weber: Sind Sie gerade schwanger oder könnte eine Schwangerschaft möglich sein?
+Sascha: Schwanger bin ich nicht, aber eine Schwangerschaft wäre grundsätzlich möglich.
+Weber: Darf ich kurz ein paar Angaben zu Ihrer Person aufnehmen?
+Sascha: Klar.
+Weber: Ihr Geburtsdatum?
+Sascha: 15. Mai 1994.
+Weber: Wie ist das auf Ihren amtlichen Papieren und wie identifizieren Sie sich?
+Sascha: Auf dem Ausweis steht "divers". Geboren wurde ich als Frau, ich identifiziere mich als nicht-binär.
+Weber: Haben Sie geschlechtsangleichende Operationen gehabt?
+Sascha: Nein, keine Operationen.
+Weber: Nehmen Sie aktuell Hormontherapie?
+Sascha: Ja, ich bekomme aktuell Hormone.
+Weber: Und anatomisch — Vorhandensein von Vagina, Zervix, Uterus und Rektum?
+Sascha: Ja, Vagina, Cervix, Uterus und Rektum sind vorhanden.
+Weber: Wie ist Ihre sexuelle Orientierung und wie viele Partner hatten Sie in den letzten drei Monaten?
+Sascha: Ich bin heterosexuell und hatte in den letzten drei Monaten zwei Partner.
+Weber: Wann war der letzte sexuelle Kontakt ungefähr?
+Sascha: Am 20. April 2024.
+Weber: Welche Praktiken gab es dabei?
+Sascha: Vaginalverkehr, ich war rezeptiv beim Analverkehr und auch beim Oralen.
+Weber: Wie war das mit Kondomen?
+Sascha: Manchmal beim vaginalen Sex, manchmal beim analen. Beim Oralverkehr nie.
+Weber: Wissen Sie etwas über den HIV-Status Ihrer Partner oder aktuelle STIs bei ihnen?
+Sascha: Ein Partner ist HIV-negativ, sonst hat mir keiner von einer aktuellen STI berichtet.
+Weber: Hatten Sie früher schon STIs?
+Sascha: Ja, Chlamydien wurden bei mir am 15. Oktober 2023 festgestellt und behandelt.
+Weber: Sonstige Risikofaktoren wie Drogen oder Nadelgebrauch?
+Sascha: Keine Drogen, keine Injektionen. Alkohol trinke ich nur gelegentlich.
+Weber: Halten Sie den Kontakt am 20. April für eine mögliche HIV-Exposition?
+Sascha: Ja, das schätze ich so ein.
+Weber: War das innerhalb der letzten 72 Stunden, sodass PEP infrage gekommen wäre?
+Sascha: Nein, das war später, also keine PEP. Es war aber innerhalb der letzten sechs Wochen.
+Weber: Haben Sie akute Symptome wie Fieber, Nachtschweiß oder geschwollene Lymphknoten gehabt?
+Sascha: Nein, solche Symptome habe ich nicht.
+Weber: Ich würde jetzt Tests empfehlen: HIV, Syphilis, Chlamydien und Gonokokken.
+Sascha: Welche Proben braucht ihr dafür?
+Weber: Blut für HIV und Syphilis, außerdem Urin, einen Vaginalabstrich und einen Rektalabstrich.
+Sascha: Wie bekomme ich die Ergebnisse?
+Weber: Wir melden die Ergebnisse telefonisch, in der Regel in etwa sieben Tagen.
+Sascha: Wurde mit Ihnen auch PrEP oder Impfungen besprochen?
+Weber: Ja, PrEP habe ich mit Ihnen besprochen — Sie nehmen sie aktuell nicht. Zum Impfstatus: Sie sind gegen Hepatitis B geimpft?
+Sascha: Ja, Hepatitis B habe ich komplett. Hepatitis A nicht, und HPV bin ich nicht geimpft.
+Weber: Gut. Ich berate Sie noch kurz zum konsequenteren Kondomgebrauch, besonders beim Analverkehr.
+Sascha: Das wäre gut, ich weiß, ich sollte konsequenter sein.
+Weber: Dann mache ich jetzt die Abstriche und die Blutabnahme. Wenn etwas gefunden wird, besprechen wir Behandlung und Partnerinformation.
+Sascha: Danke, dann können wir anfangen.

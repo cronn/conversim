@@ -1,0 +1,53 @@
+Schneider: Guten Morgen, Herr Sascha. Ich bin Dr. Schneider. Bevor wir anfangen: alles, was Sie mir erzählen, bleibt vertraulich. Möchten Sie kurz erzählen, was Sie hergeführt hat?
+Sascha: Morgen. Ja, mein Partner hat mir gesagt, er könnte eine Infektion haben, und ich soll mich testen lassen.
+Schneider: Verstanden. Fühlen Sie sich wohl dabei, mir in Ihren Worten zu schildern, was passiert ist?
+Sascha: Ja. Also, das war schon im April letzten Jahres, am 5. April 2024 hatten wir zuletzt Sex.
+Schneider: Okay. Danke für das Datum. Haben Sie seitdem noch andere sexuelle Kontakte gehabt?
+Sascha: Ja, in den letzten drei Monaten waren es drei verschiedene Partner.
+Schneider: In Ordnung. Wie haben Sie sexuell praktiziert — zum Beispiel vaginal, oral, anal?
+Sascha: Ich hatte vaginalen Sex, ich war beim Analsex rezeptiv, und es gab auch oralen Sex, auch rezeptiv.
+Schneider: Danke. Wie war das mit Kondomen — wurde das benutzt?
+Sascha: Bei vaginalem Sex manchmal, beim Analverkehr auch manchmal. Oral nie.
+Schneider: Verstanden. Sind Sie bei der Geburt als männlich registriert und identifizieren Sie sich als Mann?
+Sascha: Ja, bei der Geburt männlich, ich bin ein Mann.
+Schneider: Und körperlich — möchten Sie sagen, ob Sie einen Penis und Hoden haben? Das ist für die Abstrich-Planung relevant.
+Sascha: Ja, ich habe Penis und Hoden. Und wie gesagt, beim Sex war ich receptive anal.
+Schneider: Danke. Nehmen Sie derzeit Hormone oder haben Sie geschlechtsangleichende Operationen gemacht?
+Sascha: Nein, keine Hormone, keine Operationen.
+Schneider: Gut. Haben Sie aktuell irgendwelche Beschwerden — Schmerzen, Ausfluss, Fieber, Hautveränderungen?
+Sascha: Nein, eigentlich nichts Auffälliges. Kein Fieber, keine Ausschläge.
+Schneider: Das ist hilfreich. Vorherige STI-Infektionen — ist Ihnen da etwas bekannt?
+Sascha: Ja, ich hatte mal Chlamydien, das war im August 2023.
+Schneider: Alles klar, Chlamydien im August 2023. Danke. Haben Sie in Bezug auf Impfungen Auffälligkeiten — Hepatitis A oder B, HPV?
+Sascha: Hepatitis A bin ich nicht geimpft. Hepatitis B habe ich angefangen, aber nicht vollständig. HPV habe ich auch nicht bekommen.
+Schneider: Verstanden — Hep A unvaccinated, Hep B unvollständig, HPV unvaccinated. Gut, wir können das später mit auffrischen. Wie sieht es mit HIV-Präexpositionsprophylaxe aus — nehmen Sie PrEP aktuell?
+Sascha: Nein, ich nehme keine PrEP. Ich glaube, darüber haben wir mal gesprochen, ja?
+Schneider: Ja, heute sprechen wir das gerne nochmal an. Wir können PrEP anbieten und darüber informieren. Zum Trink- und Drogenkonsum — wie oft trinken Sie Alkohol, und nehmen Sie gelegentlich Drogen?
+Sascha: Ich trinke regelmäßig, nicht exzessiv, aber regelmäßig. Gelegentlich nehme ich auch Freizeitdrogen, aber spritzen tue ich nie.
+Schneider: Danke, das hilft. Zur Einschätzung des HIV-Risikos: schätzen Sie die letzte mögliche Exposition als relevant ein?
+Sascha: Ehrlich gesagt denke ich nicht, dass es eine hochrelevante Exposition war.
+Schneider: Gut. Sie sagten, das Datum war der 5. April 2024 — das notiere ich als letzte mögliche Exposition. Wären die Symptome akut innerhalb der letzten Wochen aufgetreten?
+Sascha: Nein, ich habe keine akuten HIV-ähnlichen Symptome gehabt.
+Schneider: In Ordnung. Auf Grundlage dessen würde ich folgende Tests empfehlen: HIV, Syphilis, Chlamydien, Gonorrhö und Hepatitis B. Sind Sie damit einverstanden?
+Sascha: Ja, das klingt sinnvoll. Wie werden die Proben genommen?
+Schneider: Wir brauchen Blut für HIV, Syphilis und Hepatitis B, einen Urintest für Chlamydien/Gonorrhö und einen rektalen Abstrich, weil Sie receptive Analpraktiken hatten.
+Sascha: Okay, Blut, Urin und rektaler Abstrich — das ist gut zu wissen.
+Schneider: Perfekt. Wenn Sie möchten, erkläre ich kurz, warum: Rektale Abstriche erhöhen die Nachweiswahrscheinlichkeit bei analen Kontakten, und Bluttests sind Standard für HIV und Syphilis.
+Sascha: Ja, bitte. Und wie lange dauert es bis zu den Ergebnissen?
+Schneider: Wir geben die Ergebnisse telefonisch durch; in der Regel innerhalb von sieben Tagen.
+Sascha: Gut, am Telefon ist okay. Muss ich irgendwas beachten vor dem Abstrich?
+Schneider: Nicht viel — einfach entspannt sein. Beim rektalen Abstrich wäre es gut, kurz vorher nichts reinzugeben, damit die Probe sauber bleibt. Sonst brauchen wir nur eine Urinprobe und Blutabnahme.
+Sascha: Verstanden. Wenn etwas positiv wäre — wie läuft die Behandlung?
+Schneider: Für Chlamydien gibt es eine unkomplizierte Antibiotikatherapie, bei Gonorrhö meist ebenfalls Antibiotika, Syphilis wird mit penicillinbasierter Therapie behandelt, und bei Hepatitis B schauen wir, ob Auffrischungen nötig sind. Beim HIV würde ich sofort eine antivirale Therapie einleiten und Sie engmaschig betreuen.
+Sascha: Okay. Sie sagten, PrEP ist möglich. Wie schnell könnte ich damit anfangen, wenn nötig?
+Schneider: Wir können PrEP anbieten, nachdem wir die Tests besprochen haben. Heute kann ich Ihnen Informationen geben und das weitere Vorgehen erklären — Start hängt von den Testergebnissen ab.
+Sascha: Gut, informieren Sie mich bitte. Ich würde gern wissen, ob das sinnvoll ist.
+Schneider: Machen wir. Außerdem habe ich Ihnen ein kurzes Kondomgespräch angeboten, damit Sie wissen, wie Sie das Risiko bei verschiedenen Praktiken reduzieren können.
+Sascha: Das war nett, danke. Sie haben das ja schon angesprochen.
+Schneider: Genau. Noch eine organisatorische Frage: Dürfen wir Sie unter Ihrem Geburtsdatum vermerken, damit die Akte stimmt — Sie sind am 15. Mai 1990 geboren, richtig?
+Sascha: Ja, genau, 15. Mai 1990.
+Schneider: Danke. Dann mache ich die Proben jetzt fertig. Möchten Sie vorab noch etwas fragen?
+Sascha: Vielleicht noch: Wie schnell würde ich Bescheid bekommen, wenn alles negativ ist?
+Schneider: Wir rufen Sie spätestens innerhalb von sieben Tagen an. Wenn etwas auffällig ist, rufen wir früher zurück.
+Sascha: Alles klar. Dann können wir loslegen.
+Schneider: Gut, ich hole die Krankenschwester. Wir kümmern uns um Blutabnahme, Urin und den rektalen Abstrich. Ich kläre Sie auch zur PrEP und zu den Impfungen auf.

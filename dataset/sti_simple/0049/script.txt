@@ -1,0 +1,51 @@
+KLEIN: (leise, zögerlich) Guten Tag, ich bin Herr Klein, ich mache heute die offene Sprechstunde — darf ich Ihnen kurz ein paar Fragen stellen? Es bleibt selbstverständlich vertraulich.
+LEA: (aufgelöst) Ja, ja, bitte, ich weiß nicht, was los ist, mir ist das total peinlich.
+KLEIN: (versucht beruhigend) Kein Problem, Sie müssen sich nicht schämen, wir klären das diskret und kurz — warum sind Sie heute gekommen, also was macht Ihnen Beschwerden?
+LEA: (heftig) Es... also unten... es läuft Flüssigkeit und beim Wasserlassen brennt es so furchtbar.
+KLEIN: (unsicher, vermeidet Fachbegriffe) Ich verstehe — also ein ungewöhnlicher Ausfluss und beim Pipi einen Brennreiz, ja?
+LEA: Ja, genau, und das fing vor ein paar Tagen an und wird nur schlimmer.
+KLEIN: (vorsichtig) Können Sie mir sagen, wann genau das begonnen hat?
+LEA: (stotternd) Am zehnten Mai dieses Jahres, also am 10.05.2024.
+KLEIN: Danke, das hilft — hatten Sie in den Tagen davor sexuelle Kontakte?
+LEA: (panisch) Ja! Ich hatte kurz vorher Sex, am 8. Mai, also am 08.05.2024.
+KLEIN: (leise) Und möchten Sie mir sagen, mit wem — also Geschlecht und ob es feste oder wechselnde Partner waren?
+LEA: (schnell) Ich bin hetero, aber meine Beziehung ist offen. In den letzten zwölf Monaten waren es drei Partner, Männer und auch eine Frau.
+KLEIN: (notiert) Verstanden — drei Partner im letzten Jahr, sowohl Männer als auch Frauen, Beziehung offen.
+LEA: (ängstlich) Ich weiß nicht, ob die anderen getestet sind, das ist so kompliziert.
+KLEIN: (vorsichtig) Also ist der STI-Status Ihrer Partner Ihnen größtenteils unbekannt?
+LEA: Ja, bei mindestens einem weiß ich es nicht, also unklar.
+KLEIN: (zögerlich) Und haben Sie Verhütung benutzt, zum Beispiel Kondome?
+LEA: (schuldbewusst) Manchmal, aber nicht immer — nur gelegentlich.
+KLEIN: (leise) Okay — das ist wichtig zu wissen. Hatten Sie in der Vergangenheit schon einmal Infektionen in dem Bereich, wie Herpes oder so etwas?
+LEA: (beschämt) Ja, ich hatte früher Herpes, also HSV, das wurde diagnostiziert.
+KLEIN: (notiert, unsicher) Verstanden, Herpes... sonst irgendwelche bekannten Infektionen wie Hepatitis, HIV, Chlamydien oder so? Ich frage nur, damit wir alles berücksichtigen.
+LEA: (schnell) Nein, soweit ich weiß nicht — Hepatitis A/B/C nicht, HIV nicht, Chlamydien nicht, Gonorrhöe nicht, Syphilis auch nicht. Letzter großer Check-up war am 15.08.2023.
+KLEIN: (leicht erleichtert) Gut, danke für die genaue Angabe, 15.08.2023, das hilft. Sind Sie gegen Hepatitis B und HPV geimpft?
+LEA: Ja, gegen Hepatitis B und HPV wurde ich geimpft.
+KLEIN: (nimmt sich einen Moment) Alles klar — also: Ausfluss und Brennen seit dem 10.05., letzter Kontakt 08.05., mehrere Partner, gelegentliche Kondome, bekannte HSV-Vorgeschichte und geimpft gegen Hep B und HPV.
+LEA: (fängt an zu weinen) Und jetzt? Was ist, wenn das schlimm ist? Ich habe solche Angst.
+KLEIN: (beruhigend) Erstmal kein Grund zur Panik, wir können hier ganz diskret Tests machen — Urinprobe und einen Abstrich unten, außerdem Bluttests, um HIV, Syphilis und Hepatitis auszuschließen.
+LEA: (unsicher) Muss ich dann ewig warten auf Ergebnisse?
+KLEIN: Die meisten Ergebnisse sind nach ein bis drei Tagen da, Bluttests dauern manchmal länger, aber wir rufen Sie an. Bei akuten Beschwerden können wir auch eine symptomatische Behandlung anbieten, wenn nötig.
+LEA: (ängstlich) Behandlung gegen... gegen Bakterien? Oder gegen Herpes?
+KLEIN: (zögerlich) Genau, je nachdem, was wir finden — es kann eine bakterielle Infektion sein, dann gibt es Antibiotika, bei Herpes antivirale Medikamente. Ich würde erst testen und dann gezielt behandeln, wenn das für Sie okay ist.
+LEA: (klein) Ja, bitte testen Sie.
+KLEIN: (leise) Sind Sie allergisch gegen irgendwelche Medikamente, oder nehmen Sie sonst etwas regelmäßig?
+LEA: Nein, eigentlich nicht, ich nehme nichts regelmäßig.
+KLEIN: (notiert) Gut. Möchten Sie, dass wir eine Partnerbenachrichtigung anbieten, falls etwas Übertragbares gefunden wird? Das ginge anonym.
+LEA: (zögernd) Ja, das wäre gut. Ich will nicht, dass jemand anders... schaden nimmt.
+KLEIN: (freundlich) Wir kümmern uns darum. Wegen der Diskretion: Sie können hier bleiben, ich hole die Proben schnell, und wenn Ihnen alles zu viel wird, kann ich meine Kollegin kurz hinzuholen — ich bin noch in der Ausbildung, darf das aber machen, und wir sind viele heute hier, also ganz normal.
+LEA: (schluchzend) Sie sind in der Ausbildung?
+KLEIN: (etwas unsicher) Ja, ja, ich bin Berufsanfänger, aber ich mache das so gut ich kann. Wenn Sie möchten, kann ich kurz sagen, ich hole eine Kollegin zu Unterstützung.
+LEA: (schniefend) Nein, nein, ich will nicht noch mehr Leute. Können Sie es alleine machen?
+KLEIN: (ruhiger) Ja, das schaffe ich. Ich komme gleich mit einem Becher für eine Urinprobe und einem Tupfer für einen Abstrich — es wird kurz unangenehm, aber nicht lange.
+LEA: (flüsternd) Muss das im Wartezimmer jemand wissen?
+KLEIN: (schnell beruhigend) Nein, wir machen das hier diskret. Ich führe die Untersuchung im Behandlungsraum durch, niemand wird aufgefordert, Sie zu nennen.
+LEA: (leicht beruhigt) Danke.
+KLEIN: (vorsichtig) Zuletzt: Haben Sie Fieber oder Hautveränderungen bemerkt, oder Schmerzen im Unterbauch?
+LEA: Nein, kein Fieber, nur dieses Brennen und der Ausfluss, und ab und zu ein Ziehen.
+KLEIN: (notiert) Alles klar. Ich bereite die Tests vor — darf ich Ihnen eine Textnachricht schicken, oder rufen wir Sie an, wenn die Ergebnisse da sind?
+LEA: (noch nervös) Bitte anrufen, ich höre besser zu, wenn jemand mit mir spricht.
+KLEIN: Gut, wir rufen an. Ich bin gleich wieder da mit den Utensilien, bleiben Sie bitte hier sitzen, und versuchen Sie tief durchzuatmen.
+LEA: (leise) Danke, bitte seien Sie nett zu mir.
+KLEIN: (ermutigend) Das bin ich, versprochen — ich gehe jetzt kurz, gleich bin ich zurück.

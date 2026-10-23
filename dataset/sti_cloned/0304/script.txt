@@ -1,0 +1,53 @@
+Müller: Guten Tag, ich bin Dr. Müller. Wir sind in einem geschützten Rahmen, alles, was Sie mir erzählen, bleibt vertraulich. Was führt Sie heute zu uns?
+Robin: Hallo, danke. Ich hab seit ein paar Tagen Beschwerden und dachte, ich komm lieber mal zur Abklärung.
+Müller: Verstehe. Sie können frei erzählen, wie es war. Wann war denn Ihr letzter sexueller Kontakt ungefähr?
+Robin: Das war am 1. März 2024.
+Müller: Und in den letzten drei Monaten hatten Sie nur einen Partner oder mehrere?
+Robin: Nur einen Partner in den letzten drei Monaten.
+Müller: Wie haben Sie sich selbst einzuordnen, was Geschlecht und Körper betrifft? Und gab es irgendwelche geschlechtsangleichenden Therapien oder Operationen?
+Robin: Ich bin Frau, bei der Geburt weiblich eingetragen. Ich nehme keine Hormontherapie und hatte auch keine irgendwelchen geschlechtsangleichenden Operationen.
+Müller: Gut. Haben Sie bestimmte Körperteile, die für die Untersuchung relevant sind, also zum Beispiel Vagina oder Gebärmutter?
+Robin: Ja, ich habe eine Vagina, einen Gebärmutterhals, eine Gebärmutter und natürlich auch den Enddarm.
+Müller: Danke. Können Sie mir sagen, ob ein Schwangerschaftswunsch besteht oder ob eine Schwangerschaft ausgeschlossen werden kann?
+Robin: Schwanger werden könnte ich, aber ich bin gerade nicht schwanger.
+Müller: Alles klar. Wie war das mit dem HIV-Status Ihres Partners? Wissen Sie, ob er getestet ist?
+Robin: Ja, er wurde getestet und ist HIV-negativ. Er hat keine bekannten STI.
+Müller: Danke. Was für Praktiken hatten Sie mit ihm in den letzten drei Monaten?
+Robin: Wir hatten Vaginalverkehr, und wir haben uns auch bei Oralverkehr abgewechselt — also ich habe ihm oral gegeben und er hat mir auch oral gegeben.
+Müller: Verstehe. Wie sieht es mit Kondomen aus — beispielsweise beim Vaginalverkehr?
+Robin: Beim Vaginalverkehr benutzen wir immer ein Kondom.
+Müller: Und bei Oralverkehr, benutzen Sie da manchmal Schutz?
+Robin: Nur manchmal, nicht regelmäßig.
+Müller: Okay. Vorher hatten Sie schon einmal eine STI-Diagnose, richtig?
+Robin: Ja, 2020 hatte ich Chlamydien. Das war im Oktober 2020 und wurde behandelt.
+Müller: Danke für die Info. Trinken Sie Alkohol gelegentlich oder kommt da mehr vor?
+Robin: Alkohol nur gelegentlich, kein Problem damit. Keine Freizeitdrogen, und auch nichts intravenös.
+Müller: Gut zu wissen. Sie sagten, Sie haben Beschwerden — fühlen Sie sich akut krank, Fieber oder sowas?
+Robin: Nein, kein Fieber oder so, es sind eher unangenehme Dinge, aber nichts wie Grippe.
+Müller: Verstanden. Nach dem, was Sie schildern, gibt es keine Hinweise auf eine sehr frischere Hochrisiko-Exposition — Ihr letzter Sex war ja Anfang März 2024 — das ist nicht in einem Zeitfenster für eine Notfallprophylaxe (PEP).
+Robin: PEP ist also nicht mehr nötig?
+Müller: Richtig, PEP ist nur innerhalb von 72 Stunden nach einer möglichen Exposition relevant, und das trifft hier nicht zu. Auch bei den sonstigen Angaben vermute ich kein akutes HIV-Syndrom.
+Robin: Gut, das beruhigt.
+Müller: Ich würde vorschlagen, wir testen heute routinemäßig auf HIV, Syphilis, Chlamydien und Gonokokken — das wären die Standarduntersuchungen. Stimmen Sie dem zu?
+Robin: Ja, das klingt gut. Wie wird das getestet?
+Müller: Wir nehmen Blut für HIV und Syphilis. Für Chlamydien und Gonorrhö machen wir einen Urintest und außerdem einen vaginalen Abstrich. Das reicht in Ihrem Fall.
+Robin: Okay, das ist in Ordnung. Wie lange dauert es, bis die Ergebnisse da sind?
+Müller: Wir rufen Sie in der Regel telefonisch mit den Ergebnissen an, spätestens innerhalb von sieben Tagen.
+Robin: Telefonisch, super. Und wenn was gefunden wird, wie läuft die Behandlung?
+Müller: Viele bakterielle Infektionen lassen sich gut mit Antibiotika behandeln. Bei HIV würden wir Sie direkt weiter begleiten und behandeln. Wenn etwas auffällt, besprechen wir sofort das Vorgehen und mögliche Partnerinformation.
+Robin: Haben Sie einen Rat, was ich vorbeugend machen kann? Impfungen oder so?
+Müller: Sie sind gegen Hepatitis B vollständig geimpft, das ist gut. Ich sehe aber, dass Sie keine Hepatitis-A-Impfung und keine HPV-Impfung hatten — beides können wir besprechen; HPV-Impfung ist gerade noch sinnvoll. Außerdem empfehle ich weiterhin konsequent Kondome beim Vaginalverkehr — Sie machen das ja ohnehin — und häufiger Schutz bei Oralverkehr, wenn Sie das möchten.
+Robin: Ich habe tatsächlich nur die Hepatitis-B-Impfungen gehabt. Wäre HPV noch sinnvoll für mich jetzt?
+Müller: Ja, eine HPV-Impfung kann auch jenseits des typischen Alters noch sinnvoll sein, je nach individueller Situation. Wir können das hier zusammen anschauen und ggf. impfen.
+Robin: Was ist mit PrEP — wurde mir das schon mal angeboten? Ich weiß nicht so genau, ob das etwas für mich ist.
+Müller: PrEP schützt vor einer HIV-Infektion, ist aber für Personen mit wiederholter erheblicher Exposition gedacht. Ich kann Ihnen das anbieten und erklären, wie es wirkt und welche Kontrollen nötig sind. Aktuell nehme Sie keine PrEP, aber ich kann es Ihnen erläutern, wenn Sie möchten.
+Robin: Ja, bitte erzählen Sie mir kurz die Vor- und Nachteile.
+Müller: Kurz gesagt: PrEP ist sehr effektiv gegen HIV, erfordert regelmäßige Kontrollen und ist kein Schutz gegen andere STIs wie Chlamydien oder Syphilis. Es hat selten Nebenwirkungen, vor allem auf Niere und Knochen werden kontrolliert. Wenn Sie denken, dass Ihr Risiko steigen könnte, ist es eine gute Option.
+Robin: Danke, das macht Sinn. Können wir jetzt die Tests machen?
+Müller: Ja, ich veranlasse Blutabnahme und wir machen einen Urintest sowie einen vaginalen Abstrich. Ich gebe Ihnen auch Infos zu Impfungen und PrEP, und wir gehen die Kondomberatung durch.
+Robin: Super. Und wenn ich Fragen habe zur Behandlung, kann ich anrufen?
+Müller: Ja, Sie bekommen die Ergebnisse telefonisch innerhalb einer Woche. Bei positiven Befunden rufen wir vorher an und besprechen das weitere Vorgehen. Und natürlich können Sie jederzeit anrufen, wenn akute Fragen auftreten.
+Robin: Vielen Dank, das beruhigt mich sehr.
+Müller: Gern. Dann mache ich die Tests jetzt klar. Haben Sie noch etwas, das Sie loswerden möchten?
+Robin: Nein, das war's erstmal. Danke für die Zeit und die Ruhe, mit der Sie das erklären.
+Müller: Gerne. Ich komme dann gleich mit dem Formular für die Blutabnahme und den Abstrich.

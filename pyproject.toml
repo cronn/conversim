@@ -1,0 +1,78 @@
+[project]
+name = "conversim"
+version = "0.1.0"
+description = "Generate synthetic dialogue datasets with aligned structured ground truth and speech"
+readme = "README.md"
+license = "Apache-2.0"
+license-files = ["LICENSE", "NOTICE"]
+requires-python = ">=3.10"
+authors = [{ name = "Konrad Stolte", email = "konrad.stolte@cronn.de" }]
+keywords = [
+    "synthetic-data",
+    "dialogue-generation",
+    "structured-extraction",
+    "text-to-speech",
+    "asr",
+    "dataset",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3 :: Only",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Multimedia :: Sound/Audio :: Speech",
+    "Typing :: Typed",
+]
+dependencies = [
+    "pydantic>=2.7",
+    "numpy>=1.24",
+    "soundfile>=0.12",
+]
+
+[project.optional-dependencies]
+openai = ["openai>=1.40"]
+google = ["google-genai>=1.0"]
+qwen = ["qwen-tts", "torch>=2.0", "transformers>=4.40", "librosa>=0.10"]
+
+[project.urls]
+Homepage = "https://github.com/kstolte/conversim"
+Issues = "https://github.com/kstolte/conversim/issues"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/conversim"]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "pytest-asyncio>=0.24",
+    "ruff>=0.6",
+    "mypy>=1.11",
+]
+
+[tool.ruff]
+line-length = 100
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "RUF"]
+# __all__ is grouped by topic with comments, which reads better than alphabetical.
+ignore = ["RUF022"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
+
+[tool.mypy]
+strict = true
+files = ["src/conversim"]
+
+# Optional extras and dependencies without type information. These are imported
+# lazily behind MissingDependencyError, so the untyped surface is intentional.
+[[tool.mypy.overrides]]
+module = ["soundfile", "openai", "openai.*", "google.*", "torch", "qwen_tts"]
+ignore_missing_imports = true

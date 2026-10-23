@@ -1,0 +1,64 @@
+Schneider: Guten Morgen, Mika. Schön, dass Sie gekommen sind. Wie möchten Sie angesprochen werden — welcher Vorname oder Pronomen ist Ihnen recht?
+Mika: Guten Morgen. Einfach Mika, das reicht. Ich bin nicht-binär, aber mit meinem Vornamen ist alles gut.
+Schneider: Alles klar, danke. Ich bin Dr. Schneider. Wir führen heute eine STI- und HIV-Anamnese, das heißt ich frage Sie ein paar Sachen zu Symptomen, Sexualverhalten, früheren Infektionen und Impfungen. Nehmen Sie sich ruhig Zeit, es gibt hier nichts zu verurteilen.
+Mika: Danke. Ich bin etwas nervös, aber ja, ich versuche, alles so gut wie möglich zu erklären.
+Schneider: Das ist völlig in Ordnung. Zunächst: Wann wurden die aktuellen Beschwerden ungefähr bemerkt?
+Mika: So ungefähr am 20. Mai dieses Jahres. Also vor ein paar Tagen hat’s angefangen — ein Ausfluss aus der Scheide und Halsschmerzen, fühlt sich wie eine gereizte Kehle an.
+Schneider: Gut, also Scheidenausfluss und Halsschmerzen. Hatten Sie Fieber oder andere Beschwerden wie geschwollene Lymphknoten, Hautausschlag oder Gelenkschmerzen?
+Mika: Fieber hatte ich keins, kein Ausschlag, ab und zu mal ein wenig müder, aber das ist nichts Ungewöhnliches bei mir.
+Schneider: Verstanden. Wann war Ihr letzter sexueller Kontakt, und mit wie vielen Partnern hatten Sie in den letzten drei Monaten sexuelle Kontakte?
+Mika: Der letzte Kontakt war am 10. Mai. In den letzten drei Monaten waren es drei verschiedene Partner, nicht in einer festen Beziehung.
+Schneider: Und welche Praktiken gab es bei diesen Kontakten? Vaginalverkehr, oraler Sex, Analverkehr?
+Mika: Ja, vaginal war dabei, oraler Sex — ich bekomme oralen Sex, also Receptive Oral, und auch analer Sex war einmal dabei, ich war da receptive.
+Schneider: Danke. Wie war es mit Kondomen — wurden die benutzt?
+Mika: Manchmal bei vaginalem Sex, manchmal auch beim Analverkehr, aber nicht immer. Bei oralem Sex nie, das mache ich nicht mit Kondom.
+Schneider: Sind Ihnen bei einem der Partner STIs bekannt gewesen oder haben Sie das Thema HIV-Status angesprochen?
+Mika: Wir haben das nie wirklich besprochen, ehrlich gesagt. Keiner hat gesagt, dass er eine STI hat, aber wir haben das Thema HIV nicht konkret angesprochen.
+Schneider: Okay. Gab es in Ihren Beziehungen in letzter Zeit jemanden mit einer bekannten Infektion? Sie haben es eben angedeutet, aber Sie sagten, keiner hatte das bekannt gegeben.
+Mika: Genau, soweit ich weiß, hatte keiner eine bekannte STI.
+Schneider: Haben Sie schon einmal früher eine sexuell übertragbare Infektion gehabt?
+Mika: Ja, 2023 hatte ich Chlamydien, das wurde behandelt, und früher mal Feigwarzen durch HPV.
+Schneider: Danke. Können Sie mir sagen, ob Sie aktuell hormonelle Geschlechtsangleichung erhalten?
+Mika: Ja, ich nehme aktuell Hormone.
+Schneider: Verstanden. Haben Sie eine geschlechtsangleichende Operation gehabt?
+Mika: Nein, nicht operiert.
+Schneider: Ist eine Schwangerschaft für Sie möglich und gibt es eine Chance, dass Sie derzeit schwanger sind?
+Mika: Ja, eine Schwangerschaft wäre möglich, ich glaube aber nicht, dass ich schwanger bin. Ich habe keinen Test gemacht.
+Schneider: In Ordnung, wenn Sie möchten können wir gleich hier noch einen Schwangerschaftstest machen — das ist schnell. Nutzen Sie sonst hormonelle Verhütung?
+Mika: Nein, ich nutze keine regelmäßige Pille oder so. Wie gesagt, Kondome nur manchmal.
+Schneider: Danke für die Klarheit. Zu Substanzen: Trinken Sie regelmäßig Alkohol oder nehmen Sie gelegentlich Drogen?
+Mika: Ich trinke eher regelmäßig, nicht extrem, aber schon häufiger. Drogen nur gelegentlich auf Partys, nichts mit Spritzen.
+Schneider: Gut, das ist notiert. Zu HIV: Ihr letzter möglicher Expositionszeitpunkt war der 10. Mai, richtig?
+Mika: Ja, genau.
+Schneider: Das ist außerhalb des 72-Stunden-Fensters, daher ist eine Postexpositionsprophylaxe (PEP) jetzt nicht mehr relevant. Wir empfehlen aber auf jeden Fall einen HIV-Test heute als Basis und je nach Testtyp eine Wiederholung später, weil das Risiko innerhalb der letzten sechs Wochen liegt.
+Mika: Okay, gut zu wissen. Ich habe mich gefragt, ob ich die akute HIV-Phase merken würde — irgendwelche Symptome?
+Schneider: Die akute Phase kann sehr unterschiedlich sein; manche haben grippeähnliche Symptome, andere nichts. Sie haben aktuell keine ausgeprägten akuten HIV-Symptome, das haben Sie gesagt. Trotzdem ist eine Testung wichtig — wir machen heute einen Bluttest (4. Generation), der Antigen und Antikörper nachweist, und wir werden Sie über weitere Kontrollen beraten.
+Mika: Das klingt sinnvoll. Was testen Sie sonst noch?
+Schneider: Ich empfehle heute Tests auf HIV, Syphilis (Blut), Chlamydien und Gonorrhoe — Abstriche bzw. Abstrichproben aus der Vagina und dem Rachen — und zusätzlich einen Hepatitis‑A-Test und ggf. die Impfunganzuordnung, weil Ihre Hepatitis‑A‑Impfung unvollständig ist.
+Mika: Stimmt, ich glaube Hepatitis B hab ich komplett, oder? Aber Hep A und HPV nicht vollständig.
+Schneider: Genau, Ihre Hepatitis‑B‑Impfung ist abgeschlossen, das ist gut. Hepatitis A und HPV sind unvollständig — wir können heute mit einer Hepatitis‑A‑Impfung beginnen und über eine HPV-Auffrischung bzw. Komplettierung sprechen, das ist insbesondere bei Ihren vorherigen HPV‑Warzen sinnvoll.
+Mika: Okay, ich würde die Impfungen gern haben, ja.
+Schneider: Gut, das machen wir. Zur Probennahme: Wir nehmen Blut für HIV, Syphilis und Hepatitis A, einen Vaginalabstrich für Chlamydien und Gonorrhoe sowie einen Rachenabstrich für Gonorrhoe/Chlamydien im Halsbereich. Das ist standard.
+Mika: Ist das schmerzhaft? Vor allem der Vaginalabstrich macht mir manchmal Angst.
+Schneider: Es ist in der Regel nur kurz unangenehm, kaum schmerzhaft. Wir gehen behutsam vor, und ich erkläre jeden Schritt. Wenn Sie möchten, können Sie auch sagen, wenn Sie eine Pause brauchen.
+Mika: Danke, das hilft. Wie lange dauert es, bis die Ergebnisse da sind?
+Schneider: Wir schicken die Ergebnisse über das Patientenportal — in der Regel innerhalb von sieben Tagen. Sollte etwas Dringendes dabei sein, melden wir uns natürlich früher telefonisch.
+Mika: Und wenn etwas Positives dabei ist, wie geht es dann weiter?
+Schneider: Wenn ein Test positiv ist, erkläre ich Ihnen in Ruhe die Befunde, wir besprechen Behandlungsmöglichkeiten, informieren mögliche Partner und bieten eine engmaschige Betreuung an. Bei den meisten bakteriellen Infektionen wie Chlamydien oder Gonorrhoe gibt es effektive Antibiotikatherapien. Bei HIV würden wir sofort die Behandlung planen und Sie an ein spezialisiertes Zentrum übergeben.
+Mika: Okay. Und PrEP — das wurde mir mal angeboten. Würde das für mich in Frage kommen?
+Schneider: PrEP wurde Ihnen bereits angeboten, Sie nehmen es aber nicht aktuell. Angesichts Ihrer Praxis und gelegentlich fehlender Kondomnutzung könnte PrEP eine sinnvolle Präventionsoption sein. Wir können das heute wieder besprechen und ggf. einen PrEP-Check machen, falls Sie Interesse haben.
+Mika: Ich weiß nicht genau, ich habe etwas Bedenken wegen Nebenwirkungen, aber vielleicht sollten wir das nochmal genauer besprechen.
+Schneider: Sehr gerne, wir besprechen Nutzen und mögliche Nebenwirkungen ausführlich. Es ist völlig legitim, das abzuwägen. Ich kann Ihnen Informationsmaterial mitgeben und wir besprechen mögliche Untersuchungen vor Beginn.
+Mika: Das wäre gut, danke.
+Schneider: Noch eine kurze Frage: Haben Sie in den letzten Monaten Anzeichen für Hepatitis, also gelbe Haut, dunklen Urin oder ähnliches bemerkt?
+Mika: Nein, nichts davon.
+Schneider: Gut. Und Sie sagten, Sie hatten 2023 Chlamydien — wurde das damals vollständig behandelt und gab es Kontrolltests danach?
+Mika: Ja, das wurde mit Antibiotika behandelt, ich hatte danach noch einen Kontrollabstrich, der negativ war.
+Schneider: Perfekt. Dann würde ich vorschlagen: Wir nehmen jetzt die Proben, ich veranlasse die Blutabnahme und die Abstriche. Außerdem beginnen wir heute mit der ersten Hepatitis‑A‑Impfung und wir besprechen die HPV-Impfung in derselben Sitzung oder beim nächsten Termin. Möchten Sie jetzt noch einen Schwangerschaftstest, damit wir sicher sind, bevor wir bestimmte Medikamente geben?
+Mika: Ja, bitte. Machen wir den Test jetzt.
+Schneider: Sehr gut. Ich hole die Probenahmesets und die Ärztin oder Schwester macht den Schwangerschaftstest gleich parallel zur Blutabnahme. Noch etwas, das Sie mir sagen möchten oder worüber Sie sich Sorgen machen?
+Mika: Vielleicht, dass das alles sehr viel ist und ich Angst habe vor einem positiven Ergebnis. Aber ich weiß, dass es besser ist, das jetzt anzugehen.
+Schneider: Das ist völlig normal, die Sorge vor einem Ergebnis ist verständlich. Wir gehen das zusammen Schritt für Schritt an. Ich sage Ihnen noch einmal genau, wann und wie Sie die Ergebnisse bekommen: per Patientenportal in etwa sieben Tagen, und ich rufe Sie an, falls etwas dringlich ist.
+Mika: Danke, das beruhigt schon.
+Schneider: Gerne. Dann machen wir jetzt die Untersuchungen und ich bespreche danach kurz die weiteren Schritte beim Ergebnis. Wenn Sie noch Fragen währenddessen haben, sagen Sie bitte Bescheid.
+Mika: Alles klar, danke. Ich bin bereit.

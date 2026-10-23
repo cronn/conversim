@@ -1,0 +1,65 @@
+Menter: (staccato) Was ist Ihr Anliegen heute?
+Sandra: (nervös) Ich habe Ausfluss, Brennen beim Wasserlassen und Juckreiz — deshalb bin ich hier.
+Menter: Seit wann bestehen diese Symptome genau?
+Sandra: Seit dem 13.05.2024, das hat plötzlich angefangen.
+Menter: Haben Sie Fieber oder Unterbauchschmerzen?
+Sandra: Kein Fieber, nur ein leichtes Ziehen unten.
+Menter: (ruhig) Beschreiben Sie den Ausfluss bitte kurz: Farbe, Geruch, Menge.
+Sandra: Viel weißlicher Ausfluss, manchmal gelblich, kaum Geruch, mehr als normal.
+Menter: Haben Sie Schmerzen beim Geschlechtsverkehr oder Blutungen außerhalb der Periode?
+Sandra: Schmerz beim Sex manchmal, keine ungewöhnlichen Blutungen.
+Menter: (staccato) Brennt das Wasserlassen stark? Nur am Ende? Kontinuierlich?
+Sandra: Beim Wasserlassen brennt es so ein- bis zweimal stark, dann ist es okay.
+Menter: (ruhig) Sind Sie heterosexuell?
+Sandra: Ja, heterosexuell.
+Menter: In welcher Beziehungsform leben Sie?
+Sandra: Ich bin in einer monogamen Beziehung.
+Menter: (staccato) Wann war Ihr letzter sexueller Kontakt?
+Sandra: Am 10.05.2024.
+Menter: Und Ihr Partner — welches Geschlecht hat sie?
+Sandra: Sie ist weiblich.
+Menter: (ruhig) Wie viele Sexualpartnerinnen hatten Sie in den letzten zwölf Monaten?
+Sandra: Nur eine, meine feste Partnerin.
+Menter: Kennt Ihre Partnerin ihren STI-Status?
+Sandra: Nein, sie kennt ihn nicht, sie war nie getestet — also "unknown", würde ich sagen.
+Menter: Verwenden Sie kondoms oder andere Schutzmethoden?
+Sandra: Wir benutzen Kondome nur gelegentlich, also ab und zu.
+Menter: Sind Sie gegen Hepatitis B geimpft?
+Sandra: Ja, ich habe die Hepatitis-B-Impfung.
+Menter: Hatten Sie jemals eine sexuell übertragbare Infektion — Chlamydien, Gonorrhö, Syphilis, HIV, HPV, Herpes?
+Sandra: Nein, nichts davon jemals.
+Menter: (staccato) Wann war Ihr letzter allgemeiner Gesundheits-Check?
+Sandra: Im August 2023, genauer am 20.08.2023.
+Menter: Haben Sie aktuell Medikamente oder Allergien?
+Sandra: Keine regelmäßigen Medikamente, keine Allergien, soweit ich weiß.
+Menter: (kühl) Haben Sie im Internet recherchiert?
+Sandra: Ja, ich habe gegoogelt und in Foren gelesen — viele sprechen von resistenter Gonorrhö oder seltenen Keimen, deshalb mache ich mir Sorgen.
+Menter: (direkt) Sie glauben, es könnte eine resistente oder seltene STI sein?
+Sandra: Genau, in einem Forum schrieb jemand mit ähnlichen Symptomen, dass es eine resistente Variante war und Ärzte erst spät reagiert haben.
+Menter: (ruhig) Verstanden. Ich werde Abstriche und eine Urinprobe nehmen sowie Bluttests — HIV, Syphilis, Hepatitis, Chlamydien, Gonorrhö — PCR und Kultur, wenn nötig.
+Sandra: (fordernd) Und was, wenn es wirklich resistente Gonorrhö ist? Bekomme ich dann spezielle Tests oder direkte Antibiotika?
+Menter: Wir führen Kultur und Empfindlichkeitsprüfung durch, bevor wir eine gezielte Therapie wählen; initiale Therapie nach Leitlinie, Anpassung bei Resistenzbefund.
+Sandra: (unsicher) Können Sie das schnell machen? Ich will nicht, dass das im Wartezimmer steht — es ist ja offene Sprechstunde.
+Menter: Diskretion ist gegeben, Probeentnahme erfolgt jetzt im Behandlungszimmer, Befunde dauern je nach Test 1–5 Werktage.
+Sandra: (immer noch misstrauisch) Sind Sie sicher, dass das ausreichend ist? In meinem Forum meinte eine Ärztin, manche Praxen schicken das nicht zur Kultur.
+Menter: Ich veranlasse Kultur bei Verdacht auf Gonorrhö; Sie bekommen eine schriftliche Information und einen Rückruf für Befunde und Therapie.
+Sandra: (leiser) Brauche ich eine Partnerinformation oder soll meine Partnerin auch getestet werden?
+Menter: Sie sollte ebenfalls getestet werden, ja. Partnerbenachrichtigung ist Teil der Behandlung.
+Sandra: (sarkastisch) Und wenn die Praxis, wie in den Foren, schlampig ist — was dann?
+Menter: (kühl) Wenn Sie das wünschen, kann ich alle Proben an das Referenzlabor schicken; das ist aktenkundig und sicher.
+Sandra: Gut. Können Sie mir kurz erklären, welche Symptome für welche Erreger typisch sind? Ich will nicht wieder im Forum nach Horrorgeschichten suchen.
+Menter: Chlamydien verursachen oft Ausfluss und Brennen; Gonorrhö ähnliches Bild, häufiger eitriger Ausfluss; Pilzinfekte jucken stärker und haben weißen, flockigen Ausfluss.
+Sandra: Also ist mein Bild eher bakteriell als Pilz?
+Menter: Vermutlich bakteriell, ja. Aber Abstrich und Tests entscheiden.
+Sandra: (nachdrücklich) Ich will auch direkt einen HIV-Test.
+Menter: Wird mitgenommen, Standardblut entnommen, Ergebnis vorläufig nach Tagen, Schnelltest möglich bei Wunsch.
+Sandra: Machen Sie bitte auch einen Schnelltest, ich bin nervös.
+Menter: Schnelltest möglich, mache ich jetzt.
+Sandra: Danke. Und wie erklären Sie das meiner Arbeit, wenn ich ein Attest brauche?
+Menter: Ein Attest für den heutigen Tag erhalten Sie, Befund- und Therapievorschlag nach Laborergebnis.
+Sandra: (leichter Seufzer) Gut. Und wenn in einem Forum wieder jemand sagt, dass Ärzte nicht korrekt behandeln — kann ich eine zweite Meinung haben?
+Menter: Sie können jederzeit eine zweite Meinung einholen; ich dokumentiere alles ausführlich für Sie.
+Sandra: (ruhig) Dann machen wir die Tests jetzt. Ich will das so schnell wie möglich geklärt haben.
+Menter: (staccato) Gut. Legen Sie sich bitte auf die Liege, ich entnehme Abstrich und Urin, dann Blut. Kurze Prozedur.
+Sandra: (ängstlich) Okay. Bitte fehlen Sie nicht an Empathie, auch wenn es nur Routine ist.
+Menter: Verstanden. Ich arbeite effizient. Wenn Sie Fragen während der Probenentnahme haben, sagen Sie kurz "Stopp".

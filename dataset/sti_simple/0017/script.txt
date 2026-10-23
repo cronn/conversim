@@ -1,0 +1,63 @@
+Menter: (kalt, präzise) Was führt Sie heute hierher?
+Thomas: (nervös) Ich habe Ausfluss und Brennen beim Wasserlassen, deshalb bin ich in der offenen Sprechstunde.
+Menter: Seit wann bestehen die Beschwerden?
+Thomas: Seit dem 10. Juni 2024 begonnen.
+Menter: Haben Sie Fieber oder Schmerzen in der Leiste?
+Thomas: Kein Fieber, nur Brennen beim Wasserlassen und gelegentliches Ziehen.
+Menter: (stockend, schnell) Geschlechtliche Orientierung?
+Thomas: Hetero.
+Menter: Beziehungsstatus und Beziehungsmodell?
+Thomas: Verheiratet, offene Beziehung.
+Menter: Letzter sexueller Kontakt wann?
+Thomas: Am 7. Juni 2024, auf einer Dienstreise - ungeschützter Seitensprung.
+Menter: Tragen Sie Kondome?
+Thomas: Manchmal, nur gelegentlich.
+Menter: Anzahl der Sexualpartner in den letzten zwölf Monaten?
+Thomas: Drei.
+Menter: Waren die Partnerinnen über ihren STI-Status informiert?
+Thomas: Nein, unbekannt, ich weiß es nicht.
+Menter: (kurz) Haben Sie in der Vergangenheit sexuell übertragbare Krankheiten gehabt? HIV, Syphilis, Gonorrhoe, Chlamydien, Hepatitis B/C, HSV, HPV-Warzen?
+Thomas: Nein, alles negativ, keine bekannten Infektionen.
+Menter: (sachlich) Wurden Sie gegen Hepatitis B und HPV geimpft?
+Thomas: Ja, gegen Hepatitis B und HPV geimpft.
+Menter: Wann hatten Sie zuletzt einen allgemeinen Gesundheitscheck?
+Thomas: Am 15. September 2023.
+Menter: (rasch) Tragen Sie Medikamente, Allergien, chronische Erkrankungen?
+Thomas: Keine regelmäßigen Medikamente, keine Allergien, sonst gesund.
+Menter: (kurz) Befürchten Sie, dass Ihre Frau davon erfährt?
+Thomas: (flüsternd) Ja, das ist meine Hauptangst. Gilt hier die ärztliche Schweigepflicht wirklich?
+Menter: Ja, die ärztliche Schweigepflicht gilt. Ohne Ihre Zustimmung informieren wir niemanden.
+Thomas: (immer noch misstrauisch) Auch nicht die Arzthelferin, die meine Akte sieht? Oder wenn das Wartezimmer voll ist?
+Menter: Personal hat Zugriff nur zur Behandlung; wir halten diskret. Im vollen Wartezimmer sprechen wir leise.
+Thomas: Was passiert, wenn ein Test positiv ist? Wird dann automatisch jemand benachrichtigt?
+Menter: Wir besprechen das Ergebnis mit Ihnen. Meldepflichtige Krankheiten werden nach Gesetz eventuell gemeldet, das kläre ich im Fall des positiven Befunds mit Ihnen vorher.
+Thomas: (ängstlich) Meldepflicht? Bedeutet das, mein Name geht raus?
+Menter: (präzise) Meldepflicht betrifft Daten an Gesundheitsbehörden, nicht automatisch Ihre Frau. Ich informiere Sie vor jedem Schritt.
+Thomas: Gut. Welche Tests machen Sie jetzt?
+Menter: (effizient) Urinprobe für NAAT (Chlamydien, Gonorrhö), Urethralabstrich bei Bedarf, Abstrich oder Ausstrich, Blut für HIV, Syphilis, Hepatitis B und C; gegebenenfalls PCR. Schnelltest möglich für einige Parameter.
+Thomas: Wie lange bis zum Ergebnis?
+Menter: Urintest/NAAT meist 2–5 Tage, Blutserologie für Syphilis/HIV und Hepatitis meist einige Tage bis zwei Wochen.
+Thomas: Muss ich bis dahin meine Frau informieren? Oder Sex vermeiden?
+Menter: (klar) Vermeiden Sie sexuelle Kontakte, bis Befunde vorliegen oder Behandlung abgeschlossen ist.
+Thomas: Wenn etwas Positives dabei ist, muss ich das meinem Partner sagen?
+Menter: (trocken) Partnerbenachrichtigung ist medizinisch sinnvoll. Wir unterstützen Sie dabei und besprechen die Vorgehensweise vertraulich.
+Thomas: Können Sie diskret eine Nachricht an meine anderen Partnerinnen schicken, ohne Details?
+Menter: Wir können anonymisierte Hinweise ausstellen oder ein Infoschreiben formulieren, das keine Namen enthält.
+Thomas: Gut, das wäre besser. Können Sie mir sofort etwas gegen die Symptome geben?
+Menter: (präzise) Symptomatisch ja, aber gezielte Therapie erst nach Befund oder bei hohem klinischem Verdacht empirisch. Ich kann einen Abstrich nehmen und, falls nötig, eine einmalige antibiotische Therapie verordnen.
+Thomas: Ist das sicher? Ich möchte nicht, dass das auffällt — Rezepte, Krankenhausberichte, alles unter meinem Namen?
+Menter: (kühl) Alles wird wie gewohnt dokumentiert. Rezepte sind auf Ihren Namen; vertrauliche Kommunikation bleibt intern.
+Thomas: (seufzend) Okay. Machen wir die Tests dann bitte schnell.
+Menter: (sachlich) Ich nehme jetzt die Urinprobe und einen Urethralabstrich. Blut abnehmen wir dann am Stuhl- oder Blutentnahmetermin gleich hier.
+Thomas: (leise) Kann es sein, dass ich HIV habe?
+Menter: Möglich, aber nicht zwingend. Die Tests klären das. Ihre Impfung gegen Hepatitis B reduziert das Risiko für Hepatitis B.
+Thomas: (besorgt) Und HPV? Ich habe mich impfen lassen, reicht das?
+Menter: HPV-Impfung reduziert Risiko schwerer Erkrankungen, schützt nicht vor allen Typen. Testung bei Männern wird nicht routinemäßig gemacht, Symptome sind eher durch andere Erreger erklärbar.
+Thomas: Wie dokumentiert das die Praxis? Kann ich die Papiere anonym bekommen?
+Menter: Befunde werden in Ihre Akte eingetragen. Auf Wunsch erhalten Sie die Kopien persönlich; anonymisierte Dokumente sind für amtliche Nachweise nicht üblich.
+Thomas: (drängend) Nochmal: Niemand informiert meine Frau, ohne dass ich zustimme?
+Menter: (konkret) Niemand wird ohne Ihre ausdrückliche Zustimmung informiert, außer bei gesetzlicher Meldepflicht oder akuter Gefährdung Dritter. Ich informiere Sie vor solchen Schritten.
+Thomas: Danke. Ich möchte jetzt die Tests und die Anweisungen, bitte.
+Menter: (ruhig) Gut. Bitte urinieren Sie in den Becher, dann mache ich den Abstrich und wir veranlassen Blutabnahme und Labor. Ergebnisse besprechen wir telefonisch vertraulich.
+Thomas: (erleichtert) Danke. Können Sie mir eine Telefonnummer geben, die ich angeben soll, die nur ich abhebe?
+Menter: (kurz) Ja, geben Sie Ihre private Nummer an, wir rufen Sie ausschließlich unter dieser Nummer an.

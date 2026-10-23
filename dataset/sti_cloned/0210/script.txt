@@ -1,0 +1,57 @@
+Schneider: Guten Morgen, ich bin Dr. Schneider. Schön, dass Sie gekommen sind. Wie darf ich Sie nennen?
+Charlie: Hi, ich bin Charlie. Danke, dass Sie Zeit haben — ich hab ein paar Beschwerden und dachte, ich lasse das mal abklären.
+Schneider: Das ist gut. Alles, was wir hier besprechen, bleibt vertraulich. Darf ich kurz Ihr Geburtsdatum aufnehmen zur Orientierung?
+Charlie: Klar. Ich bin 33, geboren am 15. Mai 1992.
+Schneider: Danke. Und wie bezeichnen Sie Ihr Geschlecht? Wurden Sie bei der Geburt als männlich oder weiblich eingeordnet?
+Charlie: Ich wurde als Mann geboren und ich identifiziere mich auch als Mann.
+Schneider: Danke. Haben Sie geschlechtsangleichende Hormontherapie gemacht oder nehmen Sie aktuell Hormone?
+Charlie: Nein, gar nichts dergleichen.
+Schneider: Und welche Anatomie ist vorhanden — also für die Untersuchungsplanung: Penis, Hoden, Rektum, Prostata?
+Charlie: Ja, ich habe Penis und Hoden, Rektum und Prostata sind da.
+Schneider: Alles klar. Sie sagten Beschwerden — wollen Sie kurz schildern, was Sie spüren, ohne ins Detail zu gehen ist auch in Ordnung.
+Charlie: Ich fühle mich einfach unwohl untenrum, deswegen hab ich mich angemeldet. Mehr will ich gerade nicht groß ausschreiben.
+Schneider: Verstanden. Ich werde Sie systematisch durchfragen und dann untersuchen. Wie sieht es mit Ihrem Sexualverhalten aus — wann war Ihr letzter sexueller Kontakt ungefähr?
+Charlie: Der letzte Kontakt war ungefähr am 10. Juni 2024.
+Schneider: Und in den letzten drei Monaten — wie viele Sexualpartner hatten Sie ungefähr?
+Charlie: In den letzten drei Monaten waren es drei verschiedene Partner.
+Schneider: Können Sie grob sagen, welche Praktiken dabei vorkamen?
+Charlie: Ja — ich hatte Vaginalverkehr, ich war beim Analverkehr rezeptiv und ich habe auch Oralsex bekommen.
+Schneider: Wie handhaben Sie Schutzmittel dabei — also Kondome bei Vaginal-, Anal- und beim Oralsex?
+Charlie: Beim Vaginalsex benutze ich meistens Kondome. Beim Analverkehr nur manchmal. Und beim Oralsex benutze ich nie Kondome.
+Schneider: Danke, das hilft. Sind das überwiegend feste Partner oder eher Gelegenheitskontakte — und wie lernen Sie die Leute kennen?
+Charlie: Eine Mischung. Manchmal Dating-Apps, manchmal Leute über Freunde. Ein Partner ist eher länger, die anderen eher Casual.
+Schneider: In Ordnung. Haben Sie in der Vergangenheit schon einmal eine sexuell übertragbare Infektion gehabt?
+Charlie: Ja, ich hatte mal Chlamydien.
+Schneider: Wann war das ungefähr?
+Charlie: Das war im September 2022.
+Schneider: Gut zu wissen. Wie ist Ihr Impfstatus bei Hepatitis A und B und gegen HPV?
+Charlie: Hepatitis A habe ich nicht, bin da unvaccinated. Gegen Hep B bin ich komplett geimpft. HPV habe ich angefangen, aber nicht komplett durchgezogen — also unvollständig.
+Schneider: Danke. Nehmen Sie aktuell PrEP zur HIV-Prophylaxe?
+Charlie: Nein, das nehme ich nicht.
+Schneider: Gut, dann möchte ich das kurz ansprechen — PrEP kann bei anhaltendem Risiko eine gute Option sein. Wären Sie interessiert, wenn ich Ihnen das erkläre und ermögliche?
+Charlie: Ja, gerne. Erzählen Sie mal kurz, was das heißt und ob das was für mich wäre.
+Schneider: PrEP ist eine medikamentöse Vorbeugung gegen HIV, die täglich oder manchmal auch on-demand eingenommen werden kann — abhängig von den Praktiken. Wir würden vor Start Tests machen und dann regelmäßig kontrollieren. Angesichts Ihrer Partnerzahl und wechselnder Kontakte ist es eine Option, die man erwägen sollte.
+Charlie: Klingt sinnvoll. Ich nehme noch nicht so lange regelmäßig Arzttermine wahr, also wäre das gut, wenn Sie mir das anbieten.
+Schneider: Mache ich. Wir besprechen das näher nach den Tests. Apropos Tests: Ich empfehle heute, Bluttests für HIV, Syphilis und Hepatitis C sowie Abstriche/Abstrichproben für Chlamydien und Gonorrhöe. Dafür brauchen wir Blut, Urin, einen Rektalabstrich und einen Rachenabstrich.
+Charlie: Ok, das klingt nach viel, aber sinnvoll. Alles auf einmal?
+Schneider: Ja, wir entnehmen Blut, Sie geben eine Urinprobe, und ich nehme die Abstriche. So erhalten wir ein vollständiges Bild.
+Charlie: Wie bekomme ich die Ergebnisse und wie lange dauert das?
+Schneider: Die Ergebnisse stellen wir Ihnen über das Patientenportal zur Verfügung; in der Regel sind die Befunde binnen etwa sieben Tagen online.
+Charlie: Super, das ist praktisch. Muss ich dafür nochmal kommen oder reicht das Portal?
+Schneider: Wenn etwas auffällig ist, rufen wir Sie direkt an oder vereinbaren einen Termin. Ansonsten genügt die Nachricht im Portal und wir besprechen Empfehlungen per Telefon oder bei Bedarf persönlich.
+Charlie: Alles klar. Noch eine Frage: Ich trinke gelegentlich Alkohol und nehme auch ab und zu mal Partydrogen, aber nichts Spritzbares. Ist das relevant?
+Schneider: Das ist relevant, danke für die Offenheit. Gelegentlicher Alkoholkonsum und gelegentlicher Freizeitdrogenkonsum sind vermerkt. Wichtig ist: kein Injektionsdrogengebrauch?
+Charlie: Nein, injizieren habe ich nie gemacht.
+Schneider: Gut. Zum Thema STIs: Ich erkläre kurz die Risiken — wechselnde Partner und ungeschützter Anal- oder Vaginalverkehr erhöhen das Risiko für bakterielle Infektionen wie Chlamydien oder Gonorrhöe und auch für Viren. Kondomen reduzieren das Risiko, besonders beim Vaginal- und Analverkehr; beim Oralsex ist das Risiko geringer, aber nicht null.
+Charlie: Verstanden. Ich versuche, beim Vaginalsex dran zu denken, aber beim Oralsex entspannt man sich meistens zu sehr.
+Schneider: Das ist nachvollziehbar. Wir besprechen Strategien, damit Kondomgebrauch praktikabler wird und auch die Option PrEP, falls Sie sich dafür entscheiden. Außerdem können Impfungen sinnvoll sein — wir sollten Hepatitis A nachholen.
+Charlie: Okay, also Hep A wäre noch offen. Und HPV müsste ich noch vervollständigen, richtig?
+Schneider: Genau. Wir können Hepatitis-A-Impfung organisieren und die HPV-Vervollständigung besprechen.
+Charlie: Gut. Und wenn was gefunden wird — sind die Behandlungen kompliziert?
+Schneider: Viele bakterielle Infektionen lassen sich gut mit Antibiotika behandeln. Virale Infektionen haben unterschiedliche Verläufe, einige kann man gut kontrollieren. Wir besprechen Therapie bei positivem Befund individuell.
+Charlie: Alles klar. Noch eine praktische Frage: Wenn ich PrEP anfangen würde, muss ich das Zeug bezahlen?
+Schneider: Das hängt von Ihrer Versicherung. Wir prüfen das, und wenn nötig, gibt es auch ambulante Versorgungswege und Beratungsstellen, die unterstützen. Zuerst machen wir die Tests und besprechen dann das Vorgehen.
+Charlie: Okay, danke. Lassen Sie uns das machen — Tests, dann Impfungen und PrEP-Angebot, und Kondomtips.
+Schneider: Genau so machen wir das. Ich vermerke die Tests: HIV, Syphilis, Chlamydien, Gonorrhöe und Hepatitis C; Proben: Blut, Urin, Rektal- und Rachenabstrich. Ich berate Sie jetzt noch kurz zur Kondomnutzung und wir starten die Probenentnahme.
+Charlie: Klingt gut. Danke, dass Sie das so entspannt ansprechen.
+Schneider: Gern. Wenn Sie während der Blutabnahme oder der Abstriche Fragen haben, sagen Sie bitte Bescheid. Wir klären alles Weitere, sobald die Ergebnisse vorliegen — in der Regel in etwa sieben Tagen über das Patientenportal.

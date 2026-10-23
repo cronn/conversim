@@ -1,0 +1,35 @@
+Weber: Hallo Charlie, schön, dass du gekommen bist. Was führt dich heute zu uns?
+Charlie: Hi, danke. Mein Freund hat mir gesagt, er könnte sich was eingefangen haben, deswegen wollte ich mal nachchecken lassen.
+Weber: Verstehe. Magst du kurz erzählen, wie du dich selbst beschreibst, damit ich das richtig notiere?
+Charlie: Klar — ich bin 28, wurde weiblich geboren, ich lebe aber als Mann und fühle mich so wohl dabei.
+Weber: Alles klar, danke für die Info. Hast du anatomisch irgendwas, das für die Tests wichtig ist?
+Charlie: Ja, ich hab eine Vagina, und klar, auch den Analbereich.
+Weber: Gut, das notiere ich. In den letzten drei Monaten wie viele Partner hattest du?
+Charlie: Nur einen festen Partner.
+Weber: Welche sexuellen Praktiken hattet ihr in dem Zeitraum?
+Charlie: Wir hatten Vaginalsex, und ich hab auch Oralsex gemacht.
+Weber: Und wie war es mit Kondomen?
+Charlie: Bei Vaginalsex nutzen wir immer Kondome. Beim Oralsex benutzen wir nie Kondome.
+Weber: Danke, das hilft. Hat dein Partner dir gesagt, um welche Infektion es gehen könnte?
+Charlie: Er hat nur gemeint, er könne was haben, mehr hat er nicht gesagt.
+Weber: Okay. Du hast aktuell keine Beschwerden, oder?
+Charlie: Nein, eigentlich nicht. Ich kam eher proaktiv her.
+Weber: Super. Ich würde vorschlagen, wir testen auf HIV, Syphilis, Chlamydien und Gonorrhö — das ist Standard bei so einer Situation.
+Charlie: Was wird denn genau gemacht? Wie nehmt ihr die Proben?
+Weber: Wir nehmen Blut für HIV und Syphilis, und für Chlamydien und Gonorrhö machen wir einen Urintest plus einen Vaginalabstrich. Weil ihr auch Oralsex hattet, nehmen wir zusätzlich einen Rachenabstrich.
+Charlie: Klingt gut. Wie kriege ich die Ergebnisse?
+Weber: Wir schicken die Resultate über das Patientenportal, dann kannst du sie da einsehen.
+Charlie: Gut. Muss ich mir Sorgen um HIV machen? Gibt es gerade ein akutes Risiko?
+Weber: Nach dem, was du schilderst, erwarten wir kein akutes HIV-Expositionsereignis. Trotzdem testen wir auf HIV — das ist wichtig. Wenn es tatsächlich akut wäre, würden wir andere Schritte besprechen.
+Charlie: Okay. Was ist mit Prävention — Impfungen oder so?
+Weber: Du hast die Hepatitis-B-Impfserie komplett, das ist super. HPV und Hepatitis A haben wir nicht besprochen, aber im Moment ist Hep-B abgeschlossen.
+Charlie: Ich nehme kein PrEP.
+Weber: Verstanden — du bist derzeit nicht auf PrEP. Ich habe dir PrEP heute angesprochen und erklärt, das ist eine Option, falls du das möchtest.
+Charlie: Hm, vielleicht. Ich trinke ab und zu Alkohol, sonst nicht viel Risiko durch Drogen oder so.
+Weber: Danke für die Info. Ich habe dir außerdem ein kurzes Kondom-Counseling gegeben — das heißt, bei vaginalem Sex habt ihr's richtig gemacht mit Kondom, bei Oralsex könnt ihr über andere Schutzmöglichkeiten nachdenken, wenn ihr das wollt.
+Charlie: Welche Behandlung gäbe es, wenn was gefunden wird?
+Weber: Syphilis und bakterielle Infektionen wie Gonorrhö und Chlamydien haben wirksame Behandlungen — meist Antibiotika oder Injektion bei Syphilis. Wir besprechen das sofort, sollte etwas positiv sein.
+Charlie: Und wie schnell sind die Ergebnisse da?
+Weber: Die Laborzeiten variieren; du bekommst es über das Portal, sobald alles vorliegt. Ich sag dir Bescheid, falls etwas Dringendes dazwischen ist.
+Charlie: Alles klar. Dann lass uns die Tests machen.
+Weber: Gut, ich mache die Blutabnahme, einen Vaginalabstrich, Rachenabstrich und du gibst eine Urinprobe. Wenn noch Fragen auftauchen, sag Bescheid.

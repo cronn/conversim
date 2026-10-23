@@ -1,0 +1,79 @@
+Menter: (ruhig, distanziert) Warum sind Sie heute hier? Bitte kurz.
+Lea: (hektisch) Ich... ich habe Ausfluss und es brennt beim Wasserlassen, ich weiß nicht was das ist.
+Menter: Seit wann bestehen die Beschwerden? Datum bitte.
+Lea: (zitternd) Seit dem 20. Mai 2024.
+Menter: Haben Sie Fieber oder Unterbauchschmerzen?
+Lea: Nein, Fieber nicht, nur manchmal ein Ziehen im Unterbauch.
+Menter: Art des Ausflusses? Farbe, Geruch.
+Lea: (leise) Weißlich, leicht cremig, kein starken Geruch.
+Menter: Schmerzen beim Sex?
+Lea: Ja, es tut ein bisschen weh.
+Menter: (schnell) Brennen beim Wasserlassen: wie stark auf einer Skala 1 bis 10?
+Lea: (atemlos) Vielleicht eine 5, unangenehm.
+Menter: Sind Sie sexuell aktiv?
+Lea: Ja.
+Menter: Sexuelle Orientierung?
+Lea: Hetero.
+Menter: Beziehungskonstellation?
+Lea: Monogam, ich bin in einer festen Beziehung.
+Menter: Partnerin oder Partner?
+Lea: (verunsichert) Sie — eine Frau.
+Menter: Anzahl Sexualpartner in den letzten 12 Monaten?
+Lea: Einen.
+Menter: Datum des letzten Geschlechtsverkehrs.
+Lea: Am 15. Mai 2024.
+Menter: Schutzmaßnahmen, Kondome, wie häufig?
+Lea: Wir benutzen Kondome, aber nur gelegentlich. Also: ab und zu.
+Menter: Ist der Partner/die Partnerin auf STI getestet oder deren Status bekannt?
+Lea: (panisch) Weiß nicht, ihr Status ist mir unbekannt.
+Menter: Haben Sie früher schon einmal sexuell übertragbare Infektionen gehabt? Ja oder nein für jede: Hepatitis A?
+Lea: Nein.
+Menter: Hepatitis B?
+Lea: Nein.
+Menter: Hepatitis C?
+Lea: Nein.
+Menter: HIV?
+Lea: Nein.
+Menter: Syphilis?
+Lea: Nein.
+Menter: Gonorrhö, Chlamydien?
+Lea: Nein.
+Menter: Herpes (HSV), HPV/Wartenerkrankungen?
+Lea: Nein.
+Menter: (knapp) Sind Sie gegen Hepatitis A, Hepatitis B und HPV geimpft?
+Lea: Ja, ich habe Hepatitis A, Hepatitis B und HPV-Impfungen bekommen.
+Menter: Letzte allgemeine Vorsorgeuntersuchung — Datum?
+Lea: Am 10. August 2023 war ich zur Allgemeinuntersuchung.
+Menter: Letzte HIV-Testung — Datum?
+Lea: 1. März 2022.
+Menter: Letzte Syphilis-Testung — Datum?
+Lea: 1. März 2022.
+Menter: Letzte Chlamydien/Gonorrhö-Testung — Datum?
+Lea: Auch 1. März 2022.
+Menter: Nehmen Sie aktuell Medikamente, Allergien?
+Lea: Ich nehme keine Medikamente und habe keine bekannten Allergien.
+Menter: Schwanger possibility? Verhütung aktuell?
+Lea: Nein, nicht schwanger, wir verhüten mit Kondomen manchmal.
+Menter: Haben Sie Blutungen außerhalb der Regel oder ungewöhnlichen Ausfluss stärker nach dem Sex bemerkt?
+Lea: Nein, nur dieser Ausfluss und das Brennen.
+Menter: Benutzung von gemeinsamem Sexspielzeug, Reinigung danach?
+Lea: Ja, wir teilen manchmal Vibrator, aber sie reinigt ihn nicht immer gründlich.
+Menter: (ruhig) Gut. Ich werde einen Urintest machen und Abstriche nehmen — Vaginalabstrich und ggf. PCR für Chlamydien/Gonorrhö. Einverstanden?
+Lea: (ängstlich) Ja, bitte. Ich will wissen, ob das schlimm ist.
+Menter: Wahrscheinlich verschiedene Erreger möglich. Wir testen auch auf HIV und Syphilis serologisch, wenn Sie einwilligen.
+Lea: (flüsternd) Ja, bitte alles.
+Menter: (monotone Erklärung) Die Untersuchung ist vertraulich. In der offenen Sprechstunde bitte leise Antworten, andere Patienten sind im Wartezimmer.
+Lea: (schnell) Ja, ja, okay.
+Menter: Rauchen, Drogen, aktuelle Antibiotika in letzter Zeit?
+Lea: Ich rauche nicht, keine Drogen, keine Antibiotika.
+Menter: Schmerzen beim Wasserlassen verschlimmern sich? Blut im Urin?
+Lea: Nein, kein Blut, es brennt nur.
+Menter: (präzise) Haben Sie Fieber gemessen oder Schüttelfrost?
+Lea: Nein.
+Menter: Ich werde Ihnen jetzt sterile Probenbehälter geben, urinieren Sie bitte zunächst in den Becher, dann komme ich für den Abstrich kurz zurück. Sind Sie bereit?
+Lea: (zitternd) Ja, ich bin bereit.
+Menter: (kurz) Wenn die Ergebnisse kommen, rufen wir an. Bei positivem Befund informieren wir Partnerbenachrichtigung und Therapieoptionen. Einverstanden?
+Lea: (unsicher) Ja, bitte sagen Sie mir dann, was ich tun muss.
+Menter: Therapie richtet sich nach dem Erreger. Bei Chlamydien orale Antibiotika, bei Gonorrhö Kombinationstherapie. Bei Candida andere Behandlung. Wir besprechen alles nach Laborbefund.
+Lea: Danke. Ich habe solche Angst vor dem, was rauskommt.
+Menter: (sachlich) Angst ist notiert. Wir handeln nach Ergebnissen. Bitte jetzt Urin geben, dann Abstrich.

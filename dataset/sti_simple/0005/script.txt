@@ -1,0 +1,49 @@
+Klein: (vorsichtig, unsicher) Guten Morgen, Herr — ähm — Thomas, setzen Sie sich bitte, wie kann ich Ihnen helfen?
+Thomas: (nervös) Guten Morgen. Ich hab da unten seit ein paar Tagen Probleme, Ausfluss und es tut weh beim Wasserlassen. Deshalb bin ich jetzt hier.
+Klein: (blickt auf Notizblock) Verstehe. Seit wann genau haben Sie das? Können Sie mir ein Datum nennen?
+Thomas: (zögernd) Ja... seit dem 15. Mai dieses Jahres. Also 15.05.2024 fing das an, erst so ein leichter Ausfluss, und seit zwei, drei Tagen ist das Ziehen beim Pipi stärker.
+Klein: (leise) Gut, danke. Und hatten Sie in letzter Zeit neue sexuelle Kontakte?
+Thomas: (schnell, defensiv) Ja. Ich meine — ich bin eigentlich in einer festen Beziehung, monogam, hetero, aber ich hatte auf einer Dienstreise eine einmalige Begegnung. Es war ungeschützt.
+Klein: (notiert) Verstanden. Also Sie sagen, normalerweise sind Sie monogam und heterosexuell, und der letzte Kontakt war außer Haus, ungeschützt?
+Thomas: Genau. Letzter Geschlechtsverkehr war am 10. Mai 2024. Also 10.05.2024. Danach ging’s los mit den Beschwerden ein paar Tage später.
+Klein: (ruhig) Danke, das hilft uns bei der Einschätzung. Wie viele verschiedene Partner hatten Sie in den letzten zwölf Monaten?
+Thomas: (kurz, peinlich berührt) Nur eine weitere Person — also nur diese eine, zusätzlich zu meiner Frau.
+Klein: (leise, professionell) Verstanden. Benutzen Sie normalerweise Kondome?
+Thomas: (ausweichend) Gelegentlich... also nicht immer, eher selten. Bei der Reise war keines dabei.
+Klein: (schreibt) Okay. Haben Sie sonstige Erkrankungen, frühere sexuell übertragbare Infektionen?
+Thomas: (schnell) Nein. Nie was gehabt. Keine Hepatitis, kein HIV, nichts. Ich wurde auch gegen Hepatitis B und gegen HPV geimpft.
+Klein: (etwas erleichtert) Gut, das notiere ich: keine bekannten früheren Infektionen, Hepatitis‑B‑ und HPV‑Impfung vorhanden. Wann war Ihr letzter allgemeiner Gesundheitscheck?
+Thomas: (überlegt) Letzter Check war im Oktober 2023, am 20.10.2023. Alles in Ordnung damals.
+Klein: (nickt) In Ordnung. Zurück zu den Beschwerden: kommt der Ausfluss mehr am Morgen oder den ganzen Tag?
+Thomas: (unsicher) Meist morgens, aber manchmal den ganzen Tag. Und beim Wasserlassen brennt es eher am Anfang.
+Klein: (vorsichtig) Haben Sie Fieber, Bauchschmerzen oder Schmerzen beim Geschlechtsverkehr?
+Thomas: (schnell) Kein Fieber, kein Bauchweh. Schmerzen beim Sex bisher nicht, also, wenn ich Sex hatte danach gab's da keine neuen Schmerzen.
+Klein: (ruft gedanklich die Untersuchungen auf) Alles klar. Ich würde gern eine Urinprobe nehmen und, äh, einen Abstrich machen, also ein kleines Tupferverfahren, um zu sehen, ob eine Infektion vorliegt. Bluttests wären auch sinnvoll für HIV, Syphilis und Hepatitis-C. Ist das für Sie in Ordnung?
+Thomas: (alarmiert) Ähm — bevor wir da weitergehen: Was ist mit der Schweigepflicht? Wird meine Frau oder meine Krankenkasse irgendwas erfahren? Ich will auf keinen Fall, dass meine Frau davon erfährt.
+Klein: (beruhigend) Ärztliche Schweigepflicht gilt hier: ohne Ihre ausdrückliche Erlaubnis geben wir keine Informationen weiter. Befunde landen in Ihrer Patientenakte. Wenn Sie möchten, erkläre ich Ihnen, wie die Befunde abgerechnet werden und welche Möglichkeiten es zur vertraulichen Handhabung gibt.
+Thomas: (misstrauisch) Und die Krankenkasse, sieht die dass ich Tests hatte? Könnte da ein Bescheid oder so hinkommen?
+Klein: (vorsichtig) Bei der gesetzlichen Abrechnung werden in der Regel Leistungen kodiert, aber keine spezifischen Details an Dritte kommuniziert. Wenn Sie absolute Diskretion wünschen, können manche Tests auch privat gezahlt werden — dann gibt es keine Abrechnung über die Kasse. Wir besprechen das gleich, bevor wir etwas veranlassen.
+Thomas: (etwas beruhigter, aber immer noch angespannt) Also, ohne meine Zustimmung geht nichts raus. Gut. Können Sie mir versprechen, dass das hier zwischen uns bleibt?
+Klein: (fest, freundlich) Ja, das bleibt zwischen uns. Ich erkläre Ihnen alle Schritte und hole Ihr Einverständnis ein, bevor wir etwas weitergeben oder Dritte einbeziehen. Es gibt nur ganz wenige gesetzliche Ausnahmen, und darüber würde ich Sie vorher informieren — aber das ist sehr selten.
+Thomas: (leiser) Okay. Und wenn da was gefunden wird — wird das dem Gesundheitsamt gemeldet?
+Klein: (ehrlich) Manche Infektionen sind meldepflichtig. Sollte dies der Fall sein, würde ich es erklären und mit Ihnen besprechen, wie wir die Mitteilung handhaben und wie wir Kontaktpersonen informieren, ohne Ihre Privatsphäre unnötig zu verletzen. Meistens versuchen wir, das vertraulich und sachlich zu regeln.
+Thomas: (nickt langsam) Verstanden. Gut, ich will nur nicht, dass das Zuhause rauskommt.
+Klein: (sachlich) Das respektiere ich. Dann mache ich jetzt diskret die Untersuchung: Urinprobe und den Abstrich. Wenn Sie wollen, fülle ich auch gleich die Blutentnahmeformulare aus.
+Thomas: (zögernd) Ja, bitte. Und wie lange dauert es, bis die Ergebnisse da sind?
+Klein: (erklärt) Die meisten Schnelltests geben wir vorläufige Ergebnisse in ein bis zwei Tagen; Blutwerte und Kulturen können drei bis fünf Tage dauern. Bei dringendem Verdacht können wir auch sofort mit einer empirischen Behandlung beginnen, bis die Ergebnisse da sind. Das würde ich mit Ihnen absprechen.
+Thomas: (unsicher) Empirische Behandlung... heißt das, Sie geben Antibiotika ohne sicheres Ergebnis?
+Klein: (ruhig) Ja, manchmal behandeln wir schon, wenn die Symptome und der Kontakt darauf hinweisen, weil wir nicht wollen, dass sich etwas verschlimmert. Aber ich nenne Ihnen Vor- und Nachteile und treffe die Entscheidung gemeinsam mit Ihnen.
+Thomas: (leise) Okay. Und wenn es ansteckend ist, muss ich dann meine Frau informieren?
+Klein: (einfühlsam) Medizinisch gesehen wäre es ratsam, dass Sexualpartner informiert werden, damit sie sich auch testen und behandeln lassen können. Wie das kommuniziert wird, besprechen wir vertraulich. Es ist nicht unsere Aufgabe, Ihr Privatleben zu entblößen, sondern gesundheitlich Verantwortliches zu tun.
+Thomas: (atmet durch) Alles klar. Was kostet mich das, wenn ich privat zahle?
+Klein: (praktisch) Die Urin- und Abstrichuntersuchungen können wir als Einzelleistungen abrechnen, sowie die Bluttests. Ich sage Ihnen gleich die ungefähren Kosten; je nachdem, welche Tests wir veranlassen, liegt das im einstelligen bis niedrigen dreistelligen Eurobereich, wenn Sie es privat bezahlen.
+Thomas: (leise, resigniert) Machen wir das über die Krankenkasse. Ich will das lieber schnell geklärt haben.
+Klein: (notiert) In Ordnung, wir rechnen über die Kasse ab. Ich dokumentiere nur das Nötigste. Sind Sie allergisch gegen Medikamente, insbesondere Antibiotika?
+Thomas: (nachdenklich) Nicht, dass ich wüsste. Keine Allergien.
+Klein: (vorsichtig) Haben Sie aktuelle Medikamente?
+Thomas: (schüttelt den Kopf) Nein, nur gelegentlich Schmerzmittel.
+Klein: Gut. Dann würde ich jetzt die Untersuchung machen, und wir nehmen Blut. Danach besprechen wir, ob wir eine sofortige Behandlung beginnen. Einverstanden?
+Thomas: (zustimmend, ängstlich) Ja, einverstanden. Und bitte, sagen Sie mir noch einmal klar: Niemand wird meiner Frau davon erzählen, richtig?
+Klein: (bestimmt, beruhigend) Richtig. Ohne Ihre Einwilligung informieren wir niemanden. Ich werde Sie informieren, wenn eine gesetzliche Mitteilungspflicht besteht, bevor etwas passiert. Versprochen.
+Thomas: (leichter Humor, nervös) Gut. Dann legen wir los. Ich hoffe, das ist keine große Sache.
+Klein: (freundlich) Wir klären das vernünftig. Ich versuche, es so unkompliziert und diskret wie möglich zu machen. Bitte geben Sie mir die Urinprobe, dann mache ich den Abstrich.

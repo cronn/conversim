@@ -1,0 +1,45 @@
+Müller: Guten Morgen, ich bin Dr. Müller. Danke, dass Sie gekommen sind. Was führt Sie heute in unsere Ambulanz?
+Luca: Guten Morgen. Ich arbeite in der Sexarbeit und hatte eine riskante Begegnung, deswegen mache ich mir Sorgen.
+Müller: Ich verstehe. Darf ich kurz Ihr Geburtsdatum notieren?
+Luca: Klar, 15. Mai 2000.
+Müller: Danke. Wie sind Sie administrativ erfasst und wie identifizieren Sie sich?
+Luca: Ich bin administrativ weiblich, bei der Geburt auch weiblich, und ich bin Frau.
+Müller: Haben Sie hormonelle Therapien oder geschlechtsangleichende Eingriffe gemacht?
+Luca: Nein, ich nehme keine Hormone und hatte keine solchen Eingriffe.
+Müller: Aus anatomischer Sicht – haben Sie Vagina, Cervix und Uterus, und ist der Enddarm vorhanden?
+Luca: Ja, ich habe Vagina, Cervix, Uterus und auch den Rectum.
+Müller: Ist eine Schwangerschaft grundsätzlich möglich, und sind Sie aktuell schwanger?
+Luca: Ja, eine Schwangerschaft wäre möglich, ich bin aber nicht schwanger.
+Müller: Können Sie mir sagen, wann genau der Kontakt stattgefunden hat, um den es geht?
+Luca: Es war am 20. November 2023, das Datum weiß ich noch genau.
+Müller: In den letzten drei Monaten hatten Sie mehrere Partner oder nur einen?
+Luca: Nur einen Partner in den letzten drei Monaten.
+Müller: Welche Praktiken gab es bei diesem Kontakt?
+Luca: Es gab vaginalen Verkehr und wir hatten beides beim Oralverkehr — ich habe oral gegeben und auch oral empfangen.
+Müller: Haben Sie bei dem vaginalen Sex meist Kondome benutzt?
+Luca: Ja, meistens haben wir Kondome verwendet.
+Müller: Wissen Sie etwas über den HIV-Status dieses Partners?
+Luca: Ja, er hat gesagt, er sei HIV-negativ — das war bekannt.
+Müller: Und Ihnen ist nicht bekannt, dass er kürzlich eine STI hatte?
+Luca: Nein, er hatte nach seinem Wissen keine STI.
+Müller: Sie sagten, Sie arbeiten in der Sexarbeit — trinken Sie gelegentlich Alkohol oder konsumieren Sie Drogen?
+Luca: Ich trinke gelegentlich Alkohol, aber ich nehme keine Freizeitdrogen und spritze nichts.
+Müller: Wie sieht es mit Ihren Impfungen aus, speziell Hepatitis A und B sowie HPV?
+Luca: Hepatitis B habe ich komplett, Hepatitis A habe ich nicht, und die HPV-Impfung ist nicht vollständig.
+Müller: Nehmen Sie aktuell PrEP gegen HIV?
+Luca: Nein, ich nehme keine PrEP gerade.
+Müller: Wurde PrEP Ihnen schon einmal angeboten oder besprochen?
+Luca: Ja, vor ein paar Monaten hat mir eine Beratungsstelle PrEP angeboten und wir haben kurz darüber gesprochen.
+Müller: Gut. Ich würde Ihnen eine Routineabklärung vorschlagen: HIV, Syphilis, Chlamydien, Gonorrhö und einen Hepatitis-B-Test.
+Luca: Okay, welche Proben benötigen Sie dafür?
+Müller: Wir nehmen Blut, machen einen Urintest, einen vaginalen Abstrich und einen Rachenabstrich — also Blut, Urin, Vaginal- und Halsabstrich.
+Luca: Wie erhalte ich die Ergebnisse, und wie lange dauert das?
+Müller: Die Ergebnisse gehen über das Patientenportal, in der Regel innerhalb von sieben Tagen.
+Luca: Sollte ich mir wegen dieser Exposition Sorgen um eine HIV-Infektion machen?
+Müller: Nach dem, was Sie geschildert haben, vermuten wir keine relevante HIV-Exposition, trotzdem testen wir routinemäßig.
+Luca: Das beruhigt mich. Können wir noch kurz über Kondomnutzung und eventuell PrEP reden?
+Müller: Ja, wir besprechen Kondomgebrauch ausführlich und prüfen gerne nochmal die Option PrEP, wenn Sie das möchten.
+Luca: Ja, das wäre gut. Ich bin manchmal unsicher, wie ich das in der Arbeit am besten handhabe.
+Müller: Das ist völlig verständlich, wir gehen darauf ein und geben konkrete Empfehlungen. Dann würde ich jetzt die Proben nehmen.
+Luca: Danke, das ist hilfreich. Wie melde ich mich, falls ich danach noch Fragen habe?
+Müller: Sie können über das Patientenportal schreiben oder hier direkt anrufen. Wir melden uns, sobald die Ergebnisse da sind.

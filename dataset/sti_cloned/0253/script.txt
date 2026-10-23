@@ -1,0 +1,31 @@
+Schneider: Hallo Sascha, schön, dass Sie da sind — kurz zur Vertraulichkeit: alles, was wir besprechen, bleibt vertraulich. Was führt Sie heute her?
+Sascha: Hallo. Ist mehr so 'ne Routineuntersuchung, kein akuter Notfall. Hab' aber 'n bisschen Fragen wegen STIs.
+Schneider: Alles klar, Routine ist völlig ok. Geburtsdatum und so kurz abklären?
+Sascha: Geboren bin 15. Mai 1990.
+Schneider: Danke. Wie möchten Sie angesprochen werden, und kurz zur Biologie: bei der Geburt welches Geschlecht erhalten?
+Sascha: Ich bin Frau, bei der Geburt weiblich, also sex at birth weiblich. Ich hab' auch typische weibliche Anatomie — Vagina, Zervix und Uterus sind vorhanden.
+Schneider: Gut, und nehmen Sie Hormontherapie oder hatten geschlechtsangleichende Operationen?
+Sascha: Keine Hormontherapie, keine OPs in dem Bereich.
+Schneider: Alles klar. Sie sagten Routine — haben Sie aktuell Beschwerden?
+Sascha: Naja, seit so ungefähr dem 10. Dezember 2023 hab' ich Jucken in der Vagina. Sonst keine starken Schmerzen oder Fieber.
+Schneider: Verstanden. Zur letzten sexuellen Aktivität — wann war der letzte Kontakt, und welche Praktiken waren das?
+Sascha: Der letzte Sex war ungefähr am 20. November 2023. In den letzten drei Monaten hatte ich einen Partner, wir hatten vaginale Penetration und ich habe auch oralen Verkehr empfangen.
+Schneider: Wie sieht es mit Kondomnutzung bei vaginalem Sex aus?
+Sascha: Das war eher so manchmal — nicht immer.
+Schneider: Danke. Hand aufs Herz: vermuten Sie ein relevantes HIV-Risiko bei einem Kontakt in letzter Zeit?
+Sascha: Nein, ich vermute da kein relevantes HIV-Exposure.
+Schneider: Haben Sie in der Vergangenheit schon mal eine sexuell übertragbare Infektion gehabt?
+Sascha: Ja, ich hatte mal Chlamydien. Das war am 1. März 2018, wurde damals behandelt.
+Schneider: Alles klar. Und Impfstatus: sind Sie gegen Hepatitis B geimpft, und wie sieht's mit HPV aus?
+Sascha: Gegen Hepatitis B bin ich nicht geimpft. Bei HPV habe ich die komplette Impfung bekommen.
+Schneider: Gut zu wissen. Alkohol oder Drogen, die Sexualverhalten beeinflussen könnten?
+Sascha: Alkohol trink ich gelegentlich, aber keine Freizeitdrogen, auch keine Injektionen.
+Schneider: Danke. Zum weiteren Vorgehen: ich schlage vor, wir testen auf HIV, Syphilis, Chlamydien und Gonokokken. Dazu nehmen wir Blut, Urin und einen vaginalen Abstrich.
+Sascha: Okay. Wie krieg ich dann die Ergebnisse mit?
+Schneider: Die Ergebnisse bekommen Sie über unser Patientenportal, in der Regel innerhalb einer Woche — also etwa sieben Tage.
+Sascha: Und falls was positiv ist, wie würde die Behandlung aussehen? Worauf muss ich achten?
+Schneider: Bei Chlamydien oder Gonorrhö gibt's Antibiotika, Syphilis wird auch mit Antibiotika behandelt, HIV-Test klären wir ggf. mit weiteren Abklärungen. Wichtig ist, nicht selbst rumzudoktern — bei Juckreiz klären wir erst die Ursache, bevor wir irgendwas empfehlen.
+Sascha: Klingt vernünftig. Können Sie mir noch kurz was wegen Kondomen sagen? Ich will das gern besser machen.
+Schneider: Klar — regelmäßige Kondomnutzung beim vaginalen Sex reduziert Risiken deutlich. Wir besprechen gern, wie man das zuverlässig umsetzt; ich geb' Ihnen auch Infos dazu.
+Sascha: Danke. Können wir dann jetzt die Tests machen?
+Schneider: Ja, dann mach ich Blutabnahme, Urin und den vaginalen Abstrich. Wir schauen uns das an, und ich melde mich über das Portal in ungefähr sieben Tagen.

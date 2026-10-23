@@ -1,0 +1,36 @@
+Mika: Guten Morgen, Herr Doktor. Danke, dass Sie sich Zeit nehmen — mein Partner hat mich gestern informiert, er könnte eine STI haben, und deswegen bin ich heute hier.
+Schneider: Guten Morgen, Mika. Schön, dass Sie gekommen sind. Wir behandeln das vertraulich. Können Sie kurz sagen, wie alt Sie sind und ob es etwas gibt, das ich medizinisch über Ihr Geschlecht wissen sollte?
+Mika: Ich bin am 15. Juli 1995 geboren, also 28 Jahre alt. Ich bin Mann und habe einen Penis.
+Schneider: Alles klar. Wann war der letzte sexuelle Kontakt, von dem Sie denken, dass er relevant sein könnte?
+Mika: Das war ungefähr am 10. Mai dieses Jahres.
+Schneider: Waren das Gelegenheiten in letzter Zeit, oder eher einmalig?
+Mika: In den letzten drei Monaten hatte ich zwei verschiedene Partner.
+Schneider: Und welche Praktiken gab es dabei? Sagen Sie ruhig offen, wie genau.
+Mika: Es gab Analverkehr, und dabei war ich meist die rezeptive Person.
+Schneider: Haben Sie dabei regelmäßig Kondome benutzt?
+Mika: Nicht immer — eher manchmal. Also teilweise mit Kondom, teilweise ohne.
+Schneider: Verstehe. Seit wann haben Sie Symptome oder ist Ihnen etwas aufgefallen?
+Mika: Etwa seit dem 18. Mai habe ich einen Ausfluss aus der Harnröhre bemerkt.
+Schneider: Danke, das ist wichtig. Haben Sie sonst noch Beschwerden, Fieber oder Schmerzen beim Wasserlassen?
+Mika: Schmerzen beim Wasserlassen sind leicht, aber nichts dramatisches. Kein Fieber.
+Schneider: Gut. Zur Vorgeschichte: hatten Sie früher schon mal eine sexuell übertragbare Infektion?
+Mika: Nein, nicht, dass ich wüsste. Ich wurde bisher nicht positiv auf irgendetwas getestet.
+Schneider: In Ordnung. Ein paar Punkte zur Prävention: Nehmen Sie aktuell PrEP zur HIV-Prophylaxe?
+Mika: Nein, ich nehme kein PrEP.
+Schneider: Gut, wir können PrEP besprechen — ich erkläre Ihnen gleich Vor- und Nachteile. Und allgemeine Beratung zu Kondomen machen wir auch, das ist sinnvoll bei gelegentlichem Gebrauch.
+Mika: Das wäre gut, ich würde gern mehr darüber wissen.
+Schneider: Zu den Tests, die ich empfehlen würde: Bluttests für HIV und Syphilis sowie Abstriche beziehungsweise Untersuchungen für Chlamydien und Gonorrhö. Dafür entnehmen wir Blut, geben Ihnen eine Urinprobe und machen bei Bedarf einen Harnröhrenabstrich.
+Mika: Also Blut, Urin und ein Abstrich aus der Harnröhre — klingt gut. Wie erfahre ich die Ergebnisse?
+Schneider: Wir rufen Sie an, sobald die Befunde da sind. Wenn etwas positiv ist, besprechen wir sofort die Behandlung und weitere Schritte.
+Mika: Und falls was nachgewiesen wird — ist das gut behandelbar?
+Schneider: Viele bakteriellen STIs wie Chlamydien oder Gonorrhö lassen sich mit Antibiotika behandeln. Syphilis ebenfalls, HIV wird antiretroviral behandelt; je früher man startet, desto besser. Bei Verdacht auf eine Infektion fangen wir schnell an, sobald die Ergebnisse vorliegen.
+Mika: Haben Sie Einschätzung, ob ich ein hohes HIV-Risiko hatte bei dem Kontakt vor sechs Wochen?
+Schneider: Da Sie in der Rolle als rezeptiver Partner ohne konsequente Kondomnutzung waren, besteht ein mögliches Risiko. Ihr letzter relevanter Kontakt war am 10. Mai — das liegt innerhalb der letzten sechs Wochen, daher ist eine Testung jetzt sinnvoll. PEP ist nur bei sehr kurzem Zeitfenster nach Exposition relevant; das war hier schon vorbei, aber PrEP kann für die Zukunft eine Option sein.
+Mika: Verstehe. Ich wollte auch fragen, ob ich jetzt schon Symptome einer HIV-Akutinfektion hätte — ich habe nur diesen Ausfluss.
+Schneider: Akutsymptome sind oft unspezifisch. Ihr Ausfluss passt eher zu einer bakteriellen Urethritis als zu einer akuten HIV-Infektion, aber wir testen gezielt auf alles, was nötig ist.
+Mika: OK. Noch eine Sache: Ich habe nie Drogen injiziert, falls das relevant ist.
+Schneider: Das ist relevant, danke. Injektion von Drogen erhöht ein anderes Übertragungsrisiko; da Sie das nie getan haben, ist dieses Risiko nicht gegeben. Wir besprechen jetzt kurz, wie wir weiter vorgehen: Ich lasse Blut abnehmen und Sie geben uns eine Urinprobe; zusätzlich machen wir einen Harnröhrenabstrich. Außerdem spreche ich Ihnen Optionen zur Prävention wie Kondome und PrEP durch.
+Mika: Klingt gut. Wann bekomme ich den Anruf mit den Ergebnissen?
+Schneider: Wir rufen Sie an, sobald die Laborwerte da sind — in der Regel innerhalb weniger Tage. Wenn etwas dringlich ist, früher. Haben Sie noch Fragen?
+Mika: Nein, das war's erst mal. Danke, dass Sie das so sachlich erklären.
+Schneider: Gern. Dann machen wir die Proben und ich melde mich, sobald wir etwas wissen. Und wenn Sie in der Zwischenzeit stärkere Beschwerden bekommen, melden Sie sich sofort.

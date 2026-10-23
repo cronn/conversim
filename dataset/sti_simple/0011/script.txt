@@ -1,0 +1,53 @@
+Hannah: (streng) Sie sagen also, Sie kommen wegen möglichen STI-Symptomen in die offene Sprechstunde — was genau bemerken Sie?
+Thomas: (nervös) Ich habe Ausfluss, Brennen beim Wasserlassen und Juckreiz seit ein paar Tagen.
+Hannah: Seit wann genau treten die Beschwerden auf?
+Thomas: Am 20. Mai 2024 habe ich das zum ersten Mal bemerkt.
+Hannah: Hatten Sie Fieber oder andere allgemeine Beschwerden?
+Thomas: Nein, kein Fieber, nur die lokalen Symptome.
+Hannah: (direkt) Wie ist Ihre sexuelle Orientierung und Ihr Beziehungsstatus?
+Thomas: Ich bin homosexuell und eigentlich verheiratet — ich habe eine Frau und Kinder, aber ich bin homosexuell.
+Hannah: (kühl) Wie ist Ihr Beziehungsmodell?
+Thomas: Die Beziehung ist offen.
+Hannah: Wie viele Sexualpartner hatten Sie in den letzten zwölf Monaten?
+Thomas: Drei, alle Männer.
+Hannah: Wann war der letzte sexuelle Kontakt?
+Thomas: Am 10. Mai 2024, auf einer Dienstreise — und ich hatte ungeschützten Sex.
+Hannah: War der/die Partner über seinen STI-Status informiert?
+Thomas: Ich weiß das nicht, es war unbekannt.
+Hannah: Wie benutzen Sie gewöhnlich Verhütung — Kondome?
+Thomas: Nur gelegentlich, also manchmal Kondome, nicht immer.
+Hannah: Hatten Sie in der Vergangenheit schon mal eine sexuell übertragbare Infektion?
+Thomas: Ja, vor ein paar Jahren Chlamydien.
+Hannah: (notierend) Sonstige bekannte Infektionen wie Hepatitis A, B, C, HIV, Syphilis, Herpes oder HPV-Warzen?
+Thomas: Nein, Hepatitis A und B habe ich nicht gehabt, Hepatitis C, HIV, Syphilis, Gonorrhö, Herpes oder HPV-Warzen auch nicht.
+Hannah: Sind Sie geimpft gegen Hepatitis A, Hepatitis B und HPV?
+Thomas: Ja, Hepatitis A und B und auch HPV-Impfungen sind gemacht.
+Hannah: Wann waren Ihre letzten Tests bzw. Check-ups?
+Thomas: Letzter allgemeiner Check-up war am 15. Oktober 2023, HIV-Test am 5. November 2023, Syphilis am 5. November 2023 und Chlamydien/Gonorrhö auch am 5. November 2023.
+Hannah: (streng) Gut, das ist wichtig. Und noch einmal zur Schweigepflicht: bleibt das, was Sie mir sagen, vertraulich?
+Thomas: (dringlich) Bleibt das wirklich vertraulich? Ich habe Angst, dass meine Frau davon erfährt.
+Hannah: (ruhig, bestimmt) Als Ärztin unterliege ich der ärztlichen Schweigepflicht. Ich gebe keine Informationen ohne Ihre Einwilligung weiter.
+Thomas: (misstrauisch) Gibt es irgendeine Ausnahme, wo das trotzdem weitergegeben werden muss?
+Hannah: Nur in sehr bestimmten rechtlichen Fällen oder bei Gefahr für Dritte — bei gewöhnlichen STI-Abklärungen informieren wir Dritte nicht ohne Ihre Zustimmung. Wichtig ist: genaue Angaben helfen bei Diagnose und Behandlung.
+Thomas: (erleichtert, aber angespannt) Also wird meine Frau nicht informiert?
+Hannah: Nicht von mir. Wir müssen aber schauen, ob Partnerbenachrichtigung nötig ist — das kann anonym erfolgen über das Gesundheitsamt, falls erforderlich.
+Thomas: (kleinlaut) Würde das dann meine Frau erreichen?
+Hannah: Nicht zwingend. Wenn Sie wollen, können wir anonyme Partnerbenachrichtigung wählen. Ich erkläre Ihnen die Optionen, bevor wir etwas in die Wege leiten.
+Thomas: Gut. Was schlagen Sie nun vor wegen meiner Symptome?
+Hannah: Ich möchte Abstriche machen — Urinprobe und gegebenenfalls Rachen- und rektale Abstriche — sowie Blutentnahme für HIV, Syphilis und Hepatitis-Tests. Bei den Symptomen sind zudem Tests auf Chlamydien und Gonorrhö wichtig.
+Thomas: (ängstlich) Muss ich sofort behandelt werden?
+Hannah: Wenn der Befund eindeutig ist oder bei starkem Verdacht, behandeln wir zügig. Zuerst nehme ich aber Proben, damit wir die Erreger gezielt nachweisen können. Bei bakteriellen Infektionen ist eine rasche Therapie sinnvoll.
+Thomas: (flüsternd) Wenn das positiv ist, muss das dann an jemanden gemeldet werden?
+Hannah: Einige Meldepflichten betreffen bestimmte Krankheiten, das kann das Gesundheitsamt involvieren. Das geschieht jedoch nicht auf Personenebene öffentlich — in der Regel werden Maßnahmen zur Partnerbenachrichtigung organisiert.
+Thomas: (wiederholend) Also, nochmals: Ich will nicht, dass meine Frau davon erfährt. Ich weiß nicht, wie sie reagieren würde.
+Hannah: (streng, aber sachlich) Vertraulichkeit ist garantiert. Ich bitte Sie nur um vollständige Ehrlichkeit bei den Angaben, damit wir Sie und die Partner korrekt schützen können.
+Thomas: (resigniert) Okay. Es war ein Seitensprung auf der Dienstreise, ungeschützt, am 10. Mai — und ich habe seit dem 20. Beschwerden.
+Hannah: (notierend) Verstanden. Haben Sie Ausschlag oder Schmerzen zusätzlich?
+Thomas: Nur das Brennen beim Wasserlassen, der Ausfluss ist auffällig, und leichtes Jucken.
+Hannah: Gut. Ich nehme jetzt die Proben. Danach besprechen wir, welche Tests genau laufen und wie lange es dauert. Sie können anonym benachrichtigen lassen, wenn nötig.
+Thomas: (leise) Wie lange dauert es, bis die Ergebnisse da sind?
+Hannah: In der Regel 1–3 Tage für PCR-Tests auf Chlamydien und Gonorrhö, Bluttests auf HIV und Syphilis können ein paar Tage benötigen. Ich rufe Sie an oder verwalte die Befunde über unser Patientenportal — was bevorzugen Sie?
+Thomas: (zögernd) Anruf bitte. Und noch etwas: Kann ich für die Zeit etwas gegen die Beschwerden bekommen?
+Hannah: Ich gebe Ihnen eine symptomatische Behandlung gegen Schmerzen und Juckreiz. Bei starkem Verdacht auf bakterielle Infektion bespreche ich mit Ihnen eine sofortige Therapie. Dafür brauche ich noch die Proben.
+Thomas: (dankbar, nervös) Danke. Und nochmals — alles bleibt vertraulich, ja?
+Hannah: (klar) Ja. Ich beginne mit der Anamnese und den Abstrichen. Seien Sie bitte ehrlich bei weiteren Fragen, nur so können wir zielgerichtet helfen.

@@ -1,0 +1,65 @@
+Sandra: (nervös) Ich habe seit ein paar Tagen Ausfluss, beim Wasserlassen brennt es und es juckt unten — deswegen bin ich hier.
+Jonas: (kurz) Seit wann genau treten die Beschwerden auf?
+Sandra: Am 10.07.2024 hat es angefangen, erst nur leicht, seit zwei Tagen ist es schlimmer.
+Jonas: Hatten Sie seitdem Fieber oder starke Schmerzen im Unterbauch?
+Sandra: Nein Fieber nicht, nur das Brennen beim Wasserlassen und dieses ständige Jucken. Ich habe online gelesen, dass das alles auf seltene, resistente STIs hindeuten kann.
+Jonas: Verstehe. Sie sind hier in der offenen Sprechstunde, wir machen kurz Anamnese und nehmen dann Proben. Sind Sie heterosexuell?
+Sandra: Ja, ich bin heterosexuell, aber in einer offenen Beziehung.
+Jonas: Offen, okay. Wie viele Sexualpartner hatten Sie in den letzten 12 Monaten?
+Sandra: Drei verschiedene Frauen in den letzten zwölf Monaten.
+Jonas: Und Ihr letzter Geschlechtsverkehr war wann?
+Sandra: Am 15.07.2024, also vor ein paar Tagen.
+Jonas: Haben Sie oder Ihre Partnerinnen Kondome benutzt?
+Sandra: Wir benutzen Kondome häufig, aber nicht immer. Bei der letzten Begegnung wurde kein Kondom benutzt.
+Jonas: Wissen Sie, ob eine Ihrer Partnerinnen bekanntermaßen eine STI hatte?
+Sandra: Nein, der Status war unbekannt. In den Foren steht, dass Leute oft nichts sagen, das macht mir Angst.
+Jonas: (ruhig, knapp) Verstanden. Welche Art von Sex war es — oral, vaginal, anal?
+Sandra: Vaginal. Keine Anal- oder Oralsex-Angaben diesmal.
+Jonas: Gut. Hatten Sie früher schon mal Gonorrhö, Chlamydien, Syphilis, HIV, Hepatitis oder Genitalherpes?
+Sandra: Nein, laut meinen Unterlagen hatte ich nichts davon. Ich war auch letztes Jahr beim Check-up.
+Jonas: Wann war der letzte allgemeine Check-up bzw. letzte Tests für HIV, Syphilis und Chlamydien/Gonorrhö?
+Sandra: Am 05.10.2023 hatte ich alles testen lassen — allgemeiner Check-up, HIV, Syphilis und Chlamydien/Gonorrhö.
+Jonas: Sind Sie gegen Hepatitis A und B geimpft?
+Sandra: Ja, beide Impfungen habe ich bekommen.
+Jonas: Gut. Keine bekannten früheren Hepatitis A, B, C oder andere sexuell übertragbare Erkrankungen bei Ihnen, richtig?
+Sandra: Richtig, nichts davon.
+Jonas: Okay. Beschreiben Sie den Ausfluss bitte: eher wässrig, schleimig, eitrig, grünlich?
+Sandra: Eher gelblich und ein bisschen klumpig, nicht ganz klar.
+Jonas: Und das Jucken ist außen oder eher innerlich?
+Sandra: Mehr außen, an der Scheide und den Schamlippen.
+Jonas: Alles klar. Ich muss Sie bitten, dass wir jetzt diskret eine Untersuchung machen und Proben nehmen — vaginaler Abstrich und Urinprobe, Blut für HIV und Syphilis und Hepatitis, sowie gegebenenfalls Kultur, wenn wir eine Gonorrhö vermuten. Ist das in Ordnung?
+Sandra: (abwehrend) Muss das sein? Im Internet sagen manche, man soll erst zu Spezialkliniken bei Verdacht auf resistente Keime.
+Jonas: Wir können das hier abklären. Wenn der Abstrich auf Gonorrhö positiv ist, schicken wir gleichzeitig eine Kultur ans Labor für Antibiogramm und melden es an die Fachstelle. Erstmal testen, dann entscheiden wir weiter. Kurz, effizient, vertraulich.
+Sandra: Und wenn es wirklich eine resistente Variante ist? Ich habe Threads gelesen, wo Standardantibiotika nichts mehr bringen.
+Jonas: Resistente Gonorrhö ist möglich, aber noch relativ selten. Wenn die PCR positiv ist, behandeln wir nach Leitlinie und machen Kultur plus Resistenztest. Bei Verdacht auf Resistenz überweisen wir an spezialisierte Zentren. Panik bringt nichts, wir handeln gezielt.
+Sandra: Ich will nicht, dass mein Partnerkreis alarmiert wird ohne Grund. Wie läuft das mit der Partnerbenachrichtigung ab?
+Jonas: Wir behandeln und informieren über Meldepflichten. Bei bestätigter STI muss die Kontaktkette informiert werden, das geht anonym oder gemeinsam — wir beraten Sie dazu. Bis zum geklärten Befund sollten Sie sexuelle Kontakte vermeiden.
+Sandra: Wie lange dauert das Ergebnis ungefähr?
+Jonas: PCR-Ergebnis für Chlamydien/Gonorrhö meist 24–48 Stunden. Blutserologien für Syphilis und HIV ein bis drei Tage, je nach Labor. Kultur und Resistenztests brauchen länger, mehrere Tage.
+Jonas: (leicht gehetzt) Ich brauche jetzt kurz Ihre Versichertenkarte, dann erkläre ich, wie die Proben ablaufen.
+Sandra: (reicht Karte) Machen Sie alles, aber wenn es nichts ist, will ich das wissen. Ich habe schon gelesen, dass Ärzte oft falsch diagnostizieren.
+Jonas: Wir machen standardisierte Tests. Durchfall, Ausfluss, Brennen — Differentialdiagnosen sind Chlamydien, Gonorrhö, Trichomonaden, bakterielle Vaginose oder Hefepilz. Die Proben unterscheiden das.
+Sandra: Und wenn es nur eine Pilzinfektion ist, wozu dann so viele Bluttests?
+Jonas: Serologie für HIV und Syphilis gehört bei STI-Anamnese dazu. Hepatitis prüfen wir bei Risikokontakt, aber Sie sind gegen A und B geimpft, das notiere ich. Bluttests ergänzen die Abstrichbefunde.
+Sandra: Ich bin geimpft gegen Hepatitis A und B, ja.
+Jonas: Notiert. Keine früheren Hepatitis A/B/C, kein HIV, keine Syphilis, keine Gonorrhö, keine Chlamydien — alles vermerkt.
+Sandra: Gut. Können Sie mir kurz sagen, was passiert, falls der Gonokokken-Test positiv ist?
+Jonas: Dann behandeln wir nach Leitlinie, melden den Fall und veranlassen Kultur mit Resistenztest. Wir beraten zu Partnerbenachrichtigung und Wiedervorstellung. Wenn nötig, Überweisung an Infektiologie.
+Sandra: Ich will, dass das diskret bleibt. Wird das in meiner Krankenakte auffindbar sein?
+Jonas: Es wird dokumentiert, ja. Dokumentation ist gesetzlich vorgeschrieben, aber Daten bleiben vertraulich zwischen Ärzten und Ihnen — außer Meldepflichten gegenüber Gesundheitsbehörden, wenn erforderlich.
+Sandra: (skeptisch) Also, die Gesundheitsämter bekommen das?
+Jonas: Bei meldepflichtigen Infektionen ja. Wir informieren Sie vorab und unterstützen beim Vorgehen.
+Jonas: (praktisch) Können Sie bitte kurz auf die Liege? Ich nehme einen vaginalen Abstrich, einen Urin-Mittelstrahl und nehme Blut ab. Das dauert fünf Minuten.
+Sandra: (zögernd) Geht das schmerzfrei?
+Jonas: Ein kurzer Abstrich kann unangenehm sein, aber nicht schmerzhaft. Ich mache das zügig.
+Sandra: Okay. Und nachher — bekomme ich dann direkt Medikamente?
+Jonas: Falls wir eine eindeutige klinische Verdachtsdiagnose haben, könnten wir eine empirische Behandlung anbieten. Meist warten wir auf die PCR für zielgerichtete Therapie; bei starkem Verdacht oder schwerer Symptomatik wird aber sofort behandelt.
+Sandra: (misstrauisch) Und wenn die Keime resistent sind und die erste Therapie nichts bringt?
+Jonas: Dann haben wir Kultur und Antibiogramm. Wir passen die Therapie an und arbeiten mit Infektiologen zusammen. Resistenzen sind behandelbar, erfordern manchmal andere Antibiotika.
+Sandra: Ich will, dass das nicht wiederkommentiert wird in meinem Bekanntenkreis. Kann ich anonym benachrichtigen lassen?
+Jonas: Ja, viele Gesundheitsämter bieten anonyme Partnerbenachrichtigung an. Wir erklären das Schritt für Schritt.
+Sandra: Gut. Wie lange soll ich keinen Sex haben?
+Jonas: Bis alle relevanten Befunde ausgeschlossen oder Sie nach erfolgter Therapie als sicher gelten. Mindestens bis zum Abschluss der Behandlung und Freigabe durch uns — in der Regel mehrere Tage bis Wochen je nach Erreger.
+Jonas: (geschäftlich) Alles klar, ich nehme jetzt die Proben. Danach vereinbaren wir einen Rückruf oder Termin zur Befundbesprechung. Haben Sie noch Fragen?
+Sandra: Nein, nur bitte schnell und sorgfältig. Ich will keine falschen Diagnosen wegen "Standardbehandlungen", die im Internet kritisiert werden.
+Jonas: Verstanden. Wir arbeiten nach aktuellen Leitlinien und schicken Kultur, wenn nötig. Ich bin kurz, wir sind fertig in zehn Minuten.

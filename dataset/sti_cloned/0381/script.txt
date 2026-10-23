@@ -1,0 +1,31 @@
+Yilmaz: Guten Morgen, ich bin Dr. Yilmaz. Sie sind wegen PrEP-Beratung hier, richtig? Alles, was wir besprechen, bleibt vertraulich.
+Sascha: Genau, danke. Ich bin Sascha.
+Yilmaz: Dürfte ich kurz Ihr Geburtsdatum und Ihre Administrativeintrag im System wissen?
+Sascha: Klar — ich wurde am 15. März 1996 geboren. Im System steht bei mir „divers“ als administratives Geschlecht.
+Yilmaz: Danke. Und wie würden Sie Ihre Geschlechtsidentität beschreiben, und gab es geschlechtsangleichende Maßnahmen?
+Sascha: Ich bin eine trans Frau, hatte schon geschlechtsangleichende Operationen und nehme aktuell Hormone.
+Yilmaz: Verstehe. Welche Genitalanatomie ist bei Ihnen vorhanden — können Sie das kurz sagen?
+Sascha: Ich habe eine Neovagina, meinen Mastdarm ist da, und die Prostata ist auch noch vorhanden.
+Yilmaz: Alles klar. Wann war Ihr letzter sexueller Kontakt ungefähr?
+Sascha: Der letzte Kontakt war ungefähr am 10. Juni 2024.
+Yilmaz: Und wie viele Partner hatten Sie in den letzten drei Monaten?
+Sascha: In den letzten drei Monaten waren das drei verschiedene Partner.
+Yilmaz: Welche Praktiken waren da relevant — vaginal, anal, oral?
+Sascha: In den letzten drei Monaten hatte ich Vaginalverkehr, war beim Analverkehr reaktiv/passiv und habe auch oralen Verkehr bekommen.
+Yilmaz: Und wie verhüten Sie dabei — Kondome bei vaginal, anal, oral?
+Sascha: Bei vaginalem Sex manchmal ein Kondom, beim Analverkehr meist Kondome, beim Oralen nie.
+Yilmaz: Okay. Können Sie schwanger werden oder ist das für Sie nicht möglich?
+Sascha: Das ist für mich nicht möglich, also Schwangerschaft kein Thema.
+Yilmaz: Gab es in der Vergangenheit schon STIs bei Ihnen?
+Sascha: Ja, ich hatte Chlamydien — das war im August 2022.
+Yilmaz: Danke. Wie sieht es mit Impfungen aus — Hepatitis A/B, HPV?
+Sascha: Hepatitis A bin ich nicht geimpft, Hepatitis B habe ich komplett, HPV-Impfung ist unvollständig.
+Yilmaz: Wie ist Ihr Konsum von Alkohol oder Drogen allgemein?
+Sascha: Alkohol nur gelegentlich, auch gelegentliche Freizeitdrogen, aber niemals intravenös.
+Yilmaz: Gut. Schätzen Sie, dass es in letzter Zeit ein relevantes HIV-Expositionsrisiko gab?
+Sascha: Nein, ich vermute kein relevantes Risiko.
+Yilmaz: Wir würden Ihnen PrEP erläutern und anbieten — Sie selbst nehmen aktuell keine PrEP, korrekt?
+Sascha: Richtig, ich nehme aktuell keine PrEP.
+Yilmaz: Dann schlage ich vor, wir machen folgende Tests: Blut für HIV und Syphilis und Hepatitis A, plus Abstriche — rektal und vaginal für Chlamydien und Gonorrhö. Die Ergebnisse bekommen Sie über das Patientenportal in etwa sieben Tage.
+Sascha: Das klingt gut, danke. Und Kondomnutzung besprechen wir auch bitte.
+Yilmaz: Machen wir — ich erklär kurz das Monitoring bei PrEP und wir besprechen Impfungen, insbesondere Hepatitis A und Auffrischung HPV. Wenn Sie einverstanden sind, nehme ich jetzt die Blut- und Abstrichproben.

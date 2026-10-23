@@ -1,0 +1,32 @@
+Müller: Guten Tag, ich bin Dr. Müller. Alles hier ist vertraulich — erzählen Sie ruhig, worum’s geht.
+Robin: Hi. Ja, ich bin hier zur Nachkontrolle, neulich wurde bei mir was diagnostiziert, und ich wollte das jetzt prüfen lassen. Bin ein bisschen nervös, ehrlich gesagt.
+Müller: Das ist völlig okay. Darf ich kurz Ihr Geburtsdatum haben, zur Akte?
+Robin: Klar: 15. Juli 1995.
+Müller: Danke. Und wie würden Sie Ihre Geschlechtsidentität beschreiben?
+Robin: Ich bin nicht-binär. Bei der Geburt stand weiblich, also ja, ich wurde als weiblich registriert.
+Müller: Verstehe. Haben Sie anatomisch alles, was wir für die Untersuchung wissen sollten?
+Robin: Ja, ich hab noch meine Vagina und auch den Rektalbereich — keine OPs oder so, also Schwangerschaft wäre theoretisch möglich.
+Müller: Gut, danke für die Klarheit. Sie sagten, es war eine Diagnose neulich — haben Sie jetzt noch Beschwerden?
+Robin: Also Beschwerden hab ich kaum. Ich bin eher hier, weil die Praxis gesagt hat, ich soll zur Nachkontrolle kommen. Bin eher unsicher, ob alles wirklich weg is'.
+Müller: In Ordnung. Gab es seit der Behandlung noch Sexualkontakte?
+Robin: Ja — das letzte Mal Sex war ungefähr am 15. Oktober 2023.
+Müller: Und wie viele Partnerinnen oder Partner hatten Sie in den letzten drei Monaten?
+Robin: Nur eine Person in den letzten drei Monaten.
+Müller: Was für Praktiken waren das überwiegend?
+Robin: Vaginalverkehr — und beim Oralsex war ich die empfangende Seite.
+Müller: Wie war’s mit Kondomen beim Vaginalverkehr?
+Robin: Wir haben meistens Kondome benutzt, nicht immer, aber meistens.
+Müller: Okay. Hatten Sie den Eindruck, dass es eventuell ein spezifisches HIV-Risiko gab bei diesem Kontakt?
+Robin: Ne, also ich würd sagen nein. Kein Verdacht, dass da was Besonderes war.
+Müller: Gut. Zur Nachsorge würde ich ein paar Tests empfehlen: HIV, Syphilis, Chlamydien und Gonokokken. Dafür nehme ich Blut, einen Vaginalabstrich und einen Rachenabstrich. Passt das für Sie?
+Robin: Passt. Bloß nicht schief gucken, ich kenn mich aus, also macht, was nötig is'.
+Müller: Sehr gut. Die Ergebnisse bekommen Sie telefonisch — in der Regel innerhalb einer Woche.
+Robin: Ok, super. Und noch was: Ich bin nicht gegen HPV geimpft — ist das relevant jetzt noch?
+Müller: Das ist wichtig, danke für die Info. Wir können die HPV-Impfung besprechen und nachholen, wenn Sie möchten.
+Robin: Würd ich wollen, ja. Und PrEP — haben wir das früher schon mal besprochen?
+Müller: Sie nehmen aktuell keine PrEP. Wir haben das Thema bereits angesprochen; ich kann Ihnen nochmal das Vorgehen erklären und ein Angebot machen, wenn das für Sie in Frage kommt.
+Robin: Ich nehm’s grad nicht, aber erzähl mir ruhig nochmal was dazu.
+Müller: Mache ich. Noch eine Sache: Ich habe bisher noch keine ausführliche Kondomberatung mit Ihnen gemacht — das können wir gleich nachholen, kurz und praxisnah.
+Robin: Ja bitte, das wär gut. Ich mag keine Vorträge, aber Tipps sind willkommen.
+Müller: Alles klar. Dann mache ich jetzt die Abstriche und Blutentnahme, wir besprechen PrEP und HPV-Impfung danach, und ich rufe Sie wegen der Ergebnisse in etwa sieben Tagen an. Haben Sie noch Fragen?
+Robin: Nee, danke — klingt gut. Danke, dass Sie sich Zeit nehmen.

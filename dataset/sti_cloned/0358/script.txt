@@ -1,0 +1,50 @@
+Yilmaz: Servus Charlie, schön, dass Sie da sind. Sie kommen zur Nachkontrolle nach der letzten Diagnose, richtig?
+Charlie: Genau, danke. Wollt’ nur kurz nachschauen lassen, wie alles weitergeht — bin ein bissl unsicher manchmal.
+Yilmaz: Kein Problem. Bevor wir anfangen: Alles, was Sie sagen, bleibt vertraulich. Können Sie mir kurz Ihren Geburtsdatum sagen, damit ich das korrekt im System habe?
+Charlie: Sicher — ich bin am 20.11.2002 geboren.
+Yilmaz: Danke. Und wie möchten Sie angesprochen werden? Welche Geschlechtsidentität geben Sie an?
+Charlie: Ich bin eine Frau, also weiblich. Bin auch bei der Geburt als weiblich registriert.
+Yilmaz: Alles klar. Nehmen Sie aktuell irgendeine Hormontherapie?
+Charlie: Nein, überhaupt nicht.
+Yilmaz: Und anatomisch – haben Sie noch Vagina, Gebärmutter, Gebärmutterhals und auch rektalen Bereich?
+Charlie: Ja, ich hab noch Vagina, Gebärmutter und den Muttermund, und das Rektum ist natürlich auch da.
+Yilmaz: Gut, das hilft bei der Auswahl der Tests. Sie sagten „Nachkontrolle“ — Sie haben derzeit Symptome oder fühlen sich beschwerdefrei?
+Charlie: Ich hab eigentlich nichts Besonderes, keine Schmerzen oder so. Ich komm wirklich nur zur Kontrolle.
+Yilmaz: Verstehe. Erzählen Sie mir kurz zu den sexuellen Praktiken in den letzten drei Monaten — wie war’s grob?
+Charlie: Also, in den letzten drei Monaten hatte ich Vaginalverkehr und auch oral — sowohl ich hab oral gegeben als auch bekommen.
+Yilmaz: Okay, also vaginal, oral insertiv und oral rezeptiv. Wie ist das mit Kondomen bei Ihnen?
+Charlie: Beim vaginalen Sex verwende ich meistens Kondome, also schon meistens. Bei Oralgebrauch nur manchmal, nicht immer. Beim Analverkehr – da sag ich ehrlich, das mach i selten, und wenn, dann verwende ich nie Kondome.
+Yilmaz: Danke für die Offenheit. Wie viele Partner hatten Sie ungefähr in den letzten drei Monaten?
+Charlie: Zwei verschiedene Partner in diesem Zeitraum.
+Yilmaz: Und wann war der letzte sexuelle Kontakt ungefähr? Datum reicht.
+Charlie: Das war am 10. April 2024, das weiß ich noch genau.
+Yilmaz: Gut zu wissen. Hatten diese Partner kürzlich irgendwelche STIs, von denen Sie wissen?
+Charlie: Nein, soweit ich weiß hatte keiner von denen kürzlich eine Infektion.
+Yilmaz: Das hilft bei der Einschätzung. Vermuten Sie, dass es in den letzten Monaten eine relevante HIV-Exposition gab?
+Charlie: Nein, ich denke nicht, dass etwas Relevantes dazwischen war. Ich hab’ kein spezielles Risiko im Kopf.
+Yilmaz: In Ordnung. Sie sagten, Sie sind nicht sicher, was Tests angeht — ich empfehle ein Screening jetzt. Ich würde folgende Tests machen: HIV, Syphilis, Chlamydien, Gonorrhö und Hepatitis B. Geht das für Sie?
+Charlie: Ja, das klingt gut. Erklär’ mir kurz, was das genau heißt, bitte — ich kenn’ mich da nicht so aus.
+Yilmaz: Klar: HIV und Syphilis sind Bluttests. Für Chlamydien und Gonorrhö nehmen wir Proben aus mehreren Stellen: Urin, ein Abstrich aus der Vagina, ein Rektalabstrich und einen Rachenabstrich. Hepatitis B überprüfen wir auch per Blut.
+Charlie: Ah okay, also Blut, Urin, Vaginalabstrich, Rektal- und Rachenabstrich. Kein Problem, mach ma.
+Yilmaz: Genau so ist’s. Die Abstriche sind kurz unangenehm, aber schnell gemacht. Übrigens: Haben Sie gegen Hepatitis A geimpft? Oder Hepatitis B, HPV?
+Charlie: Hepatitis A hab ich nicht bekommen, glaub ich. Hepatitis B hab ich komplett, das hat meine Mama früher organisiert. Und die HPV-Impfung hab ich auch komplett bekommen, das ist schon durch.
+Yilmaz: Gut, danke — das ist wichtig. Hepatitis A ist bei Ihnen also noch offen, könnten wir bei Bedarf besprechen. Sind Sie derzeit schwanger oder könnte eine Schwangerschaft möglich sein?
+Charlie: Schwanger bin ich nicht. Eine Schwangerschaft wäre theoretisch möglich, ja.
+Yilmaz: Verstanden. Wie schaut’s mit Alkohol oder Drogen aus? Könnte das Ihr Sexualverhalten beeinflussen?
+Charlie: Alkohol nur gelegentlich, wenn i mit Freundinnen weggeh. Drogen brauch i keine, auch nix zum Injizieren, nie.
+Yilmaz: Okay, das hilft. Zur Prävention: Nehmen Sie PrEP zur HIV-Prophylaxe derzeit?
+Charlie: Nein, ich nehm keine PrEP.
+Yilmaz: Möchten Sie, dass ich Ihnen PrEP anbiete oder erkläre? Ich kann das heute ansprechen, wenn Sie wollen.
+Charlie: Ja, bitte, erklär’s mir kurz. Ich hab davon schon gehört, weiß aber nicht genau, ob das was für mich wäre.
+Yilmaz: Kurz und einfach: PrEP ist ein Medikament, das man vor einem möglichen HIV-Kontakt einnimmt, es reduziert das Risiko sehr stark. Ich kann Ihnen Infos geben und sagen, ob es für Ihr Verhalten sinnvoll wäre. Wenn Sie möchten, sprechen wir später genauer drüber.
+Charlie: Ja, mach ma. Klingt sinnvoll, schadet ja sicher nicht, wenn man’s kennt.
+Yilmaz: Gut. Ich werde Ihnen auch nochmals Kondomberatung geben, damit Sie bei Vaginal- und Oralsex sicherer sind. Haben Sie Fragen dazu?
+Charlie: Nein, dank’ ma, das klang bis jetzt logisch. Kannst mir kurz sagen, wie ich die Ergebnisse bekomme und wie lange das dauert?
+Yilmaz: Die Ergebnisse bekommen Sie über unser Patientenportal — Sie erhalten Bescheid innerhalb einer Woche, also in etwa sieben Tage.
+Charlie: Super, das passt. Und falls beim Test was auffällig ist — wird das auch da stehen oder ruft ihr mich an?
+Yilmaz: Falls etwas auffällig ist, rufen wir Sie an und besprechen die nächsten Schritte persönlich. Normalerweise landen Routinebefunde im Portal.
+Charlie: Alles klar. Nochmal kurz: Ich hab sonst keine Symptome, ja?
+Yilmaz: Genau, Sie haben keine Beschwerden angegeben. Das ist eine reine Kontrollevorstellung. Zum Schluss: Sind Sie mit den vorgeschlagenen Proben einverstanden — Blut, Urin, Vaginal-, Rektal- und Rachenabstrich?
+Charlie: Ja, bin einverstanden. Mach ma alles, dann hab ich’s erledigt.
+Yilmaz: Perfekt. Dann mach ich die Proben und wir besprechen auch kurz PrEP und Kondomnutzung, damit Sie sicher bleiben. Wenn sonst nichts ist, dann leg ich gleich los.
+Charlie: Danke dir, sehr angenehm hier. Bin froh, dass man offen darüber reden kann.

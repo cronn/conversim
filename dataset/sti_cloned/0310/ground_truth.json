@@ -1,0 +1,97 @@
+{
+  "patient": {
+    "date_of_birth": "1993-05-15",
+    "administrative_sex": "weiblich",
+    "sex_at_birth": "weiblich",
+    "gender_identity": "Frau",
+    "anatomy_present": [
+      "vagina",
+      "cervix",
+      "uterus",
+      "rectum"
+    ],
+    "hormone_therapy_status": "no",
+    "gender_affirming_surgery_status": "no",
+    "pregnancy_possible": "yes",
+    "currently_pregnant": "no"
+  },
+  "partner_und_praktiken": {
+    "last_sexual_contact_date_approx": {
+      "year": 2024,
+      "month": 5,
+      "day": 10
+    },
+    "partners_last_3_months": 2,
+    "practices_last_3_months": [
+      "vaginal",
+      "oral_insertive",
+      "oral_receptive"
+    ],
+    "condom_use_vaginal": "sometimes",
+    "condom_use_anal": "not_discussed",
+    "condom_use_oral": "never",
+    "partner_hiv_status_known": "not_discussed",
+    "recent_sti_in_partners": "not_discussed"
+  },
+  "symptome": {
+    "symptom_onset_date_approx": {
+      "year": 2024,
+      "month": 2,
+      "day": 1
+    },
+    "symptom_sites": [
+      "vagina"
+    ],
+    "symptom_types": [
+      "discharge",
+      "pain_burning",
+      "itch"
+    ]
+  },
+  "sti_vorgeschichte": {
+    "prior_sti_items": [
+      "chlamydia"
+    ],
+    "last_sti_diagnosis_date_approx": {
+      "year": 2024,
+      "month": 2,
+      "day": 15
+    }
+  },
+  "praevention": {
+    "vaccination_hepatitis_a": "unvaccinated",
+    "vaccination_hepatitis_b": "complete",
+    "vaccination_hpv": "incomplete",
+    "prep_current_use": "no",
+    "prep_offered_or_discussed": "no",
+    "condom_counseling_done": "yes"
+  },
+  "substanzen": {
+    "alcohol_use_frequency": "occasional",
+    "recreational_drug_use_frequency": "never",
+    "injection_drug_use": "never"
+  },
+  "hiv_risiko_fenster": {
+    "relevant_hiv_exposure_suspected": "no",
+    "last_potential_hiv_exposure_date_approx": null,
+    "exposure_within_72h": "not_discussed",
+    "pep_considered": "no",
+    "exposure_within_6_weeks": "not_discussed",
+    "acute_hiv_symptoms_present": "no"
+  },
+  "diagnostik_und_kommunikation": {
+    "tests_recommended": [
+      "hiv",
+      "syphilis",
+      "chlamydia",
+      "gonorrhea"
+    ],
+    "sampling_sites": [
+      "blood",
+      "urine",
+      "vaginal_swab"
+    ],
+    "result_delivery_method": "phone",
+    "result_delivery_timeframe_days": 5
+  }
+}

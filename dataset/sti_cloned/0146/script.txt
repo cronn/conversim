@@ -1,0 +1,27 @@
+Schneider: Guten Morgen, ich bin Dr. Schneider. Was führt Sie heute in die Ambulanz?
+Charlie: Morgen. Mein Freund hat mich informiert, dass er vielleicht eine Infektion hat, deshalb bin ich hier.
+Schneider: Verstehe. Darf ich kurz Ihr Geburtsdatum für die Akte?
+Charlie: Ja, 15. März 1995.
+Schneider: Danke. Und können Sie mir sagen, wann der letzte sexuelle Kontakt ungefähr war?
+Charlie: Das war am 20. November 2023.
+Schneider: Hatten Sie in den letzten drei Monaten noch andere Partner?
+Charlie: Ja, insgesamt zwei Partner in den letzten drei Monaten.
+Schneider: Welche Praktiken gab es bei den Kontakten, soweit Sie sich erinnern?
+Charlie: Ich war beim letzten Mal rezeptiv beim analen Verkehr — ich bin eher der „Bottom“.
+Schneider: Wie war das mit Kondomen beim Analverkehr?
+Charlie: Nicht immer — also manchmal benutzen wir Kondome, manchmal nicht.
+Schneider: Haben Sie Symptome bemerkt, und wenn ja, wann haben die begonnen?
+Charlie: Ja, ich habe Ausfluss bemerkt. Das fing ungefähr am 28. November 2023 an.
+Schneider: Sonstige Beschwerden wie Fieber, Nachtschweiß, Halsschmerzen oder Hautausschlag in dem Zeitraum?
+Charlie: Nein, keine dieser akuten Symptome.
+Schneider: Alles klar. Aufgrund der Angaben schätze ich, dass eine mögliche HIV-Exposition vorliegt — das war aber schon mehr als 72 Stunden her, also kommt PEP nicht mehr in Frage. Es ist allerdings innerhalb von sechs Wochen relevant für Diagnostik.
+Charlie: Ja, das ist mir bewusst — es ist halt schon ein paar Wochen her, deswegen frage ich jetzt erst.
+Schneider: Nehmen Sie zurzeit PrEP?
+Charlie: Nein, ich nehme keine PrEP.
+Schneider: Gut, dann würde ich heute Tests empfehlen: HIV, Chlamydien und Gonorrhöe. Wir nehmen Blut, Urin und einen urethralen Abstrich.
+Charlie: Klingt gut für mich. Können Sie mir auch was zu Prävention sagen? Ich will das künftig besser machen.
+Schneider: Klar — wir besprechen PrEP jetzt gern ausführlich, ich kann das anbieten und erklären. Außerdem besprechen wir Kondomgebrauch und Safer-Sex-Strategien.
+Charlie: Super, PrEP würde ich gern hören. Ich finde es gut, dass Sie das ansprechen.
+Schneider: Ergebnisübermittlung: Wir rufen Sie an, sobald die Ergebnisse da sind, in der Regel innerhalb einer Woche.
+Charlie: Perfekt, danke. Gibt es sonst noch etwas, was ich jetzt wissen muss?
+Schneider: Nein, das sind die nächsten Schritte: Probenentnahme jetzt, Beratung zu PrEP und Kondomen, und wir melden uns telefonisch innerhalb von sieben Tagen mit den Ergebnissen. Wenn in der Zwischenzeit akute Beschwerden auftreten, kommen Sie sofort zurück.

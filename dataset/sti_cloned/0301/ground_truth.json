@@ -1,0 +1,93 @@
+{
+  "patient": {
+    "date_of_birth": "1995-07-20",
+    "administrative_sex": "divers",
+    "sex_at_birth": "weiblich",
+    "gender_identity": "Mann",
+    "anatomy_present": [
+      "vagina",
+      "cervix",
+      "uterus",
+      "rectum"
+    ],
+    "hormone_therapy_status": "yes_current",
+    "gender_affirming_surgery_status": "yes",
+    "pregnancy_possible": "yes",
+    "currently_pregnant": "no"
+  },
+  "partner_und_praktiken": {
+    "last_sexual_contact_date_approx": {
+      "year": 2023,
+      "month": 10,
+      "day": 15
+    },
+    "partners_last_3_months": 1,
+    "practices_last_3_months": [
+      "vaginal",
+      "oral_receptive",
+      "oral_insertive"
+    ],
+    "condom_use_vaginal": "mostly",
+    "condom_use_anal": "not_discussed",
+    "condom_use_oral": "never",
+    "partner_hiv_status_known": "negative_known",
+    "recent_sti_in_partners": "no"
+  },
+  "symptome": {
+    "symptom_onset_date_approx": null,
+    "symptom_sites": [
+      "not_discussed"
+    ],
+    "symptom_types": [
+      "not_discussed"
+    ]
+  },
+  "sti_vorgeschichte": {
+    "prior_sti_items": [
+      "chlamydia"
+    ],
+    "last_sti_diagnosis_date_approx": {
+      "year": 2020,
+      "month": 5,
+      "day": 10
+    }
+  },
+  "praevention": {
+    "vaccination_hepatitis_a": "complete",
+    "vaccination_hepatitis_b": "complete",
+    "vaccination_hpv": "incomplete",
+    "prep_current_use": "no",
+    "prep_offered_or_discussed": "yes",
+    "condom_counseling_done": "yes"
+  },
+  "substanzen": {
+    "alcohol_use_frequency": "occasional",
+    "recreational_drug_use_frequency": "never",
+    "injection_drug_use": "never"
+  },
+  "hiv_risiko_fenster": {
+    "relevant_hiv_exposure_suspected": "no",
+    "last_potential_hiv_exposure_date_approx": null,
+    "exposure_within_72h": "no",
+    "pep_considered": "no",
+    "exposure_within_6_weeks": "no",
+    "acute_hiv_symptoms_present": "no"
+  },
+  "diagnostik_und_kommunikation": {
+    "tests_recommended": [
+      "hiv",
+      "syphilis",
+      "chlamydia",
+      "gonorrhea",
+      "hepatitis_c"
+    ],
+    "sampling_sites": [
+      "blood",
+      "urine",
+      "vaginal_swab",
+      "throat_swab"
+    ],
+    "result_delivery_method": "patient_portal",
+    "result_delivery_timeframe_days": 7
+  }
+}

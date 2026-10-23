@@ -1,0 +1,57 @@
+Hannah: (streng) Guten Tag, Herr Bergmann, ich bin Dr. Hannah. Womit kann ich Ihnen heute helfen?
+Karsten: (abwehrend) Hallo. Ich habe Ausfluss und beim Wasserlassen brennt es, deswegen bin ich hier.
+Hannah: Seit wann haben Sie diese Beschwerden genau?
+Karsten: Seit Mitte Juni, so um den 15.06.2024 herum fing das an.
+Hannah: Treten zusätzlich Juckreiz oder andere Symptome auf?
+Karsten: Ja, es juckt manchmal untenrum, der Ausfluss ist unangenehm.
+Hannah: Haben Sie Fieber oder Rückenschmerzen gehabt?
+Karsten: Nein, Fieber nicht. Nur diese drei Sachen — Ausfluss, Brennen, Jucken.
+Hannah: (ruhig, bestimmt) Ich muss Ihnen jetzt ein paar intime Fragen stellen, das ist wichtig für die Diagnostik und bleibt vertraulich.
+Karsten: (leicht gereizt) Können Sie das nicht etwas... diskreter fragen? Fühlt sich an wie Verhör.
+Hannah: Ich verstehe, dass das unangenehm ist. Bitte antworten Sie kurz: Sind Sie heterosexuell?
+Karsten: Ja, ich bin heterosexuell.
+Hannah: Leben Sie in einer festen Beziehung?
+Karsten: Ja — aber offen.
+Hannah: Offen, inwiefern?
+Karsten: Wir haben ein offenes Beziehungsmodell, das heißt gelegentlich andere Partnerinnen.
+Hannah: Wie viele Sexualpartnerinnen hatten Sie in den letzten zwölf Monaten?
+Karsten: Drei.
+Hannah: Und welches Geschlecht hatten diese Partnerinnen?
+Karsten: Alle drei waren Frauen.
+Hannah: Wann war Ihr letzter sexueller Kontakt?
+Karsten: Das war am 1. Juni 2024.
+Hannah: Haben Sie bei den Kontakten Kondome benutzt?
+Karsten: Manchmal. Also nur gelegentlich, nicht immer.
+Hannah: Wissen Sie, ob eine Ihrer Partnerinnen eine bekannte STI hatte oder Symptome zeigte?
+Karsten: Keine Ahnung, der Status war unbekannt. Ich habe das nicht nachgefragt.
+Hannah: (streng) Das ist relevant. Wir müssen davon ausgehen, dass ein Risiko besteht, wenn der Status unbekannt ist.
+Karsten: (verteidigend) Ich habe doch nicht alles kontrollieren können, wir sind erwachsen.
+Hannah: Das stimmt, aber für Ihre Gesundheit ist es jetzt wichtig, genau zu testen. Hatten Sie in der Vergangenheit bekannte Infektionen wie Hepatitis, HIV, Syphilis, Gonorrhö, Chlamydien, Herpes oder HPV-Warzen?
+Karsten: Nein, nie. Ich wurde nie positiv getestet.
+Hannah: Gab es jemals eine Impfung gegen Hepatitis B oder HPV?
+Karsten: Ja, ich habe Hepatitis-B und HPV-Impfungen bekommen.
+Hannah: Wann hatten Sie zuletzt einen allgemeinen Gesundheits-Check?
+Karsten: Letztes Jahr, am 1. Oktober 2023 hatte ich eine allgemeine Untersuchung.
+Hannah: Gut. Wir werden Abstriche und eine Urinprobe machen sowie Bluttests — HIV, Syphilis, Hepatitis B und C — um sicherzugehen.
+Karsten: Muss das wirklich alles jetzt sein?
+Hannah: Ja, bei Ihren Symptomen — Ausfluss, Brennen beim Wasserlassen und Juckreiz — sind Abstrichuntersuchungen auf Chlamydien und Gonorrhö sowie ein Urintest sinnvoll.
+Karsten: (resigniert) Okay, machen Sie das. Ich will ja wissen, was los ist.
+Hannah: Ich mache außerdem einen Abstrich, um andere mögliche Ursachen auszuschließen. Wenn nötig, beginnen wir eine Behandlung direkt nach den Ergebnissen.
+Karsten: Wie lange dauert das, bis die Ergebnisse da sind?
+Hannah: Schnelltests gibt es nicht für alles; PCR-Tests auf Chlamydien und Gonorrhö dauern meist 1–3 Tage. Blutwerte auf HIV und Syphilis ebenfalls ein paar Tage.
+Karsten: Und wenn etwas positiv ist, muss das dann meine Partnerinnen wissen?
+Hannah: Ja, Partnerinformation ist wichtig zur Eindämmung und Behandlung. Wir besprechen das vertraulich und unterstützen Sie beim Vorgehen.
+Karsten: (nervös) Ich weiß nicht, wie die reagieren würden. Das ist unangenehm.
+Hannah: Ich verstehe. Wir helfen bei der Kontaktanzeige und können auch anonym informieren, wenn Sie das bevorzugen.
+Karsten: Gut, das beruhigt mich etwas.
+Hannah: Vor der Probennahme: Haben Sie Allergien oder nehmen Sie regelmäßig Medikamente?
+Karsten: Keine Allergien, keine regelmäßigen Medikamente.
+Hannah: Ich mache jetzt einen kurzen Abstrich und bitte Sie um eine Urinprobe. Es kann sein, dass wir später bei positiven Befunden eine antibiotische Behandlung beginnen müssen.
+Karsten: (ruhig) In Ordnung, dann los.
+Hannah: (streng, aber sachlich) Noch eine Sache: da Sie einmal HPV-impfungen hatten, ist das vorteilhaft, aber es schützt nicht vor allen STIs. Künftig konsequenter Kondomgebrauch wäre ratsam.
+Karsten: Ja, das sehe ich jetzt ein. Ich werde versuchen, öfter Kondome zu benutzen.
+Hannah: Gut. Wenn die Tests negativ sind, kommen Sie bitte trotzdem in einer Woche zurück, wenn die Symptome nicht besser sind.
+Karsten: Mache ich. Danke.
+Hannah: Ich dokumentiere alles vertraulich. Danach besprechen wir die Ergebnisse und das weitere Vorgehen.
+Karsten: (klein) Danke, Frau Doktor. Ich war nur am Anfang etwas empfindlich.
+Hannah: Das ist in Ordnung, Herr Bergmann. Sie haben alles richtig gemacht, indem Sie gekommen sind.

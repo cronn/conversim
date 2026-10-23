@@ -1,0 +1,39 @@
+Weber: Guten Morgen, Alex. Ich bin Dr. Weber. Zuerst kurz zur Vertraulichkeit: Hier gelten dieselben Datenschutzregeln wie in der Klinik — alles, was Sie sagen, bleibt vertraulich. Erzählen Sie frei, worum es geht.
+Alex: Danke. Ich bin zur Nachkontrolle nach der Diagnose letzte Woche.
+Weber: Genau. Können Sie mir kurz Ihre Angaben bestätigen? Geburtsdatum?
+Alex: 15. Mai 1992.
+Weber: Alles klar. Und wie möchten Sie angesprochen werden?
+Alex: Ich bin eine Frau, Alex reicht.
+Weber: Gut. Bevor wir starten: arbeiten Sie noch in der Sexarbeit?
+Alex: Ja, ich arbeite weiterhin.
+Weber: Verstanden. Womit haben Sie aktuell Beschwerden?
+Alex: Seit dem 17. Mai habe ich Jucken und vermehrten Ausfluss aus der Vagina.
+Weber: Also Jucken und vaginaler Ausfluss, Beginn 17. Mai. Wann war Ihr letzter sexueller Kontakt?
+Alex: Das war am 15. Mai dieses Jahres.
+Weber: Danke. Waren das in den letzten drei Monaten mehrere Partner?
+Alex: Ja, insgesamt drei Partner in den letzten drei Monaten.
+Weber: Welche Praktiken waren beteiligt?
+Alex: Vaginalverkehr und ich hatte auch oralen Sex, also receptive oral.
+Weber: Wie ist das mit Kondomen?
+Alex: Bei vaginal manchmal, bei Oral nie.
+Weber: Okay. Hat einer der Partner kürzlich eine STI gehabt?
+Alex: Ja, einer hat mir gesagt, er hatte kürzlich eine Infektion.
+Weber: Das ist wichtig. Haben Sie früher schon mal STIs gehabt?
+Alex: Ja, Chlamydien — das war im August 2022.
+Weber: Danke. Kurz noch zur körperlichen Situation: Sie haben Vagina, Zervix, Gebärmutter und Rektum, und keine geschlechtsangleichende Operation, richtig?
+Alex: Genau, alles wie Sie sagen.
+Weber: Perfekt. Gab es in den Tagen nach dem 15. Mai allgemeine Symptome wie Fieber, Hautausschlag oder Lymphknotenschwellungen, die auf eine akute HIV-Infektion hindeuten könnten?
+Alex: Nein, solche Symptome hatte ich nicht.
+Weber: Gut. Da der letzte mögliche Expositionszeitpunkt der 15. Mai war und Sie sich innerhalb von 72 Stunden gemeldet haben, haben wir damals auch PEP in Erwägung gezogen.
+Alex: Stimmt, das haben wir kurz besprochen, aber ich habe es nicht genommen.
+Weber: Verstanden. Wir sind jetzt innerhalb der sechs-Wochen-Periode für Tests — ich empfehle, dass wir HIV, Syphilis, Chlamydien und Gonokokken testen.
+Alex: Welche Proben nehmen Sie dafür?
+Weber: Blut für HIV und Syphilis, dazu vaginaler Abstrich und zervikaler Abstrich für Chlamydien und Gonokokken.
+Alex: Okay, das klingt gut. Wie bekomme ich die Ergebnisse?
+Weber: Wir schicken die Ergebnisse über das Patientenportal, üblicherweise innerhalb einer Woche, also etwa sieben Tage.
+Alex: Und was ist mit Prävention? Sie hatten schon etwas von PrEP gesagt.
+Weber: Ja — PrEP habe ich Ihnen angeboten und wir können das gern ausführlich besprechen: Wirkung, Nebenwirkungen und wie es in Ihren Arbeitsalltag passt. Außerdem haben wir Condom-Counseling gemacht und ich empfehle konsequenteren Kondomgebrauch, besonders bei vaginalen Kontakten, wenn möglich.
+Alex: Ich möchte mehr über PrEP hören, aber erstmal die Tests abwarten. Können Sie auch kurz sagen, ob eine Schwangerschaft möglich ist?
+Weber: Ja, Sie haben Gebärmutter und sind schwangerschaftsfähig — das ist relevant für manche Behandlungsentscheidungen. Wir klären das bei Bedarf noch genauer.
+Alex: Alles klar, danke. Dann machen wir die Tests und sprechen über PrEP, sobald die Ergebnisse da sind.
+Weber: Genau so machen wir es. Ich entnehme jetzt die Blutprobe und die Abstriche, und wir sehen uns die Befunde in einer Woche im Portal an. Wenn in der Zwischenzeit etwas Neues auftaucht, melden Sie sich bitte.

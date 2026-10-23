@@ -1,0 +1,37 @@
+Müller: Guten Tag, Herr... Sascha, ich bin Dr. Müller. Alles, was wir hier besprechen, bleibt vertraulich. Was führt Sie heute in die Ambulanz?
+Sascha: Hallo. Ich habe seit ein paar Tagen Schmerzen im Analbereich, ein Brennen, deshalb bin ich hergekommen.
+Müller: Seit wann genau haben Sie die Beschwerden?
+Sascha: Etwa seit dem 20. März dieses Jahres hat das angefangen.
+Müller: Haben Sie in letzter Zeit Sexualkontakte gehabt, die damit zusammenhängen könnten?
+Sascha: Ja, mein letzter Kontakt war am 15. März.
+Müller: Und in den letzten drei Monaten, wie viele verschiedene Partner hatten Sie ungefähr?
+Sascha: Drei.
+Müller: Können Sie kurz beschreiben, welche Praktiken dabei waren?
+Sascha: Ich war beim Analverkehr eher passiv, also 'receptive', und ich wurde auch oral befriedigt.
+Müller: Wurden beim Analverkehr Kondome benutzt?
+Sascha: Manchmal, nicht immer.
+Müller: Verstehe. Sind bei Ihnen anatomisch ein Penis und der Rektalbereich vorhanden? Das ist wichtig für die Auswahl der Proben.
+Sascha: Ja, ich bin männlich, habe einen Penis und natürlich den Rektum-Bereich.
+Müller: Hatten Sie früher schon sexuell übertragbare Infektionen?
+Sascha: Ja, vor ein paar Jahren einmal Chlamydien, das wurde behandelt.
+Müller: Haben Sie sonstige allgemeine Symptome wie Fieber, Hautausschlag, Halsschmerzen oder geschwollene Lymphknoten?
+Sascha: Nein, nichts davon, nur das Brennen und die Schmerzen beim Sitzen.
+Müller: Danke. Ihr letzter Kontakt war also am 15. März, das ist innerhalb der letzten sechs Wochen. Allerdings halte ich aufgrund der geschilderten Umstände derzeit keine relevante HIV-Exposition für wahrscheinlich.
+Sascha: Bedeutet das, ich brauche keine Notfallbehandlung?
+Müller: Eine sofortige Notfallprophylaxe gegen HIV (PEP) ist nur bei sehr hohem akutes Risiko indiziert; nach Ihrer Schilderung ist das aktuell nicht der Fall. Wir sollten aber Tests machen.
+Sascha: Welche Tests würden Sie empfehlen?
+Müller: Ich empfehle HIV- und Syphilis-Serologie sowie Tests auf Chlamydien und Gonokokken. Dafür entnehmen wir Blut und einen Rektalabstrich.
+Sascha: Wird auch ein Rachenabstrich gemacht?
+Müller: Nach Ihrer Beschreibung waren die relevanten Beschwerden und Praktiken anal; wir nehmen heute Blut und einen Rektalabstrich. Wenn später weitere Hinweise kommen, können wir ergänzen.
+Sascha: Und wie läuft das mit der Behandlung, falls etwas gefunden wird?
+Müller: Chlamydien und Gonokokken werden mit Antibiotika behandelt, Syphilis mit einer injizierbaren Penicillintherapie. Bei positivem HIV-Fund würden wir Sie sofort in die weiterführende Betreuung übergeben und mit der Therapie beginnen.
+Sascha: Ich nehme keine Präexpositionsprophylaxe, also keine PrEP.
+Müller: In Ordnung — PrEP nehmen Sie aktuell nicht. Möchten Sie, dass wir darüber kurz sprechen? Ich kann Ihnen die Möglichkeit anbieten und erklären, wie das wirkt.
+Sascha: Ja, bitte, kurz. Ich wüsste das gern.
+Müller: PrEP ist eine medikamentöse Vorbeugung gegen HIV für Menschen mit wiederkehrendem Risiko; wir können das in einem gesonderten Gespräch genauer klären und gegebenenfalls beginnen.
+Sascha: Wie bekomme ich die Ergebnisse?
+Müller: Wir rufen Sie telefonisch an, um die Befunde zu besprechen.
+Sascha: Gut. Und was kann ich gegen das Brennen jetzt akut machen?
+Müller: Ich gebe Ihnen eine kurzfristige Linderungsempfehlung und einen Termin für die Probenentnahme gleich hier. Wenn die Schmerzen stark werden oder neue allgemeine Symptome auftreten, kommen Sie bitte unverzüglich wieder.
+Sascha: Danke, das klingt gut.
+Müller: Gern. Dann mache ich die Entnahme und wir besprechen anschließend noch das weitere Vorgehen.

@@ -1,0 +1,51 @@
+Hannah: (streng) Guten Morgen, Herr Müller, ich bin Dr. Hansen. Was führt Sie heute in die Sprechstunde?
+Bernd: (mürrisch) Meine Frau hat mich geschickt.
+Hannah: (direkt) Beschreiben Sie bitte kurz Ihre Beschwerden.
+Bernd: Ach, ist nur ein Kratzen untenrum und ab und zu Ausfluss.
+Hannah: Seit wann besteht das Kratzen und der Ausfluss genau?
+Bernd: Seit dem 24.10.2023.
+Hannah: Hatten Sie beim Wasserlassen Schmerzen oder Brennen?
+Bernd: Ja, manchmal brennt's.
+Hannah: (notiert) Also Dysurie und Ausfluss — das kann auf eine STI hinweisen. Waren Sie in letzter Zeit sexuell aktiv?
+Bernd: Ja.
+Hannah: (streng) Mit wem genau — Männer, Frauen?
+Bernd: Frauen.
+Hannah: Sind Sie momentan in einer festen Beziehung?
+Bernd: Ja, monogam.
+Hannah: Wie viele Sexualpartner hatten Sie in den letzten zwölf Monaten?
+Bernd: Einen.
+Hannah: Haben Sie beim Sex Kondome verwendet?
+Bernd: Manchmal. Also nur gelegentlich.
+Hannah: Ist Ihnen der STI-Status Ihrer Partnerin bekannt?
+Bernd: Nein. Keine Ahnung.
+Hannah: (ruhig, bestimmt) Haben Sie früher schon einmal sexuell übertragbare Infektionen gehabt — Chlamydien, Gonorrhö, Syphilis, HIV oder Hepatitis?
+Bernd: Nee. Nie.
+Hannah: Sind Sie gegen Hepatitis B oder HPV geimpft?
+Bernd: Ja, gegen Hepatitis B und HPV. Meine Tochter hat das organisiert.
+Hannah: Gab es Fieber, Hautausschlag, Schmerzen in den Hoden oder sichtbare Wunden?
+Bernd: Nee, nur das Kratzen und der Ausfluss.
+Hannah: Wann war Ihr letzter allgemeiner Gesundheitscheck?
+Bernd: Im September 2022, am 15.09.2022.
+Hannah: (streng) Gut. Ich werde jetzt ein paar Untersuchungen anordnen: Urinprobe, ein Abstrich vom Harnröhrenausgang und Bluttests — Chlamydien, Gonorrhö, HIV und Syphilis, sowie Hepatitis-Serologien.
+Bernd: (genervt) Muss das sein?
+Hannah: Ja, notwendig. Diskret und schnell. Ich erkläre Ihnen das Ergebnis und die Behandlungsmöglichkeiten.
+Bernd: Na gut.
+Hannah: (klar) Sie sagen, die Beschwerden begannen zwei Tage nach dem letzten Sex am 22.10.2023 — das passt zeitlich zu einer Infektion, deshalb handeln wir jetzt.
+Bernd: (kurz) Ja.
+Hannah: (streng) Wir sprechen vertraulich. Wollen Sie, dass wir Ihre Partnerin benachrichtigen, falls ein Ergebnis positiv ist?
+Bernd: (abwehrend) Sagen Sie ihr ruhig Bescheid. Meine Frau regelt das.
+Hannah: Sie können auch selbst informieren oder wir unterstützen anonym. Bei positiven Befunden ist Partnerbenachrichtigung wichtig, damit sich niemand wieder infiziert.
+Bernd: (mürrisch) Schon gut.
+Hannah: Ich schreibe Ihnen außerdem eine symptomatische Behandlung gegen das Brennen auf — zunächst abwarten, bis wir die Ergebnisse haben, aber bei starkem Schmerz würden wir sofort behandeln.
+Bernd: (knapp) Alles klar.
+Hannah: Haben Sie Allergien oder nehmen Sie regelmäßig Medikamente?
+Bernd: Nein.
+Hannah: (notiert) In Ordnung. Ich brauche jetzt eine Urinprobe von Ihnen und ich mache einen kurzen Harnröhrenabstrich — das dauert nur einen Moment.
+Bernd: (widerwillig) Na schön, aber ich mach das schnell.
+Hannah: (streng) Ich werde Sie über die Ergebnisse informieren; rechnen Sie mit zwei bis drei Tagen für die Bluttests und oft 24–48 Stunden für den Abstrich.
+Bernd: (kurz) Okay.
+Hannah: Falls ein Ergebnis positiv ist, besprechen wir gezielte Antibiotika oder andere Therapien und wir geben Ihnen Hinweise zu Verhaltensmaßnahmen.
+Bernd: (mürrisch) Machen Sie.
+Hannah: (zum Abschluss) Ich mache das so diskret wie möglich. Haben Sie noch Fragen?
+Bernd: (leise) Nein.
+Hannah: Gut. Dann gebe ich die Untersuchungen in Auftrag und melde mich bei Ihnen.

@@ -1,0 +1,35 @@
+Weber: Guten Morgen, ich bin Dr. Weber. Ich sehe, Sie sind wegen möglicher STI hier. Wie heißen Sie und wann sind Sie geboren?
+Luca: Moin, ich bin Luca. Geboren bin ich am 20.11.2002.
+Weber: Danke. Im System steht bei Ihnen das Geschlecht als "weiblich", stimmt das so für Sie?
+Luca: Jo, im System steht das so, passt. Ach ja, ich bin trans, falls das wichtig ist.
+Weber: Danke, das notiere ich. Erzählen Sie mir bitte kurz, was Sie heute zu uns führt.
+Luca: Also, ich hab seit Mitte Juni Probleme, ungefähr seit dem 18. Juni 2024. Es fing mit Ausfluss an, jetzt juckt's und beim Wasserlassen oder beim Sex brennt's manchmal in der Vagina.
+Weber: Verstanden — die Beschwerden also vaginal: Ausfluss, Jucken und brennende Schmerzen. Haben Sie sonst noch Beschwerden am After oder anderswo?
+Luca: Nein, nur vorne, in der Vagina.
+Weber: Gut. Sie haben ein paar Infos auf dem Formular angegeben, aber ein paar Kleinigkeiten frage ich noch. Haben Sie in den letzten drei Monaten Sex gehabt? Mit wie vielen Partnern und welche Praktiken?
+Luca: Ja, einen Partner in den letzten drei Monaten. Vaginalen Verkehr hatten wir, und ich hatte auch oralen Sex empfänglich, also oral-rezeptiv.
+Weber: Und wie ist das mit Kondomen bei vaginalem Sex gewesen?
+Luca: Manchmal, nicht immer. Also eher so, zwischendurch benutzen wir's.
+Weber: Alles klar. Haben Sie aktuell Verhütung oder wäre für Sie eine Schwangerschaft möglich?
+Luca: Ja, Schwangerschaft wäre möglich — wir verhüten nicht zuverlässig im Moment.
+Weber: Danke für die Offenheit. Haben Sie früher schon einmal eine STI gehabt?
+Luca: Ja, ich hatte mal Chlamydien, das war vor ein paar Jahren. Wurde damals mit Antibiotika behandelt.
+Weber: Gut zu wissen. Wie sieht es sonst mit Alkohol oder Drogen aus?
+Luca: Trinke nur gelegentlich ein Bier, ansonsten nichts Besonderes.
+Weber: In Ordnung. Ich halte das Risiko für eine akute HIV-Exposition derzeit nicht für wahrscheinlich, aber wir testen das natürlich mit. Ich schlage vor, wir machen folgende Tests: HIV, Syphilis, Chlamydien und Gonokokken.
+Luca: Okay, was wird dafür alles gemacht?
+Weber: Blutabnahme für HIV und Syphilis, und einen vaginalen Abstrich für Chlamydien und Gonokokken. Wir können das heute gleich nehmen.
+Luca: Tut das weh, der Vaginalabstrich?
+Weber: Es ist unangenehm, aber kurz — keine große Sache. Wenn Sie möchten, erkläre ich vorher genau, wie ich vorgehe.
+Luca: Ja gern, dann weiß ick Bescheid.
+Weber: Mach ich. Falls ein bakterieller Erreger gefunden wird, behandeln wir gezielt mit Antibiotika — Chlamydien zum Beispiel mit einer oralen Therapie, Gonokokken je nach Befund. Syphilis wird mit Penicillin behandelt.
+Luca: Gut. Wird auch ein Schwangerschaftstest gemacht?
+Weber: Wenn Sie das möchten, können wir einen Schnelltest machen oder bei der Blutabnahme direkt mituntersuchen. Sollen wir das gleich mitnehmen?
+Luca: Ja, bitte, wäre beruhigend.
+Weber: Erledigt. Noch zwei Dinge: Ich berate Sie kurz zum Kondomgebrauch — bei vaginalem Sex regelmäßiger und korrekt anwenden reduziert das Risiko deutlich.
+Luca: Jo, das ist gut. Hab noch 'ne Frage: Wie kriege ich die Ergebnisse mit?
+Weber: Wir rufen Sie telefonisch an, spätestens in sieben Tagen, wenn alles ausgewertet ist.
+Luca: Klingt gut. Wann können wir die Abstriche machen?
+Weber: Wenn Sie bereit sind, nehme ich jetzt Blut und den vaginalen Abstrich. Dauert alles zusammen nur ein paar Minuten.
+Luca: Dann machen wir's jetzt. Danke, Dr. Weber.
+Weber: Gern. Ich frag noch kurz, ob Sie sonst noch Sorgen haben — sonst legen wir los.

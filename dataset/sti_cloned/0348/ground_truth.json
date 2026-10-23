@@ -1,0 +1,105 @@
+{
+  "patient": {
+    "date_of_birth": "1990-05-15",
+    "administrative_sex": "maennlich",
+    "sex_at_birth": "maennlich",
+    "gender_identity": "Mann",
+    "anatomy_present": [
+      "penis",
+      "scrotum",
+      "rectum"
+    ],
+    "hormone_therapy_status": "no",
+    "gender_affirming_surgery_status": "not_discussed",
+    "pregnancy_possible": "not_discussed",
+    "currently_pregnant": "not_discussed"
+  },
+  "partner_und_praktiken": {
+    "last_sexual_contact_date_approx": {
+      "year": 2024,
+      "month": 5,
+      "day": 8
+    },
+    "partners_last_3_months": 5,
+    "practices_last_3_months": [
+      "anal_insertive",
+      "anal_receptive",
+      "oral_receptive"
+    ],
+    "condom_use_vaginal": "not_discussed",
+    "condom_use_anal": "sometimes",
+    "condom_use_oral": "never",
+    "partner_hiv_status_known": "not_discussed",
+    "recent_sti_in_partners": "yes"
+  },
+  "symptome": {
+    "symptom_onset_date_approx": {
+      "year": 2024,
+      "month": 4,
+      "day": 25
+    },
+    "symptom_sites": [
+      "penis_urethra",
+      "anal_rectal"
+    ],
+    "symptom_types": [
+      "discharge",
+      "pain_burning",
+      "itch"
+    ]
+  },
+  "sti_vorgeschichte": {
+    "prior_sti_items": [
+      "chlamydia",
+      "gonorrhea"
+    ],
+    "last_sti_diagnosis_date_approx": {
+      "year": 2023,
+      "month": 3,
+      "day": 1
+    }
+  },
+  "praevention": {
+    "vaccination_hepatitis_a": "unvaccinated",
+    "vaccination_hepatitis_b": "incomplete",
+    "vaccination_hpv": "unvaccinated",
+    "prep_current_use": "no",
+    "prep_offered_or_discussed": "yes",
+    "condom_counseling_done": "yes"
+  },
+  "substanzen": {
+    "alcohol_use_frequency": "regular",
+    "recreational_drug_use_frequency": "occasional",
+    "injection_drug_use": "never"
+  },
+  "hiv_risiko_fenster": {
+    "relevant_hiv_exposure_suspected": "yes",
+    "last_potential_hiv_exposure_date_approx": {
+      "year": 2024,
+      "month": 5,
+      "day": 8
+    },
+    "exposure_within_72h": "yes",
+    "pep_considered": "yes",
+    "exposure_within_6_weeks": "yes",
+    "acute_hiv_symptoms_present": "no"
+  },
+  "diagnostik_und_kommunikation": {
+    "tests_recommended": [
+      "hiv",
+      "syphilis",
+      "chlamydia",
+      "gonorrhea",
+      "hepatitis_b",
+      "hepatitis_c"
+    ],
+    "sampling_sites": [
+      "blood",
+      "urine",
+      "rectal_swab",
+      "throat_swab"
+    ],
+    "result_delivery_method": "phone",
+    "result_delivery_timeframe_days": 7
+  }
+}

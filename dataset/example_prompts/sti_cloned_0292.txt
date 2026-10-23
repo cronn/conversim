@@ -1,0 +1,183 @@
+Du schreibst ein realistisches deutschsprachiges Arzt-Patient-Gespräch zur STI-/HIV-Anamnese.
+
+WICHTIG: Das Gespräch dient als Trainingsdaten für ein KI-System, das aus Gesprächen strukturierte Daten extrahieren soll.
+
+OBERSTES PRINZIP: NATÜRLICHKEIT VOR VOLLSTÄNDIGKEIT
+- Ein realistisches Gespräch klingt natürlich, nicht wie eine Checkliste
+- Informationen werden organisch im Gesprächsfluss integriert, nicht abgefragt
+- Zielbereich: 20-35 Dialogzeilen (nicht deutlich mehr!)
+
+ANFORDERUNG AN GROUND TRUTH
+- Alle Informationen, die NICHT `not_discussed` sind, müssen im Gespräch vorkommen
+- Felder mit `not_discussed` dürfen NICHT erwähnt werden (dadurch bleibt das Gespräch natürlich kurz)
+- Die Informationen müssen so formuliert sein, dass sie aus dem Gespräch eindeutig extrahierbar sind
+- Verwende natürliche Sprache - Fakten (Daten, Namen, Zahlen) sollten klar, aber nicht künstlich formuliert sein
+- Informationen dürfen explizit oder implizit vermittelt werden, müssen aber für eine KI ableitbar sein
+- Widerspreche dem Ground Truth niemals
+- Hintergrundinformationen und Emotionen dürfen frei ergänzt werden
+
+SETTING
+- Kontext: Krankenhaus-Ambulanz. Atmosphäre: routiniert und effizient.
+- Fokus: STI-/HIV-Anamnese
+- Sprache: Deutsch
+
+SPEZIFISCHE VORGABEN FÜR DIESES GESPRÄCH
+- Besuchsgrund: Patient ist zum ersten Mal wegen STI beim Arzt
+- Gesprächsstil: Patient ist anfangs zögerlich, braucht Ermutigung
+- Patientenprofil: Patient arbeitet in der Sexarbeit
+- Gesundheitskompetenz: Patient hat wenig Gesundheitskompetenz, braucht einfache Erklärungen
+- Gesprächsstruktur: Gespräch fokussiert auf Risikofaktoren und Risikoabschätzung
+- Setting: Krankenhaus-Ambulanz
+- Atmosphäre: routiniert und effizient
+
+PERSONEN
+- Arzt: Schneider
+    Beschreibung: Entspannt, routiniert und einfühlsam. Ist verständnisvoll und verurteilt den Patienten nicht.
+- Patient: Kim
+    Beschreibung: Ist anfangs unsicher, öffnet sich aber im Gesprächsverlauf zunehmend.
+
+GROUND TRUTH (JSON-Schema für Faktische Grundlage)
+Folgendes Schema enthält die Fakten, die im Gespräch VOLLSTÄNDIG vorkommen müssen:
+```json
+{
+  "patient": {
+    "date_of_birth": "1992-05-15",
+    "administrative_sex": "not_discussed",
+    "sex_at_birth": "weiblich",
+    "gender_identity": "nicht-binär",
+    "anatomy_present": [
+      "vagina",
+      "cervix",
+      "uterus",
+      "rectum"
+    ],
+    "hormone_therapy_status": "no",
+    "gender_affirming_surgery_status": false,
+    "pregnancy_possible": true,
+    "currently_pregnant": null
+  },
+  "partner_und_praktiken": {
+    "last_sexual_contact_date_approx": {
+      "year": 2024,
+      "month": 4,
+      "day": 1
+    },
+    "partners_last_3_months": 1,
+    "practices_last_3_months": [
+      "vaginal",
+      "oral_receptive"
+    ],
+    "condom_use_vaginal": "mostly",
+    "condom_use_anal": "not_discussed",
+    "condom_use_oral": "sometimes",
+    "partner_hiv_status_known": "not_discussed",
+    "recent_sti_in_partners": false
+  },
+  "symptome": {
+    "symptom_onset_date_approx": null,
+    "symptom_sites": [],
+    "symptom_types": []
+  },
+  "sti_vorgeschichte": {
+    "prior_sti_items": [
+      "chlamydia"
+    ],
+    "last_sti_diagnosis_date_approx": {
+      "year": 2023,
+      "month": 8,
+      "day": 20
+    }
+  },
+  "praevention": {
+    "vaccination_hepatitis_a": "not_discussed",
+    "vaccination_hepatitis_b": "unvaccinated",
+    "vaccination_hpv": "incomplete",
+    "prep_current_use": false,
+    "prep_offered_or_discussed": true,
+    "condom_counseling_done": true
+  },
+  "substanzen": {
+    "alcohol_use_frequency": "occasional",
+    "recreational_drug_use_frequency": "never",
+    "injection_drug_use": "never"
+  },
+  "hiv_risiko_fenster": {
+    "relevant_hiv_exposure_suspected": "no",
+    "last_potential_hiv_exposure_date_approx": null,
+    "exposure_within_72h": false,
+    "pep_considered": null,
+    "exposure_within_6_weeks": false,
+    "acute_hiv_symptoms_present": false
+  },
+  "diagnostik_und_kommunikation": {
+    "tests_recommended": [
+      "hiv",
+      "syphilis",
+      "chlamydia",
+      "gonorrhea"
+    ],
+    "sampling_sites": [
+      "blood",
+      "urine",
+      "vaginal_swab",
+      "throat_swab"
+    ],
+    "result_delivery_method": "patient_portal",
+    "result_delivery_timeframe_days": 7
+  }
+}
+```
+
+WICHTIGE HINWEISE ZUM GROUND TRUTH
+- Felder mit Wert `not_discussed` → müssen NICHT im Gespräch erwähnt werden
+- Felder mit Wert `unknown` → Patient weiß es nicht oder ist unsicher (explizit im Gespräch)
+- Felder mit Wert `not_applicable` → trifft auf Patient nicht zu (kann erwähnt werden)
+- Alle anderen Felder → müssen im Gespräch klar hervorgehen (explizit oder eindeutig implizit)
+- Listen/Arrays → alle Einträge müssen vorkommen
+- Datumsangaben → müssen erkennbar sein (auch wenn Patient es ungefähr formuliert)
+
+THEMATISCHE REIHENFOLGE (Leitfaden, nicht strikt)
+Behandle die folgenden Themen ungefähr in dieser Reihenfolge, aber passe sie natürlich in den Gesprächsfluss ein:
+
+1. Vorstellung, Grund des Besuchs, Vertraulichkeit
+2. Art der Praktiken (vaginal, anal, oral), Details
+3. Alter, Geschlecht, Anatomie, Hormontherapie
+4. Schutzmaßnahmen bei verschiedenen Praktiken
+5. Wann war der letzte Kontakt, wie viele Partner kürzlich
+6. Schwangerschaftsmöglichkeit, aktueller Status
+7. Alkohol/Drogen im Kontext Sexualverhalten
+8. Exposition innerhalb 6 Wochen, PEP, akute Symptome
+9. Welche Tests, wie werden Ergebnisse übermittelt
+
+→ Natürlicher Gesprächsfluss geht vor strikte Reihenfolge
+→ Themen dürfen sich überschneiden oder organisch ineinander übergehen
+
+REALISMUS & NATÜRLICHKEIT
+- Der Arzt folgt einer eher unsystematischen Gesprächslogik
+- Der Patient gibt Informationen direkt und strukturiert preis
+- Der Arzt folgt einer eher unsystematischen Gesprächslogik
+- Der Arzt vermeidet künstlich klingende Zusammenfassungen
+- Der Patient gibt nur gelegentlich Hintergrundinformationen zu Lebensstil und Beziehungen
+- Bevorzuge längere, ausführliche Äußerungen
+- Integriere Ground-Truth-Informationen natürlich in den Gesprächsfluss (nicht als Checkliste abhaken!)
+
+BEISPIELE FÜR GUTE GESPRÄCHSZEILEN
+    Schneider: Haben Sie in den letzten Monaten Anzeichen wie Ausfluss, Brennen beim Wasserlassen oder Hautveränderungen im Intimbereich bemerkt?
+    Kim: Also, brennen tut es schon manchmal, aber ich dachte, das ist normal? Ausfluss... ja, eigentlich schon, aber ich wusste nicht, dass das wichtig ist.
+
+QUALITÄTSKONTROLLE
+Stelle vor der Ausgabe sicher:
+✓ Das Gespräch ist natürlich und realistisch (wichtigstes Kriterium!)
+✓ Länge ist im Zielbereich (20-35 Turns)
+✓ Themen folgen ungefähr der vorgegebenen Reihenfolge (aber organisch integriert)
+✓ Alle Felder außer `not_discussed` wurden behandelt
+✓ Informationen sind extrahierbar, aber nicht künstlich formuliert
+✓ `not_discussed`-Felder wurden NICHT erwähnt
+✓ Keine Checklisten-Atmosphäre
+
+FORMAT
+- Eine Person pro Zeile: `Schneider: ...` oder `Kim: ...`
+- Keine Metaerklärungen, keine Szenenanweisungen, kein JSON in der Ausgabe
+- Mindestens 20 Dialogzeilen (Turns)
+
+Starte jetzt und gib nur die Dialogzeilen aus:

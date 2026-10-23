@@ -1,0 +1,60 @@
+Menter: Sie sind wegen Beschwerden in die offene Sprechstunde gekommen, korrekt?
+Lea: (hektisch) Ja, bitte, ich habe Ausfluss und es brennt und mich juckt alles, ich weiß nicht was ist.
+Menter: Seit wann bestehen die Beschwerden?
+Lea: (zitternd) Seit dem 10. Juni 2024, also seit ein paar Tagen.
+Menter: Treten Schmerzen beim Wasserlassen auf?
+Lea: Ja, es brennt beim Wasserlassen, sehr unangenehm.
+Menter: Ausfluss näher beschreiben: Farbe, Geruch?
+Lea: Es ist eher weißlich, bisschen klumpig, kein starker Geruch… oder vielleicht leicht unangenehm.
+Menter: Haben Sie Fieber oder Unterbauchschmerzen?
+Lea: Kein Fieber, der Unterbauch fühlt sich unruhig an, aber keine starken Schmerzen.
+Menter: Sind Sie sexuell aktiv?
+Lea: Ja.
+Menter: Wie würden Sie Ihre sexuelle Orientierung angeben?
+Lea: (schnell) Heterosexuell.
+Menter: Haben Sie in einer festen Beziehung oder multiple Partner?
+Lea: Ich bin in einer offenen Beziehung.
+Menter: Anzahl der Partner in den letzten 12 Monaten?
+Lea: Vier.
+Menter: Geschlecht der Partner?
+Lea: (leise) Frauen.
+Menter: Datum des letzten Sexualkontakts?
+Lea: Am 5. Juni 2024.
+Menter: Kontakt mit Personen, deren STI-Status unbekannt ist?
+Lea: Ja, bei einigen weiß ich den Status nicht.
+Menter: Schutzverhalten: Kondome benutzt?
+Lea: Gelegentlich, also nur manchmal.
+Menter: Impfungen gegen Hepatitis B und HPV vorhanden?
+Lea: Ja, ich bin gegen Hepatitis B und HPV geimpft.
+Menter: Frühere STI-Infektionen?
+Lea: Ich hatte Chlamydien früher, das wurde behandelt.
+Menter: Sonstige bekannte Infektionen: Hepatitis A, B, C, HIV, Syphilis, Gonorrhöe, Herpes, HPV-Warzen?
+Lea: (ängstlich) Nein, bei keinem davon.
+Menter: Letzte allgemeine Untersuchung wann?
+Lea: Am 15. Oktober 2023.
+Menter: Letzter HIV-Test?
+Lea: Am 1. Dezember 2023, negativ.
+Menter: Letzter Syphilis-Test?
+Lea: Ebenfalls am 1. Dezember 2023, negativ.
+Menter: Letzter Chlamydien/Gonorrhöe-Test?
+Lea: Am 20. März 2024.
+Menter: Beschwerdebeginn 10. Juni, letzter Kontakt 5. Juni, kann zeitlich plausibel sein, verstanden. Sie wünschen Untersuchung und Tests?
+Lea: Ja bitte, testen Sie mich, ich habe solche Angst.
+Menter: (kühl) Wir führen einen Vaginalabstrich und eine Urinprobe für NAAT auf Chlamydien und Gonorrhöe durch, Blutentnahme für HIV und Syphilis. Ein Abstrich zur mikroskopischen Untersuchung wegen Pilzen oder bakterieller Vaginose ebenfalls.
+Lea: (verzweifelt) Okay, machen Sie das. Muss ich jemanden informieren?
+Menter: Bei positivem Befund sollten Partner informiert werden. Bei offener Beziehung bitte alle relevanten Partner benachrichtigen.
+Lea: Und bis die Ergebnisse da sind? Darf ich Sex haben?
+Menter: Ich empfehle keinen ungeschützten Sex bis zum Abschluss der Diagnostik und ggf. Behandlung.
+Lea: (leise schluchzend) Verstanden.
+Menter: Haben Sie Allergien gegen Antibiotika?
+Lea: Nein, nichts bekannt.
+Menter: Nehmen Sie aktuell Medikamente?
+Lea: Nur ab und zu Schmerzmittel, nichts regelmäßiges.
+Menter: Wir nehmen jetzt die Proben. Wenn eine Behandlung nötig ist, bespreche ich die Optionen kurz mit Ihnen.
+Lea: Danke, bitte schnell, ich fühle mich so unwohl.
+Menter: Ergebnisse in der Regel innerhalb weniger Tage. Bei positivem Befund sprechen wir über Therapie und Partnerbehandlung.
+Lea: (hoffnungsvoll) Gut. Wird das vertraulich bleiben?
+Menter: Ja, vertrauliche Behandlung, Arztgeheimnis gilt.
+Lea: Danke. Können Sie mir sagen, ob das von früheren Chlamydien kommen kann?
+Menter: Vorherige Infektion erhöht nicht zwangsläufig aktuelle Symptome, aber Rezidiv ist möglich; Labor klärt das.
+Lea: (immer noch nervös) Okay. Ich bin bereit.

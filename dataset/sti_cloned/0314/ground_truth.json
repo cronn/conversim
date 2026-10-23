@@ -1,0 +1,78 @@
+{
+  "patient": {
+    "date_of_birth": "1995-07-20",
+    "administrative_sex": "not_discussed",
+    "sex_at_birth": "weiblich",
+    "gender_identity": "nicht-binär",
+    "anatomy_present": [
+      "vagina",
+      "cervix",
+      "uterus",
+      "rectum"
+    ],
+    "hormone_therapy_status": "no",
+    "gender_affirming_surgery_status": "not_discussed",
+    "pregnancy_possible": "not_discussed",
+    "currently_pregnant": "not_discussed"
+  },
+  "partner_und_praktiken": {
+    "last_sexual_contact_date_approx": null,
+    "partners_last_3_months": 1,
+    "practices_last_3_months": [
+      "vaginal"
+    ],
+    "condom_use_vaginal": "mostly",
+    "condom_use_anal": "not_discussed",
+    "condom_use_oral": "not_discussed",
+    "partner_hiv_status_known": "not_discussed",
+    "recent_sti_in_partners": "not_discussed"
+  },
+  "symptome": {
+    "symptom_onset_date_approx": null,
+    "symptom_sites": [
+      "not_discussed"
+    ],
+    "symptom_types": [
+      "not_discussed"
+    ]
+  },
+  "sti_vorgeschichte": {
+    "prior_sti_items": [],
+    "last_sti_diagnosis_date_approx": null
+  },
+  "praevention": {
+    "vaccination_hepatitis_a": "not_discussed",
+    "vaccination_hepatitis_b": "complete",
+    "vaccination_hpv": "not_discussed",
+    "prep_current_use": "no",
+    "prep_offered_or_discussed": "yes",
+    "condom_counseling_done": "yes"
+  },
+  "substanzen": {
+    "alcohol_use_frequency": "not_discussed",
+    "recreational_drug_use_frequency": "not_discussed",
+    "injection_drug_use": "not_discussed"
+  },
+  "hiv_risiko_fenster": {
+    "relevant_hiv_exposure_suspected": "no",
+    "last_potential_hiv_exposure_date_approx": null,
+    "exposure_within_72h": "not_discussed",
+    "pep_considered": "not_discussed",
+    "exposure_within_6_weeks": "not_discussed",
+    "acute_hiv_symptoms_present": "not_discussed"
+  },
+  "diagnostik_und_kommunikation": {
+    "tests_recommended": [
+      "hiv",
+      "syphilis",
+      "chlamydia"
+    ],
+    "sampling_sites": [
+      "blood",
+      "urine",
+      "vaginal_swab"
+    ],
+    "result_delivery_method": "email",
+    "result_delivery_timeframe_days": 7
+  }
+}

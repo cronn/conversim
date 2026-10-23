@@ -1,0 +1,35 @@
+Müller: Guten Morgen, ich bin Dr. Müller. Sie sind zur STI-Abklärung hier — wie heißen Sie und wann sind Sie geboren?
+Kim: Hallo, ich bin Kim. Geboren wurde ich am 15. Juni 1985.
+Müller: Danke. In Ihren Unterlagen steht Sie sind rechtlich als männlich eingetragen, stimmt das?
+Kim: Ja, da steht "männlich". Ich bin transgender, falls das wichtig ist.
+Müller: Danke, das notiere ich. Erzählen Sie mir bitte, weshalb Sie heute gekommen sind.
+Kim: Ich habe seit Anfang April so einen Ausfluss aus der Spitze meines Penis und es brennt beim Wasserlassen. Bin deswegen ziemlich nervös.
+Müller: Verstehe. Haben die Beschwerden ungefähr am 1. April angefangen?
+Kim: Ja, ungefähr am 1. April, vielleicht einen Tag früher oder später.
+Müller: Gut. Können Sie mir sagen, wann Ihr letzter sexueller Kontakt war, der für Sie relevant sein könnte?
+Kim: Der letzte war am 10. Februar 2024.
+Müller: Waren das die einzigen Kontakte in den letzten Monaten?
+Kim: Nein, ich hatte insgesamt zwei Partner in den letzten drei Monaten.
+Müller: Und welche Arten von Sex hatten Sie in diesem Zeitraum?
+Kim: Es war Vaginalverkehr bei einem Partner und ich habe bei einem anderen oral gegeben.
+Müller: Danke für die Offenheit. Glauben Sie, dass bei dem Kontakt im Februar ein erhöhtes HIV-Risiko bestand?
+Kim: Ja, ich mache mir Sorgen, das war eher riskant für mich.
+Müller: Weil der Kontakt am 10. Februar war, liegt das mehr als 72 Stunden zurück — PEP würde jetzt nicht mehr infrage kommen. Wir können aber andere Dinge tun. Nehmen Sie aktuell PrEP zur HIV-Vorsorge?
+Kim: Nein, ich nehme keine PrEP.
+Müller: In Ordnung. Ich würde Ihnen heute Tests empfehlen: einen HIV-Test, sowie Tests auf Chlamydien und Gonokokken.
+Kim: Okay — wie werden die Tests gemacht? Ich verstehe da nicht so viel.
+Müller: Ganz einfach: Wir nehmen Blut für den HIV-Test, außerdem Urin und einen Abstrich aus der Harnröhre für Chlamydien und Gonorrhö. Der Abstrich tut kurz weh, ist aber schnell erledigt.
+Kim: Verstehe. Und was ist mit dem Ausfluss — ist das behandelbar?
+Müller: Meistens ja. Wenn die Tests eine bakterielle Infektion zeigen, gibt es gezielte Antibiotika. Manchmal behandeln wir zunächst, wenn der Befund sehr typisch ist, und passen dann an.
+Kim: Ich hatte früher mal Chlamydien, das war vor ein paar Jahren.
+Müller: Danke, das ist wichtig. Dann achten wir natürlich besonders auf Chlamydien. Ich werde Ihnen außerdem heute PrEP erklären — auch wenn Sie es bisher nicht nehmen — damit Sie wissen, ob das in Zukunft für Sie sinnvoll sein könnte.
+Kim: Gut, ja bitte. Ich will wissen, ob das was für mich ist.
+Müller: Ich erkläre es einfach: PrEP ist ein tägliches Medikament, das eine Infektion mit HIV stark reduziert. Wir schauen nach Blutwerten und besprechen Nebenwirkungen und regelmäßige Kontrollen.
+Kim: Klingt vernünftig. Wie bekomme ich die Ergebnisse der Tests?
+Müller: Die Ergebnisse kommen über das Patientenportal — Sie können dort nachschauen, sobald alles vorliegt.
+Kim: Und wie lange dauert das ungefähr?
+Müller: Das variiert, aber Sie sehen dort die Ergebnisse, sobald die Laborbefunde fertig sind. Wir rufen Sie an, falls etwas Dringendes dabei ist.
+Kim: Okay. Muss ich sonst noch irgendwas tun heute?
+Müller: Nur den Abstrich, Urin- und Blutabnahme. Ich schreibe Ihnen auch ein Rezept oder die Behandlung, falls wir sofort anfangen sollten. Haben Sie noch Fragen zur Abstrichentnahme oder zu PrEP?
+Kim: Nein, nur dass das mit dem Abstrich nicht zu schlimm ist. Danke, dass Sie das so ruhig erklären.
+Müller: Kein Problem. Ich nehme die Proben jetzt, dann besprechen wir das weitere Vorgehen, wenn die Ergebnisse da sind.

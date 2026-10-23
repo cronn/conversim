@@ -1,0 +1,33 @@
+Weber: Guten Morgen, ich bin Dr. Weber. Was führt Sie heute in unsere Ambulanz?
+Luca: Morgen. Ich bin Luca, ich hatte vor kurzem eine Risikosituation und wollte das abklären lassen.
+Weber: Können Sie mir kurz Ihr Geburtsdatum sagen?
+Luca: Klar, 15. Mai 2000.
+Weber: Und Sie sind männlich, korrekt?
+Luca: Ja, männlich.
+Weber: Erzählen Sie kurz zur Sexualanamnese: Wie viele Partner hatten Sie ungefähr in den letzten drei Monaten?
+Luca: Zwei Partner in den letzten drei Monaten.
+Weber: Welche Sexualpraktiken waren dabei?
+Luca: In den letzten drei Monaten hatte ich rezeptiven Analverkehr, rezeptiven Oralverkehr und einmal vaginalen Sex.
+Weber: Wann war der letzte sexuelle Kontakt, ungefähr?
+Luca: Das war am 10. November 2023 — also vor etwa fünf Wochen.
+Weber: Waren bei diesem Kontakt Kondome beim Analverkehr benutzt?
+Luca: Manchmal, nicht bei jedem Mal.
+Weber: Vermuten Sie, dass es sich um eine relevante HIV-Exposition gehandelt hat?
+Luca: Nein, ich würde das nicht als relevantes HIV-Risiko einschätzen.
+Weber: Okay. Waren Sie innerhalb von 72 Stunden nach dem Vorfall hier oder haben Sie PEP erhalten?
+Luca: Nein, ich war nicht so schnell hier, PEP kam also nicht mehr infrage.
+Weber: Haben Sie aktuell Symptome, wie Fieber, Ausschlag, Halsschmerzen oder so?
+Luca: Nein, solche akuten Zeichen hab ich nicht.
+Weber: In der Vorgeschichte — hatten Sie schon einmal eine STI?
+Luca: Ja, ich hatte früher mal Chlamydien.
+Weber: Nehmen Sie derzeit HIV-Präexpositionsprophylaxe, PrEP?
+Luca: Nein, nehme keine PrEP im Moment.
+Weber: Gut, dann besprechen wir PrEP heute kurz als Option — und ich mache mit Ihnen eine Kondomberatung.
+Luca: Das fänd ich gut, danke. Ich hab mich schon ein bisschen informiert.
+Weber: Ich empfehle, wir testen auf HIV, Syphilis, Chlamydien und Gonokokken.
+Luca: In Ordnung.
+Weber: Dafür entnehmen wir Blut, einen Urinabstrich, einen Rektalabstrich und einen Rachenabstrich.
+Luca: Alles klar, kein Problem.
+Weber: Die Ergebnisse gebe ich Ihnen persönlich zurück; das dauert etwa zehn Tage.
+Luca: Perfekt, danke. Gibt es sonst noch etwas, worauf ich achten soll?
+Weber: Achten Sie auf Symptome in den nächsten Wochen; ansonsten Kontaktieren Sie uns bei Veränderungen. Wir besprechen dann auch die PrEP-Option ausführlicher.

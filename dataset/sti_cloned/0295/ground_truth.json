@@ -1,0 +1,89 @@
+{
+  "patient": {
+    "date_of_birth": "1995-07-22",
+    "administrative_sex": "not_discussed",
+    "sex_at_birth": "weiblich",
+    "gender_identity": "trans Mann",
+    "anatomy_present": [
+      "neopenis",
+      "scrotum",
+      "rectum",
+      "vagina"
+    ],
+    "hormone_therapy_status": "yes_current",
+    "gender_affirming_surgery_status": "yes",
+    "pregnancy_possible": "not_discussed",
+    "currently_pregnant": "not_discussed"
+  },
+  "partner_und_praktiken": {
+    "last_sexual_contact_date_approx": {
+      "year": 2024,
+      "month": 5,
+      "day": 10
+    },
+    "partners_last_3_months": 2,
+    "practices_last_3_months": [
+      "anal_insertive",
+      "oral_receptive"
+    ],
+    "condom_use_vaginal": "not_discussed",
+    "condom_use_anal": "sometimes",
+    "condom_use_oral": "never",
+    "partner_hiv_status_known": "not_discussed",
+    "recent_sti_in_partners": "not_discussed"
+  },
+  "symptome": {
+    "symptom_onset_date_approx": null,
+    "symptom_sites": [],
+    "symptom_types": []
+  },
+  "sti_vorgeschichte": {
+    "prior_sti_items": [
+      "chlamydia",
+      "gonorrhea"
+    ],
+    "last_sti_diagnosis_date_approx": {
+      "year": 2023,
+      "month": 3,
+      "day": 15
+    }
+  },
+  "praevention": {
+    "vaccination_hepatitis_a": "not_discussed",
+    "vaccination_hepatitis_b": "not_discussed",
+    "vaccination_hpv": "not_discussed",
+    "prep_current_use": "not_discussed",
+    "prep_offered_or_discussed": "yes",
+    "condom_counseling_done": "yes"
+  },
+  "substanzen": {
+    "alcohol_use_frequency": "not_discussed",
+    "recreational_drug_use_frequency": "not_discussed",
+    "injection_drug_use": "not_discussed"
+  },
+  "hiv_risiko_fenster": {
+    "relevant_hiv_exposure_suspected": "not_discussed",
+    "last_potential_hiv_exposure_date_approx": null,
+    "exposure_within_72h": "not_discussed",
+    "pep_considered": "not_discussed",
+    "exposure_within_6_weeks": "not_discussed",
+    "acute_hiv_symptoms_present": "not_discussed"
+  },
+  "diagnostik_und_kommunikation": {
+    "tests_recommended": [
+      "hiv",
+      "syphilis",
+      "chlamydia",
+      "gonorrhea"
+    ],
+    "sampling_sites": [
+      "blood",
+      "urine",
+      "rectal_swab",
+      "throat_swab",
+      "vaginal_swab"
+    ],
+    "result_delivery_method": "phone",
+    "result_delivery_timeframe_days": null
+  }
+}

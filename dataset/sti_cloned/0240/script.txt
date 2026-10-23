@@ -1,0 +1,53 @@
+Lehmann: Guten Morgen, Luca. Ich bin Dr. Lehmann. Das Gespräch ist vertraulich — wir sitzen in der STI-Ambulanz, ich freue mich, dass Sie gekommen sind. Worum geht es heute genau?
+Luca: Guten Morgen. Ich bin zur Nachkontrolle gekommen, wegen einer Diagnose, die wir hier neulich gestellt haben.
+Lehmann: In Ordnung. Damit ich das richtig zuordnen kann: dürfen Sie mir Ihr Geburtsdatum nennen?
+Luca: Ja, klar — ich bin am 15. Mai 1990 geboren.
+Lehmann: Danke. Wie definieren Sie Ihr Geschlecht, und gab es bei Ihnen bei der Geburt etwas anderes?
+Luca: Ich bin Mann. Bei der Geburt war ich auch männlich.
+Lehmann: Haben Sie aktuell Hormone im Rahmen einer Transition oder so etwas in der Art genommen?
+Luca: Nein, ich nehme keine Hormontherapie.
+Lehmann: Und anatomisch — bleiben wir konkret: Sie haben einen Penis und Hoden, richtig? Und ansonsten keine geschlechtsangleichenden OPs?
+Luca: Genau, ich habe Penis und Hoden. Ich habe auch meine Prostata und meinen Mastdarm, nein, keine OPs.
+Lehmann: Gut. Erzählen Sie mir bitte etwas über Ihre Sexualpraktiken in den letzten Monaten — was war üblich bei Ihnen?
+Luca: In den letzten drei Monaten hatte ich verschiedene Partner, insgesamt vier. Ich hatte sowohl analen Verkehr, also ich war mal aktiv, mal passiv, und ich hatte auch oralen Sex, also mir wurde oral gegeben.
+Lehmann: Wie sieht es mit Kondomen aus — besonders beim Analverkehr und beim Oralverkehr?
+Luca: Beim Analverkehr benutze ich manchmal Kondome, nicht immer. Beim Oralverkehr benutze ich nie Kondome.
+Lehmann: Haben Sie denn kürzlich gewusst, dass einer Ihrer Partner eine STI hatte?
+Luca: Ja, einer der Typen hat mir später gesagt, dass er vor kurzem eine Infektion hatte — deswegen mache ich mir jetzt Sorgen.
+Lehmann: Können Sie mir sagen, wann Ihr letzter sexueller Kontakt ungefähr war?
+Luca: Der letzte Sex war ungefähr am 10. Juli 2024.
+Lehmann: Und gab es danach noch einen Kontakt, den Sie als potenziell riskant einschätzen würden?
+Luca: Ja — am 12. Juli hatte ich noch einen weiteren Kontakt, da glaube ich, dass eine mögliche HIV-Exposition stattgefunden haben könnte.
+Lehmann: War das innerhalb der letzten 72 Stunden? Das wäre relevant für PEP.
+Luca: Nein, das war schon ein paar Tage später — also nicht innerhalb von 72 Stunden.
+Lehmann: Verstehe. Hatten Sie seitdem Symptome entwickelt?
+Luca: Ja, ungefähr am 17. Juli fing das an — also eine Woche nach den Kontakten. Ich bekam Halsschmerzen, dann Brennen beim Wasserlassen, Ausfluss aus dem Penis, und ich hatte auch Schmerzen im Analbereich. Es kamen sogar ein paar kleine Bläschen oder so, leichte offene Stellen.
+Lehmann: Das klingt nach mehreren Symptomen: Halsschmerzen, dysurische Beschwerden und urethraler Ausfluss, plus analen Schmerzen und auch Ulzera. Hatten Sie außerdem Fieber oder allgemeines Krankheitsgefühl?
+Luca: Ja, ich war einfach schlapp, hatte auch leichtes Fieber und war müde — das fühlte sich irgendwie "grippeartig" an.
+Lehmann: Danke. Das passt zu sogenannten akuten HIV-Symptomen, kann aber natürlich auch andere Infektionen erklären. Haben Sie in der Vergangenheit schon mal STIs gehabt?
+Luca: Ja, ich hatte früher Chlamydien, Gonorrhö und auch Syphilis — das war alles schon mal diagnostiziert.
+Lehmann: Wann war die letzte dieser Diagnosen ungefähr?
+Luca: Die letzte Diagnose war am 20. Oktober 2023.
+Lehmann: Danke für die Übersicht. Wie ist es mit Prävention: Sind Sie gegen Hepatitis A oder B geimpft, und wie sieht es mit HPV aus?
+Luca: Bei Hepatitis A und B ist die Impfung unvollständig, das wurde nicht fertig geimpft. Gegen HPV bin ich nicht geimpft.
+Lehmann: Nehmen Sie PrEP zur HIV-Prophylaxe?
+Luca: Nein, ich nehme keine PrEP.
+Lehmann: Hatten wir PrEP hier schon mal besprochen oder angeboten?
+Luca: Ja, das wurde mir hier schon angeboten und erklärt, aber ich habe noch nicht damit begonnen.
+Lehmann: Gut. Ich werde das Thema gleich noch einmal ansprechen. Noch eine Frage zu Substanzen: Trinken Sie regelmäßig Alkohol oder nehmen Sie gelegentlich Drogen?
+Luca: Ich trinke regelmäßig, nicht jeden Tag, aber oft bei Ausgehen. Drogen nehme ich gelegentlich, eher Party-Kram, aber ich spritze nichts.
+Lehmann: Also gelegentliche Freizeitdrogen, aber keine Injektionen — verstanden. Zum Thema Exposition: Sie sagten, die mögliche HIV-Exposition war am 12. Juli und nicht innerhalb von 72 Stunden. Damit ist eine PEP nicht mehr möglich. Wir sehen aber, dass Sie innerhalb der sechs Wochen seit der Exposition Symptome hatten, richtig?
+Luca: Ja, das war innerhalb von sechs Wochen, und die Symptome kamen ja ungefähr am 17. Juli.
+Lehmann: In dem Fall ist wichtig, dass wir gezielte Tests machen. Ich empfehle: HIV-Test, Syphilis-Test, sowie Tests auf Chlamydien und Gonokokken und zudem Hepatitis B-Tests. Stimmen Sie dem zu?
+Luca: Ja, das möchte ich. Ich bin sehr nervös deswegen.
+Lehmann: Verständlich. Für die Probeentnahme werden wir Blut abnehmen für HIV, Syphilis und Hepatitis B. Dann machen wir einen Urintest und Abstriche — einen urethralen Abstrich, einen rektalen Abstrich und einen Rachenabstrich. Wenn die Bläschen oder Ulzera noch vorhanden sind, nehmen wir auch einen Abstrich davon.
+Luca: Okay, das klingt gründlich. Die Stellen sind noch teilweise da, also können Sie gern das nehmen.
+Lehmann: Gut, dann machen wir das gleich. Nach der Untersuchung möchte ich auch kurz mit Ihnen über Kondomgebrauch und Präventionsmöglichkeiten sprechen.
+Luca: Ja, das wäre hilfreich. Ich benutze ja nicht immer Kondome, und das ist wahrscheinlich dumm gewesen.
+Lehmann: Kein Urteil — wichtig ist, dass wir das besprechen. Ich erkläre noch einmal, wie Kondome beim Analverkehr schützen, und wir schauen gemeinsam, ob PrEP für Sie sinnvoll wäre. Wir bieten das hier an und besprechen Vor- und Nachteile.
+Luca: Das wäre gut. Ich würde mir das überlegen.
+Lehmann: Noch zur Befundmitteilung: Wir rufen Sie an, sobald die Ergebnisse da sind. In der Regel haben wir die Ergebnisse innerhalb von sieben Tagen. Ist Ihre Telefonnummer aktuell?
+Luca: Ja, Telefonnummer ist dieselbe, die Sie im System haben — Sie können mich anrufen.
+Lehmann: Perfekt. Falls ein Ergebnis positiv ist, rufen wir Sie an und vereinbaren dann das weitere Vorgehen. Bei negativem HIV-Schnelltest in dieser akuten Phase besprechen wir trotzdem weiteres Follow-up wegen der Fensterzeit. Haben Sie noch Fragen oder etwas, das Sie mir sagen möchten, was ich vergessen habe?
+Luca: Nein, ich glaube nicht. Ich bin nur nervös, ob das Schlimmes heißt. Danke, dass Sie das so ruhig erklären.
+Lehmann: Das ist völlig in Ordnung. Wir gehen jetzt die Untersuchungen durch, und ich berate Sie nachher noch zur Impfung, zu PrEP und zum Kondomgebrauch. Wir kümmern uns darum.

@@ -1,0 +1,49 @@
+Thomas: (nervös) Guten Morgen, Herr Doktor, ich bin Thomas Müller. Ich brauche dringend Ihre Hilfe — aber bitte diskret, es geht um etwas Privates.
+Weber: Diskret ist hier Standard. Was führt Sie her, Herr Müller?
+Thomas: (leise) Ich habe seit ein paar Tagen Beschwerden beim Wasserlassen und Ausfluss. Ich... ich hatte vor kurzem Sex auf einer Dienstreise, ohne Schutz.
+Weber: Seit wann genau haben Sie die Beschwerden?
+Thomas: Am 20. Mai fing das an, also vor vier Tagen. Beim Wasserlassen brennt es, und es kommt Ausfluss.
+Weber: Also Dysurie und Fluor. Letzte sexuelle Kontakte?
+Thomas: (zögernd) Mein letzter Sexualkontakt war am 15. Mai 2024. Es war mit einer Frau, außerhalb meiner Ehe. Ich weiß, das ist problematisch.
+Weber: Heterosexuell, verstanden. Waren die Kontakte regelmäßig in einer Beziehung oder einzelne Gelegenheiten?
+Thomas: Keine Beziehung, das war beiläufig. In den letzten zwölf Monaten hatte ich drei verschiedene Partnerinnen.
+Weber: Kondome benutzt?
+Thomas: (schuldbewusst) Nur gelegentlich. Bei dem einen Kontakt auf der Reise nicht — deswegen mache ich mir Sorgen.
+Weber: Partnerinnen hatten Sie zuletzt drei, alle weiblich, und beim relevanten Kontakt kein Kondom. Stand der Partnerinnen in Bezug auf STI-Tests bekannt?
+Thomas: Nein, ich weiß nichts von Testergebnissen. Also: unknown, ich hätte das wissen sollen.
+Weber: Gut. Noch Vorerkrankungen? Hepatitis, HIV, Syphilis, Gonorrhö, Chlamydien, Herpes, HPV?
+Thomas: (schnell) Nein, nichts davon. Ich wurde aber letztes Jahr allgemein untersucht — am 5. August 2023 — da war alles normal. HIV, Syphilis und Chlamydien/Gonorrhö wurden da auch getestet.
+Weber: Notiert. Impfungen?
+Thomas: Ich glaube, ich habe eine Hepatitis-B-Impfung und auch HPV-Impfung bekommen.
+Weber: In Ordnung. Schmerzen, Fieber, sonstige Beschwerden?
+Thomas: Nur das Brennen beim Wasserlassen und gelblich-grünen Ausfluss manchmal. Kein Fieber, kein Hautausschlag.
+Weber: Haben Sie Blut im Urin oder ungewöhnliche Schmerzen im Unterleib?
+Thomas: Nein, kein Blut, keine starken Unterleibsschmerzen, nur Druckgefühl manchmal.
+Weber: Gut. Wann genau war die Dienstreise, und wie lange her ist der ungeschützte Kontakt?
+Thomas: Das war Mitte Mai, der Kontakt am 15. Mai — also fünf Tage vor Beginn der Symptome.
+Weber: Das passt zu bakteriellen Infektionen wie Gonorrhö oder Chlamydien, aber auch andere Ursachen kommen in Frage. Ich werde Abstriche und einen Urintest machen, sowie Blutabnahme für HIV, Syphilis, Hepatitis B und C.
+Thomas: (ängstlich) Herr Doktor, wird das alles irgendwo vermerkt? Meine größte Angst ist, dass meine Frau oder mein Arbeitgeber davon erfährt.
+Weber: (kühl) Ärztliche Schweigepflicht gilt. Ich werde nichts ohne Ihre Zustimmung sagen. Es gibt Melderegeln für bestimmte Infektionen an das Gesundheitsamt, aber das betrifft nicht automatisch Ihre Frau oder Ihren Arbeitgeber. Wenn Sie so besorgt sind, fassen Sie sich an den Kopf: offene Kommunikation ist besser, aber das entscheide letztlich Sie.
+Thomas: (drängt) Also wirklich: Nichts wird automatisch meiner Frau mitgeteilt? Sie müssen mir das sagen.
+Weber: Nein. Ohne Ihre Einwilligung gebe ich keine Informationen an Dritte weiter. Moralische Belehrungen spare ich mir. Jetzt arbeiten wir sachlich.
+Thomas: Danke. Können Sie das auch verschweigen, wenn es eine meldepflichtige Krankheit wäre?
+Weber: (streng) In Ausnahmefällen gibt es Informationspflichten gegenüber dem Gesundheitsamt. Das bedeutet nicht, dass der Hausstand oder der Arbeitgeber benachrichtigt wird. Im Falle einer meldepflichtigen Erkrankung würde ich das mit Ihnen besprechen und erklären, was das praktisch bedeutet.
+Thomas: (erleichtert) Gut. Bitte tun Sie das, bevor Sie irgendwas weitergeben.
+Weber: Selbstverständlich. Ich erkläre jede Maßnahme. Kommen wir zu den Tests: Ich mache einen Urintest (NAAT) für Chlamydien und Gonokokken, einen Abstrich, sowie Blutentnahme für HIV, Syphilis, Hepatitis B und C. Ein Schnelltest für HIV kann sofort gemacht werden; definitive Ergebnisse brauchen Labor.
+Thomas: Wie lange dauert das mit den Ergebnissen?
+Weber: Urin/Abstrich meist 1–3 Tage. Blutserologien für Syphilis und Hepatitis ebenfalls ein paar Tage; HIV-Schnelltest in 20 Minuten, laborbestätigte Tests in wenigen Tagen. Bei negativem Schnelltest wäre trotzdem ein Wiederholungstest nach der Window-Phase sinnvoll — in der Regel sechs Wochen, je nach Exposition.
+Thomas: Sechs Wochen? Das ist lang. Können Sie mir jetzt etwas geben gegen das Brennen?
+Weber: Ich kann Ihnen eine empirische Therapie anbieten, wenn der Befund und das Klinikbild dafür sprechen. Aber ich bevorzuge zuerst die Probenentnahme, dann je nach Befund zielgerichtet behandeln. Wenn es sehr stark brennt oder Fieber auftritt, beginnen wir sofort.
+Thomas: (unsicher) Und wenn das Ergebnis positiv ist — wie gehen Sie mit Partnerinnen um?
+Weber: Wir würden Sie beraten, wie und ob Sie Ihre Partnerinnen informieren. Partnerbenachrichtigung ist medizinisch sinnvoll. In den meisten Fällen unterstütze ich die Benachrichtigung anonym über das Gesundheitsamt, wenn Sie das wünschen.
+Thomas: (leise) Ich will nicht, dass meine Frau herausfindet, dass ich jemanden hatte. Kann das Gesundheitsamt meine Identität schützen?
+Weber: Ja, anonyme Benachrichtigung ist möglich. Wir besprechen das, falls ein positiver Befund vorliegt. Zuerst konzentrieren wir uns auf Diagnose und Therapie.
+Thomas: (druckt wieder) Gut. Noch eine Frage zur Impfung: Reicht die Hepatitis-B-Impfung, die ich habe, oder brauche ich Auffrischung?
+Weber: Wenn Ihre Hepatitis-B-Impfung komplett ist und die Antikörpertiter in Ordnung sind, sind Sie geschützt. Ich überprüfe Ihren Impfpass und ggf. teste ich Anti-HBs. HPV-Impfung betrifft vor allem Genitalwarzen und Karzinomprävention — hat keinen Einfluss auf die akute Symptomatik.
+Thomas: Ich habe meinen Impfpass nicht dabei, aber ich bin mir ziemlich sicher, dass ich beide Impfungen hatte.
+Weber: Bringen Sie den Pass beim nächsten Besuch mit, dann kontrollieren wir das. Für heute: Probenentnahme, Schnelltest und Blut. Danach besprechen wir Behandlung und Nachsorge.
+Thomas: (erleichtert) Okay. Und bleibt das alles vertraulich, wirklich?
+Weber: (fest) Ja. Ich halte mich an die Schweigepflicht. Sie bekommen alle Informationen zuerst — ich werde nichts ungefragt weiterleiten. Nun legen Sie sich bitte aufs Untersuchungsliegen, wir machen die Abstriche. Ruhig atmen.
+Thomas: (flüstert) Danke, Herr Doktor. Ich weiß das zu schätzen.
+Weber: Gut. Und noch etwas: in Zukunft konsequent Kondome benutzen. Keine Ausreden. Das sparen Sie sich und anderen Stress.
+Thomas: (schamvoll) Ja, das weiß ich. Es passiert nicht wieder.

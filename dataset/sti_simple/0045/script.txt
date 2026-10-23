@@ -1,0 +1,47 @@
+Klein: (leise, etwas nervös) Guten Morgen, Sie sind also wegen etwas... Unangenehmem hier in der offenen Sprechstunde, stimmt das?
+Lea: (heftig atmend) Ja, ja, bitte, es ist furchtbar, ich weiß nicht, was das ist, es... es tut mir so leid, dass es so öffentlich ist.
+Klein: (beruhigend) Kein Problem, wir machen das kurz und diskret. Können Sie mir in eigenen Worten sagen, was genau Ihnen auffällt?
+Lea: (panisch) Also... ich habe so eine... Flüssigkeit, so Ausfluss, und es juckt überall unten, seit ein paar Tagen wird es schlimmer!
+Klein: (zögernd) Verstehe. Seit wann genau haben Sie das? Ein konkretes Datum hilft uns.
+Lea: (schnell) Es fing an am 25.10.2023, also am 25. Oktober, das merke ich genau.
+Klein: (notiert, leise) Danke. Hatten Sie in den Tagen davor Geschlechtsverkehr, vielleicht kürzlich?
+Lea: (fluchtartig) Ja, ich hatte Sex am 22.10.2023. Drei Tage davor. Ich... ich war seitdem total nervös.
+Klein: (unsicher) Und mit wem war das, wenn das okay ist zu fragen—in welchem Beziehungsrahmen sind Sie normalerweise?
+Lea: (verwirrt, weinend) Ähm, ich bin eigentlich hetero, also… das ist peinlich, aber in den letzten zwölf Monaten hatte ich zwei Partnerinnen, also zwei Personen, ja, es war kompliziert, aber ich bin jetzt in einer monogamen Beziehung.
+Klein: (vorsichtig) Danke, das hilft. Waren Ihre Partnerinnen zuletzt auf STI getestet, also ob sie irgendwelche Infektionen hatten?
+Lea: (zitternd) Ich weiß das nicht, also der letzte Partner… keine Ahnung, ich habe nie darüber gesprochen, es war nie Thema.
+Klein: (notiert langsam) Also unbekannter Status beim Partner, verstanden. Benutzen Sie Schutz—also Kondome—oder manchmal gar nichts?
+Lea: (verlegen) Wir haben gelegentlich Kondome benutzt, aber nicht immer, meistens nur ab und zu.
+Klein: (versucht professionell zu bleiben) Alles klar. Haben Sie schon einmal solche Probleme oder sexuell übertragbare Krankheiten gehabt, zum Beispiel Hepatitis, HIV, Syphilis, Chlamydien, sowas in der Art?
+Lea: (ruhiger, sagt schnell) Nein, ich hatte noch nie sowas, nein, bei mir ist nichts davon bekannt.
+Klein: (leise) Gut. Und sind Sie gegen bestimmte Sachen geimpft? Hepatitis B, HPV?
+Lea: Ja, gegen Hepatitis B bin ich geimpft und auch gegen HPV.
+Klein: (erleichtert) Das ist gut. Wann waren Ihre letzten Routine-Checks oder Tests generell?
+Lea: (überlegend) Mein letzter allgemeiner Check-up war am 15.09.2022... Und HIV-Test oder Syphilis oder Chlamydien/Gonorrhöe habe ich zuletzt am 10.08.2021 machen lassen.
+Klein: (notiert) In Ordnung. Tut es auch weh beim Wasserlassen? Oder ist es nur das Jucken und der Ausfluss?
+Lea: (ängstlich) Es brennt ein bisschen beim Pipi machen, ja, und dieses Jucken macht mich wahnsinnig.
+Klein: (vorsichtig, vermeidet Fachausdrücke) Verstehe. Also Flüssigkeit, Jucken und leichtes Brennen beim Wasserlassen, seit dem 25.10. Das passt zeitlich zur letzten Begegnung am 22.10.
+Lea: (keuchend) Ich habe solche Angst, dass es etwas Schlimmes ist, das ich weitergeben könnte.
+Klein: (ruhig) Das ist verständlich. Wir können hier diskret Abstriche machen und eine Urinprobe sowie Bluttests. Damit prüfen wir die gängigen Keime und auch HIV, Syphilis und Hepatitis.
+Lea: (verzweifelt) Muss ich das jetzt gleich hier machen? Ich bin so nervös vor so was...
+Klein: (sanft) Wenn Sie möchten, machen wir es gleich. Es geht zügig und wir sorgen dafür, dass niemand in der Praxis das mitbekommt. Ich erkläre jeden Schritt.
+Lea: (leise) Okay... was genau wird getestet im Blut?
+Klein: Wir testen auf HIV, Syphilis und Hepatitis B und C. Außerdem nehmen wir einen Abstrich und Urin für Chlamydien und Gonorrhö sowie eine mikroskopische Untersuchung wegen Pilz oder Bakterien.
+Lea: (zitternd) Und wie lange dauert das, bis ich Bescheid weiß?
+Klein: Die schnellen Ergebnisse vom Abstrich können wir teilweise binnen ein, zwei Tagen haben, die Blutwerte dauern meist zwei bis fünf Tage.
+Lea: (etwas beruhigt) Und wenn was gefunden wird, kann man das gut behandeln?
+Klein: (bestimmt) Ja, die meisten Infektionen lassen sich gut behandeln, manche mit Tabletten, manche mit einer lokalen Salbe. Wir informieren Sie sofort und besprechen Partnerbenachrichtigung.
+Lea: (ängstlich) Muss ich meinen Partner informieren? Ich will niemanden verletzen.
+Klein: (einfühlsam) Sollte ein Befund positiv sein, ist es wichtig, dass auch die Partner getestet werden. Wir können dabei helfen, das diskret zu machen.
+Lea: (flüsternd) Okay. Ich habe vor zwei Jahren mal einen allgemeinen Check-up gemacht, das war im September 2022, da war alles okay.
+Klein: (notiert) Genau, 15.09.2022, richtig. Und die Tests aus 2021 haben Sie auch erwähnt, 10.08.2021?
+Lea: Ja, HIV und Syphilis und Chlamydien/Gonorrhöe damals, alles negativ.
+Klein: (ermutigend) Gut, das gibt uns einen Anhaltspunkt. Dann würden wir jetzt die Proben nehmen. Haben Sie Allergien oder nehmen Medikamente?
+Lea: (sucht) Nein, keine Allergien, nehme auch nichts regelmäßig.
+Klein: (leise, unsicher) Dann machen wir das so: Ich nehme kurz den Abstrich, Sie geben eine Urinprobe, und wir nehmen Blut ab. Ich erkläre alles, bevor wir starten.
+Lea: (nickt, atemlos) Okay, bitte, ich will einfach wissen, was los ist.
+Klein: (beruhigend) Gut. Ich mache das diskret hinter einem Sichtschutz. Wenn Sie etwas nicht wollen, sagen Sie kurz "Stopp", in Ordnung?
+Lea: (klein) In Ordnung. Danke.
+Klein: (leise) Ich bin gleich zurück, wir sprechen dann auch über Verhütung und wie oft Kondome genutzt werden, damit wir besser einschätzen können, was nötig ist.
+Lea: (leiser, hoffnungsvoll) Danke... es beruhigt mich, dass Sie so ruhig sind.
+Klein: (vorsichtig lächelnd) Kein Problem. Wir machen das sachlich und schnell. Danach besprechen wir die nächsten Schritte, je nach Ergebnis.

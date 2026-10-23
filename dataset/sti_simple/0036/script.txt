@@ -1,0 +1,45 @@
+Jonas: (ruhig, knapp) Guten Morgen, ich bin Jonas. Was führt Sie heute in die offene Sprechstunde?
+Lea: (aufgelöst) Ich... ich habe Ausfluss und es brennt beim Wasserlassen, das ist so peinlich, ich weiß nicht, was das ist!
+Jonas: Seit wann genau haben Sie die Beschwerden?
+Lea: (zitternd) Seit dem 25. Juni 2024 — das hat plötzlich angefangen, zuerst nur ein bisschen Ausfluss und gestern wurde das Brennen schlimmer.
+Jonas: Haben Sie Fieber oder Schmerzen im Unterbauch?
+Lea: Nein, kein Fieber, aber der Unterleib fühlt sich unangenehm an, und beim Sex tut es auch weh.
+Jonas: (präzise) Wie war Ihr Sexualverhalten in den letzten Monaten? Beziehungsstatus, Anzahl der Partner?
+Lea: Ich bin homosexuell und in einer offenen Beziehung. In den letzten zwölf Monaten hatte ich vier Partner. Ich weiß nicht bei allen den STI-Status, manche sage nichts dazu.
+Jonas: Gab es den letzten Sexualkontakt vor oder nach dem Beginn der Symptome?
+Lea: (schnell) Der letzte Sex war am 15. Juni 2024, also zehn Tage vor den Beschwerden.
+Jonas: Haben Sie bei sexuellen Kontakten Schutz verwendet?
+Lea: Ich benutze manchmal Kondome, manchmal nicht — also eher gelegentlich. Ich nehme auch manchmal PrEP, aber nicht regelmäßig.
+Jonas: (knapp) Nehmen Sie aktuell Medikamente, Allergien, oder chronische Erkrankungen?
+Lea: Keine Dauermedikamente, keine bekannten Allergien, sonst gesund.
+Jonas: Sind Sie gegen Hepatitis A, B und HPV geimpft?
+Lea: Ja, ich habe Hepatitis A, Hepatitis B und HPV-Impfungen bekommen.
+Jonas: Wurden Sie schon einmal wegen STI behandelt? HIV, Syphilis, Gonorrhö, Chlamydien, Herpes, HPV?
+Lea: Nein, bei mir wurde bisher nichts diagnostiziert — keine Hepatitis, kein HIV, keine Syphilis, keine Gonorrhö, keine Chlamydien, kein Herpes und keine Warzen.
+Jonas: (kurz) Wann war Ihre letzte allgemeine Untersuchung und Ihre letzten STI-Tests?
+Lea: Mein letzter Check-up war am 10. November 2023. HIV, Syphilis und Chlamydien/Gonorrhö wurden zuletzt am 20. März 2024 getestet.
+Jonas: (konzentriert) Gut. Damit das gezielt abgeklärt wird, würde ich Harn*proben* und einen Abstrich machen — je nachdem ob der Ausfluss vaginal oder urethral ist — plus NAAT-Test auf Chlamydien und Gonokokken, PCR auf Mycoplasma, sowie Bluttests für HIV, Syphilis und Hepatitis, okay?
+Lea: (ängstlich) Ja, bitte. Machen Sie das, ich will wissen, was los ist. Ist das peinlich? Muss das jemand anderes erfahren?
+Jonas: Alles bleibt vertraulich. Wir dokumentieren das in Ihrer Patientenakte, aber nichts geht ohne Ihre Information an Dritte. Ich kläre auch, ob Partnerbenachrichtigung nötig ist, das geht anonym.
+Lea: (etwas beruhigt) Okay, gut. Und was ist, wenn das positiv ist? Bekomme ich gleich Medikamente?
+Jonas: Falls ein akuter Befund sehr wahrscheinlich ist, können wir eine erste empirische Therapie in Erwägung ziehen — das entscheidet sich nach Untersuchung und je nachdem, ob es Hinweise auf Gonokokken gibt. Ansonsten behandeln wir gezielt nach Ergebnis. Bluttests dauern in der Regel ein bis drei Tage.
+Lea: (unsicher) Ich nehme ja manchmal PrEP — beeinflusst das die Tests oder die Behandlung?
+Jonas: PrEP beeinflusst die STI-Tests nicht. Es schützt teilweise vor HIV, nicht aber vor Chlamydien oder Gonorrhö. Wichtig ist regelmäßige Einnahme für Schutz gegen HIV; gelegentliche Einnahme reduziert die Wirksamkeit.
+Lea: (verzweifelt) Das heißt, ich hätte HIV haben können, aber ich wurde im März negativ getestet...
+Jonas: Ihr letzter HIV-Test war am 20. März 2024 und negativ, richtig. Wir wiederholen den Test jetzt. Bei akutem Risiko können wir zusätzlich eine PCR machen, die früher positiv wird als der Antikörpertest.
+Lea: (leise) Und die anderen Tests — wie sicher sind die?
+Jonas: NAAT/PCR-Tests sind sehr zuverlässig für Chlamydien und Gonokokken aus Urin und Abstrich. Syphilis via Blut ist ebenfalls zuverlässig, und bei unklaren Fällen wiederholen wir die Tests nach zwei bis vier Wochen.
+Lea: (schnell) Macht das eine körperliche Untersuchung? Ich mache mir Sorgen, dass das unangenehm wird.
+Jonas: Ja, ich muss kurz untersuchen, Abstriche nehmen und Urin. Ich mache das diskret und so schonend wie möglich. Wenn Sie möchten, erkläre ich jeden Schritt vorher.
+Lea: (nickend) Bitte erklären Sie alles. Ich bin so nervös.
+Jonas: Zuerst kurz Blick, dann nehmen wir einen Urin-Mittstrahl und einen Vaginalabstrich. Wenn nötig zusätzlich ein urethraler Abstrich. Blutentnahme erfolgt im Anschluss. Dauert etwa zehn Minuten.
+Lea: (aufatmend) Okay. Und wie sieht es mit der Partnerinformation aus? Soll ich das meinen Partnern sagen?
+Jonas: Wenn Tests positiv sind, sollten enge Partner informiert werden. Wir können das anonym über das Gesundheitsamt machen oder Sie erhalten ein Informationsschreiben. Ich empfehle, enge Partner zu benachrichtigen, damit sie sich ebenfalls testen lassen.
+Lea: (ängstlich) Ich habe vier Partner in den letzten zwölf Monaten — ich weiß nicht, ob ich das selbst allen sagen kann.
+Jonas: Wir helfen Ihnen dabei. Falls nötig, übernehmt das Gesundheitsamt die anonyme Benachrichtigung. Wichtig ist, dass Sie sich jetzt testen lassen und wir dann das weitere Vorgehen planen.
+Lea: (hoffnungsvoll) Können Sie mir auch sagen, ob ich weiterhin PrEP nehmen soll?
+Jonas: Ja. Wenn Ihre Tests negativ sind und Ihr Risiko weiterhin besteht, empfehle ich regelmäßige PrEP-Einnahme nach Absprache mit der HIV-Sprechstunde — idealerweise täglich oder nach dem passenden Intervall, mit regelmäßigen Kontrollen.
+Lea: (leise) Danke. Ich fühle mich sofort besser, jetzt wo es einen Plan gibt.
+Jonas: Gut. Dann führe ich die Untersuchung durch. Haben Sie Fragen zu Schmerz, Antibiotika-Allergien oder Verhütung, bevor wir anfangen?
+Lea: Keine Allergien, keine weiteren Fragen im Moment. Bitte los.
+Jonas: (kurz) Dann fange ich an. Ich notiere auch Ihre Impfungen und die letzten Tests, damit wir alles dokumentiert haben. Danach besprechen wir die nächsten Schritte je nach Ergebnis.

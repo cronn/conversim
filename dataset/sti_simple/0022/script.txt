@@ -1,0 +1,58 @@
+Hannah: (sachlich) Guten Morgen, Herr Müller, setzen Sie sich bitte, Sie klangen am Telefon etwas beunruhigt — worum geht es genau?
+Thomas: (nervös) Guten Morgen, ja… ich habe Ausfluss und beim Wasserlassen brennt es seit ein paar Tagen, deshalb bin ich gekommen.
+Hannah: (streng) Seit wann genau haben Sie diese Beschwerden?
+Thomas: (zögernd) Am 28. Mai 2024 fing es an, also vor ein paar Tagen.
+Hannah: (notierend) Gut. Treten Fieber oder andere Schmerzen auf?
+Thomas: Nein, kein Fieber, nur der Ausfluss und das Brennen beim Wasserlassen.
+Hannah: (präzise) Sind Sie männlich, heterosexuell?
+Thomas: Ja, ich bin heterosexuell.
+Hannah: (streng) Wie ist Ihre Beziehungsituation?
+Thomas: (leise) Ich bin verheiratet, Vater, aber meine Beziehung ist offen — wir haben vereinbart, dass wir auch andere Kontakte haben dürfen.
+Hannah: (sachlich) Verstanden. Wie viele Sexualpartner hatten Sie in den letzten zwölf Monaten?
+Thomas: Drei Frauen.
+Hannah: (notierend) Wann war Ihr letzter Geschlechtsverkehr?
+Thomas: Am 20. Mai 2024 — auf einer Dienstreise hatte ich einen ungeschützten Seitensprung.
+Hannah: (scharf) Ungeschützt — das erhöht das Risiko einer sexuell übertragbaren Infektion. Haben Sie bei Ihren Kontakten normalerweise Kondome verwendet?
+Thomas: (verlegen) Gelegentlich, also nicht immer — manchmal schon, manchmal nicht.
+Hannah: (ernst) Waren die Partnerinnen bekannte Personen oder fremd für Sie, und kennen Sie deren STI-Status?
+Thomas: Zum Teil bekannt, zum Teil nicht, der STI-Status war mir bei mindestens einer unbekannt.
+Hannah: (streng) Haben Sie in der Vergangenheit jemals eine sexuell übertragbare Krankheit gehabt — Chlamydien, Gonorrhö, Syphilis, HIV, Hepatitis oder ähnliche?
+Thomas: Nein, soweit ich weiß nichts davon.
+Hannah: (kontrollierend) Sind Sie gegen Hepatitis B geimpft?
+Thomas: Ja, ich habe die Hepatitis-B-Impfung.
+Hannah: (notierend) Gut. Wann waren Ihre letzten Tests? HIV, Syphilis, Chlamydien/Gonorrhoe oder ein allgemeiner Check-up?
+Thomas: (schnell) Allgemeiner Check-up am 10.10.2023, HIV-Test am 01.05.2023, Syphilis ebenfalls am 01.05.2023 und Chlamydien/Gonorrhö-Test am 15.11.2023.
+Hannah: (streng) Das ist hilfreich, danke. Haben Sie Allergien oder nehmen Sie regelmäßig Medikamente?
+Thomas: Keine Allergien, ich nehme außer gelegentlichen Kopfschmerztabletten nichts regelmäßig.
+Hannah: (entschlossen) Dann mache ich einen Urintest und einen urethralen Abstrich beziehungsweise eine NAAT-Untersuchung für Chlamydien und Gonorrhö, zusätzlich Blut für HIV, Syphilis und Hepatitis-A/C wenn nötig.
+Thomas: (ängstlich) Werden diese Ergebnisse irgendwo gemeldet? Wird meine Frau davon erfahren? Ich bitte Sie, das ist das Wichtigste — die Schweigepflicht, gilt die?
+Hannah: (ruhig, bestimmt) Ärztliche Schweigepflicht gilt grundsätzlich uneingeschränkt; ich gebe ohne Ihre Zustimmung keine Informationen an Dritte weiter.
+Thomas: (misstrauisch) Wirklich? Also auch nicht an meine Frau, nicht an meinen Arbeitgeber?
+Hannah: (sachlich) Nein, nicht an Ihre Frau oder Ihren Arbeitgeber. Es gibt nur sehr enge gesetzliche Ausnahmen — zum Beispiel bei meldepflichtigen Infektionen oder wenn eine akute Gefährdung Dritter besteht. Im Regelfall bespreche ich alles nur mit Ihnen.
+Thomas: (wiederholt, leiser) Und wenn das Ergebnis positiv ist, werden Sie mich dann zwingen, meine Frau zu informieren?
+Hannah: (streng) Ich kann und werde Sie beraten, wie Sie Ihre Partner informieren sollten; eine Zwangsinformation durch mich erfolgt nicht. Es ist jedoch medizinisch wichtig, dass mögliche Kontaktpersonen informiert und getestet werden.
+Thomas: (gequält) Können Sie das anonym tun? Ich will nicht, dass meine Frau davon erfährt.
+Hannah: (sachlich) Wir können gern Möglichkeiten besprechen — manche Gesundheitsämter bieten anonyme Partnerbenachrichtigungen an. Aber Sie haben auch die Möglichkeit, es selbst zu regeln; ich unterstütze Sie dabei.
+Hannah: (wechselnd zu medizinisch) Für jetzt: wegen Ausfluss und Dysurie starte ich mit den genannten Tests; bei starkem Verdacht auf Gonorrhö kann eine kurzfristige antibiotische Behandlung nötig sein, bevor alle Ergebnisse vorliegen.
+Thomas: (unsicher) Also könnte ich jetzt direkt Medikamente bekommen?
+Hannah: (präzise) Falls der Befund klinisch eindeutig ist, bespreche ich mit Ihnen eine empirische Therapie. Ich erläutere vorher die Vor- und Nachteile — Sie entscheiden.
+Thomas: (leise) Und wird die Therapie auch meine Chance auf Komplikationen verringern?
+Hannah: (klar) Ja, eine rechtzeitige Behandlung reduziert das Risiko von Komplikationen wie Prostatitis oder epididymitis und verhindert, dass Sie andere anstecken.
+Thomas: (fragend) Wie lange dauert es, bis die Ergebnisse da sind?
+Hannah: (sachlich) PCR/NAAT-Ergebnisse für Chlamydien und Gonokokken meist 1–3 Werktage, Blutserologien für HIV/Syphilis ebenfalls innerhalb von ein paar Tagen; Kultur bei Gonokokken kann etwas länger dauern.
+Thomas: (besorgt) Muss ich bis dahin auf Sex verzichten?
+Hannah: (streng) Ja, bitte sexuelle Kontakte bis zum Abschluss und der Klärung der Tests vermeiden oder konsequent Kondome verwenden; andernfalls könnten Sie andere infizieren.
+Thomas: (flüsternd) Und wenn alles negativ ist — was dann?
+Hannah: (ruhig) Wenn alles negativ ist, klären wir andere Ursachen für Ihre Beschwerden, behandeln symptomatisch und verabreden Kontrollen. Ich empfehle zudem regelmäßige Tests, wenn Sie mehrere Partner haben.
+Thomas: (zögernd) Können Sie mir sagen, ob Sie das in meiner Patientenakte vermerken? Ich will nicht, dass irgendwer außer uns das zufällig liest.
+Hannah: (streng) Alles kommt in Ihre Patientenakte, das gehört dazu. Die Akte unterliegt der Schweigepflicht und wird nicht ohne Ihre Zustimmung weitergegeben.
+Thomas: (immer noch misstrauisch) Also wirklich niemand außerhalb der Praxis hat Zugriff?
+Hannah: (bestimmt) Nein, nur autorisiertes Personal, das mit Ihrer Behandlung zu tun hat. Wenn Sie möchten, kann ich notieren, dass nur Sie ausführlich informiert werden sollen.
+Hannah: (sachlich) Ich mache jetzt die Tests — Urinprobe, Abstrich, Blutabnahme — und gebe Ihnen eine vorläufige Linderung für die Beschwerden, bis wir die Ergebnisse haben.
+Thomas: (erleichtert) Danke. Können Sie mir auch sagen, ob ich mein Risiko zukünftig senken kann?
+Hannah: (klinisch) Konsequente Kondomanwendung reduziert das Risiko deutlich; regelmäßige Tests, offene Kommunikation mit Partnern und eventuell Auffrischung der Hepatitis-Impfung sind sinnvoll.
+Thomas: (leise) Verstehe. Und noch etwas: ich bin Vater, wie diskret geht die Termin- und Befundkommunikation hier?
+Hannah: (sachlich) Diskret — telefonisch nur mit Ihnen oder auf Wunsch per Mail mit gesichertem Zugang. Keine Lieferungen oder Hinweise, die Rückschlüsse zulassen.
+Thomas: (nickt) Gut. Dann machen wir das so.
+Hannah: (streng) Gut, dann bereite ich alles vor; bleiben Sie bitte kurz hier, ich komme gleich mit den Unterlagen für Blut- und Urinentnahme.
+Thomas: (dankbar) Danke, Frau Dr. Müller — und danke, dass Sie die Schweigepflicht so klar sagen.

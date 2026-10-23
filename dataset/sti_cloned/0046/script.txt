@@ -1,0 +1,34 @@
+Weber: Guten Morgen, Frau Charlie, ich bin Dr. Weber. Sie haben angegeben, dass Sie wegen aktuellen Symptomen gekommen sind — erzählen Sie mir bitte in eigenen Worten, was Sie gespürt haben.
+Charlie: Morgen. Eh... also, mir ist das ein bisserl peinlich, aber seit ein paar Tagen hab ich halt Beschwerden, die mich verunsichern.
+Weber: Kein Grund zur Scham, das ist völlig normal. Sie können offen sagen, was Sie bemerken — je genauer, desto besser, aber Sie dürfen auch erst schrittweise erzählen.
+Charlie: Ja, danke. Also ich fang mal langsam an: es fühlt sich irgendwie nicht normal an, und ich hab mir gedacht, lieber abklären lassen in der Uni-Klinik.
+Weber: Sehr gut. Bevor wir tiefer einsteigen: Sie sind 52, korrekt?
+Charlie: Genau, 52. Und ja, ich bin eine Frau.
+Weber: Gut. Nehmen Sie irgendwelche Hormone oder Hormontherapien?
+Charlie: Nein, gar nichts in der Richtung.
+Weber: Sind Sie aktuell schwanger oder könnte eine Schwangerschaft möglich sein?
+Charlie: Nein, ich bin nicht schwanger, aber ja, schwanger werden könnte ich noch, also möglich ist es.
+Weber: Alles klar. Und bezüglich Ihrer Anatomie — haben Sie noch Ihre Vagina und den Gebärmutterhals? Und mögliche Beschwerden im Rektalbereich wären wichtig zu wissen.
+Charlie: Ja, ich hab noch meine Vagina und meinen Gebärmutterhals, und auch den Rektum natürlich.
+Weber: Möchte kurz zu Ihrem Sexualleben fragen, damit wir das Risiko besser einschätzen können: Wie viele Partnerinnen oder Partner in den letzten drei Monaten?
+Charlie: Nur einen Partner in den letzten drei Monaten.
+Weber: Welche Praktiken gab es in dieser Zeit — vaginal, oral, anal?
+Charlie: Wir hatten Vaginalverkehr, und er hat mich auch oral befriedigt.
+Weber: Haben Sie den Sex als riskant eingeschätzt oder vermuten Sie eine mögliche HIV-Exposition?
+Charlie: Nein, ich vermute keine HIV-Exposition, das war nicht der Fall.
+Weber: Okay. Wie war es mit Kondomen beim Vaginalverkehr?
+Charlie: Meistens haben wir ein Kondom verwendet, ja.
+Weber: Verstanden. Noch eine schnelle Frage zu Substanzen: Trinken Sie Alkohol, nehmen Sie Freizeitdrogen oder injizieren Sie Substanzen?
+Charlie: Ich trink nur gelegentlich ein Glas Wein, ansonsten keine Drogen, nichts gespritzt.
+Weber: Danke. Sie sagten, Sie haben Beschwerden — ich würde Ihnen empfehlen, folgende Tests zu machen: Bluttests für HIV und Syphilis und Abstriche beziehungsweise PCR-Tests auf Chlamydien und Gonokokken. Dazu würd ich Blut, Urin, einen vaginalen Abstrich, einen Rektalabstrich und einen Rachenabstrich nehmen.
+Charlie: Okay, das klingt vernünftig. Wie laufen die Tests ab, tut das sehr weh?
+Weber: Blutabnahme ist kurz unangenehm, Urin geben und die Abstriche sind etwas ungewohnt, aber nicht schmerzhaft. Wir gehen das langsam und respektvoll an.
+Charlie: Und wenn was Positives dabei rauskommt — gibts das noch gut zu behandeln?
+Weber: Ja, viele STIs sind gut behandelbar: Syphilis und Gonokokken mit Antibiotika, Chlamydien ebenfalls. HIV ist behandelbar mit antiretroviraler Therapie, früh erkannt läuft das heute sehr gut.
+Charlie: Gut zu wissen. Noch eine Frage: Ich wurde gegen Hepatitis B geimpft und hab auch die HPV-Impfung komplett durch — reicht das teilweise aus?
+Weber: Ja, dass Sie komplett gegen Hepatitis B und HPV geimpft sind, ist sehr hilfreich. Trotzdem empfehlen wir die Tests, um aktuell sicherzugehen.
+Charlie: Super. Und wie bekomme ich die Ergebnisse?
+Weber: Die Befunde stellen wir in Ihr Patientenportal — dort können Sie sie einsehen. Wenn etwas Dringliches dabei ist, rufen wir Sie vorher an.
+Charlie: Danke. Ach, und zum Schluss: Könnten Sie mir kurz zeigen, wie ich beim Kondomgebrauch am besten aufpassen soll? Ich hab da manchmal Fragen.
+Weber: Gerne, wir besprechen das gleich. Ich erklär kurz die wichtigsten Punkte und wir haben Informationsmaterial, das Sie mitnehmen können.
+Charlie: Danke, das beruhigt mich schon. Dann machen wir die Tests.

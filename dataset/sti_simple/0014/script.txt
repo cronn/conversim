@@ -1,0 +1,53 @@
+Klein: (vorsichtig) Guten Morgen, Herr... ähm, Thomas, richtig? Setzen Sie sich bitte, es ist gerade viel los im Wartezimmer, ich mache das kurz und diskret.
+Thomas: (nervös) Ja, danke. Ich... also, ich habe seit ein paar Tagen so ein... unangenehmes Gefühl untenrum und auch so ein bisschen Ausfluss, deshalb bin ich hereingekommen.
+Klein: (zögernd) Verstehe. Können Sie mir sagen, wann das genau angefangen hat?
+Thomas: Am 20. Juli hat das angefangen, also vor ein paar Tagen, genau am 20.07.2024.
+Klein: Okay. Haben Sie Schmerzen beim Wasserlassen oder Jucken im Intimbereich bemerkt?
+Thomas: Ja, beim Wasserlassen brennt es manchmal, und ab und zu juckt es auch. Das macht mir Sorgen.
+Klein: (leise) Danke. Haben Sie in letzter Zeit intime Kontakte gehabt? Ich frage das nur, um besser einschätzen zu können, was es sein könnte.
+Thomas: (zögernd) Ja. Ich bin heterosexuell, und ich hatte mehrere Partnerinnen im letzten Jahr — insgesamt vier Frauen. Mein Hauptverhältnis ist offen, aber... letzten Monat war ich geschäftlich unterwegs und hatte einen Seitensprung, ungeschützt.
+Klein: (vorsichtig, euphemistisch) Verstanden. Wann genau war Ihr letzter intime Kontakt?
+Thomas: Das war am 15. Juli 2024 — also fünf Tage bevor die Beschwerden angefangen haben.
+Klein: Waren die Partnerinnen auf STI getestet oder war der Status unbekannt?
+Thomas: Ich weiß es nicht, ehrlich gesagt, der Status war unbekannt. Ich habe es nicht gefragt. Ich benutze manchmal Kondome, aber nicht immer — eher gelegentlich.
+Klein: (nickend) Also Schutz manchmal, manchmal kein Schutz. Verstanden. Haben Sie in der Vergangenheit jemals sexuell übertragbare Krankheiten gehabt? Also so was wie Chlamydien, Gonorrhö, Syphilis, HIV oder Hepatitis?
+Thomas: Nein, soweit ich weiß nichts davon. Ich hatte nie so eine Diagnose.
+Klein: Gut. Waren Sie gegen Hepatitis A und B geimpft? Und HPV?
+Thomas: Ja, ich wurde gegen Hepatitis A und B geimpft, und auch HPV wurde mir gegeben.
+Klein: (etwas unsicher) Das ist gut. Wann war Ihr letztes allgemeines Gesundheits-Check-up?
+Thomas: Das war am 10.01.2023, also Anfang 2023. Und Bluttests auf HIV, Syphilis, Chlamydien und Gonorrhöe hatte ich zuletzt am 20.05.2022.
+Klein: Danke, das hilft. Ich muss Ihnen sagen: alles, was Sie mir hier erzählen, unterliegt der ärztlichen Schweigepflicht.
+Thomas: (unterbrechend, misstrauisch) Würden Sie das bitte noch mal klar sagen? Bleibt das wirklich alles unter uns? Meine Frau darf davon auf keinen Fall erfahren.
+Klein: Ja, das bleibt vertraulich. Ärztliche Schweigepflicht gilt. Wir dürfen ohne Ihre Einwilligung nichts weitergeben.
+Thomas: (drängend) Auch nicht, wenn es irgendwie eine ansteckende Sache ist? Ich will nicht, dass sie es erfährt.
+Klein: Nur in sehr seltenen Fällen müssten wir Behörden informieren, zum Beispiel bei meldepflichtigen Infektionen — aber auch das ist geregelt und geschieht nicht, um Ihre Partnerbeziehung aufzudecken. In der Regel dienen Meldungen dem Schutz der öffentlichen Gesundheit, nicht der Offenlegung in der Familie.
+Thomas: (erleichtert, aber noch nervös) Okay... Danke. Was würden Sie jetzt empfehlen? Kann man das einfach testen, ohne dass jemand anderes es sieht?
+Klein: Ja. Wir können einen Abstrich machen und eine Urinprobe sowie Blut abnehmen, um HIV, Syphilis und Hepatitis auszuschließen. Für Chlamydien und Gonorrhöe ist ein Abstrich beziehungsweise eine Urin-PCR sinnvoll. Die Proben werden anonymisiert und vertraulich behandelt.
+Thomas: (leise) Wird das weh tun?
+Klein: Beim Abstrich kann es kurz unangenehm sein, beim Urintest gar nicht, und Blutabnahme merkt man auch kaum. Es geht alles recht schnell.
+Thomas: (unsicher) Und wie lange dauert es bis zum Ergebnis?
+Klein: In der Regel zwei bis vier Tage für die PCR-Tests, Blutwerte manchmal schon innerhalb von zwei Tagen. Wenn etwas Dringendes gefunden wird, rufen wir Sie an und besprechen die Behandlung.
+Thomas: (schnell) Wenn da etwas ist, wird das auf meinem Krankenbericht stehen, den meine Frau sehen könnte?
+Klein: Ihr Krankenbericht ist ebenfalls vertraulich. Nur Sie oder jemand mit Ihrer ausdrücklichen Einwilligung kann Einsicht nehmen. Wenn Sie das nicht möchten, bleibt es unter uns.
+Thomas: Gut. Reicht das, wenn ich jetzt hierbleibe, oder soll ich sofort Medikamente nehmen?
+Klein: Wir geben ungern blind Antibiotika ohne Testbefund, weil das die Diagnostik erschwert. Bei klaren Symptomen wie Ausfluss und Brennen könnte eine empirische Therapie möglich sein, aber ich würde zuerst die Proben nehmen und — wenn nötig — sofort anfangen. Möchten Sie, dass wir sofort testen?
+Thomas: Ja, bitte. Machen Sie das jetzt. Ich will das schnell wissen.
+Klein: (etwas flüsternd) In Ordnung. Ich nehme erst Urin, dann einen Abstrich. Wenn Sie möchten, mache ich das hier so diskret wie möglich. Haben Sie Schmerzen bei Berührung im Bereich?
+Thomas: Nein, nur das Brennen beim Wasserlassen und das Jucken. Und es kommt so eine schleimige Flüssigkeit.
+Klein: Danke, das ist wichtig. Haben Sie allergische Reaktionen auf Penicillin oder andere Medikamente?
+Thomas: Nein, keine Allergien.
+Klein: Gut. Nehmen Sie sonst Medikamente regelmäßig oder haben chronische Erkrankungen?
+Thomas: Nein, ich bin sonst gesund.
+Klein: Okay. Ich notiere: heterosexuell, offene Beziehung, vier Partnerinnen im letzten Jahr, letzter Kontakt 15.07.2024, Schutz gelegentlich, Ungeimpfte Partner unbekannter Status, Symptome seit 20.07.2024: Ausfluss, Brennen, Jucken. Keine Vorerkrankungen, Impfungen gegen Hep A/B und HPV vorhanden. Ist das so korrekt?
+Thomas: Ja, genau so. Danke, dass Sie das aufschreiben.
+Klein: (leise) Bitte. Wenn die Tests negativ sind, besprechen wir weitere Schritte. Wenn wir etwas Gezieltes finden, behandeln wir es spezifisch — meistens mit Tabletten oder einer lokalen Salbe, je nach Ursache.
+Thomas: Und müsste ich irgendwelche Partnerinnen informieren?
+Klein: Bei bestimmten Infektionen ist eine Partnerbenachrichtigung medizinisch sinnvoll. Wie wir das handhaben, besprechen wir später vertraulich; oft lohnt sich eine anonymisierte Benachrichtigung über die Gesundheitsstelle, wenn Sie das bevorzugen.
+Thomas: (angstvoll) Würden die dann merken, dass ich es war?
+Klein: Das wäre anonym möglich, ohne Ihren Namen zu nennen. Ziel ist, dass die Kontaktpersonen getestet werden, nicht, jemanden bloßzustellen.
+Thomas: Okay. Können Sie mir kurz sagen, ob ich bis zur sicheren Diagnose Sex haben sollte?
+Klein: Ich empfehle, bis zum Abschluss der Tests und gegebenenfalls der Behandlung auf sexuelle Kontakte zu verzichten oder konsequent Kondome zu verwenden, um das Risiko einer Übertragung zu vermeiden.
+Thomas: (seufzend) Verstanden. Danke. Ich will kein Risiko eingehen — vor allem nicht, dass meine Frau später davon erfährt.
+Klein: Das respektiere ich. Ich mache jetzt die Probenentnahme. Wenn Sie möchten, erkläre ich jeden Schritt vorher noch einmal kurz.
+Thomas: Ja, bitte. Und nochmal: das bleibt wirklich vertraulich, ja?
+Klein: Ja, Herr Thomas, das bleibt vertraulich. Sie können sich darauf verlassen.

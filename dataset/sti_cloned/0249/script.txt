@@ -1,0 +1,33 @@
+Müller: Guten Morgen, ich bin Dr. Müller. Sie sind in der STI-Sprechstunde der Uniklinik — alles vertraulich. Was führt Sie heute zu uns?
+Charlie: Morgen. Ich hatte vor ein paar Wochen ein Risikoerlebnis und wollte das abklären lassen. Ich habe aber keine konkreten Beschwerden.
+Müller: Kein Fieber, kein ungewöhnlicher Ausfluss, keine Geschwüre oder Schmerzen beim Wasserlassen?
+Charlie: Nein, nichts davon. Keine grippeähnlichen Symptome, wirklich keine akuten Beschwerden.
+Müller: Gut. Können Sie ungefähr sagen, wann das Risikoereignis war?
+Charlie: Das war Anfang Mai 2024 — also vor etwa sechs Wochen.
+Müller: War das innerhalb der ersten 72 Stunden gewesen?
+Charlie: Nein, das war definitiv schon länger her, also PEP kommt nicht mehr in Frage.
+Müller: Verstanden. Wie viele Sexualpartner hatten Sie in den letzten drei Monaten?
+Charlie: Drei verschiedene Partner in den letzten drei Monaten.
+Müller: Und welche Praktiken waren dabei relevant?
+Charlie: Vaginalverkehr, ich war auch insertiv beim Analverkehr, und beim Oralverkehr war ich eher reziprok — also orale Aufnahme.
+Müller: Wie handhaben Sie Schutzmittel dabei?
+Charlie: Beim Vaginalverkehr benutze ich manchmal ein Kondom, beim Analverkehr auch manchmal. Beim Oralverkehr war das nicht das große Thema, eher spontan.
+Müller: Danke. Haben Sie aktuell eine langfristige HIV-Prophylaxe, also nehmen Sie PrEP?
+Charlie: Nein, ich nehme keine PrEP momentan. Wir haben das aber vorher schon mal kurz besprochen, das wäre für mich prinzipiell eine Option.
+Müller: Gut, das kann man heute nochmal durchsprechen. Gab es in der Vergangenheit schon STI-Diagnosen?
+Charlie: Ja, 2022 wurde bei mir Chlamydien diagnostiziert — das war im März 2022, habe ich behandelt bekommen.
+Müller: Impfstatus: wie sieht es mit Hepatitis B oder HPV-Impfungen aus?
+Charlie: Hepatitis B ist unvollständig — ich habe eine Dosis, aber den kompletten Zyklus nicht abgeschlossen. HPV bin ich nicht geimpft.
+Müller: Danke. Ein paar Grundlagen noch: Können Sie mir Ihr Geburtsdatum sagen und wie Sie sich identifizieren?
+Charlie: Klar — ich bin am 15. Mai 2000 geboren. Ich wurde als männlich geboren und identifiziere mich als Mann. Ich habe Penis, Hoden und auch einen Anus/Rectum, nehme keine Hormone oder so.
+Müller: Verstanden — keine Hormontherapie. Wie ist es mit Alkohol oder Drogen, gab es das im Zusammenhang mit den Kontakten?
+Charlie: Alkohol trinke ich gelegentlich, oft wenn es passiert ist, war schon ein paar Drinks im Spiel. Gelegentlich auch andere Freizeitdrogen, aber niemals injiziert.
+Müller: Alles klar. Ich würde Ihnen folgende Tests empfehlen: HIV, Syphilis, Chlamydien, Gonorrhoe und Hepatitis B. Dafür nehmen wir Blut, Urin sowie einen Rektalabstrich und einen Rachenabstrich.
+Charlie: Das klingt sinnvoll. Wie bekomme ich die Ergebnisse?
+Müller: Wir schicken Ihnen die Ergebnisse über das Patientenportal; in der Regel sind sie innerhalb einer Woche da, also etwa sieben Tage.
+Charlie: Super, danke. Und zur Prävention — Sie meinten PrEP und Kondome?
+Müller: Genau. Wir können heute nochmal über PrEP sprechen und ich habe Sie zur konsequenten Kondomnutzung beraten — gerade bei wechselnden Partnern. Ich notiere auch den unvollständigen Hepatitis-B-Status, dann besprechen wir Auffrischungen.
+Charlie: Klingt gut. Noch etwas, was ich wissen sollte?
+Müller: Nicht akut. Da Sie keine Symptome haben und das Ereignis länger als 72 Stunden zurückliegt, machen wir die genannten Tests und besprechen Impfungen und PrEP im Anschluss. Haben Sie noch Fragen?
+Charlie: Nein, das passt so. Danke, dass Sie sich Zeit nehmen.
+Müller: Gern. Ich markiere das für die Laborentnahme und die Patientenportal-Freischaltung — Sie bekommen eine Nachricht, sobald die Befunde vorliegen.

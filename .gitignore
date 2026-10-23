@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.env
+out/
+output/
+datasets/
+
+# IDE
+.idea/
+
+# LaTeX build products of docs/pipeline.tex; the committed output is the .svg
+docs/*.aux
+docs/*.log
+docs/*.pdf

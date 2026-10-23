@@ -1,0 +1,55 @@
+Weber: Guten Morgen, Alex. Schön, dass Sie gekommen sind. Alles, was wir hier besprechen, bleibt vertraulich. Worum geht’s genau heute?
+Alex: Morgen. Ich bin zum ersten Mal wegen einer STI-Verdachtsreaktion hier, habe seit ein paar Wochen Symptome und wollte das abklären lassen.
+Weber: Verstehe. Damit ich das richtig einordne: Können Sie mir kurz sagen, wie alt Sie sind und wann Sie geboren sind?
+Alex: Klar, ich bin am 15. Mai 1990 geboren.
+Weber: Danke. Und wie möchten Sie angesprochen werden, welches Geschlecht soll in der Akte stehen?
+Alex: Ich bin Frau, wurde auch als weiblich geboren.
+Weber: In Ordnung. Nehmen Sie irgendwelche Hormone oder eine Hormontherapie?
+Alex: Nein, nehme keine Hormone.
+Weber: Gut. Haben Sie die übliche Anatomie, also Scheide und Gebärmutter?
+Alex: Ja, ich habe eine Vagina, einen Muttermund und die Gebärmutter. Auch den After habe ich natürlich.
+Weber: Danke. Wann hatten Sie den letzten sexuellen Kontakt ungefähr?
+Alex: Das war am 10. März 2024.
+Weber: Und wie viele Partner hatten Sie in den letzten drei Monaten?
+Alex: Zwei verschiedene Personen.
+Weber: Welche Arten von Sex hatten Sie in diesem Zeitraum?
+Alex: Vor allem vaginalen Sex. Außerdem habe ich Oralsex gegeben und auch bekommen.
+Weber: Haben Sie bei dem vaginalen Sex Kondome benutzt?
+Alex: Manchmal, nicht immer.
+Weber: Und beim Oralsex?
+Alex: Beim Oralsex nie.
+Weber: Waren Ihre Partner kürzlich wegen einer STI in Behandlung oder hatten sie Symptome?
+Alex: Nein, soweit ich weiß hatten die beiden keine STI oder Beschwerden.
+Weber: Erzählen Sie mir ein bisschen von den Symptomen – wann haben die begonnen und was genau merken Sie?
+Alex: Das fing ungefähr am 20. März 2024 an. Zuerst hatte ich ungewöhnlichen Ausfluss, der stärker war als sonst, dann Juckreiz und beim Wasserlassen ein leichtes Brennen, außerdem tut mein Hals weh, ich habe Halsschmerzen.
+Weber: Also Symptome an der Vagina und im Hals, mit Ausfluss, Juckreiz und Brennen, sowie Halsschmerzen – danke. Haben Sie aktuell eine Schwangerschaft ausgeschlossen?
+Alex: Ich könnte schwanger werden, ja, aber ich bin aktuell nicht schwanger.
+Weber: Ok. Rauchen oder Drogen spielen hier eine Rolle?
+Alex: Ich trinke regelmäßig Alkohol, so eher alltäglich. Drogen nur ab und zu, sehr selten, und nie über Spritzen.
+Weber: Danke für die Offenheit. Hatten Sie früher schon einmal eine STI-Diagnose?
+Alex: Ja, 2020 hatte ich Chlamydien. Das war im Oktober, glaube am 1. Oktober 2020.
+Weber: Gut zu wissen. Wie ist Ihr Impfstatus bei Hepatitis A und B und gegen HPV?
+Alex: Hepatitis A habe ich nicht, Hepatitis B habe ich angefangen, aber nicht komplett abgeschlossen, und gegen HPV bin ich nicht geimpft.
+Weber: Das hilft bei der Einschätzung. Auf Basis Ihrer Beschwerden und der Sexualgeschichte würde ich folgende Tests empfehlen: Blutabnahme für HIV und Syphilis, und Abstriche beziehungsweise Proben für Chlamydien und Gonorrhö – Urin und einen Vaginalabstrich sowie einen Rachenabstrich wegen der Halsschmerzen.
+Alex: Das klingt vernünftig. Sind die Tests zuverlässig, auch im Rachen?
+Weber: Ja, die Rachenabstriche und Vaginalabstriche sind bei den entsprechenden Keimen sinnvoll. Beim HIV-Test machen wir Blut. Wenn alles untersucht ist, erkläre ich Ihnen die Ergebnisse und die nächsten Schritte.
+Alex: Wie lange dauert das, bis die Ergebnisse da sind?
+Weber: In der Regel rufen wir Sie an – per Telefon – und das dauert ungefähr eine Woche, also rund sieben Tage.
+Alex: Alles klar. Und was passiert, wenn etwas gefunden wird?
+Weber: Dann besprechen wir die passende Behandlung. Chlamydien oder Gonorrhö lassen sich mit Antibiotika behandeln; Syphilis braucht spezielle Therapie. Beim HIV-Test gilt: Wenn der Schnelltest auffällig wäre, würden wir das direkt besprechen und weitere Abklärungen machen. Im Moment sehe ich bei Ihrer Schilderung kein akutes Verdachtsszenario für HIV, aber testen ist wichtig.
+Alex: Gut, das beruhigt. Ich habe mich gefragt, ob ich irgendwas selbst tun kann, bis die Ergebnisse da sind?
+Weber: Wunderschonende Pflege, keine aggressiven Spülungen, möglichst auf sexuell aktive Kontakte verzichten, bis wir das abgeklärt haben. Ich berate Sie auch kurz zu Kondomen: Sie haben gesagt, beim vaginalen Sex werden sie manchmal benutzt — ich würde empfehlen, konsequenter zu verwenden, und beim Oralsex ist das Risiko niedriger, aber Kondome oder Lecktücher reduzieren Übertragungen.
+Alex: Verstanden. Bekommt mein Partner dann auch Tests oder Behandlung, falls was gefunden wird?
+Weber: Falls wir etwas finden, klären wir, ob Partner informiert und getestet werden sollten; das besprechen wir dann konkret. Bei Ihrem jetzigen Wissenstand hatten die Partner keine Symptome, das wäre also im Bedarfsfall die nächste Maßnahme.
+Alex: Okay.
+Weber: Ich mache jetzt die Befunde: Wir nehmen Blut ab, einen Urinabstrich, einen Vaginalabstrich und einen Rachenabstrich. Sind Sie damit einverstanden?
+Alex: Ja, machen wir.
+Weber: Gut. Noch eine Frage: Nehmen Sie hormonelle Verhütung oder sonstige Medikamente, die relevant sein könnten?
+Alex: Nein, nehme keine Hormone und keine regelmäßigen Medikamente.
+Weber: Alles klar. Möchten Sie sonst noch etwas schildern, zum Beispiel wie Sie Ihre Partner kennengelernt haben oder ob das etwas Dauerhaftes ist?
+Alex: Nicht nötig, das waren zwei Gelegenheitskontakte, beide nicht feste Beziehungen. Hab das nicht geplant, war eher spontan.
+Weber: Verstanden. Dann mache ich die Proben. Ich habe noch eine kurze Anmerkung: Ich habe Ihnen heute Kondomberatung gegeben, damit Sie wissen, wie Sie das Risiko zukünftig reduzieren können.
+Alex: Danke, das ist hilfreich. Ich würde gerne beim nächsten Mal konsequenter sein.
+Weber: Sehr gut. Dann bereite ich alles vor. Wir rufen Sie in etwa sieben Tagen an mit den Ergebnissen. Wenn Sie vorher stärkere Schmerzen, Fieber oder neue Symptome bekommen, kommen Sie bitte sofort oder rufen an.
+Alex: Mache ich. Danke, Herr Weber.
+Weber: Gern. Dann fangen wir an mit der Blutabnahme und den Abstrichen.

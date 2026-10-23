@@ -1,0 +1,44 @@
+Schneider: Guten Morgen, ich bin Dr. Schneider. Worum geht's heute bei Ihnen in der Ambulanz?
+Luca: Morgen. Ich bin wegen STI-Check hier, das is' das erste Mal, deswegen bin ick bisschen aufgeregt.
+Schneider: Kein Problem, das ist ganz normal. Vorab kurz formale Daten: Geburtsdatum?
+Luca: 20. Juli 1995.
+Schneider: Danke. Und wie tragen Sie sich administrativ ein, welches Geschlecht steht bei Ihnen?
+Luca: Da steht weiblich, ja.
+Schneider: Und bei der Geburt war es ebenfalls weiblich?
+Luca: Ja, auch weiblich.
+Schneider: Wie bezeichnen Sie sich selbst, welche Gender-Identität?
+Luca: Ich bin eine Frau.
+Schneider: In Ordnung. Haben Sie geschlechtsangleichende Hormontherapie oder solche Medikamente aktuell?
+Luca: Nee, gar nicht, keine Hormontherapie.
+Schneider: Gut. Ich frage auch kurz nach der Anatomie für die richtigen Abstriche: Haben Sie Vagina und Gebärmutter bzw. Zervix?
+Luca: Ja, ich hab 'ne Vagina, 'ne Gebärmutter und 'ne Zervix. Klar auch den Enddarm, also Rectum.
+Schneider: Danke, das hilft. Erzählen Sie mir kurz zum jüngsten Sexualkontakt: Wann war der letzte Kontakt ungefähr?
+Luca: Das war Anfang Mai — so um den 10. Mai 2024 herum.
+Schneider: Und wie viele Sexualpartner hatten Sie in den letzten drei Monaten?
+Luca: Nur einen.
+Schneider: Welche Art von Praktiken hatten Sie mit dem Partner in den letzten drei Monaten?
+Luca: Vaginal, hauptsächlich.
+Schneider: Und wie war's mit Kondomgebrauch bei Vaginalverkehr?
+Luca: Meistens haben wir Kondome benutzt — also größtenteils.
+Schneider: Gut, das ist wichtig zu wissen. Vermuten Sie, dass es ein klares Risiko für eine HIV-Exposition gab in dem Zeitraum?
+Luca: Nee, ich denke nicht, dass da was Besonderes war. Keine Ahnung von irgendwelchen Risikosituationen.
+Schneider: Verstanden. Bezüglich Ihrer Beschwerden — sind Sie eher zur Kontrolle gekommen, oder haben Sie akute Probleme?
+Luca: Eher Kontrolle. Ick hab' nichts Krasses, wollte halt sicher sein und das mal durchchecken lassen.
+Schneider: Okay. Wir empfehlen bei so einem Check die Tests auf HIV, Syphilis, Chlamydien und Gonokokken. Stimmen Sie dem zu?
+Luca: Ja, mach ma. Was genau wird da gemacht?
+Schneider: Wir nehmen Blut für HIV und Syphilis, einen Urintest für Chlamydien und Gonorrhö, und einen vaginalen Abstrich für Chlamydien/Gonorrhö, das passt zu Ihrer Anatomie.
+Luca: Ah, verstehe. Tut das weh, der Abstrich?
+Schneider: Unangenehm vielleicht, kurz, aber nicht schmerzhaft. Wir erklären jeden Schritt, bevor wir's machen.
+Luca: Gut, dann her damit. Wie lang dauert's, bis die Ergebnisse da sind, und wie bekomm ick Bescheid?
+Schneider: Die Ergebnisse geben wir Ihnen telefonisch durch; rechnen Sie mit bis zu sieben Tagen.
+Luca: Per Telefon, alles klar. Und wenn was gefunden wird — kann man das behandeln?
+Schneider: Ja, die meisten bakteriellen STIs sind gut behandelbar mit Antibiotika. Bei HIV würden wir Sie an die entsprechende Versorgung vermitteln; Syphilis wird ebenfalls medikamentös behandelt.
+Luca: Oke, das beruhigt. Übrigens trink ick nur ab und zu, also Alkohol nur gelegentlich — wollte das sagen, weil das manchmal gefragt wird.
+Schneider: Danke, das notiere ich als gelegentlichen Alkoholkonsum. Noch eine Frage: Sollten wir über Prävention sprechen, zum Beispiel Kondomberatung?
+Luca: Ja bitte, da würd ick gern kurz was hören.
+Schneider: Gut — Sie benutzen ja meist Kondome beim Vaginalverkehr. Ich empfehle, konsequent zu bleiben, und wir erklären, wie man sie richtig anwendet. Das Counseling mache ich jetzt kurz mit Ihnen.
+Luca: Super, danke. Noch was: Wurde PrEP oder sowas hier angeboten?
+Schneider: Nein, darüber haben wir heute nicht gesprochen; aktuell biete ich Ihnen das nicht an.
+Luca: Alles klar, danke für die Ehrlichkeit.
+Schneider: Danke für die Offenheit. Dann mache ich jetzt die Proben — Blut, Urin und den vaginalen Abstrich — und wir rufen Sie mit den Ergebnissen innerhalb einer Woche an. Haben Sie noch Fragen?
+Luca: Nee, das war's glaub ick. Danke, Herr Doktor, is' sehr angenehm hier.

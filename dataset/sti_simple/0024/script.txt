@@ -1,0 +1,43 @@
+Hannah: (streng, ruhig) Was genau führt Sie heute in die Sprechstunde, Frau ...?
+Lea: (verzweifelt) Lea, ja — ich habe Ausfluss, es brennt beim Wasserlassen und manchmal juckt es furchtbar.
+Hannah: Seit wann bestehen die Beschwerden genau?
+Lea: (zögernd) Seit dem 28. Mai 2024 angefangen, ich dachte erst, das geht weg, aber es wird nur schlimmer.
+Hannah: Haben Sie Fieber oder Schmerzen im Unterbauch bemerkt?
+Lea: Nein, kein Fieber, aber Druckgefühl untenrum manchmal.
+Hannah: (präzise) Sind Sie sexuell aktiv? In welcher Konstellation leben Sie und wie würden Sie Ihre sexuelle Orientierung nennen?
+Lea: Ich bin heterosexuell, in einer offenen Beziehung — mein Hauptpartner ist ein Mann, aber ich hatte in letzter Zeit auch Frauenkontakte.
+Hannah: Wie viele Sexualpartnerinnen oder -partner hatten Sie in den letzten 12 Monaten?
+Lea: Drei insgesamt in den letzten zwölf Monaten.
+Hannah: Wann war Ihr letzter sexueller Kontakt?
+Lea: Am 25. Mai 2024, also drei Tage bevor die Symptome anfingen.
+Hannah: Wurde bei den Partnerinnen oder -partnern etwas über STI-Status gesagt?
+Lea: (ängstlich) Nicht wirklich, bei einer war der Status unbekannt, also keine Ahnung — das macht mich jetzt noch nervöser.
+Hannah: Benutzen Sie Schutz? Wie häufig verwenden Sie Kondome?
+Lea: Nur manchmal, also gelegentlich, nicht immer.
+Hannah: Haben Sie früher schon STI gehabt — Hepatitis, HIV, Syphilis, Gonorrhö, Chlamydien, Herpes oder HPV-Warzen?
+Lea: Nein, soweit ich weiß hatte ich nichts davon, ich wurde bisher nie positiv getestet.
+Hannah: Wann waren Ihre letzten Tests oder ein allgemeiner Check-up?
+Lea: Im August 2023, am 15.08.2023 hatte ich einen allgemeinen Check-up und auch Tests auf HIV, Syphilis und Chlamydien/Gonorrhö wurden da gemacht.
+Hannah: Sind Sie gegen Hepatitis B und HPV geimpft?
+Lea: Ja, ich habe beide Impfungen bekommen.
+Hannah: Gut. Wir müssen das jetzt zügig und diskret abklären: Ich würde Urin- und Abstrichproben nehmen, außerdem Blut für HIV und Syphilis-Tests. Sind Sie damit einverstanden?
+Lea: (ängstlich) Ja bitte, unbedingt. Ich will wissen, was es ist.
+Hannah: Haben Sie Allergien oder nehmen Sie regelmäßig Medikamente?
+Lea: Keine Allergien, und ich nehme keine regelmäßigen Medikamente.
+Hannah: (streng, aber sachlich) Gibt es Hinweise auf vaginale Wundstellen oder ungewöhnliche Gerüche beim Ausfluss?
+Lea: Ja, der Ausfluss ist anders als sonst, leicht geruchlich und irgendwie klebrig.
+Hannah: Gut, das kann auf eine bakterielle oder pilzartige Ursache hinweisen, aber wir klären das durch die Tests. Haben Sie Schmerzen beim Sex gehabt?
+Lea: Ja, seit ein paar Tagen ist es unangenehm.
+Hannah: Ich werde einen Abstrich nehmen und einen Urintest, das dauert nur kurz. Bis die Ergebnisse da sind, möchte ich, dass Sie auf sexuelle Kontakte verzichten oder konsequent Kondome benutzen.
+Lea: (panisch) Können Sie mir sofort etwas geben gegen das Brennen? Ich halte das kaum aus.
+Hannah: Ich kann Ihnen symptomatisch behandeln, aber ohne Befund gebe ich kein gezieltes Antibiotikum. Ich schreibe Ihnen ein antiseptisches Gel zum Befeuchten und Schmerzstillendes, das lindert das Brennen.
+Lea: Und wenn es eine sexuell übertragbare Krankheit ist — wie geht es dann weiter?
+Hannah: Wenn ein Erreger nachgewiesen wird, bekommen Sie gezielte Behandlung, und wir besprechen Partnerinformation und -benachrichtigung. Bei unklaren Fällen geben wir eine empirische Therapie, wenn es medizinisch notwendig ist.
+Lea: Müssen meine Partnerinnen auch getestet werden?
+Hannah: Ja, alle zuletzt beteiligten Personen sollten informiert werden und ebenfalls getestet werden, vor allem wenn der Status unbekannt ist.
+Lea: (leiser) Ich schäme mich so... es ist so peinlich hier in der offenen Sprechstunde.
+Hannah: (ruhig, bestimmt) Ihre Beschwerden sind medizinisch wichtig. Wir arbeiten diskret und ich dokumentiere nur das Nötige. Ich bitte Sie trotzdem, ehrlich bei den Kontakten zu sein, das hilft uns allen.
+Lea: Okay. Sie fragen gut, danke. Was passiert, wenn der Test positiv ist für Chlamydien oder Gonorrhö?
+Hannah: Dann erhalten Sie eine gezielte Antibiotikatherapie, und wir kontrollieren den Erfolg mit einer Nachkontrolle. Bei Chlamydien behandeln wir meist oral, bei Gonorrhö eventuell kombiniert; das klären wir nach Laborbefund.
+Lea: (atmet durch) Gut. Ich will einfach, dass das weggeht.
+Hannah: Ich nehme jetzt die Proben. Bleiben Sie bitte ruhig sitzen, das dauert nur wenige Minuten. Danach besprechen wir das weitere Vorgehen und schriftliche Informationen für Ihre Partner.

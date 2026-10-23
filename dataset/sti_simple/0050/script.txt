@@ -1,0 +1,52 @@
+Sandra: (nervös) Ich bin wegen möglicher STI hier, ich habe Ausfluss, Brennen beim Wasserlassen und Juckreiz — deshalb bin ich gekommen.
+Hannah: (streng) Seit wann bestehen die Beschwerden genau?
+Sandra: Am 24.10.2023 fing das an, zunächst nur Jucken, dann kam der Ausfluss und das Brennen beim Wasserlassen dazu.
+Hannah: Wie sieht der Ausfluss aus? Farbe, Geruch, Menge?
+Sandra: Gelblich, eher zäh, leichter Geruch, nicht stark, aber auffällig im Vergleich zu sonst.
+Hannah: Treten Schmerzen im Unterbauch auf oder Fieber?
+Sandra: Nein, kein Fieber, aber manchmal leichte Unterleibskrämpfe.
+Hannah: Wie ist Ihr sexueller Hintergrund? Sind Sie derzeit in einer Partnerschaft?
+Sandra: Ich bin eigentlich heterosexuell und in einer monogamen Beziehung, wir sind seit einiger Zeit zusammen — meine Partnerin ist weiblich, wir hatten zuletzt Sex am 20.10.2023.
+Hannah: (notiert) Also eine Partnerin, letzter Geschlechtsverkehr am 20.10.2023 — gab es Condomgebrauch?
+Sandra: (zögernd) Manchmal, also gelegentlich verwenden wir Kondome, nicht jedes Mal.
+Hannah: Wissen Sie, ob Ihre Partnerin einen STI-Status hat beziehungsweise wurde sie jemals getestet?
+Sandra: Nein, das weiß ich nicht, sie hat das nie sagen wollen — also ihr Status ist für mich unbekannt.
+Hannah: Gut, wichtig für die Anamnese: hatten Sie früher schon einmal STIs oder andere relevante Erkrankungen?
+Sandra: Nein, laut meinen Unterlagen hatte ich nie Hepatitis A, B, C, kein HIV, keine Syphilis, keine Gonorrhöe, keine Chlamydien, kein Herpes, auch keine HPV-Warzen.
+Hannah: Wann war Ihr letzter Test auf HIV, Syphilis, Chlamydien und Gonorrhöe?
+Sandra: Ich hatte Tests am 15.09.2022 für HIV, Syphilis und Chlamydien/Gonorrhöe.
+Hannah: Sind Sie gegen Hepatitis B und HPV geimpft?
+Sandra: Ja, beides ist gemacht worden.
+Hannah: (streng) Danke. Sie sagten, Sie googeln viel — was genau beunruhigt Sie?
+Sandra: (aufgebracht) In Foren reden Leute von "Super-Gonorrhoe" und resistenten Varianten, die normale Antibiotika nicht mehr packen. Einige schreiben, Ärzte würden das übersehen. Ich mache mir echt Sorgen, dass das hier so eine resistente Variante ist.
+Hannah: (ruhig) Internetforen können Angst machen, aber sie liefern oft unvollständige oder übertriebene Informationen. Resistenz bei Neisseria gonorrhoeae ist ein Thema, ja, deshalb testen wir gezielt auf Erreger und, falls nötig, führen wir Kultur mit Empfindlichkeitsprüfung durch.
+Sandra: (skeptisch) Heißt das, Sie geben mir erst Medikamente, wenn das Ergebnis da ist?
+Hannah: Nicht zwingend. Je nach klinischem Bild gebe ich manchmal eine empirische Therapie. In Ihrem Fall möchte ich aber zunächst Abstriche und eine Urinprobe für NAAT (PCR) nehmen und zusätzlich eine Kultur anlegen, damit wir eventuell notwendige Sensitivitätsprüfungen haben.
+Sandra: Okay… was genau wird getestet?
+Hannah: Vaginaler und ggf. urethraler Abstrich sowie Urin für Chlamydien und Gonorrhöe per PCR, gegebenenfalls Abstrich für kulturelle Untersuchungen, Blutabnahme für HIV und Syphilis; bei Bedarf auch ein Pilz- oder bakterieller Schnelltest. Wir behandeln gezielt, nicht nach Forenregeln.
+Sandra: (misstrauisch) Und was, wenn das Testresultat sagt, es ist tatsächlich resistente Gonorrhöe? Die Foren behaupten, es gebe kaum Optionen.
+Hannah: Sollte ein resistenter Stamm vorliegen, haben wir dennoch weitere Therapieoptionen und melden solche Fälle an das Gesundheitsamt; außerdem arbeiten wir mit spezialisierten Zentren zusammen. Deshalb ist die Kultur mit Empfindlichkeitsprüfung so wichtig.
+Sandra: Wird meine Partnerin dann informiert? Ich will das nicht öffentlich.
+Hannah: Ihre Behandlung und Testergebnisse sind vertraulich. Dennoch müssen Sexualpartnerinnen und -partner informiert werden, das ist medizinisch sinnvoll, damit sie sich testen und therapieren lassen können. Wir können das diskret handhaben und beraten Sie bei der Mitteilung.
+Sandra: Kann ich in der Zwischenzeit etwas tun, um das zu lindern? Manche schreiben in Foren, man solle Hausmittel nehmen.
+Hannah: Bitte keine Hausmittel statt einer ärztlichen Behandlung. Sie können symptomatisch milde, unparfümierte Produkte verwenden, viel trinken, und sexuell abstinent bleiben, bis die Abklärung abgeschlossen und gegebenenfalls eine Therapie erfolgt.
+Sandra: Wie lange dauert es, bis die Ergebnisse da sind?
+Hannah: PCR-Ergebnisse bekommen Sie meist innerhalb von ein bis drei Tagen, Bluttests in ein bis zwei Tagen, die Kultur und Empfindlichkeitsprüfung können drei bis fünf Tage in Anspruch nehmen.
+Sandra: (unsicher) Und wenn ich jetzt schon Antibiotika nehme, macht das die Tests kaputt?
+Hannah: Wenn Sie bereits angefangen haben, kann das die Kultur negativ beeinflussen, deshalb ist es besser, vor der Probenahme keine Antibiotika einzunehmen, sofern es medizinisch vertretbar ist. Haben Sie schon selbst welche genommen?
+Sandra: Nein, noch nicht, ich wollte erst hier fragen.
+Hannah: Gut. Dann machen wir die Abstriche und Blutabnahme jetzt, ich gebe Ihnen eine schriftliche Anleitung, bis die Ergebnisse da sind. Wenn wir sofort behandeln müssen, spreche ich mit Ihnen über die beste empirische Option.
+Sandra: (leiser) Wenn das alles negativ ist, was könnte es sonst sein? Die Foren sagen immer nur "STI oder Super-Gonorrhoe".
+Hannah: Differentialdiagnosen sind Bakterielle Vaginose, Candida-Infektion, nicht-infektiöse Dermatosen, allergische Reaktionen oder einfache Harnwegsinfektionen. Die genaue Diagnostik klärt das.
+Sandra: Werden solche Tests in der Praxis gemacht oder muss ich ins Labor?
+Hannah: Wir nehmen die Proben hier, die werden ans Labor gesendet. Blutentnahme machen wir ebenfalls, Urin geben Sie kurz hier ab.
+Sandra: Wer bezahlt das? Ich habe Angst vor unerwarteten Kosten.
+Hannah: Sexuell übertragbare Infektionstests sind in der Regel medizinisch indiziert und werden von der Krankenkasse übernommen, wenn es Beschwerden oder ein Verdacht gibt. Bei Fragen zur Abrechnung hilft Ihnen unser Empfangsteam.
+Sandra: (etwas beruhigter) Gut. Und wie soll ich meine Partnerin informieren?
+Hannah: Ich kann Ihnen ein Informationsblatt geben und wir können gemeinsam ein Gespräch vorbereiten oder die Praxis kontaktiert die Partnerin anonym über das Gesundheitsamt, wenn nötig. Wichtig ist, dass sie sich testen lässt.
+Sandra: Danke. Ich habe noch Angst, dass die Ärzte mich nicht ernst nehmen, weil ich Dinge aus dem Internet zitiere.
+Hannah: (streng, aber sachlich) Sie machen richtig, dass Sie auf Ihre Gesundheit achten und Informationen suchen, aber wir arbeiten mit belegbaren Befunden. Vertrauen Sie mir: wir nehmen das ernst und führen die notwendigen Tests durch. Bitte reagieren Sie jetzt kooperativ, damit wir schnell Klarheit bekommen.
+Sandra: In Ordnung. Machen wir die Tests jetzt?
+Hannah: Ja. Kommen Sie zur Probenahme, geben Sie eine Urinprobe ab, ich nehme den Vaginalabstrich und Blut. Bis wir Ergebnisse haben: keinen Sex, Kondome bereithalten, und bei Verschlechterung sofort melden.
+Sandra: Danke, das beruhigt mich ein bisschen. Ich bleibe erreichbar für die Ergebnisse.
+Hannah: Gut. Ich trage alles in Ihre Akte ein und wir melden uns, sobald die Befunde vorliegen.

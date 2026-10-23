@@ -1,0 +1,63 @@
+Müller: Guten Morgen, Frau Kim. Schön, dass Sie hergekommen sind. Wie geht es Ihnen heute?
+Kim: Guten Morgen. Ein bisschen angespannt, aber sonst okay.
+Müller: Kein Problem, wir nehmen uns Zeit. Sie sind wegen der Nachkontrolle hier, korrekt?
+Kim: Genau, Nachkontrolle nachdem das letzte Mal etwas war.
+Müller: Dann sagen Sie mir kurz Ihr Geburtsdatum, damit ich das richtig im System habe.
+Kim: 15. Juli 1995.
+Müller: Danke. Und kurz noch zur Person: Sie wurden als weiblich zugeordnet und leben auch als Frau, richtig?
+Kim: Ja, ich bin als weiblich geboren und identifiziere mich als Frau.
+Müller: Nehmen Sie aktuell Hormone oder haben Sie geschlechtsangleichende Operationen hinter sich?
+Kim: Nein, keine Hormone, keine Operation.
+Müller: Gut. Anatomisch notiere ich Vagina, Zervix und Gebärmutter — ist das richtig? Und auch der Rektum Bereich ist vorhanden?
+Kim: Ja, genau, alles da.
+Müller: In dem Fall frage ich immer, ob eine Schwangerschaft möglich ist und ob Sie aktuell schwanger sind.
+Kim: Eine Schwangerschaft wäre möglich, aber ich bin nicht schwanger.
+Müller: Danke. Kommen wir zur Sexualanamnese, wichtig für die Nachkontrolle: Wie viele Partner hatten Sie in den letzten drei Monaten?
+Kim: Einen Partner in den letzten drei Monaten.
+Müller: Wann hatten Sie zuletzt Geschlechtsverkehr ungefähr?
+Kim: Das war im Oktober 2023, kann mich nicht an den genauen Tag erinnern.
+Müller: Welche Praktiken gab es in dieser Zeit — vaginal, oral, anal?
+Kim: Ja, vaginal, oraler Verkehr empfänglich für den Partner und auch anal empfänglich.
+Müller: Und wie war die Kondomnutzung dabei? Bei vaginalem Verkehr, analem und oralem?
+Kim: Vaginal meistens mit Kondom, beim Analverkehr nur manchmal, und beim Oralverkehr nie.
+Müller: War der Partner über seinen HIV-Status informiert oder getestet?
+Kim: Ja, er ist HIV-negativ, das weiß ich aus einem Test.
+Müller: Gab es bei ihm oder in Ihrem Umfeld kürzlich Infektionen wie STI?
+Kim: Nein, er hatte keine kürzlichen STIs, so weit ich weiß.
+Müller: Gut, das hilft. Sie hatten früher schon mal eine STI — Erinnern Sie sich daran?
+Kim: Ja, ich hatte 2021 Chlamydien, das wurde im Juni 2021 diagnostiziert und behandelt.
+Müller: Danke, das notiere ich. Haben Sie aktuell Beschwerden oder Symptome, zum Beispiel Ausfluss, Schmerzen oder Fieber?
+Kim: Nein, momentan habe ich keine Symptome.
+Müller: Perfekt. Zum Risikomanagement: Rauchen oder Drogen, Alkoholkonsum — wie ist das bei Ihnen?
+Kim: Ich trinke ab und zu Alkohol, eher gelegentlich. Keine Freizeitdrogen, auch keine Injektionen.
+Müller: Okay. Präventionsmaßnahmen: Nehmen Sie PrEP?
+Kim: Nein, ich nehme keine PrEP.
+Müller: Haben wir PrEP schon einmal besprochen?
+Kim: Ja, das hatten wir hier schon besprochen, aber ich habe mich vorerst dagegen entschieden.
+Müller: Gut. Wie ist Ihr Impfstatus bei Hepatitis und HPV?
+Kim: Gegen Hepatitis A bin ich nicht geimpft, Hepatitis B habe ich angefangen, aber die Impfserie ist nicht vollständig, und gegen HPV bin ich nicht geimpft.
+Müller: Danke für die Offenheit. Kondomberatung hatten wir ja offenbar auch schon — wir können das heute noch einmal vertiefen.
+Kim: Das wäre gut, ich würde das gern noch mal durchgehen.
+Müller: Machen wir. Zu den Tests für die Nachkontrolle: Ich würde Bluttests für HIV, Syphilis und Hepatitiden machen, sowie Abstriche auf Chlamydien und Gonorrhöe. Dazu Blut, Urin, vaginalen Abstrich, Rachenabstrich und rektalen Abstrich.
+Kim: Das klingt umfassend, ist das alles nötig?
+Müller: Ja, bei den von Ihnen beschriebenen Praktiken ist das Standard — so fangen wir nichts über die Nieren oder Ähnliches an, sondern prüfen gezielt die relevanten Erreger.
+Kim: Verstanden.
+Müller: Zur Einschätzung akuter HIV-Risiken: vermuten Sie eine relevante Expositionssituation in letzter Zeit, oder hätten Sie Symptome, die auf eine akute Infektion hindeuten könnten?
+Kim: Nein, ich vermute keine relevante Exposition, und Symptome habe ich auch nicht.
+Müller: Gut, dann ist PEP nicht angezeigt, das hatten Sie hoffentlich nicht nötig.
+Kim: Nein, noch nie in Anspruch genommen.
+Müller: Ich mache die Tests heute. Die Ergebnisse sende ich Ihnen per Patientenportal — in der Regel in etwa einer Woche.
+Kim: Per Portal ist super, danke. Und wenn etwas auffällig wäre, würden Sie mich dann direkt anrufen?
+Müller: Ja, bei auffälligen Befunden melden wir uns sofort telefonisch. Ansonsten sehen Sie alles im Portal binnen ungefähr sieben Tagen.
+Kim: Gut, das beruhigt.
+Müller: Noch zur Prävention: Ich empfehle, die Hepatitis-B-Serie zu vervollständigen und die Hepatitis-A-Impfung nachzuholen. HPV-Impfung kann bei Ihnen auch noch sinnvoll sein; wir besprechen das gleich im Detail.
+Kim: Das würde ich gern machen, wenn das sinnvoll ist.
+Müller: Super. Haben Sie Fragen zur Probennahme — zum Rachen- oder Rektalabstrich zum Beispiel?
+Kim: Nein, ich weiß, wie das ist, hatte das schon mal beim letzten Mal.
+Müller: Okay. Dann führe ich die Abstriche und Blutentnahme durch. Ich bespreche noch kurz das Kondomthema: Bei vaginalverkehr ist "meistens" schon ganz gut, beim Analverkehr sollten Sie versuchen, konsequenter zu sein, und beim Oralverkehr schützt zwar kein Kondom die Übertragung von allem, aber es gibt Barrieremöglichkeiten.
+Kim: Das leuchtet ein. Ich werde versuchen, beim Analverkehr öfter Kondome zu benutzen.
+Müller: Sehr gut. Wenn Sie möchten, können wir auch noch einmal gemeinsam die PrEP-Vor- und Nachteile durchgehen, falls sich Ihre Lebenssituation ändert.
+Kim: Ja, das können wir machen. Ich behalte das im Kopf.
+Müller: Alles klar. Ich mache jetzt die Probenentnahme; haben Sie sonst noch etwas, was Ihnen wichtig wäre?
+Kim: Nein, das war's erst mal. Danke, dass Sie sich Zeit nehmen.
+Müller: Gern. Ich melde mich bei Auffälligkeiten sofort, ansonsten sehen Sie die Ergebnisse im Patientenportal in etwa sieben Tagen.

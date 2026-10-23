@@ -1,0 +1,56 @@
+Thomas: (nervös) Guten Morgen, ich... ich habe Schmerzen beim Wasserlassen und Ausfluss, deshalb bin ich in der offenen Sprechstunde.
+Jonas: (kurz) Seit wann genau haben Sie das?
+Thomas: Seit dem 1. November 2023 angefangen, ist schlimmer geworden. Zumindest habe ich das damals bemerkt.
+Jonas: Also seit dem 01.11.2023. Brennen beim Wasserlassen, Ausfluss, Juckreiz — alles drei?
+Thomas: Ja, genau. Juckreiz auch. Und es ist ziemlich unangenehm.
+Jonas: Sind Sie heterosexuell?
+Thomas: Ja, ich bin heterosexuell.
+Jonas: In einer festen Beziehung?
+Thomas: Verheiratet, ja. Wir haben eigentlich eine offene Beziehung, das ist kompliziert, aber ja — offen.
+Jonas: Haben Sie in den letzten zwölf Monaten mehrere Partner gehabt?
+Thomas: Ja, drei verschiedene Partnerinnen bzw. auch eine Person, die sich als divers bezeichnet hat.
+Jonas: Letzter Geschlechtskontakt?
+Thomas: Am 27. Oktober 2023, auf einer Dienstreise. Ungeschützt.
+Jonas: Ungeschützter Sex am 27.10.2023, notiert. Kondome benutzen Sie ansonsten wie?
+Thomas: Nur gelegentlich, also manchmal schon, manchmal nicht. Bei dieser einen Begegnung nicht.
+Jonas: Waren die Partner über ihren STI-Status informiert oder war der Status unbekannt?
+Thomas: Der Status war unbekannt. Ich weiß nicht, ob sie getestet waren.
+Jonas: Haben Sie in der Vergangenheit STIs gehabt? HIV, Syphilis, Chlamydien, Gonorrhöe, Hepatitis, Herpes?
+Thomas: Nein, nichts davon. Ich wurde noch nie positiv getestet.
+Jonas: Letzter Gesundheitscheck oder STI-Test?
+Thomas: Das war am 10. August 2022, allgemeiner Check-up. HIV- und Syphilis-Tests und auch Chlamydien/Gonorrhöe damals.
+Jonas: Gut. Sind Sie gegen Hepatitis A und B geimpft?
+Thomas: Ja, ich habe beide Impfungen.
+Jonas: Nehme Sie regelmäßig Medikamente, Allergien?
+Thomas: Keine Dauermedikamente, keine Allergien.
+Jonas: (kurz) Gut. Ich muss Sie untersuchen und mehrere Tests machen: Urin auf Chlamydien/Gonorrhöe, Abstrich am Penis, Blut für HIV, Syphilis, Hepatitis B und C. Bei Symptomen auch gegebenenfalls ein Abstrich auf Trichomonaden und Mykoplasmen.
+Thomas: Okay. Werden die Ergebnisse irgendwo stehen, sodass meine Frau das sehen kann? Ich will nicht, dass sie davon erfährt.
+Jonas: Ärztliche Schweigepflicht gilt. Wir geben nichts ohne Ihre Zustimmung weiter. Es gibt Ausnahmen — Meldepflichten und akute Gefährdung Dritter — aber grundsätzlich bleiben Ihre Befunde vertraulich.
+Thomas: (misstrauisch) Meldepflichten? Bedeutet das, das Gesundheitsamt wird informiert?
+Jonas: Manche Infektionen können meldpflichtig sein, das läuft über das Labor oder das Gesundheitsamt. Ich erkläre Ihnen, falls das für einen konkreten Befund relevant wird. In der Regel informieren wir Ihre Partner nicht ohne Ihre Einwilligung, wir empfehlen aber die Benachrichtigung.
+Thomas: Also wird meine Frau nicht automatisch informiert?
+Jonas: Nein. Ohne Ihre Einwilligung informieren wir keine Familienmitglieder. Wenn Sie möchten, können wir anonyme Partnerbenachrichtigungen besprechen, damit niemand direkt Ihren Namen erfährt.
+Thomas: Können Sie das anonym machen? Ich will auf keinen Fall, dass meine Frau davon erfährt.
+Jonas: Es gibt Dienste und das Gesundheitsamt bietet in manchen Fällen an, Partner anonym zu informieren. Ich kann Ihnen auch schreiben, was Sie Ihrer Partnerin sagen können. Aber ich kann niemanden zwingen, nichts zu sagen — das liegt außerhalb unserer Kontrolle.
+Thomas: Verstanden. Was passiert jetzt mit mir? Sofort Behandlung oder erst die Tests abwarten?
+Jonas: Bei starkem Verdacht empfehle ich eine Empirische Therapie gegen häufige Erreger, vor allem wenn Gonorrhöe oder Chlamydien wahrscheinlich sind. Ich kläre das nach Untersuchung. Sie bekommen jetzt Proben, und ich bespreche eine mögliche sofortige Medikation.
+Thomas: (eilig) Kann das Medikament Probleme mit meinen Impfungen oder so machen? Ich bin geimpft gegen Hep A und B.
+Jonas: Nein, das passt. Welche Medikamente wir geben, hängt vom verantwortlichen Erreger ab. Standard ist zum Beispiel eine einmalige Injektion plus orale Antibiotika bei Gonorrhöe, oder Doxycyclin bei Chlamydien. Ich erkläre Nebenwirkungen vorab.
+Thomas: Und wie schnell sind die Ergebnisse? Ich kann nicht lange warten, ich muss zurück ins Büro.
+Jonas: Blut- und Urinbefunde in der Regel 1–3 Tage, Abstriche manchmal schneller. Das Labor meldet uns. Wenn Sie akut behandelt werden, geben wir eine vorläufige Therapie sofort mit.
+Thomas: Kann ich die Ergebnisse per E-Mail bekommen? Oder nur telefonisch?
+Jonas: Wir können Ihnen per Telefon oder per gesicherter Praxis-App/Patientenportal Bescheid geben. E-Mail ist unsicher; wenn Sie möchten, können wir die Ergebnisse vertraulich über die App senden.
+Thomas: Gut, dann lieber App oder Telefon. Noch einmal: wenn ich nichts unterschreibe, bleibt das alles zwischen uns?
+Jonas: Ja, ohne Ihre Einwilligung bleibt das vertraulich. Es sei denn, es gibt eine gesetzliche Meldepflicht oder unmittelbare Gefahr für andere Personen. Dann informieren wir die zuständige Behörde, aber nicht automatisch Ihre Frau.
+Thomas: (ruhiger) Danke. Soll ich jemanden informieren, die Partnerinnen?
+Jonas: Ja, ich empfehle dringend, alle jüngsten Partnerinnen zu informieren oder die anonyme Benachrichtigung zu nutzen. Sonst können sie unwissentlich weiter anstecken.
+Thomas: Ich habe Angst, dass eine Benachrichtigung herausfindet, dass ich es war.
+Jonas: Bei der anonymen Option wird kein Name genannt, nur der Hinweis, dass sie sich testen lassen sollen. Falls Sie unsicher sind, beraten wir Sie, wie Sie es selbst formulieren können.
+Thomas: Gut. Was kostet das alles? Übernimmt die Krankenkasse das?
+Jonas: Die normalen Tests und die Behandlung bei Verdacht auf STI werden meist von der gesetzlichen Krankenkasse übernommen. Wir klären das bei Abrechnung, Sie zahlen in der Regel nichts extra.
+Thomas: Also Bluttests, Abstrich, Behandlung — alles okay.
+Jonas: Richtig. Noch ein paar kurze Fragen: Fieber gehabt? Schmerzen in Leisten oder Schwellungen?
+Thomas: Kein Fieber, keine Schwellungen. Nur das Brennen und der Ausfluss und Juckreiz.
+Jonas: Gut. Dann nehme ich jetzt eine Untersuchung, einen Harnstreifentest, Abstrich und Blut. Wenn Sie wollen, kann ich jetzt schon eine empirische Therapie beginnen.
+Thomas: Ja bitte, ich möchte das schnell loshaben. Und bitte Diskretion.
+Jonas: (knapp) Verstanden. Ich mache das jetzt. Wenn etwas konkretes auffällt, besprechen wir die nächsten Schritte.

@@ -1,0 +1,53 @@
+Menter: (kühl) Kurz: Was führt Sie heute in die offene Sprechstunde?
+Karsten: (verlegen) Ich habe Beschwerden untenrum, deswegen bin ich hier.
+Menter: (kühl) Seit wann bestehen die Beschwerden? Datum bitte.
+Karsten: Seit dem 20.05.2024.
+Menter: (kühl) Welche Beschwerden genau? Farbe, Geruch, Brennen?
+Karsten: Ausfluss, Brennen beim Wasserlassen, juckt auch manchmal.
+Menter: (kühl) Also Ausfluss, Dysurie und Juckreiz verstanden. Hatten Sie Fieber oder Flankenschmerzen?
+Karsten: Nein, kein Fieber, keine Schmerzen an den Flanken.
+Menter: (kühl) Sind Sie sexuell aktiv?
+Karsten: Ja.
+Menter: (kühl) Sexuelle Orientierung?
+Karsten: Hetero.
+Menter: (kühl) Beziehungsstatus, Monogamie oder anderes Modell?
+Karsten: Offen.
+Menter: (kühl) Wie viele Sexualpartner in den letzten zwölf Monaten?
+Karsten: Drei.
+Menter: (kühl) Geschlecht der Partner?
+Karsten: Frauen.
+Menter: (kühl) Wann war der letzte sexuelle Kontakt?
+Karsten: Am 10.05.2024.
+Menter: (kühl) Wurden bei den Kontakten Kondome verwendet?
+Karsten: Manchmal benutze ich Kondome, manchmal nicht.
+Menter: (kühl) Häufigkeit der Kondomnutzung?
+Karsten: Gelegentlich, nicht immer.
+Menter: (kühl) Wissen Sie etwas über STI-Risiken Ihrer Partner, sind die getestet?
+Karsten: Keine Ahnung, das weiß ich nicht.
+Menter: (kühl) Hatten Sie früher sexuell übertragbare Infektionen, HIV, Syphilis, Chlamydien, Gonorrhö, Hepatitis, Herpes, HPV?
+Karsten: Nein, nichts davon.
+Menter: (kühl) Impfstatus gegen Hepatitis B und HPV?
+Karsten: Ja, gegen Hepatitis B und HPV wurde ich geimpft.
+Menter: (kühl) Wann war Ihr letzter allgemeiner Check-up beziehungsweise letzter HIV- und Syphilis-Test?
+Karsten: Im Oktober 2023, am 15.10.2023, das waren die letzten Tests.
+Menter: (kühl) Danke. Haben Sie Schmerzen beim Sex oder Blut im Ausfluss?
+Karsten: Nein, Schmerzen beim Sex nicht, kein Blut, nur der Ausfluss und das Brennen.
+Menter: (kühl) Konsent zur Untersuchung und Tests: Urinprobe, vaginaler Abstrich, urogenitaler Abstrich oder PCR, sowie Blut für HIV, Syphilis, Hepatitis-Tests?
+Karsten: (abwehrend) Müssen das alles jetzt sein?
+Menter: (kühl) Ja, sinnvoll. Untersuchungs- und Testbefunde sind notwendig zur Diagnose. Stimmen Sie zu?
+Karsten: (resigniert) Na gut, ja, ich stimme zu.
+Menter: (kühl) Ich nehme eine Urinprobe und einen Abstrich, Blut wird abgenommen. Möchten Sie, dass ich jemanden informieren muss, wenn positiv?
+Karsten: (gereizt) Wer soll das denn sein? Ich will das erstmal für mich behalten.
+Menter: (kühl) Befunde werden vertraulich behandelt. Kontaktpersonen-Anamnese empfehlenswert, sollten wir bei positivem Befund ansprechen.
+Karsten: (abwehrend) Ich werde sagen, was nötig ist. Ich will nicht direkt allen erzählen.
+Menter: (kühl) Verstanden. Bei positivem Ergebnis bieten wir Therapie und Unterstützung zur Partnerinformation an. Möchten Sie akut etwas gegen den Juckreiz oder Brennen?
+Karsten: (unsicher) Ja bitte, etwas gegen das Brennen wäre gut.
+Menter: (kühl) Symptomatische Maßnahmen möglich; spezifische Antibiotika erst nach/bei Verdacht oder Befund. In Ordnung, ich gebe eine lokale Linderung und erkläre die weiteren Schritte.
+Karsten: (leicht verschnupft) Gut. Und wie lange dauert das mit den Ergebnissen?
+Menter: (kühl) PCR-Ergebnisse 1–3 Werktage, Blutserologie 3–7 Werktage je nach Parameter. Wir rufen an oder schicken Nachricht.
+Karsten: (nervös) Und wenn es was Ansteckendes ist, bekomme ich dann gleich Medikamente?
+Menter: (kühl) Bei positivem Ergebnis sofort gezielte Therapie oder bei starkem Verdacht gegebenenfalls empirische Therapie. Entscheidungsgrundlage sind die Befunde.
+Karsten: (beleidigt) Diese Fragen waren mir echt unangenehm, müssen Sie so direkt sein?
+Menter: (kühl) Ja. Effiziente Anamnese reduziert Risiko und beschleunigt Behandlung. Brauchen Sie sonst noch etwas jetzt?
+Karsten: (seufzend) Nein. Dann machen wir die Tests. Ich will einfach, dass das schnell vorbei ist.
+Menter: (kühl) Gut. Dann nehme ich jetzt Probe und Blut, Sie bleiben bitte kurz auf dem Stuhl. Wir melden uns mit den Ergebnissen.

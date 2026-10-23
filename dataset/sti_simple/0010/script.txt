@@ -1,0 +1,52 @@
+Hannah: (streng) Guten Morgen. Sie sind in der offenen Sprechstunde — kurz und diskret: Was führt Sie heute zu mir?
+Lea: (verzweifelt) Ich habe Ausfluss und Brennen beim Wasserlassen, ich weiß nicht mehr weiter, es ist seit ein paar Tagen echt schlimm.
+Hannah: Seit wann genau bestehen die Beschwerden?
+Lea: (unsicher) Seit dem 20.05.2024 ungefähr. Erst leicht, aber seit gestern schlimmer.
+Hannah: Haben Sie Schmerzen im Unterleib oder Fieber dazu bemerkt?
+Lea: Ein bisschen Unterleibsschmerzen, kein Fieber soweit ich merke.
+Hannah: Wie würden Sie Ihre sexuelle Orientierung und Ihre aktuelle Beziehungsform beschreiben?
+Lea: (hektisch) Ich bin bisexuell und in einer offenen Beziehung.
+Hannah: Wie viele Sexualpartnerinnen und -partner hatten Sie in den letzten zwölf Monaten?
+Lea: Vier im letzten Jahr.
+Hannah: Waren die Partnerinnen und Partner Frauen, Männer oder beides?
+Lea: Sowohl Frauen als auch Männer.
+Hannah: Wann war der letzte sexuelle Kontakt?
+Lea: Am 15.05.2024.
+Hannah: Haben Sie oder Ihre Partner den STI-Status abgeklärt — wissen Sie, ob jemand eine Infektion hat?
+Lea: (ängstlich) Nein, das weiß ich nicht, der Status der Partner ist mir nicht bekannt.
+Hannah: Wie schützen Sie sich normalerweise vor sexuell übertragbaren Infektionen?
+Lea: Wir benutzen Kondome, aber nur gelegentlich — nicht konsequent bei allen Kontakten.
+Hannah: Haben Sie in der Vergangenheit jemals sexuell übertragbare Krankheiten gehabt — HIV, Syphilis, Gonorrhoe, Chlamydien, Herpes, HPV-Warzen?
+Lea: Nein, nie. Also soweit ich weiß, hatte ich keine davon.
+Hannah: Sind Sie gegen Hepatitis B und HPV geimpft?
+Lea: Ja, gegen Hepatitis B und HPV wurde ich geimpft.
+Hannah: Wann war Ihre letzte allgemeine Vorsorgeuntersuchung und wann wurden HIV, Syphilis sowie Chlamydien/Gonorrhoe zuletzt getestet?
+Lea: Mein letzter Check-up war am 10.08.2022. HIV, Syphilis und Chlamydien/Gonorrhoe wurden zuletzt am 05.06.2020 getestet.
+Hannah: (ruhig, aber bestimmt) Gut. Beschreiben Sie bitte den Ausfluss genauer — Farbe, Geruch, Menge.
+Lea: Er ist eher gelblich, etwas klumpig, ein bisschen übel riechend, und es kommt mehr als sonst.
+Hannah: Und das Brennen beim Wasserlassen — passiert das konstant oder nur am Ende und ist es stark?
+Lea: Es brennt hauptsächlich beim Wasserlassen, nicht nur am Ende, aber es ist erträglich, trotzdem beunruhigend.
+Hannah: Aufgrund Ihrer Symptome, der unregelmäßigen Kondomnutzung und dem letzten Kontakt am 15.05.2024 kommen bakterielle STIs wie Chlamydien oder Gonorrhö in Frage. Wir müssen Abstriche und eine Urinprobe machen sowie Blut abnehmen.
+Lea: (panisch) Oh nein. Muss das jetzt sofort sein? Bekomme ich Medikamente sofort?
+Hannah: Ich nehme die Anamnese ernst und setze jetzt die Tests an: Vaginal- und ggf. Urethralabstrich, PCR aus dem Urin und Blut für HIV und Syphilis. Ob sofort ein Antibiotikum nötig ist, entscheide ich nach genauer Untersuchung und je nachdem, ob eine sofortige Therapie klinisch indiziert ist; in manchen Fällen beginnen wir empirisch.
+Lea: (leise) Was heißt das für meine Partner? Muss ich alle informieren?
+Hannah: Ja, Partnerbenachrichtigung ist wichtig. Sie können das selbst tun oder wir unterstützen Sie — auch anonym, wenn gewünscht. Wir dokumentieren das vertraulich in Ihrer Akte.
+Lea: (ängstlich) Kann das anonym gemacht werden? Ich habe Angst vor Konsequenzen in meiner Beziehung.
+Hannah: Ja, es gibt die Möglichkeit der anonymen Benachrichtigung über Gesundheitsämter oder telefonische Dienste. Das ist üblich und schützt Ihre Privatsphäre.
+Hannah: (streng) Bis zur Klärung sollten Sie auf sexuelle Kontakte verzichten oder konsequent Kondome verwenden.
+Lea: Verstanden. Wie lange dauert es, bis die Ergebnisse da sind?
+Hannah: PCR-Resultate für Chlamydien/Gonorrhö meist 1–3 Arbeitstage, Bluttests für HIV und Syphilis können 2–5 Arbeitstage benötigen. Wir rufen Sie an oder vereinbaren einen Rücksprung in der Sprechstunde.
+Lea: (verunsichert) Und wenn ein Test positiv ist — werde ich das gleich merken? Ist das gefährlich?
+Hannah: Viele STIs können symptomlos verlaufen; die von Ihnen geschilderten Symptome passen zu möglichen bakteriellen Infektionen, die man gut behandeln kann. Wichtig ist frühzeitige Therapie, um Komplikationen zu vermeiden.
+Hannah: (präzise) Ich notiere außerdem, dass Sie keine Hepatitis A/B/C, kein HIV, keine Syphilis, keine Gonorrhö, keine Chlamydien, kein HSV und keine HPV-Warzen in der Anamnese haben — soweit Ihre Angaben. Das hilft bei der Beurteilung.
+Lea: Danke, das beruhigt mich ein wenig. Geht das alles vertraulich in die Patientenakte?
+Hannah: Ja, vertraulich. Nur autorisiertes Praxispersonal hat Zugriff. Positivbefunde müssen ggf. meldepflichtig ans Gesundheitsamt gemeldet werden — darüber informieren wir Sie dann.
+Lea: Können Sie mir sagen, ob der Zeitpunkt passt — also Kontakt am 15.05. und Symptome am 20.05. — ist das typisch?
+Hannah: Das ist möglich. Inkubationszeiten variieren, aber das zeitliche Muster passt zu einer akuten Infektion nach dem Kontakt am 15.05.2024.
+Hannah: (praktisch) Ich hole jetzt die Abstrich-Kits und das Blutentnahme-Set. Sie geben eine Urinprobe im Nebenraum. Danach besprechen wir gegebenenfalls eine kurzfristige Therapie und die Partnerbenachrichtigung.
+Lea: (erleichtert) Okay. Können Sie mir auch Infos auf Papier geben, was ich meinen Partnern sagen soll?
+Hannah: Ja, ich drucke Ihnen eine anonyme Vorlage zur Partnerbenachrichtigung und ein Merkblatt zu Schutzmaßnahmen, Symptomen und Verhalten bis zum Ergebnis aus.
+Lea: Danke. Und falls der Test positiv ist — werde ich dann behandelt und bekommen meine Partner dann auch Hilfe?
+Hannah: Bei positivem Befund besprechen wir die Behandlung sofort, und wir bieten Unterstützung für die Benachrichtigung und gegebenenfalls eine Begleitbehandlung Ihrer Partner an. Ziel ist, die Infektion schnell zu stoppen.
+Hannah: (streng, aber beruhigend) Bitte bleiben Sie bis zur Abnahme kurz hier, dann erledigen wir das zügig. Und denken Sie: keine Panik, wir klären das medizinisch sachlich.
+Lea: (ruhiger) Danke, das hilft. Ich bin bereit für die Tests.

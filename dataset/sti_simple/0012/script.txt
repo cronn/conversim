@@ -1,0 +1,67 @@
+Menter: Was ist Ihr Anliegen?
+Sandra: (nervös) Ich habe Ausfluss, Brennen beim Wasserlassen und Juckreiz. Ich glaube, ich habe irgendwas Schweres, vielleicht eine resistente STI.
+Menter: Seit wann bestehen die Beschwerden?
+Sandra: Seit dem 1. Juli 2024, also seit ein paar Wochen.
+Menter: Schmerzlokalisation? Beim Wasserlassen brennt es vorne? Ständig oder nur am Ende?
+Sandra: Ja, vorne. Vor allem beim Wasserlassen, und der Ausfluss ist eher gelblich-grünlich.
+Menter: Wie wäre Ihre sexuelle Orientierung?
+Sandra: Ich bin bisexuell.
+Menter: Beziehungsstatus und Beziehungsmodell?
+Sandra: Ich bin in einer offenen Beziehung.
+Menter: Anzahl der Sexualpartner in den letzten 12 Monaten?
+Sandra: Drei.
+Menter: Geschlecht der Partner?
+Sandra: Männer und Frauen.
+Menter: Wann war der letzte sexuelle Kontakt?
+Sandra: Am 25. Juni 2024.
+Menter: Wurden Kondome verwendet?
+Sandra: Nur gelegentlich, nicht immer.
+Menter: Kennt einer der Partner einen STI-Status?
+Sandra: Nein, alle haben unbekannten Status.
+Menter: Haben Sie bekannte frühere Infektionen?
+Sandra: Ich hatte früher Chlamydien, das wurde behandelt.
+Menter: Sonstige bekannte Infektionen: Hepatitis A, B, C, HIV, Syphilis, Gonorrhoe, Herpes, HPV?
+Sandra: Hepatitis A und B geimpft, HPV geimpft. Hepatitis A und B nie gehabt. Hep C, HIV, Syphilis, Gonorrhoe, Herpes negativ. Chlamydien ja früher.
+Menter: Letzte Tests wann? Allgemeinuntersuchung?
+Sandra: Letzte große Kontrolle war am 15. November 2023. HIV, Syphilis, Chlamydien/Gonorrhoe wurden am 10. März 2024 getestet.
+Menter: Allergien gegen Medikamente?
+Sandra: Keine Allergien bekannt.
+Menter: Haben Sie Fieber oder Unterleibsschmerzen?
+Sandra: Kein Fieber, nur ein leichtes Ziehen im Unterbauch manchmal.
+Menter: Nehmen Sie Medikamente, schwanger oder stillen?
+Sandra: Keine Dauermedikamente, nicht schwanger, nicht stillend.
+Menter: Haben Sie irgendwelche Selbstdiagnosen oder Infos aus dem Internet, die ich wissen sollte?
+Sandra: (aufgebracht) Ja, in den Foren heißt es, es könnte eine extrem resistente Gonokokken-Variante oder eine persistente Chlamydien-Infektion sein. Manche sagen, nur noch Spezialantibiotika helfen.
+Menter: Verstehe. Ich verschreibe keine Empirik-Antibiotika ohne Abstrich/Tests. Sie brauchen gezielte Diagnostik.
+Sandra: Warum nicht sofort Medikamente? In manchen Threads haben Ärztinnen gleich Tabletten gegeben, damit es nicht schlimmer wird.
+Menter: Unsachgemäße Antibiotikagabe fördert Resistenz. Wir machen Diagnostik: Abstriche und Urin‑NAAT, Kultur bei Gonokokken bei positivem Ergebnis, sowie HIV- und Syphilis-Serologie.
+Sandra: (skeptisch) Reicht das? Was, wenn die Tests negativ sind, aber die Symptome bleiben? In einem Forum schrieben Leute, Tests wären falsch-negativ.
+Menter: PCR/NAAT hat hohe Sensitivität für Chlamydien und Gonokokken. Bei negativem Befund und anhaltenden Symptomen werden wir weiteruntersuchen und ggf. Kultur, zusätzliche PCRs oder bakteriologische Untersuchungen veranlassen.
+Sandra: Werden Sie auch auf Mykoplasmen und Trichomonas testen?
+Menter: Trichomonas wird mit Abstrich/PCR berücksichtigt, Mycoplasma genitalium kann getestet werden, wenn angezeigt. Ich notiere das.
+Sandra: Gut. Was mache ich bis zum Ergebnis? Kein Sex? Ich habe Angst, meine Partner zu informieren, das wird kompliziert.
+Menter: Keine sexuellen Kontakte bis Klärung. Partner informieren und testen lassen. Schutz durch Kondome bis zur Freitestung.
+Sandra: (bitter) Leichter gesagt. Ich habe oft gelesen, Partnerverfolgung sei schwierig. Manche Kliniken schicken anonym Nachrichten.
+Menter: Wir können Kontaktbenachrichtigung unterstützen und anonymisieren, wenn nötig. Jetzt führe ich eine Untersuchung durch und entnehme Abstriche. Sie geben auch eine Urinprobe.
+Sandra: Muss das intim sein? Ich fühle mich unwohl in der offenen Sprechstunde.
+Menter: Wir arbeiten diskret. Kurzuntersuchung im Behandlungszimmer. Dauer fünf Minuten.
+Sandra: (zögernd) Okay. Können Sie mir wenigstens sagen, wie wahrscheinlich eine resistente Gonorrhoe ist?
+Menter: In Deutschland ist multiresistente Gonorrhoe selten, aber möglich. Bei positivem Nachweis wird Kultur und Antibiogramm für geeignete Therapie veranlasst.
+Sandra: Und Chlamydien? Ich hatte das ja schon. Kann das wiederkommen und nicht mehr auf Standardtherapie ansprechen?
+Menter: Persistierende Infektion kommt vor. Wenn Chlamydien nach Standardtherapie persistieren, prüfen wir Adhärenz, Re-Infektion und führen erweiterten Test durch. Dann ggf. andere Antibiotika.
+Sandra: Ich habe gelesen, Doxycyclin bringt manchmal nichts, dann gibt es Azithromycin-Resistenzen. Viele sind verunsichert.
+Menter: Wir behandeln nach aktuellem Leitlinienstandard. Therapie nur nach Befund oder klarer Indikationsstellung.
+Sandra: (kleinlich) Also noch keine Tablette heute?
+Menter: Nicht ohne Befund. Ich gebe Symptomlinderung: lokale Pflege, bei starkem Brennen Schmerzmittel nach Bedarf. Tests zuerst.
+Sandra: Was ist mit HIV-PEP? Ich hatte letzten Kontakt vor mehr als vier Wochen — ist es zu spät?
+Menter: PEP wirksam nur innerhalb von 72 Stunden nach Exposition. Zu Ihrem letzten Kontakt am 25. Juni ist PEP nicht mehr indiziert. Wir führen trotzdem HIV-Test durch.
+Sandra: (atmet aus) Okay. Wann sind die Ergebnisse da?
+Menter: NAAT-Ergebnis in 1–3 Werktagen, Kultur bei Bedarf länger. Serologien und weitere Tests ebenfalls in wenigen Tagen.
+Sandra: Wenn etwas gefunden wird, werde ich informiert oder muss ich nochmal herkommen?
+Menter: Wir benachrichtigen Sie telefonisch und per Praxisportal. Bei Befund vereinbaren wir Therapie und Partnerbenachrichtigung.
+Sandra: (misstrauisch) Und was, wenn ich nicht warten kann? In den Foren behaupten manche, schnelles Antibiotikum habe ihnen geholfen.
+Menter: Unbegründete Therapie kann Resistenz fördern und andere Diagnosen verschleiern. Wir machen die richtigen Tests. Ende der Diskussion.
+Sandra: (leiser) Alles klar. Ich bin echt nervös.
+Menter: Nehmen Sie die Urinprobe jetzt, dann mache ich die Abstriche. Kein Sex bis Ergebnis. Haben Sie Fragen zur Probenentnahme?
+Sandra: Nur noch eine: Wird das alles vertraulich behandelt? Ich will keinen Stigma.
+Menter: Vertraulich. Daten nur für medizinische Zwecke. Jetzt bitte die Probe.

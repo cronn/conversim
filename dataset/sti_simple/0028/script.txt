@@ -1,0 +1,57 @@
+Hannah: (streng) Guten Morgen, Herr Müller. Was führt Sie heute in die offene Sprechstunde?
+Thomas: (nervös) Guten Morgen, Doktor. Ich habe seit ein paar Tagen Brennen beim Wasserlassen, Ausfluss und ein Jucken – deswegen bin ich hergekommen.
+Hannah: Seit wann genau haben Sie diese Beschwerden?
+Thomas: (zögernd) Das fing am 20. Mai 2024 an.
+Hannah: Haben Sie Fieber oder Schmerzen in den Hoden?
+Thomas: Nein, kein Fieber, aber das Brennen ist deutlich, und der Ausfluss ist seit vorgestern stärker.
+Hannah: Sind Sie sexuell aktiv? Und wenn ja, mit wem – Frauen, Männer, oder beides?
+Thomas: Ich bin bisexuell und sexuell aktiv mit beidem. Ich bin verheiratet, wir führen eine offene Beziehung.
+Hannah: (notierend) Verstehe. Wie viele Sexualpartner hatten Sie in den letzten zwölf Monaten?
+Thomas: Vier verschiedene Partner im letzten Jahr.
+Hannah: Wann war Ihr letzter Sexualkontakt?
+Thomas: Am 28. Mai 2024 – auf einer Dienstreise hatte ich einen ungeschützten Seitensprung. Ich hatte kein Kondom benutzt.
+Hannah: Haben Sie bei dem letzten Kontakt oder bei anderen Partnern den STI-Status geklärt?
+Thomas: (unsicher) Nein, bei manchen wusste ich nichts über ihren Status. Bei dem Mann auf der Dienstreise war der Status unbekannt.
+Hannah: Verwenden Sie normalerweise Schutzmittel?
+Thomas: Gelegentlich. Also Kondome benutzen wir nur manchmal, nicht immer.
+Hannah: Haben Sie in der Vergangenheit sexuell übertragbare Erkrankungen gehabt?
+Thomas: Ich hatte früher Feigwarzen — HPV-Warzen, das war behandelt. Sonst keine bekannten STIs.
+Hannah: (strenger Ton) Und HIV, Syphilis, Chlamydien oder Gonorrhöe wurden jemals diagnostiziert?
+Thomas: Nein, nichts davon. Letzte Tests waren alle 2023 negativ.
+Hannah: Können Sie mir die Daten nennen, wann Sie zuletzt getestet wurden?
+Thomas: Ja, mein letzter allgemeiner Check-up war am 15. September 2023. HIV, Syphilis und Chlamydien/Gonorrhö-Tests waren alle am 10. November 2023.
+Hannah: Sind Sie gegen Hepatitis B oder HPV geimpft?
+Thomas: Ja, Hepatitis B und HPV habe ich geimpft bekommen.
+Hannah: (kurz) Gut. Haben Sie sonstige Vorerkrankungen oder chronische Medikamente?
+Thomas: Nein, keine sonstigen Krankheiten, keine Dauermedikation.
+Hannah: Ich muss Sie kurz zur Schweigepflicht informieren: Alles, was Sie mir sagen, bleibt vertraulich. Ich teile nichts mit Ihrer Frau ohne Ihre ausdrückliche Einwilligung. Verstanden?
+Thomas: (fast panisch) Wirklich? Sie dürfen meiner Frau nichts sagen? Ich mache mir mehr Sorgen, dass sie es erfährt als vor einer Infektion.
+Hannah: Ja, ärztliche Schweigepflicht ist sehr streng. Es gibt Ausnahmen für Meldepflichten, aber das Gesundheitsamt informiert nicht Ihre Ehefrau persönlich. Ich kann auch anonyme Partnerbenachrichtigungen empfehlen.
+Thomas: (erleichtert) Das ist gut zu hören. Also wird niemand zu Hause informiert?
+Hannah: Nicht von mir. Wenn eine meldepflichtige Krankheit vorläge, melde ich das nur ans Gesundheitsamt; dieses kann Maßnahmen ergreifen, aber keine direkte Offenlegung an Ihre Frau vornehmen. Meine Priorität ist Ihre Gesundheit und die Ihrer Partner.
+Thomas: (leiser) Danke. Was schlagen Sie vor, wie wir jetzt vorgehen?
+Hannah: Zunächst körperliche Untersuchung, Abstrich oder Urinprobe für NAAT-Tests auf Chlamydien und Gonorrhöe, gegebenenfalls ein Harnröhrenabstrich, und Blutabnahmen für HIV, Syphilis, Hepatitis B und C. Da Sie Symptome haben, sollten wir das zeitnah machen.
+Thomas: Machen Sie das alles heute? Wie lange dauern die Ergebnisse?
+Hannah: Die schnellen Tests und der Abstrich nehmen wir heute. Urin- oder Abstrich-NAAT-Ergebnisse bekomme ich in der Regel innerhalb von 2–3 Tagen. Blutwerte für Syphilis und Hepatitis brauchen oft 1–5 Tage.
+Thomas: Muss ich bis zum Ergebnis Sex vermeiden?
+Hannah: Ja, bitte komplett auf Sex verzichten, bis die Ergebnisse da sind. Das verringert das Risiko einer Weitergabe.
+Thomas: Und wie behandeln Sie das Brennen jetzt? Ich kann nicht normal arbeiten so.
+Hannah: Ich werde Sie untersuchen; je nachdem, was ich sehe, können wir eine symptomatische Behandlung anbieten. Bei klarem Verdacht auf bakterielle Urethritis kann man empirisch behandeln, aber ich möchte zuerst die Proben nehmen. Wenn es akut stark ist, können wir eine Behandlung sofort beginnen.
+Thomas: (besorgt) Wie steht es mit HIV-PEP? Ich habe vergessen zu fragen.
+Hannah: PEP ist nur wirksam, wenn sie innerhalb von 72 Stunden nach dem potentiellen Risikokontakt begonnen wird. Da Ihr letzter Kontakt am 28. Mai war, ist das leider außerhalb des Zeitfensters. Wir testen trotzdem auf HIV und beraten Sie weiter.
+Thomas: Verstehe. Und wenn etwas Positives kommt, muss das meine Frau dann wissen?
+Hannah: Medizinisch wäre es ratsam, dass enge Sexualpartner informiert werden, damit sie sich testen und behandeln lassen können. Rechtlich zwinge ich Sie nicht, Ihre Frau zu informieren. Ich kann aber Unterstützung anbieten – z.B. anonyme Partnerbenachrichtigung über das Gesundheitsamt oder wir besprechen, wie Sie es ansprechen können.
+Thomas: (leise) Ich will nicht, dass sie sofort alles weiß. Können Sie es anonym melden, ohne Namen?
+Hannah: Ja, das Gesundheitsamt bietet anonyme Benachrichtigung an, wobei nur notwendige Informationen weitergegeben werden. Das ist eine Option, wenn Sie die direkte Konfrontation vermeiden möchten.
+Thomas: Gut. Was ist mit Prophylaxe für meine Frau, falls etwas bei mir positiv ist?
+Hannah: Das hängt vom Erreger ab. Bei Chlamydien oder Gonorrhöe wird die Partnerbehandlung empfohlen. Bei HIV würden wir sofort weiterführende Schritte einleiten. Wichtig ist: wir behandeln Sie, und wir beraten Sie zur schnellen und sicheren Vorgehensweise.
+Thomas: Werde ich etwas zahlen müssen für die Tests?
+Hannah: Die meisten Tests werden von der Krankenkasse übernommen, wenn ein klinischer Verdacht besteht. Ich kläre das kurz mit der Anmeldung, aber normalerweise entstehen keine großen Kosten für Sie.
+Thomas: Kann ich die Untersuchung jetzt machen? Ich möchte einfach Gewissheit.
+Hannah: Ja. Ich nehme jetzt eine Anamnese auf, sehe mir die Beschwerden an und wir machen eine Urinprobe plus Abstrich. Danach Blutentnahme. Bitte ziehen Sie sich für die Untersuchung etwas vor.
+Thomas: (aufstehend) Danke. Noch eine Frage zur Vertraulichkeit: Darf ich Sie fragen, ob in Ihrer Akte vermerkt wird, dass es um eine mögliche STI geht und ob das meine Frau über die elektronische Patientenakte sehen kann?
+Hannah: Ihre Akte enthält den Grund der Konsultation. Elektronisch sind Diagnosen und Befunde grundsätzlich dokumentiert, aber eine Einsicht durch Dritte wie Ihre Ehefrau ist ohne Ihre Zustimmung nicht möglich. Wenn Sie Bedenken haben, können wir sensible Formulierungen minimieren, ohne die medizinische Dokumentation zu gefährden.
+Thomas: (erleichtert) Das beruhigt mich sehr. Ich möchte einfach korrekt behandelt werden, ohne meine Familie zu belasten.
+Hannah: Das ist nachvollziehbar. Wir sorgen gemeinsam für Ihre Behandlung und dafür, dass die Vertraulichkeit gewahrt bleibt. Ziehen Sie sich bitte um, dann fange ich mit der Untersuchung an.
+Thomas: (leise) Danke, Frau Doktor. Ich bin wirklich froh, dass ich gekommen bin.
+Hannah: Gut. Und bitte denken Sie daran – bis zum Abschluss der Tests keinen Sex, Kondome konsequent benutzen, und melden Sie sich sofort bei neuen Symptomen wie Fieber oder starken Schmerzen.

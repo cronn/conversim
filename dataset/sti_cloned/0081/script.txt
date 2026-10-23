@@ -1,0 +1,45 @@
+Lehmann: Guten Morgen, ich bin Dr. Lehmann. Sie sind wegen PrEP zur Beratung gekommen, richtig?
+Luca: Ja, genau. Ich bin Luca, eh... ein bisschen nervös, aber ich möchte mich informieren.
+Lehmann: Kein Problem, das ist ganz normal. Erzählen Sie mir kurz, wer Sie sind — Geschlecht und Geburtsdatum reichen fürs Erste.
+Luca: Ich bin männlich, bei Geburt auch männlich — also Mann. Geboren bin ich am 15. Mai 1990. Und ja, ich hab Penis und Hoden.
+Lehmann: Danke. Warum haben Sie sich jetzt für die PrEP-Beratung angemeldet?
+Luca: Ich hatte Sex am 20. April 2024, und seitdem mache ich mir Sorgen, ob ich mich vielleicht angesteckt habe.
+Lehmann: Das heißt also, der mögliche Risikokontakt war am 20. April — das wäre ungefähr vor sechs Wochen. Haben Sie seitdem irgendwelche Beschwerden bemerkt?
+Luca: Nein, gar nichts. Kein Fieber, kein Halsweh, keine Hautveränderungen oder sowas.
+Lehmann: Gut, das ist wichtig. Waren das mehrere Treffen oder eher ein einzelner Kontakt?
+Luca: In den letzten drei Monaten hatte ich drei verschiedene Partner.
+Lehmann: Welche sexuellen Praktiken waren dabei typischerweise?
+Luca: Also, es gab oralen Sex — ich hab oral gegeben und auch erhalten. Und anal hatten wir auch Verkehr, ich war manchmal oben, manchmal unten.
+Lehmann: Verstanden — sowohl insertiver als auch rezeptiver Analverkehr sowie oraler Sex beidseitig. Wie war das mit Kondomen?
+Luca: Beim Analverkehr hab ich manchmal ein Kondom genommen, nicht immer. Beim Oralen nie.
+Lehmann: Okay. Hatten Sie früher schon einmal eine sexuell übertragbare Infektion?
+Luca: Ja, im Oktober 2022 hatte ich Chlamydien. Das wurde behandelt.
+Lehmann: Danke für die Offenheit. Nehmen Sie aktuell PrEP?
+Luca: Nein, bisher noch nie.
+Lehmann: Gut. Wie sieht es mit Impfungen aus — Hepatitis A und B, und HPV?
+Luca: Hepatitis B hab ich komplett, die Serie ist durch. Hepatitis A ist nicht vollständig, ich glaube, nur eine Dosis. Gegen HPV bin ich nicht geimpft.
+Lehmann: Danke. Und Alkohol- oder Drogengebrauch?
+Luca: Ich trinke nur ab und zu, wenn wir ausgehen. Und ich nehme ab und zu Partydrogen, aber nie gespritzt.
+Lehmann: Also gelegentlicher Alkoholkonsum, gelegentliche nicht-injektive Drogen, keine Injektionen — das notiere ich. Zurück zum Zeitpunkt: der Kontakt am 20. April war nicht in den letzten 72 Stunden, korrekt?
+Luca: Nein, das war definitiv länger her, nicht in den letzten drei Tagen.
+Lehmann: Dann kommt PEP nicht mehr infrage, weil das Zeitfenster dafür unter 72 Stunden liegt. Wir können aber über PrEP und Testung sprechen.
+Luca: Gut, das beruhigt mich schon ein bisschen.
+Lehmann: Ich empfehle jetzt eine Reihe von Tests: Bluttests für HIV, Syphilis sowie Hepatitis A, B und C; zudem Tests auf Chlamydien und Gonorrhoe per Urin sowie Rachen- und Rektalabstrich.
+Luca: Also Blut, Urin und Abstriche vom Hals und After — das versteh ich.
+Lehmann: Genau. Wir nehmen Blut, einen Urin-Test, einen Rektalabstrich und einen Rachenabstrich. Die Befunde bekommt man am Telefon, ich ruf Sie spätestens innerhalb von sieben Tagen an.
+Luca: Telefonisch innerhalb einer Woche, gut. Wird man sofort angerufen, wenn was Positives ist?
+Lehmann: Ja, wenn etwas akut ist, kontaktieren wir Sie sofort. Ansonsten spätestens binnen sieben Tagen.
+Luca: Und akute Symptome — da hab ich wirklich nix gehabt.
+Lehmann: Gut, das passt zu Ihrer Angabe. Zur PrEP: die übliche Empfehlung ist tägliche Einnahme bei regelmäßigem Risiko. Ich erkläre Wirkung, Nebenwirkungen und wie wir die Kontrollen machen.
+Luca: Muss man viel beachten? Ich kenn mich da nicht aus.
+Lehmann: Vor Beginn prüfen wir Nierenwerte und HIV-Status. Während der Einnahme kontrollieren wir regelmäßig Nierenfunktion und testen auf andere STIs. Nebenwirkungen sind meist mild: anfängliche Übelkeit oder Kopfschmerzen kommen vor, sind aber selten schwer.
+Luca: Klingt vernünftig. Hat meine frühere Chlamydien-Infektion Einfluss auf die PrEP?
+Lehmann: Die frühere Chlamydien von Oktober 2022 notieren wir, das beeinflusst PrEP nicht. Wir testen jetzt auf aktuelle Infektionen und behandeln, falls nötig.
+Luca: Okay. Und wegen Kondomen — ich hab ja beim Oral nie eins verwendet und beim Anal nur manchmal.
+Lehmann: Ich empfehle, beim Analverkehr konsequent Kondome zu benutzen; das reduziert das Risiko deutlich. Beim Oralsex ist der Nutzen geringer, aber bei bestimmten Infektionen schützt es trotzdem.
+Luca: Wird gemacht, ich werde darauf achten. Wie geht's jetzt weiter, wenn ich zustimme?
+Lehmann: Wenn Sie möchten, veranlassen wir heute die Blut- und Abstrichtests. Bei negativem HIV-Test und unauffälligen Befunden können wir PrEP starten und die ersten Laborkontrollen durchführen.
+Luca: Ja, machen wir so. Ich würde das gern anfangen.
+Lehmann: Gut, ich bereite die Tests vor und wir klären die Medikamentenwahl und die Termine für die Kontrollen. Haben Sie noch Fragen?
+Luca: Nicht jetzt, danke. Ich bin froh, dass das so strukturiert ist.
+Lehmann: Gern. Dann kümmern wir uns darum und ich ruf Sie mit den Ergebnissen innerhalb von sieben Tagen an.

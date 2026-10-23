@@ -1,0 +1,654 @@
+{
+  "$defs": {
+    "AdministrativeSex": {
+      "description": "Administrative sex, only when explicitly stated (billing, statistics).",
+      "enum": [
+        "weiblich",
+        "maennlich",
+        "divers",
+        "not_discussed"
+      ],
+      "title": "AdministrativeSex",
+      "type": "string"
+    },
+    "AnatomyPart": {
+      "description": "Anatomy clinically relevant to STI screening and sampling site choice.",
+      "enum": [
+        "penis",
+        "scrotum",
+        "prostate",
+        "vagina",
+        "cervix",
+        "uterus",
+        "rectum",
+        "neovagina",
+        "neopenis",
+        "not_discussed"
+      ],
+      "title": "AnatomyPart",
+      "type": "string"
+    },
+    "ApproximateDate": {
+      "description": "A date that may be only partly known.\n\nPatients date events approximately (\"some time last spring\"), so a plain\n``date`` would force the generator to invent precision that the conversation\ncannot support and an extractor cannot recover.",
+      "properties": {
+        "year": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Jahr, falls erkennbar.",
+          "title": "Year"
+        },
+        "month": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Monat (1-12), falls erkennbar.",
+          "title": "Month"
+        },
+        "day": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Tag (1-31), falls erkennbar.",
+          "title": "Day"
+        }
+      },
+      "title": "ApproximateDate",
+      "type": "object"
+    },
+    "CondomUsePattern": {
+      "description": "Barrier-protection frequency.",
+      "enum": [
+        "always",
+        "mostly",
+        "sometimes",
+        "never",
+        "not_discussed"
+      ],
+      "title": "CondomUsePattern",
+      "type": "string"
+    },
+    "GenderIdentity": {
+      "description": "Gender identity, for correct address and patient-centred care.",
+      "enum": [
+        "Frau",
+        "Mann",
+        "nicht-binär",
+        "trans Frau",
+        "trans Mann",
+        "divers",
+        "not_discussed"
+      ],
+      "title": "GenderIdentity",
+      "type": "string"
+    },
+    "HivPartnerStatus": {
+      "description": "Partner HIV status as known to the patient.\n\n``positive_on_effective_art`` is kept distinct from\n``positive_not_suppressed_or_unclear`` because the two imply very different\ntransmission risk, and collapsing them would lose the clinically decisive part.",
+      "enum": [
+        "negative_known",
+        "positive_on_effective_art",
+        "positive_not_suppressed_or_unclear",
+        "unknown",
+        "not_discussed"
+      ],
+      "title": "HivPartnerStatus",
+      "type": "string"
+    },
+    "HivRiskWindow": {
+      "description": "Time-critical HIV assessment.\n\nThe 72-hour and six-week windows are here because they change what happens next:\npost-exposure prophylaxis is only an option inside the former, and acute HIV\ninfection is only a question inside the latter.",
+      "properties": {
+        "relevant_hiv_exposure_suspected": {
+          "$ref": "#/$defs/TriState",
+          "default": "not_discussed",
+          "description": "Besteht laut Gespräch ein relevantes aktuelles HIV-Übertragungsrisiko? Nur bei expliziter Klärung setzen."
+        },
+        "last_potential_hiv_exposure_date_approx": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/ApproximateDate"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Ungefähres Datum der letzten potentiell relevanten HIV-Exposition."
+        },
+        "exposure_within_72h": {
+          "$ref": "#/$defs/TriState",
+          "default": "not_discussed",
+          "description": "Mögliche Exposition innerhalb der letzten 72h (PEP-Fenster)?"
+        },
+        "pep_considered": {
+          "$ref": "#/$defs/TriState",
+          "default": "not_discussed",
+          "description": "Wurde PEP erwogen oder angeboten?"
+        },
+        "exposure_within_6_weeks": {
+          "$ref": "#/$defs/TriState",
+          "default": "not_discussed",
+          "description": "Exposition innerhalb der letzten 6 Wochen (akute HIV-Frage relevant)?"
+        },
+        "acute_hiv_symptoms_present": {
+          "$ref": "#/$defs/TriState",
+          "default": "not_discussed",
+          "description": "Hinweise auf eine akute HIV-Infektion (z.B. Fieber, Exanthem, Lymphknotenschwellung, Pharyngitis)?"
+        }
+      },
+      "title": "HivRiskWindow",
+      "type": "object"
+    },
+    "HormoneTherapyStatus": {
+      "description": "Hormone therapy status.",
+      "enum": [
+        "no",
+        "yes_current",
+        "yes_past",
+        "not_discussed"
+      ],
+      "title": "HormoneTherapyStatus",
+      "type": "string"
+    },
+    "PartnerAndExposure": {
+      "description": "Partners, practices, protection and partner status.",
+      "properties": {
+        "last_sexual_contact_date_approx": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/ApproximateDate"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Ungefähres Datum des letzten Sexualkontakts."
+        },
+        "partners_last_3_months": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Anzahl verschiedener Sexualpartner:innen in den letzten 3 Monaten. Nur als Zahl setzen, wenn explizit genannt.",
+          "title": "Partners Last 3 Months"
+        },
+        "practices_last_3_months": {
+          "description": "Praktiken der letzten 3 Monate (kodiert).",
+          "items": {
+            "$ref": "#/$defs/PracticeType"
+          },
+          "title": "Practices Last 3 Months",
+          "type": "array"
+        },
+        "condom_use_vaginal": {
+          "$ref": "#/$defs/CondomUsePattern",
+          "default": "not_discussed",
+          "description": "Kondomnutzung bei vaginalem Verkehr."
+        },
+        "condom_use_anal": {
+          "$ref": "#/$defs/CondomUsePattern",
+          "default": "not_discussed",
+          "description": "Kondomnutzung bei analem Verkehr."
+        },
+        "condom_use_oral": {
+          "$ref": "#/$defs/CondomUsePattern",
+          "default": "not_discussed",
+          "description": "Barrierenutzung bei oralem Verkehr."
+        },
+        "partner_hiv_status_known": {
+          "$ref": "#/$defs/HivPartnerStatus",
+          "default": "not_discussed",
+          "description": "HIV-Status der Partner:innen, soweit dem Patienten bekannt."
+        },
+        "recent_sti_in_partners": {
+          "$ref": "#/$defs/TriState",
+          "default": "not_discussed",
+          "description": "Kürzliche STI-Diagnose bei einem Partner. Nur setzen, wenn erwähnt."
+        }
+      },
+      "title": "PartnerAndExposure",
+      "type": "object"
+    },
+    "PatientBasics": {
+      "description": "Demographics and anatomy relevant to screening.",
+      "properties": {
+        "date_of_birth": {
+          "anyOf": [
+            {
+              "format": "date",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Nur wenn genannt und sicher datierbar.",
+          "title": "Date Of Birth"
+        },
+        "administrative_sex": {
+          "$ref": "#/$defs/AdministrativeSex",
+          "default": "not_discussed",
+          "description": "Rein administrativ/rechtlich, nur falls erwähnt."
+        },
+        "sex_at_birth": {
+          "$ref": "#/$defs/SexAtBirth",
+          "default": "not_discussed",
+          "description": "Bei Geburt zugewiesen. Nur falls erwähnt."
+        },
+        "gender_identity": {
+          "$ref": "#/$defs/GenderIdentity",
+          "default": "not_discussed",
+          "description": "Geschlechtsidentität (Ansprache/Patientenzentrierung)."
+        },
+        "anatomy_present": {
+          "description": "Welche Strukturen sind vorhanden? Nur befüllen, wenn erwähnt oder ableitbar.",
+          "items": {
+            "$ref": "#/$defs/AnatomyPart"
+          },
+          "title": "Anatomy Present",
+          "type": "array"
+        },
+        "hormone_therapy_status": {
+          "$ref": "#/$defs/HormoneTherapyStatus",
+          "default": "not_discussed",
+          "description": "Hormontherapie (relevant z.B. für Schleimhautzustand)."
+        },
+        "gender_affirming_surgery_status": {
+          "$ref": "#/$defs/TriState",
+          "default": "not_discussed",
+          "description": "Gab es geschlechtsangleichende Operationen? Nur wenn erwähnt."
+        },
+        "pregnancy_possible": {
+          "$ref": "#/$defs/TriState",
+          "default": "not_discussed",
+          "description": "Nur setzen, wenn explizit thematisiert oder eindeutig aus der Anatomie genannt."
+        },
+        "currently_pregnant": {
+          "$ref": "#/$defs/TriState",
+          "default": "not_discussed",
+          "description": "Nur setzen, wenn genannt."
+        }
+      },
+      "title": "PatientBasics",
+      "type": "object"
+    },
+    "PracticeType": {
+      "description": "Sexual practices, coded. Determines which sites need sampling.",
+      "enum": [
+        "vaginal",
+        "anal_insertive",
+        "anal_receptive",
+        "oral_insertive",
+        "oral_receptive",
+        "sexspielzeug",
+        "other_coded"
+      ],
+      "title": "PracticeType",
+      "type": "string"
+    },
+    "Prevention": {
+      "description": "Vaccination status, PrEP and counselling.",
+      "properties": {
+        "vaccination_hepatitis_a": {
+          "$ref": "#/$defs/VaccineStatus",
+          "default": "not_discussed",
+          "description": "Impfstatus Hepatitis A."
+        },
+        "vaccination_hepatitis_b": {
+          "$ref": "#/$defs/VaccineStatus",
+          "default": "not_discussed",
+          "description": "Impfstatus Hepatitis B."
+        },
+        "vaccination_hpv": {
+          "$ref": "#/$defs/VaccineStatus",
+          "default": "not_discussed",
+          "description": "Impfstatus HPV."
+        },
+        "prep_current_use": {
+          "$ref": "#/$defs/TriState",
+          "default": "not_discussed",
+          "description": "Wird aktuell eine HIV-PrEP eingenommen? Nur wenn genannt."
+        },
+        "prep_offered_or_discussed": {
+          "$ref": "#/$defs/TriState",
+          "default": "not_discussed",
+          "description": "Wurde PrEP angeboten oder besprochen?"
+        },
+        "condom_counseling_done": {
+          "$ref": "#/$defs/TriState",
+          "default": "not_discussed",
+          "description": "Erfolgte eine Kondom-/Barrierenberatung?"
+        }
+      },
+      "title": "Prevention",
+      "type": "object"
+    },
+    "ResultDeliveryMethod": {
+      "description": "Agreed channel for delivering results.",
+      "enum": [
+        "phone",
+        "sms",
+        "email",
+        "patient_portal",
+        "in_person",
+        "letter",
+        "not_discussed"
+      ],
+      "title": "ResultDeliveryMethod",
+      "type": "string"
+    },
+    "SampleSite": {
+      "description": "Planned sampling or swab sites.",
+      "enum": [
+        "blood",
+        "urine",
+        "vaginal_swab",
+        "cervical_swab",
+        "urethral_swab",
+        "rectal_swab",
+        "throat_swab",
+        "lesion_swab",
+        "not_discussed"
+      ],
+      "title": "SampleSite",
+      "type": "string"
+    },
+    "SexAtBirth": {
+      "description": "Sex assigned at birth.",
+      "enum": [
+        "weiblich",
+        "maennlich",
+        "inter/divers",
+        "not_discussed"
+      ],
+      "title": "SexAtBirth",
+      "type": "string"
+    },
+    "StiHistory": {
+      "description": "Previous diagnoses and their timing.",
+      "properties": {
+        "prior_sti_items": {
+          "description": "Welche STIs traten in der Anamnese auf (kodiert).",
+          "items": {
+            "$ref": "#/$defs/StiHistoryItem"
+          },
+          "title": "Prior Sti Items",
+          "type": "array"
+        },
+        "last_sti_diagnosis_date_approx": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/ApproximateDate"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Ungefähres Datum der letzten STI-Diagnose, falls genannt."
+        }
+      },
+      "title": "StiHistory",
+      "type": "object"
+    },
+    "StiHistoryItem": {
+      "description": "Previously diagnosed infections.",
+      "enum": [
+        "chlamydia",
+        "gonorrhea",
+        "syphilis",
+        "trichomonas",
+        "mycoplasma_genitalium",
+        "hsv",
+        "hpv_warts",
+        "hepatitis_a",
+        "hepatitis_b",
+        "hepatitis_c",
+        "hiv",
+        "not_discussed"
+      ],
+      "title": "StiHistoryItem",
+      "type": "string"
+    },
+    "SubstanceFrequency": {
+      "description": "Coarse substance-use frequency.",
+      "enum": [
+        "never",
+        "occasional",
+        "regular",
+        "frequent",
+        "not_discussed"
+      ],
+      "title": "SubstanceFrequency",
+      "type": "string"
+    },
+    "SubstanceUse": {
+      "description": "Alcohol and drug use, only where discussed.",
+      "properties": {
+        "alcohol_use_frequency": {
+          "$ref": "#/$defs/SubstanceFrequency",
+          "default": "not_discussed",
+          "description": "Alkoholkonsum (grobe Frequenz)."
+        },
+        "recreational_drug_use_frequency": {
+          "$ref": "#/$defs/SubstanceFrequency",
+          "default": "not_discussed",
+          "description": "Konsum anderer Substanzen (grobe Frequenz)."
+        },
+        "injection_drug_use": {
+          "$ref": "#/$defs/SubstanceFrequency",
+          "default": "not_discussed",
+          "description": "Intravenöser Konsum."
+        }
+      },
+      "title": "SubstanceUse",
+      "type": "object"
+    },
+    "SymptomSite": {
+      "description": "Where symptoms are located.",
+      "enum": [
+        "mouth_throat",
+        "vagina",
+        "penis_urethra",
+        "anal_rectal",
+        "skin",
+        "systemic",
+        "not_discussed"
+      ],
+      "title": "SymptomSite",
+      "type": "string"
+    },
+    "SymptomType": {
+      "description": "Kind of symptom.",
+      "enum": [
+        "discharge",
+        "pain_burning",
+        "itch",
+        "ulcers_vesicles",
+        "warts",
+        "rash",
+        "fever",
+        "lymph_nodes",
+        "sore_throat",
+        "dysuria",
+        "rectal_bleeding",
+        "not_discussed"
+      ],
+      "title": "SymptomType",
+      "type": "string"
+    },
+    "Symptoms": {
+      "description": "Current complaints, their location and onset.",
+      "properties": {
+        "symptom_onset_date_approx": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/ApproximateDate"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Ungefähres Datum des Symptombeginns. Nur wenn genannt."
+        },
+        "symptom_sites": {
+          "description": "Lokalisation der Symptome (kodiert).",
+          "items": {
+            "$ref": "#/$defs/SymptomSite"
+          },
+          "title": "Symptom Sites",
+          "type": "array"
+        },
+        "symptom_types": {
+          "description": "Art der Symptome (kodiert).",
+          "items": {
+            "$ref": "#/$defs/SymptomType"
+          },
+          "title": "Symptom Types",
+          "type": "array"
+        }
+      },
+      "title": "Symptoms",
+      "type": "object"
+    },
+    "TestRecommendation": {
+      "description": "Planned diagnostics and how results are communicated.",
+      "properties": {
+        "tests_recommended": {
+          "description": "Welche Tests werden empfohlen (kodiert).",
+          "items": {
+            "$ref": "#/$defs/TestType"
+          },
+          "title": "Tests Recommended",
+          "type": "array"
+        },
+        "sampling_sites": {
+          "description": "Welche Proben- bzw. Abstrichorte sind geplant (kodiert).",
+          "items": {
+            "$ref": "#/$defs/SampleSite"
+          },
+          "title": "Sampling Sites",
+          "type": "array"
+        },
+        "result_delivery_method": {
+          "$ref": "#/$defs/ResultDeliveryMethod",
+          "default": "not_discussed",
+          "description": "Vereinbarter Weg der Ergebnisübermittlung."
+        },
+        "result_delivery_timeframe_days": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Vereinbarter Zeithorizont bis zur Ergebnisrückmeldung in Tagen. Nur als Zahl, wenn genannt.",
+          "title": "Result Delivery Timeframe Days"
+        }
+      },
+      "title": "TestRecommendation",
+      "type": "object"
+    },
+    "TestType": {
+      "description": "Tests that may be recommended.",
+      "enum": [
+        "hiv",
+        "syphilis",
+        "chlamydia",
+        "gonorrhea",
+        "hepatitis_a",
+        "hepatitis_b",
+        "hepatitis_c",
+        "not_discussed"
+      ],
+      "title": "TestType",
+      "type": "string"
+    },
+    "TriState": {
+      "description": "Yes/no where \"never came up\" must stay distinguishable from \"no\".",
+      "enum": [
+        "yes",
+        "no",
+        "not_discussed"
+      ],
+      "title": "TriState",
+      "type": "string"
+    },
+    "VaccineStatus": {
+      "description": "Vaccination status.",
+      "enum": [
+        "complete",
+        "incomplete",
+        "unvaccinated",
+        "not_discussed"
+      ],
+      "title": "VaccineStatus",
+      "type": "string"
+    }
+  },
+  "description": "A complete STI/HIV history-taking record.\n\nSection names are German, as in the research scripts this library was extracted\nfrom.",
+  "properties": {
+    "patient": {
+      "$ref": "#/$defs/PatientBasics",
+      "description": "Basisdaten und Anatomie."
+    },
+    "partner_und_praktiken": {
+      "$ref": "#/$defs/PartnerAndExposure",
+      "description": "Partner:innen, Praktiken, Kondome, Partnerstatus."
+    },
+    "symptome": {
+      "$ref": "#/$defs/Symptoms",
+      "description": "Symptome inklusive Lokalisation."
+    },
+    "sti_vorgeschichte": {
+      "$ref": "#/$defs/StiHistory",
+      "description": "STI-Vorgeschichte (kodiert)."
+    },
+    "praevention": {
+      "$ref": "#/$defs/Prevention",
+      "description": "Prävention: Impfstatus, PrEP, Beratung."
+    },
+    "substanzen": {
+      "$ref": "#/$defs/SubstanceUse",
+      "description": "Alkohol und Drogen, nur wenn thematisiert."
+    },
+    "hiv_risiko_fenster": {
+      "$ref": "#/$defs/HivRiskWindow",
+      "description": "HIV-Risikofenster inklusive PEP und Hinweisen auf akute Infektion."
+    },
+    "diagnostik_und_kommunikation": {
+      "$ref": "#/$defs/TestRecommendation",
+      "description": "Geplante Diagnostik und Ergebnisübermittlung."
+    }
+  },
+  "title": "StiAnamnesis",
+  "type": "object"
+}

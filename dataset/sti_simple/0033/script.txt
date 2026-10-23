@@ -1,0 +1,51 @@
+Jonas: (ruhig, geschäftig) Guten Morgen, ich bin Dr. Jonas, was führt Sie in die offene Sprechstunde?
+Karsten: (abwehrend) Ich habe Ausfluss und ein Brennen beim Wasserlassen, deswegen bin ich hier.
+Jonas: Seit wann haben Sie die Beschwerden genau?
+Karsten: Seit dem 20.05.2024, ist doch nicht so schwer zu merken.
+Jonas: Haben Sie zusätzlich Juckreiz oder Schmerzen beim Sitzen oder beim Sex?
+Karsten: Ja, manchmal juckt es auch, und beim Wasserlassen brennt es gelegentlich.
+Jonas: Sind Sie sexuell aktiv, und wie würden Sie Ihre Orientierung beschreiben?
+Karsten: (gereizt) Hetero, falls das zählt.
+Jonas: Leben Sie in einer festen Beziehung oder ist das offen?
+Karsten: Offen. Wir sehen andere Leute, deshalb dachte ich, ich komme lieber her.
+Jonas: Wie viele Sexualpartner hatten Sie in den letzten zwölf Monaten?
+Karsten: Drei.
+Jonas: Waren das ausschließlich Frauen?
+Karsten: Ja, ausschließlich Frauen.
+Jonas: Wann war Ihr letzter Geschlechtsverkehr?
+Karsten: Am 17.05.2024.
+Jonas: Haben Sie beim Sex Kondome benutzt?
+Karsten: Nur ab und zu, also gelegentlich.
+Jonas: Waren die Partner auf STD getestet oder war ihr Status bekannt?
+Karsten: Keine Ahnung, das weiß ich nicht — könnte jemand gewesen sein, der nichts sagt.
+Jonas: (präzise) Haben Sie in der Vergangenheit jemals Hepatitis A, B, C, HIV, Syphilis, Gonorrhö, Chlamydien, Herpes oder HPV gehabt?
+Karsten: Nein, nichts davon.
+Jonas: Sind Sie gegen Hepatitis A und B geimpft?
+Karsten: Ja, beide Impfungen habe ich bekommen.
+Jonas: Wann war Ihr letzter allgemeiner Check-up und STI-Tests?
+Karsten: Letzter Check-up und STI-Tests waren am 05.11.2023, alles negativ damals.
+Jonas: Gut. Ich muss das klarstellen: wegen Ausfluss, Brennen und Jucken mache ich einen Harn-Test und einen Abstrich/NAAT auf Chlamydien und Gonokokken, plus Syphilis- und HIV-Serologie, einverstanden?
+Karsten: (misstrauisch) Warum so viele Tests? Ich fühle mich gerade etwas wie unter Verdacht gestellt.
+Jonas: (kurz) Weil die Symptome typisch sind und wir schnell zielgerichtet behandeln müssen — diskret und vertraulich, dauert nicht lange.
+Karsten: (abwehrend) Also gut, aber ich will nicht, dass das an die Versicherung oder so weitergegeben wird.
+Jonas: Das bleibt alles vertraulich in Ihrer Patientenakte, ich notiere nur medizinisch Relevantes.
+Karsten: Werden die Ergebnisse hier sofort kommen?
+Jonas: Urin-NAAT kann schnell sein, Abstriche und Serologien brauchen in der Regel 1–3 Tage; bei Bedarf machen wir einen Schnelltest für HIV jetzt.
+Karsten: (kurz angebunden) Mache den Schnelltest, aber nur, weil ich wissen will, woran ich bin.
+Jonas: Gut, noch eine kurze Frage: sind Sie allergisch gegen Antibiotika?
+Karsten: Nein.
+Jonas: In Ordnung. Ich schlage vor: Abstrich, Urinprobe, HIV-Schnelltest jetzt, Syphilis-Serologie, und wir können Sie heute empirisch behandeln, wenn es nötig ist.
+Karsten: Empirisch behandeln? Bedeutet das, Sie geben mir einfach Antibiotika, ohne dass sicher ist, was ich habe?
+Jonas: Wenn die Symptome stark und typisch sind, ist das oft sinnvoll, ansonsten warten wir auf die Ergebnisse — ich empfehle aber eine rasche Therapie bei starkem Befund.
+Karsten: (sarkastisch) Super, noch mehr Pillen.
+Jonas: Ich möchte auch ansprechen, ob Sie Ihre Partner informieren möchten — wir bieten anonyme Mitteilung an, wenn Sie das bevorzugen.
+Karsten: (abwehrend) Ich informiere meine Partner selbst. Sie sollen nicht denken, ich bin verantwortungslos.
+Jonas: Das klingt vernünftig, trotzdem ist anonyme Benachrichtigung eine Option, falls jemand sensibel reagiert.
+Karsten: Na gut. Können wir das Ganze bitte zügig durchziehen? Ich habe noch einen Termin.
+Jonas: (geschäftig) Klar. Ich nehme jetzt kurz Abstrich und gebe Ihnen einen Becher für die Urinprobe, dann mache ich den Schnelltest.
+Karsten: (knapp) Mach schnell.
+Jonas: (ruhig) Ich werde außerdem empfehlen, Kondome häufiger zu benutzen — "gelegentlich" reicht nicht, um STIs zuverlässig zu verhindern.
+Karsten: (verteidigend) Ich weiß, ich weiß — ich versuche's, aber in manchen Situationen war’s nicht drin.
+Jonas: Verstanden. Nach den Ergebnissen besprechen wir Therapie und Nachtest: HIV und Syphilis kontrollieren wir nochmal nach der richtigen Fensterzeit, aber jetzt starten wir mit den Tests.
+Karsten: Alles klar. Danke. Aber bitte keine moralischen Kommentare.
+Jonas: (präzise) Keine Moral, nur Fakten und Behandlung. Ich melde mich, sobald die Schnelltests fertig sind.

@@ -1,0 +1,55 @@
+Hannah: (streng) Guten Morgen, Sie sagen, Sie kommen wegen möglichen STI-Symptomen — bitte kurz: Was genau haben Sie bemerkt und seit wann?
+Sandra: (nervös) Ich habe seit dem 20. Mai 2024 Ausfluss, Brennen beim Wasserlassen und Juckreiz — ich habe sofort gegoogelt und in Foren gelesen, das könnten resistente Varianten sein.
+Hannah: Ich nehme das ernst, aber Foren ersetzen keine Diagnostik. Hatten Sie Ihren letzten sexuellen Kontakt vor oder nach Beginn der Symptome?
+Sandra: Mein letzter Kontakt war am 18. Mai 2024, also zwei Tage vorher. Ich bin bisexuell und in einer offenen Beziehung, das muss ja auch gesagt werden.
+Hannah: Danke. Offenbeziehung und bisexuell notiert. Wie viele Partner hatten Sie in den letzten zwölf Monaten?
+Sandra: Vier verschiedene Partner im letzten Jahr, Männer und Frauen.
+Hannah: Waren Sie und Ihre Partner geimpft oder wurden sie regelmäßig getestet — wissen Sie das?
+Sandra: Ich selbst habe Hepatitis-B- und HPV-Impfungen. Bei den Partnern weiß ich das nicht, ihre STI-Status waren meist unbekannt.
+Hannah: (präzise) Also Risiko: Partner mit unbekanntem STI-Status. Welche Verhütungsmethoden nutzen Sie üblicherweise?
+Sandra: Wir benutzen manchmal Kondome, aber nicht immer — eher gelegentlich, je nach Situation.
+Hannah: Verstanden. Hatten Sie früher schon einmal eine STI?
+Sandra: Ja, ich hatte Chlamydien vor ein paar Jahren, wurde behandelt. Sonst keine Syphilis, HIV, Hepatitis oder Herpes, soweit ich weiß.
+Hannah: Okay — das notiere ich: vergangene Chlamydieninfektion. Wann war Ihre letzte vollständige Untersuchung inklusive HIV, Syphilis und Chlamydien/Gonorrhoe-Tests?
+Sandra: Letzter Check-up war am 15. Oktober 2023, da wurde auch auf HIV, Syphilis und Chlamydien/Gonorrhoe getestet.
+Hannah: Und die Ergebnisse damals?
+Sandra: Damals alles negativ, soweit ich mich erinnere.
+Hannah: Gut. Zurück zu den aktuellen Symptomen: Haben Sie Fieber, Unterbauchschmerzen oder ungewöhnliche Blutungen bemerkt?
+Sandra: Kein Fieber, nur ein leichtes Ziehen im Unterbauch ab und zu, sonst keine Blutungen.
+Hannah: (streng) Danke. Sie sagten, Sie haben in Foren von extrem seltenen oder resistenten STIs gelesen — können Sie mir ein Beispiel nennen, was genau Sie beunruhigt?
+Sandra: Viele schreiben dort, Gonorrhöe sei inzwischen teilweise multiresistent und normale Mittel wirken nicht mehr — manche raten zu Spezialkliniken und Kulturtests. Ich frage mich, ob Ihre Praxis das ernst nehmen kann.
+Hannah: Ich verstehe die Sorge. Resistenzen bei Gonorrhöe sind bekannt, darum arbeiten wir hier nach Leitlinien: wir machen NAAT-Tests (PCR/Urintest), ggf. Abstriche und, wenn notwendig, Kultur mit Empfindlichkeitstest. Das ist Standard und seriös.
+Sandra: (skeptisch) Aber machen Sie das wirklich hier? Ich habe gelesen, manche Hausärzte schicken nur schnell Antibiotika weg.
+Hannah: (kühl) Wir führen die Abstriche und Urintests durch und schicken Proben ans Labor, inklusive Kultur, wenn der Verdacht besteht. Ich mache die Anamnese vollständig, bevor ich eine Therapie einleite. Das ist verantwortlich.
+Sandra: Gut. Welche Tests würden Sie jetzt konkret machen?
+Hannah: Ich würde einen Urin-NAAT auf Chlamydien und Gonorrhöe, einen vaginalen oder zervikalen Abstrich und bei Bedarf einen Rachen- und Analabstrich machen — je nachdem, wo Sie Kontakte hatten. Außerdem Syphilis-Serologie und ein HIV-Test, wenn Sie einverstanden sind.
+Sandra: (leichter Druck) Ich hatte auch oralen Sex, also bitte Rachenabstrich. Und Anal auch, ja.
+Hannah: Notiert: Rachen- und Analabstrich zusätzlich. Sie sind einverstanden mit HIV- und Syphilis-Test?
+Sandra: Ja, bitte alles. Ich will nicht in einem Forum enden, wo keiner sagen kann, was ich habe.
+Hannah: Sehr gut. Ich weise auf Vertraulichkeit hin — alles bleibt medizinisch vertraulich. Wenn nötig, werden Partner informiert, aber das besprechen wir später. Hatten Sie irgendwelche Allergien, Schwangerschaft oder andere relevante Erkrankungen?
+Sandra: Keine Allergien bekannt, nicht schwanger, sonst gesundheitlich fit.
+Hannah: (streng) In Ordnung. Wegen Ihrer vergangenen Chlamydieninfektion: wann war die und wie wurde sie behandelt?
+Sandra: Das war vor drei Jahren, mit Tabletten, vollständig behandelt und angeblich ausgeheilt.
+Hannah: Gut. Aufgrund Ihrer Symptome und der Sexualanamnese handeln wir so: Proben heute, bei positivem Befund je nach Erreger gezielte Therapie. Bei Gonorrhöe wird oft eine Kultur zur Resistenzbestimmung angefordert — das dauert, aber ist nötig bei Therapieversagen.
+Sandra: Und wenn die Foren recht haben und es resistent ist — schicken Sie mich dann zu einer Klinik?
+Hannah: Wenn die Ersttherapie anschlagslos bleibt oder der Kulturbefund Resistenzen zeigt, veranlassen wir eine Überweisung an eine Infektionsambulanz oder Fachklinik. Bis dahin behandeln wir leitliniengerecht und engmaschig.
+Sandra: (misstrauisch) Glauben Sie, dass Sie das jetzt ohne Warten an einem Termin regeln können? Die Praxis ist ziemlich voll hier.
+Hannah: (streng) Wir machen das heute in der offenen Sprechstunde. Blutabnahme, Abstriche und Urinprobe gehen jetzt raus. Bei Laborbefunden rufe ich Sie an oder Sie bekommen eine Nachricht — wir priorisieren STI-Befunde.
+Sandra: Wie schnell sind die Ergebnisse ungefähr?
+Hannah: NAAT-Ergebnisse in der Regel in 1–3 Tagen, Serologie für Syphilis und HIV meist mehrere Tage. Kultur und Empfindlichkeit können bis zu einer Woche dauern.
+Sandra: Und wie schnell würden Sie behandeln, falls etwas akut ist?
+Hannah: Bei positivem NAAT oder starken klinischen Hinweisen beginne ich eine leitliniengerechte Behandlung sofort oder ambulant — natürlich mit Aufklärung über mögliche Resistenzen und weitere Schritte.
+Sandra: (zweifelnd) In den Foren warnen einige vor unnötigen Antibiotikagaben. Kann das auch schaden?
+Hannah: Unnötige Antibiotika vermeiden wir. Deshalb testen wir gezielt und behandeln nur bei nachgewiesener Infektion oder bei dringendem klinischem Verdacht. Ihre Sorge ist berechtigt, darum die Kultur bei Gonorrhöe.
+Sandra: Was soll ich bis zum Ergebnis beachten? Kann ich Sex haben?
+Hannah: Bis zum Ausschluss einer ansteckenden Infektion sollten Sie auf sexuelle Kontakte verzichten oder strikt Kondome benutzen. Informieren Sie Ihre Partner, damit sie sich ebenfalls testen lassen können.
+Sandra: Wer benachrichtigt die Partner? Muss ich das selber machen?
+Hannah: Sie können es selbst tun, das ist oft am schnellsten. Auf Wunsch unterstützen wir Sie anonym über das Gesundheitsamt oder geben Vorlagen für die Mitteilung.
+Sandra: (ruhiger) Das wäre gut. Ich werde die Betroffenen informieren — aber manche wissen nicht, dass sie Risikofaktor sind.
+Hannah: Dann geben wir Ihnen ein Informationsblatt und eine Empfehlung zum Test. Noch eine Frage: Nehmen Sie aktuell Medikamente, Hormontherapie oder ähnliches?
+Sandra: Nein, keine Medikamente derzeit.
+Hannah: Gut. Ich mache die Proben jetzt. Bitte zur Blutabnahme und dann in den Behandlungsraum für die Abstriche. Haben Sie noch Fragen, bevor wir beginnen?
+Sandra: (ehrlich) Nur: Wenn die Ergebnisse negativ sind, können Sie mir dann erklären, woran es sonst liegen könnte? Ich möchte nicht, dass das wieder im Forum endet.
+Hannah: (streng, aber beruhigend) Ja. Wenn alles negativ ist, besprechen wir andere Ursachen für Ausfluss, Juckreiz und Dysurie — etwa vaginale Dysbiose, Pilzinfektion oder andere nicht-sexuell übertragbare Ursachen — und behandeln entsprechend. Und ich erwarte, dass Sie auf fundierte Quellen achten, nicht nur Foren.
+Sandra: (leicht verlegen) Okay, verstehe. Danke — ich will einfach Gewissheit.
+Hannah: Gut. Dann gehen Sie bitte zur Blutabnahme, ich veranlasse die Tests und wir sprechen die Ergebnisse telefonisch ab.

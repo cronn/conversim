@@ -1,0 +1,53 @@
+Elena: (ruhig, einfühlsam) Guten Morgen, Herr Müller, setzen Sie sich bitte — Sie sind in der offenen Sprechstunde, was führt Sie zu mir heute?
+Thomas: (nervös) Guten Morgen. Ich habe seit ein paar Tagen Ausfluss und Brennen beim Wasserlassen, deshalb dachte ich, ich komm besser schnell vorbei.
+Elena: Seit wann genau haben Sie diese Beschwerden?
+Thomas: Seit dem 20. November, also seit ein paar Tagen schon.
+Elena: Haben Sie Juckreiz oder Schmerzen im Genitalbereich zusätzlich bemerkt?
+Thomas: Ja, leichtes Jucken ist auch da, und der Ausfluss ist nicht wie sonst, eher ungewöhnlich.
+Elena: Gut, danke. Waren Sie in letzter Zeit sexuell aktiv, und gab es ungeschützte Kontakte?
+Thomas: (zögerlich) Ja, ich hatte vor Kurzem einen Seitensprung auf einer Dienstreise — ungeschützt. Letzter Kontakt war am 10. November.
+Elena: Verstehe. Und in den letzten zwölf Monaten wie viele Partner hatten Sie insgesamt?
+Thomas: Drei, alles weibliche Partner. Ich bin heterosexuell, und in unserer Beziehung ist das… offen.
+Elena: Danke, dass Sie so offen sind. Haben Sie üblicherweise Kondome benutzt?
+Thomas: Manchmal, nicht immer — eher gelegentlich, wenn’s passte.
+Elena: Haben Sie von Ihren Partnerinnen Informationen über deren STI-Status bekommen?
+Thomas: Nein, das weiß ich nicht. Das ist mir auch peinlich, ich wollte das nicht wissen.
+Elena: Das ist wichtig für die Einschätzung, aber kein Grund zur Scham. Wir klären das jetzt medizinisch. Haben Sie Impfungen gegen Hepatitis B oder HPV?
+Thomas: Ja, gegen Hepatitis B und HPV bin ich geimpft.
+Elena: Das ist gut, das bietet Schutz vor einigen Erkrankungen. Haben Sie früher schon einmal sexuell übertragbare Infektionen gehabt?
+Thomas: Nein, nie. Kein HIV, keine Syphilis, keine Chlamydien, nichts dergleichen.
+Elena: Und wann waren Ihre letzten Tests oder ein allgemeiner Gesundheits-Check?
+Thomas: Ein Check-up war am 15. Januar 2023, und HIV, Syphilis und Chlamydien/Gonorrhö wurden zuletzt am 1. August 2022 getestet.
+Elena: Danke, das hilft. Ich würde vorschlagen, dass wir heute einen Urin-NAAT-Test für Chlamydien und Gonorrhö machen, einen Abstrich bei Bedarf und Blut abnehmen für HIV, Syphilis und Hepatitis — ein kompletter Abklärungsplan.
+Thomas: (ängstlich) Und wer erfährt das? Meine Frau darf das auf keinen Fall herausfinden — gilt hier die ärztliche Schweigepflicht?
+Elena: (beruhigend) Ja, die Informationen bleiben vertraulich zwischen Ihnen und mir. Ärztliche Schweigepflicht gilt grundsätzlich; ich gebe ohne Ihre Zustimmung keine Details an Dritte weiter.
+Thomas: (insistierend) Auch nicht an meine Krankenkasse, nicht, dass da etwas steht und sie es sieht?
+Elena: Wir rechnen normalerweise über Ihre Krankenkasse ab; Abrechnungsunterlagen enthalten selten Details der Diagnose, aber wenn Sie Bedenken haben, können wir über Optionen sprechen — etwa private Bezahlung bestimmter Tests oder wie wir am diskretesten vorgehen.
+Thomas: Können Sie das wirklich garantieren? Ich habe große Angst, dass das nach Hause kommt.
+Elena: Ich verstehe Ihre Sorge. Ich kann Ihnen garantieren, dass ich Ihre medizinischen Informationen vertraulich behandle. Bei Abrechnung kann ich Ihnen erklären, wie die Dokumentation aussieht und welche Möglichkeiten es gibt, wenn Sie diskret bleiben möchten.
+Thomas: (erleichtert) Danke. Und was passiert mit der Partnerfrage — muss ich meine Frau oder andere Partner informieren?
+Elena: Medizinisch und epidemiologisch ist es sinnvoll, Partner zu informieren, damit sie sich testen lassen. Wir können das gemeinsam besprechen; es gibt außerdem anonyme Benachrichtigungsdienste, die Kontakte informieren, ohne Ihren Namen zu nennen.
+Thomas: Gibt es eine Pflicht, das der Gesundheitsbehörde zu melden?
+Elena: Für die meisten STI gilt keine automatische Namensmeldung; es gibt jedoch Meldepflichten bei bestimmten schweren Infektionen. Das ist eher die Ausnahme. Ich würde das konkret erst nach Befunden mit Ihnen besprechen.
+Thomas: (leise) Okay. Können wir heute sofort was machen? Ich will nicht warten.
+Elena: Ja, wir nehmen jetzt Urin für einen NAAT, ich kann einen Abstrich machen, wenn das nötig ist, und Blut abnehmen. Wenn der Befund eindeutig ist, kann man oft schnell behandeln.
+Thomas: Tut der Abstrich weh?
+Elena: Nur kurz unangenehm, kaum mehr als ein kurzer Druck. Ich arbeite zügig, versuche, es so schonend wie möglich zu machen.
+Thomas: (unsicher) Und wenn es HIV wäre — wie schnell merkt man das? Ich habe 2022 zuletzt testen lassen, am 1. August.
+Elena: Nach einem letzten Risikoereignis ist ein Test nach einigen Wochen bis Monaten aussagekräftig. Wir testen heute Blut auf HIV; bei negativem Ergebnis kann ein Folge-Test empfohlen werden, je nach Zeitraum und Testart.
+Thomas: Was ist, wenn das Ergebnis positiv ist — würde das meine Frau erfahren?
+Elena: Das erfahren nur Sie und wir als Behandlungsteam, solange Sie das nicht selbst weitergeben. Wir würden Sie unterstützen, wie und wann Sie informieren möchten, und mögliche Behandlungswege besprechen.
+Thomas: (atmet tief) Gut. Und wie lange dauert es, bis die Ergebnisse da sind?
+Elena: Blut- und Urinbefunde brauchen meist ein bis drei Tage, in seltenen Fällen länger. Bei Gonorrhö kann ein Abstrich auch gedeckt im Labor schnell sein. Ich rufe Sie an oder Sie bekommen die Ergebnisse per Anruf oder Mail — wie möchten Sie informiert werden?
+Thomas: Am besten telefonisch. Aber diskret, bitte.
+Elena: Dann rufe ich Sie auf die Nummer an, die in Ihrer Patientenakte steht, und frage kurz nach, ob ich in Ruhe sprechen kann. Wenn Sie wollen, notiere ich, dass keine schriftlichen Ergebnisse an Ihre Adresse geschickt werden sollen.
+Thomas: Können Sie mir etwas gegen das Brennen heute geben?
+Elena: Ich kann Ihnen ein symptomlinderndes Mittel verschreiben, das hilft, bis wir die Ergebnisse haben, und falls nötig eine kurzfristige antibiotische Therapie beginnen. Ich erkläre die Vor- und Nachteile, bevor wir Medikamente geben.
+Thomas: (erleichtert) Das wäre gut. Ich will das schnell hinter mich bringen.
+Elena: Wir machen das Schritt für Schritt: zuerst Probeentnahme, Blut, dann symptomatische Linderung; wenn ein Befund eine sofortige Therapie verlangt, sprechen wir das ab. Haben Sie Allergien oder nehmen Sie regelmäßig Medikamente?
+Thomas: Keine bekannten Allergien, regelmäßig nur ab und zu Schmerztabletten.
+Elena: Gut, dann führe ich die Tests durch und gebe Ihnen eine Rezept- oder Therapievorlage. Möchten Sie, dass ich auf Ihrem Befundzettel etwas Bestimmtes vermerke, damit es diskret bleibt?
+Thomas: (nachdenklich) Wenn möglich, bitte nichts, was meine Frau direkt sehen könnte. Ich würde auch privat zahlen, wenn das hilft.
+Elena: Das ist möglich — ich bespreche das an der Anmeldung. Sie können auch erst die Untersuchungen machen lassen und wir klären die Abrechnung diskret. Wollen Sie, dass ich jetzt mit der Untersuchung beginne?
+Thomas: Ja, bitte. Und noch einmal: Versprechen Sie mir, dass das zwischen uns bleibt?
+Elena: (ruhig, verbindlich) Ja, das bleibt vertraulich. Wir kümmern uns jetzt um die Beschwerden und besprechen alles Weitere, sobald die Ergebnisse vorliegen.

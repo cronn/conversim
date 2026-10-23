@@ -1,0 +1,69 @@
+Weber: Guten Morgen, ich bin Dr. Weber. Schön, dass Sie zum Routinecheck gekommen sind. Wie darf ich Sie ansprechen?
+Mika: Morgen, ich bin Mika. Danke, ist ein bisschen nervös, aber gut.
+Weber: Kein Problem, wir machen das locker. Können Sie mir kurz Ihr Geburtsdatum geben, dann trage ich das in die Akte ein?
+Mika: Klar, 15. Mai 1992.
+Weber: Danke. Und wie identifizieren Sie sich geschlechtlich — Sie sind Mann?
+Mika: Ja, ich bin ein Mann. Ich wurde auch als männlich geboren.
+Weber: Gut. Und medizinisch wichtig: welche Körperteile haben Sie, die für Tests relevant sind — Penis, Hoden, Darm/After?
+Mika: Ja, ich habe Penis und Hoden, und naja, klar den After, ich hab receptive Sachen gemacht.
+Weber: Alles klar. Sie sind heute wegen einer Routineuntersuchung, kein akutes Symptom?
+Mika: Genau, ich fühle mich nicht krank, kein Fieber oder so, deswegen dachte ich, ich lasse mal wieder checken.
+Weber: Sehr gut. Erzählen Sie mir kurz die letzten Monate sexuell: Wann war Ihr letzter Sex ungefähr?
+Mika: Der letzte Sex war am 20. Mai dieses Jahres.
+Weber: Okay, und wie viele Partner hatten Sie in den letzten drei Monaten?
+Mika: Ungefähr vier verschiedene Männer.
+Weber: Und welche Praktiken waren das überwiegend — nur oral, anal, beides?
+Mika: Beides eigentlich. Mal war ich passiv beim Analverkehr, mal aktiv. Oral auch, ich hab sowohl Oral gegeben als auch bekommen.
+Weber: Also anal rezeptiv und insertiv, plus oral rezeptiv und insertiv — das notiere ich. Wie war das mit Kondomen?
+Mika: Beim Analverkehr benutzen wir manchmal ein Kondom, aber nicht immer. Oral hab ich nie ein Kondom benutzt.
+Weber: Danke für die Offenheit. Hatten Sie zuletzt mit einem Partner Kontakt, von dem Sie wissen, dass er eine STI hatte?
+Mika: Ja, einer hat mir nachher erzählt, er hatte kürzlich eine Gonorrhöe. Das war ein bisschen beunruhigend.
+Weber: Verstanden. Zur Vorgeschichte: Sind Sie schon einmal wegen einer STI behandelt worden?
+Mika: Ja, ich hatte früher Chlamydien, auch mal Gonorrhöe und einmal Syphilis.
+Weber: Wann war die letzte Diagnose ungefähr?
+Mika: Das war am 25. Oktober 2023, da wurde das alles festgestellt und behandelt.
+Weber: Danke. Impfschutz ist auch wichtig — wie sieht es mit Hepatitis-A und -B aus und HPV-Impfung?
+Mika: Hepatitis A und B hab ich komplett durchgeimpft, das ist erledigt. Bei HPV bin ich noch nicht fertig, das wurde vorher nicht komplett gemacht.
+Weber: Gut, Hep A und B komplett, HPV unvollständig — ich notiere das. Nehmen Sie aktuell PrEP?
+Mika: Nein, ich nehme keine PrEP.
+Weber: Wir können PrEP besprechen, ich habe das Angebot schon mit einigen gemacht — wollen Sie, dass ich kurz erkläre, ob das für Sie sinnvoll wäre?
+Mika: Ja bitte, ich weiß nicht genau, wie das funktioniert.
+Weber: Kurz: PrEP ist ein tägliches Medikament, das das Risiko einer HIV-Infektion bei exponiertem Sex stark senkt. Ich kann Ihnen erklären, wie man startet und was die Kontrollen sind, und wir können das heute ansprechen, wenn Sie wollen.
+Mika: Das klingt gut. Würde ich gern wissen. Ich hab da auch Fragen zu Nebenwirkungen und Tests.
+Weber: Machen wir. Vorher noch kurz zu möglicher akuter Exposition: Gab es in letzter Zeit einen konkreten Vorfall, bei dem Sie ungeschützten Analverkehr hatten, bei dem Sie Sorgen haben?
+Mika: Ja, am 8. Mai hatte ich Sex, da war kein Kondom beim Analverkehr, ich war rezeptiv. Seitdem mache ich mir Gedanken.
+Weber: Also der potenziell relevante Vorfall war am 8. Mai dieses Jahres. Das war vor mehr als 72 Stunden, richtig?
+Mika: Ja, das ist jetzt schon ein paar Wochen her, nicht innerhalb von ein paar Tagen gewesen.
+Weber: Dann kommt eine Notfallbehandlung (PEP) nicht mehr in Frage, weil die Frist von 72 Stunden vorbei ist — und Sie haben das damals auch nicht in Erwägung gezogen, korrekt?
+Mika: Genau, ich hab nicht sofort nach PEP gefragt.
+Weber: Verstanden. Sie sagten, das war am 8. Mai — das ist innerhalb der letzten sechs Wochen, also noch relevant für die Testplanung.
+Mika: Ja, es ist erst ein paar Wochen her.
+Weber: Haben Sie in den Tagen danach Symptome bemerkt, wie Fieber, Ausschlag, Halsschmerzen oder Ähnliches?
+Mika: Nein, eigentlich nichts Auffälliges. Kein Fieber, kein Ausschlag.
+Weber: Gut, akute Symptome deuten nicht vorliegend auf eine HIV-Infektion hin. Zum Testen empfehle ich heute Bluttests für HIV und Syphilis, außerdem Abstriche/Tests auf Chlamydien und Gonorrhöe — Urintest und zusätzlich Rachen- und rektaler Abstrich. Und ich würde auch Hepatitis C im Blut testen.
+Mika: Können Sie das nochmal in einfachen Worten sagen, was genau getestet wird und wo?
+Weber: Klar: Blut nehmen wir, um HIV, Syphilis und Hepatitis C zu prüfen. Dann geben Sie eine Urinprobe, und wir machen einen Rachenabstrich und einen rektalen Abstrich — so finden wir Chlamydien und Gonorrhöe, egal ob im Rachen oder im After.
+Mika: Okay, das versteh ich. Tut der Rektalabstrich sehr weh?
+Weber: Es ist unangenehm für einen Moment, aber in der Regel nicht schmerzhaft. Wir sind hier routiniert und machen das so schonend wie möglich.
+Mika: Gut, dann machen wir das.
+Weber: Super. Noch kurz zu Substanzen: Wie sieht es mit Alkohol und Drogen bei Ihnen aus?
+Mika: Alkohol trink ich regelmäßig, nicht jeden Tag, aber oft am Wochenende. Drogen nehme ich gelegentlich mal etwas, kein Spritzkonsum.
+Weber: Also regelmäßiger Alkoholkonsum, gelegentliche Freizeitdrogen und kein intravenöser Drogengebrauch — richtig?
+Mika: Ja, genau.
+Weber: Perfekt. Zurück zu Prävention: Sie sagten, Kondome beim Analverkehr nutzen Sie manchmal — wir können gern nochmal ein kurzes Kondomgespräch machen, Tipps geben, und ich kläre Sie zu PrEP auf. Wollen Sie das jetzt schon?
+Mika: Ja bitte, das Kondomgespräch und PrEP kurz. Wie zuverlässig ist PrEP denn?
+Weber: Sehr zuverlässig, wenn Sie es regelmäßig nehmen. Bei aufmerksamem Gebrauch sinkt das Risiko auf nahe null. Es gibt Kontrollen, Bluttests und ab und zu Nebenwirkungschecks — nichts, was nicht handhabbar wäre. Ich schicke Ihnen auch die Termine als Erinnerung.
+Mika: Klingt gut. Und wenn heute ein Test positiv wäre — wie würde das ablaufen?
+Weber: Wenn ein Test positiv ist, rufen wir Sie an — wir vereinbaren Gesprächstermine und erklären die Behandlungsschritte. Wir klären sofort, welche Therapie nötig ist. Bei den meisten bakteriellen STIs gibt es sehr effektive Antibiotika, und bei HIV gibt es heute sehr gute Medikamente.
+Mika: Wie lange dauert es, bis ich die Testergebnisse habe?
+Weber: Die Ergebnisse bekommen Sie telefonisch von uns innerhalb etwa sieben Tagen.
+Mika: Okay, telefonisch ist fine. Was kostet das alles?
+Weber: In diesem Setting sind die Tests für Sie kostenfrei. Auch die Beratung ist kostenfrei.
+Mika: Prima. Ich bin froh, dass ich hierhergekommen bin.
+Weber: Sehr gut. Ich fasse kurz zusammen: Sie sind Mann, geboren 1992-05-15, hatten in den letzten drei Monaten vier Partner, letzter Sex am 20. Mai, relevante ungeschützte Begegnung am 8. Mai, keine akuten Symptome, frühere STIs (Chlamydien, Gonorrhöe, Syphilis, zuletzt 25.10.2023), Hep A/B komplett geimpft, HPV unvollständig, keine PrEP aktuell, PrEP kann angeboten werden, regelmäßiger Alkoholkonsum, gelegentliche Drogen, kein Spritzkonsum. Wir machen Blut, Urin, Rachen- und Rektalabstrich und besprechen Kondome und PrEP. Stimmt das so für Sie?
+Mika: Ja, das trifft alles zu.
+Weber: Prima. Dann nehme ich Ihnen jetzt Blut, wir machen die Urinprobe und die Abstriche. Wenn Sie noch Fragen zu PrEP oder zur Nachsorge haben, können wir das beim Anlegen der Termine kurz durchgehen.
+Mika: Super, danke. Können Sie mir beim Rausgehen noch sagen, wie ich mich verhütungs- und kondomsicherer verhalte ohne total paranoid zu werden?
+Weber: Klar, ich gebe Ihnen einige pragmatische Tipps — Kondom immer griffbereit, Gleitgel verwenden, bei wechselnden Partnern regelmäßige Tests, und PrEP als zusätzliche Option. Ich erkläre alles kurz und ohne Belehrung.
+Mika: Danke, das hilft mir sehr beruhigend.
+Weber: Gern. Dann fangen wir an mit den Proben — Sie können vorne die Urinprobe abgeben, ich komme gleich für Blut und Abstriche dazu.

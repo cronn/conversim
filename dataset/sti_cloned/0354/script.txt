@@ -1,0 +1,53 @@
+Schneider: Guten Morgen, ich bin Dr. Schneider. Schön, dass Sie hergekommen sind. Was führt Sie heute zu uns in die Spezialambulanz?
+Charlie: Servus, danke. Ich bin wegen möglichen STIs hier, wollt’ das endlich mal richtig abchecken lassen — war noch nie bei so einer Ambulanz.
+Schneider: Sehr gut, das ist hier vertraulich und wir gehen das ruhig durch. Darf ich kurz Ihr Geburtsdatum notieren?
+Charlie: Klar, ich bin am 15. Juli 1995 geboren.
+Schneider: Danke. Und wie möchten Sie, dass ich Sie anspreche?
+Charlie: Charlie ist gut. Rechtlich steh' ich als Mann da, ja.
+Schneider: Alles klar. Darf ich noch fragen: Mit welchem Geschlecht sind Sie zur Welt gekommen?
+Charlie: Geboren wurde ich als Frau — also bei der Geburt weiblich — aber ich lebe als Mann.
+Schneider: Verstanden. Haben Sie geschlechtsangleichende Maßnahmen vorgenommen und nehmen Sie Hormone?
+Charlie: Ja, ich nehme seit ein paar Jahren Testosteron, regelmäßig. Und ich hatte eine Brust-OP, also top surgery, aber keine Genital-OP.
+Schneider: Danke, das hilft. Bleiben denn noch interne Geschlechtsorgane?
+Charlie: Ja, ich hab noch Vagina, Gebärmutter, Gebärmutterhals — und natürlich den Rektalbereich auch, falls das relevant ist.
+Schneider: Das ist relevant für die Abstriche, danke. Können Sie kurz ein bisschen zu Ihrer Lebenssituation sagen — feste Partnerschaften oder eher mehrere Kontakte?
+Charlie: Bin nicht in einer festen Beziehung. Im Herbst 2023, über ungefähr drei Monate, hatte ich zwei verschiedene Partner. Das war so um September/Oktober 2023 rum.
+Schneider: Wann war Ihr letzter sexueller Kontakt ungefähr?
+Charlie: Ungefähr am 1. Oktober 2023 — ich schätz' das Datum ziemlich genau so.
+Schneider: Gut. Welche sexuellen Praktiken waren das, die letzten Monate — vaginal, anal, oral, in welcher Rolle?
+Charlie: Ah ja, war alles dabei: Vaginalverkehr, ich war auch receptive beim Analverkehr, beim Oralen sowohl ich habe oral gegeben als auch bekommen – also beides, manchmal ich insertiv beim Oral, manchmal receptive.
+Schneider: Und wie sieht es mit Kondomen aus — bei vaginalem, analem und oralem Sex?
+Charlie: Bei Vaginal sex benutze ich manchmal ein Kondom, nicht immer. Beim Analverkehr auch manchmal, eher sporadisch. Bei Oralsex nie.
+Schneider: Verstanden. Eine praktische Frage noch: Können Sie schwanger werden — und sind Sie derzeit schwanger?
+Charlie: Theoretisch ja, Schwangerwerden ist möglich, ich bin derzeit aber nicht schwanger.
+Schneider: Danke. Wie sieht es mit Alkohol- und Drogenkonsum aus — regelmäßig, gelegentlich?
+Charlie: Ich trinke regelmäßig, nicht jeden Tag, aber schon öfter mal übers Wochenende. Drogen nur gelegentlich, so Gras oder mal was zum Feiern, aber nix mit Spritzen. Nie Injektionen.
+Schneider: Okay, das ist wichtig zu wissen. Haben Sie in der Vergangenheit schon mal eine sexuell übertragbare Infektion gehabt?
+Charlie: Ja, 2020 wurde bei mir Chlamydien diagnostiziert — das war im Mai 2020. Das wurde behandelt.
+Schneider: Danke für die Offenheit. Hatten Sie jemals einen akuten Vorfall, der PEP innerhalb von 72 Stunden nötig gemacht hätte, oder haben Sie aktuell grippeartige Beschwerden, Fieber, Lymphknotenschwellungen etc.?
+Charlie: Nein, nichts dergleichen. Auch damals im Oktober 2023 war kein Notfall, also keine PEP-Frage mehr. Ich hab aktuell keine akuten HIV-typischen Symptome.
+Schneider: Gut, das macht die Einschätzung klarer. Wie sieht es mit Impfungen aus — Hepatitis A, Hepatitis B, HPV?
+Charlie: Hep A hatte ich nie, also unvaccinated. Bei Hep B hab ich angefangen, aber nicht komplett durchgezogen — incomplete. Und HPV wurde bei mir nie geimpft.
+Schneider: Danke. Nutzen Sie PrEP zur HIV-Prävention aktuell?
+Charlie: Ne, ich nehme keine PrEP.
+Schneider: Haben wir PrEP schon mal besprochen oder angeboten?
+Charlie: Ja, das haben wir letztens kurz angeschnitten, das wurde mir hier auch angeboten — ich hab's mir aber noch nicht entschieden.
+Schneider: Gut, das notiere ich. Ich habe Sie auch kurz zur Kondomnutzung beraten, richtig?
+Charlie: Ja, Sie haben mir erklärt, dass Kondome das Risiko senken — das Gespräch war hilfreich.
+Schneider: In Ordnung. Aufgrund Ihrer Vorgeschichte und dem, was Sie erzählt haben, würde ich folgende Tests empfehlen: HIV, Syphilis, Chlamydien, Gonorrhö, Hepatitis A und Hepatitis B. Stimmen Sie dem zu?
+Charlie: Ja, macht Sinn, mach' das bitte.
+Schneider: Für die Proben würden wir Blut nehmen für HIV, Syphilis und Hepatitis, einen Urin- oder Vaginalabstrich für Chlamydien und Gonorrhö, einen Rektalabstrich und außerdem einen Rachenabstrich — also Blut, Urin, Vaginalabstrich, Rektalabstrich und Rachenabstrich.
+Charlie: Alles klar, das klingt umfassend. Kein Problem.
+Schneider: Die Ergebnisse schicken wir Ihnen über das Patientenportal; in der Regel sind sie in etwa zehn Tagen verfügbar. Passt das für Sie?
+Charlie: Ja, Portal ist super, ich schau da regelmäßig nach.
+Schneider: Gut. Falls etwas auffällig ist, rufen wir Sie selbstverständlich an. Zur Prävention: Wir können heute auch Hepatitis-A-Impfung anstoßen, die Hepatitis-B-Serie vervollständigen und über HPV-Impfung sprechen — möchten Sie das?
+Charlie: Ja, das würde ich gern machen — vor allem Hep B fertig machen und Hep A nachholen. HPV können wir auch besprechen, wenn's sinnvoll ist.
+Schneider: Perfekt. Noch eine kurze Frage: Haben Sie in den letzten sechs Wochen eine Exposition, die wir besonders berücksichtigen sollten?
+Charlie: Nein, die letzten relevanten Kontakte waren im Herbst 2023, also nicht in den letzten sechs Wochen.
+Schneider: Alles klar. Dann mache ich die Tests klar, wir nehmen die Proben wie besprochen und ich trage die Impfempfehlungen ein. Möchten Sie sonst noch etwas besprechen oder Fragen?
+Charlie: Nur kurz: Wie sicher ist der HIV-Test bei so einer Untersuchung? Muss ich nochmal kommen?
+Schneider: Der HIV-Bluttest ist sehr zuverlässig. Wenn nichts akut war, ist jetzt ein Test sinnvoll; bei Bedarf wiederholen wir nach einigen Wochen — wir besprechen das, sobald die Ergebnisse da sind. Wenn Sie möchten, erkläre ich Ihnen das zum Fensterperioden-Prinzip gern noch in einfachen Worten.
+Charlie: Ja, bitte kurz, gern.
+Schneider: Kurz gesagt: Ein sehr frischer Kontakt innerhalb von Tagen kann frühe Infektionen unsichtbar machen; aber Ihr letzter Kontakt war 2023, da ist das kein Problem. Bei Unsicherheit würden wir in ein paar Wochen wieder testen. Klingt das verständlich?
+Charlie: Ja, danke, das hilft. Dann können wir beginnen.
+Schneider: Gut, ich bereite alles vor und die Schwester kommt für die Abnahme. Danke, dass Sie so offen waren.

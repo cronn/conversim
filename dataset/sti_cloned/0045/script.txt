@@ -1,0 +1,33 @@
+Sascha: Guten Morgen, Herr Doktor. Ich bin wegen PrEP hier, ich würde gern wissen, ob das für mich sinnvoll ist.
+Müller: Guten Morgen, Herr Sascha. Danke, dass Sie gekommen sind. Darf ich kurz Ihr Geburtsdatum notieren?
+Sascha: Ja, klar — ich wurde am 15. Mai 1985 geboren.
+Müller: Danke. Sie sagten PrEP — nehmen Sie aktuell schon Medikamente zur HIV-Prävention?
+Sascha: Nein, ich nehme nichts davon bisher.
+Müller: Verstehe. Wie ist Ihre sexuelle Orientierung?
+Sascha: Ich bin heterosexuell.
+Müller: Und in den letzten drei Monaten — wie viele Partner hatten Sie ungefähr?
+Sascha: In den letzten drei Monaten waren's vier verschiedene Partner.
+Müller: Welche Praktiken gab es dabei, wenn ich nach dem Risiko frage?
+Sascha: Wir hatten analen Verkehr, sowohl ich als einsteckend als auch mal rezeptiv.
+Müller: Benutzen Sie dabei Kondome?
+Sascha: Manchmal, nicht immer.
+Müller: Wann war Ihr letzter Geschlechtskontakt, ungefähr?
+Sascha: Der letzte war am 1. Mai dieses Jahres — also Anfang Mai, das ist jetzt so fünfeinhalb Wochen her.
+Müller: Das heißt, es sind mehr als 72 Stunden, richtig?
+Sascha: Ja, auf jeden Fall, das war ja vor Wochen. Ich habe auch nicht an PEP gedacht oder sowas.
+Müller: Gut zu wissen. Hatten Sie zwischenzeitlich irgendwelche Beschwerden — Fieber, Ausschlag, Halsschmerzen oder Ähnliches?
+Sascha: Nein, ich habe nichts dergleichen bemerkt.
+Müller: Gab es in der Vergangenheit schon eine sexuell übertragbare Infektion bei Ihnen?
+Sascha: Ja, vor ein paar Jahren hatte ich Chlamydien, das wurde behandelt.
+Müller: Danke. Wie ist es mit Impfungen — sind Sie gegen Hepatitis B geimpft?
+Sascha: Ja, das ist komplett, die Hepatitis-B-Impfung habe ich abgeschlossen.
+Müller: Gut. Zum Lebensstil noch kurz: Alkohol trinken Sie regelmäßig?
+Sascha: Ja, ich trink regelmäßig, so ein bis zwei Bier die Woche, manchmal mehr bei Feierlichkeiten.
+Müller: Verstanden. Ich würde Ihnen vorschlagen, heute Tests zu machen: HIV, Syphilis, Chlamydien und Gonokokken. Dafür nehme ich Blut und einen rektalen Abstrich. Wäre das für Sie in Ordnung?
+Sascha: Ja, das passt. Ich find's beruhigend, wenn das gleich abgeklärt wird.
+Müller: Weil Ihr letzter Kontakt Anfang Mai war — mehr als 72 Stunden, aber innerhalb von etwa sechs Wochen — ist PEP nicht mehr relevant, aber PrEP ist jetzt eine sinnvolle Option. Ich erkläre Ihnen kurz die Möglichkeiten und Nebenwirkungen, wenn Sie möchten.
+Sascha: Ja bitte, das wär gut. Ich möchte ungern nochmal so ein Risiko eingehen.
+Müller: Sehr gut. Wir besprechen die Einnahmeformen und kontrollieren vorher Blutwerte, dann können wir mit PrEP beginnen, wenn die Tests passen. Haben Sie noch Fragen dazu?
+Sascha: Nein, im Moment nicht. Können wir dann gleich mit den Tests starten?
+Müller: Ja, wir machen jetzt Blutentnahme und den rektalen Abstrich. Ich erkläre Ihnen danach die genauen Schritte zur PrEP-Einnahme und die Kontrolltermine.
+Sascha: Danke, das klingt gut. Ich bin froh, dass das so strukturiert läuft.

@@ -1,0 +1,45 @@
+Elena: (beruhigend) Guten Tag, Herr Müller—entschuldigen Sie, falsch Name, Herr Karsten. Setzen Sie sich bitte. Was führt Sie heute in die offene Sprechstunde?
+Karsten: (leicht gereizt) Ich habe Ausfluss und Brennen beim Wasserlassen. Darum bin ich hier. Ich will das schnell hinter mich bringen.
+Elena: (ruhig) Danke, dass Sie das sagen. Ausfluss und Dysurie sind wichtige Symptome. Seit wann haben Sie das genau?
+Karsten: Seit dem 12. November 2023. Anfangs dachte ich, das geht von selbst wieder weg, aber es wird eher mehr.
+Elena: (mitfühlend) Verstehe. Und hatten Sie schon Fieber oder Schmerzen in der Leistengegend dazu?
+Karsten: Kein Fieber, aber ein bisschen Ziehen in der Leiste manchmal. Sonst nichts Besonderes.
+Elena: Gut. Damit ich das richtig einschätzen kann: Sind Sie sexuell aktiv und wie ist Ihr aktuelles Beziehungsmodell?
+Karsten: (abwehrend) Ja, natürlich. Ich bin heterosexuell und momentan in einer monogamen Beziehung. Muss das sein?
+Elena: (ruhig) Ich frage nur, um Risiken besser einschätzen zu können. Das hilft uns bei der Auswahl der Tests und der Behandlung. Hatten Sie in den letzten zwölf Monaten mehr als einen Partner?
+Karsten: (knapp) Ja, zwei. Nicht unbedingt etwas, das ich hier breit treten will, aber ja.
+Elena: Danke, das ist wichtig. Waren beide Partnerinnen währenddessen getestet oder ist der Status unbekannt?
+Karsten: (verteidigend) Ich weiß nicht, ob eine von ihnen getestet war. Ich habe den Eindruck, dass es unbekannt ist.
+Elena: In Ordnung. Und wann war Ihr letzter sexueller Kontakt?
+Karsten: Am 10. November 2023.
+Elena: Danke. Benutzen Sie gewöhnlich Kondome?
+Karsten: (genervt) Häufig. Nicht immer, aber häufig.
+Elena: Das hilft, reduziert Risiko, aber schützt nicht komplett. Haben Sie irgendwelche Impfungen, zum Beispiel gegen Hepatitis B oder HPV?
+Karsten: Ja, gegen Hepatitis B und HPV wurde ich geimpft.
+Elena: Sehr gut. Haben Sie in der Vergangenheit schon einmal Infektionen wie Chlamydien, Gonorrhö, Syphilis, HIV, Hepatitis A, B oder C, Herpes oder HPV-Warzen gehabt?
+Karsten: Nein, nichts davon. Nie.
+Elena: (nickt) Wann war Ihre letzte allgemeine Vorsorgeuntersuchung beim Hausarzt?
+Karsten: Das war am 10. Oktober 2022.
+Elena: Danke, das ist hilfreich. Ich würde vorschlagen, wir nehmen heute einen Urin-Test und Abstriche, um Chlamydien und Gonorrhö auszuschließen, und zusätzlich Bluttests für HIV, Syphilis und Hepatitis, wenn das für Sie in Ordnung ist.
+Karsten: (missmutig) Muss das alles sein? Ich dachte, ein Abstrich würde reichen.
+Elena: (beruhigend) Ich verstehe, dass das aufwendig wirkt. Bei Ihren Symptomen und dem Zeitpunkt des letzten Kontaktes sind die genannten Tests sinnvoll, damit wir nichts übersehen und Ihnen schnell eine gezielte Therapie geben können. Wir können die Tests hier diskret und zügig machen.
+Karsten: (sarkastisch) Diskret also. In dieser vollen Praxis?
+Elena: (sanft) Ich weiß, es ist viel los, aber wir führen die Untersuchung vertraulich durch. Ich bleibe bei Ihnen, erkläre jeden Schritt kurz und vermeide medizinischen Jargon.
+Karsten: Na gut. Wie lange dauert das, und kriege ich sofort was gegen die Beschwerden?
+Elena: Den Urin und die Abstriche können wir sofort nehmen. Für schnelle Linderung kann ich Ihnen symptomatisch etwas gegen das Brennen geben. Sollte ein bakterieller Erreger nachgewiesen werden, gibt es eine gezielte Antibiotikatherapie. Die Bluttests brauchen etwas länger für die Ergebnisse.
+Karsten: Und wie lange bis die Laborwerte da sind?
+Elena: In der Regel zwei bis drei Tage für die Abstrichergebnisse; Blutserologie kann ebenfalls innerhalb ein paar Tagen vorliegen. Wenn etwas akut ist, rufen wir Sie an oder Sie bekommen einen Rückruftermin.
+Karsten: Wird mein Partner informiert? Ich meine, wenn da was ist.
+Elena: Wenn ein sexuell übertragbarer Erreger nachgewiesen wird, ist es ratsam, dass auch Partner informiert und gegebenenfalls behandelt werden. Das besprechen wir vertraulich und wir erklären, wie das am diskretesten geht. Wir können auch Informationsmaterial für Sie vorbereiten.
+Karsten: (abwehrend) Ich will nicht, dass das gleich die Beziehung ruiniert.
+Elena: (mitfühlend) Das verstehe ich. Unser Ziel ist nicht, Beziehungen zu beurteilen, sondern Ihre Gesundheit zu schützen und eine weitere Übertragung zu verhindern. Wir finden gemeinsam einen Weg, wie Sie informiert und behandelt werden können, ohne unnötig Panik zu machen.
+Karsten: Was ist, wenn die Tests negativ sind? Kann das trotzdem von einer Infektion kommen?
+Elena: Manchmal sind frühe Tests noch nicht eindeutig, deshalb frage ich immer nach dem Zeitpunkt der Symptome und des letzten Kontakts. Bei negativem Ergebnis und anhaltenden Beschwerden würden wir nach einer Woche wiederholen oder andere Ursachen prüfen.
+Karsten: Okay. Wie unangenehm sind die Abstriche denn?
+Elena: Sie sind kurz und können etwas kitzeln oder drücken, sind aber nicht schmerzhaft. Ich erkläre Ihnen jeden Schritt vorher, damit Sie vorbereitet sind.
+Karsten: (seufzend) Dann machen wir das. Aber eben schnell.
+Elena: (beruhigend) Natürlich. Ich nehme jetzt den Urin und dann den Abstrich. Möchten Sie, dass ich eine Krankenschwester zur Hilfe hole, damit das zügig geht?
+Karsten: Ja, bitte.
+Elena: Gut. Ich erledige das und dann besprechen wir die nächsten Schritte. Gibt es sonst noch etwas, was Sie mir sagen möchten, was Ihnen vielleicht peinlich ist?
+Karsten: (kurz) Nein. Nicht wirklich.
+Elena: Alles klar. Wir kümmern uns darum. Wenn Sie währenddessen Fragen haben, sagen Sie bitte Bescheid — ich erkläre alles in Ruhe.

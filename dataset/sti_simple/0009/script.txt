@@ -1,0 +1,63 @@
+Menter: (sachlich) Was ist der Grund Ihres heutigen Besuchs?
+Karsten: (verlegen) Ich habe Ausfluss und es brennt beim Wasserlassen.
+Menter: Seit wann bestehen die Beschwerden? Geben Sie Datum.
+Karsten: Seit dem 10.06.2024.
+Menter: Haben Sie Juckreiz?
+Karsten: Ja, manchmal stark.
+Menter: Fieber oder Schüttelfrost?
+Karsten: Nein.
+Menter: Welche Art von Ausfluss? Farbe, Geruch?
+Karsten: Weißlich, etwas zäh, leichter Geruch.
+Menter: Schmerzen beim Geschlechtsverkehr?
+Karsten: Ja, ein bisschen. Können Sie bitte aufhören so... so direkt zu fragen?
+Menter: (ruhig) Sind Sie sexuell aktiv?
+Karsten: Ja.
+Menter: Sexuelle Orientierung?
+Karsten: Hetero.
+Menter: Beziehungssituation?
+Karsten: Offene Beziehung.
+Menter: Anzahl der Sexualpartner in den letzten 12 Monaten?
+Karsten: Drei.
+Menter: Geschlecht der Partner?
+Karsten: Frauen.
+Menter: Datum des letzten Sexualkontakts?
+Karsten: 15.06.2024.
+Menter: (kurz) Hatten Sie seit Beginn der Symptome noch Sex?
+Karsten: Ja, ich hatte Sex am 15. — ich weiß, das klingt dumm, aber ja.
+Menter: Wurden Kondome verwendet?
+Karsten: Manchmal. Also gelegentlich, nicht immer.
+Menter: Gab es Partner mit bekanntem STI-Risiko oder ist der Status unbekannt?
+Karsten: Unbekannt, keiner hat mir Tests gezeigt.
+Menter: (sachlich) Haben Sie in der Vergangenheit sexuell übertragbare Infektionen gehabt?
+Karsten: Ich hatte Herpes, ja. Sonst nichts, soweit ich weiß.
+Menter: Welche Herpesform? Genital?
+Karsten: Ja, genital, vor ein paar Jahren.
+Menter: Sind Sie gegen Hepatitis B oder HPV geimpft?
+Karsten: Ja, beides wurde geimpft.
+Menter: Haben Sie früher Tests gemacht? Wann war Ihr letzter Check-up und letzte STI-Tests?
+Karsten: Letzter Check-up und STI-Tests waren am 20.10.2023.
+Menter: Ergebnisse damals?
+Karsten: Da war alles negativ, HIV negativ, Syphilis negativ, Chlamydien/Gonorrhö negativ.
+Menter: Nehmen Sie regelmäßig Medikamente? Allergien?
+Karsten: Keine Dauermedikation, keine Allergien.
+Menter: Haben Sie bekannte Leber- oder Immunsystem-Erkrankungen?
+Karsten: Nein.
+Menter: Haben Sie aktuell offene Bläschen oder Wunden im Genitalbereich?
+Karsten: Nein, keine Bläschen jetzt.
+Menter: (direkt) Haben Sie jemanden informiert, dass Sie Symptome haben?
+Karsten: Noch nicht. Ich wollte erst wissen, was das ist, bevor ich jemanden beunruhige.
+Menter: Es ist wichtig, Partner zu informieren, wenn eine STI möglich ist.
+Karsten: (abwehrend) Ich weiß. Ich wollte nicht, dass das sofort die Runde macht.
+Menter: (kurz) Ich schlage folgende Untersuchungen vor: Urin-NAT für Chlamydien/Gonorrhö, Abstrich, Blut für HIV und Syphilis, gegebenenfalls HSV-Test, wenn Läsionen auftreten.
+Karsten: Machen Sie das alles jetzt? Ich möchte einfache Antworten, keine Dramen.
+Menter: Ja. Wir können alles heute testen. Diskret. Ergebnis nach wenigen Tagen.
+Karsten: Gut. Und was ist, wenn was gefunden wird?
+Menter: Entsprechend Therapie: Antibiotika bei bakteriellen Erregern, Antivirale bei HSV-Rezidiv. Partnerbehandlung und Verhaltenshinweise werden besprochen.
+Karsten: (nervös) Muss ich meine Partner sagen, dass ich nach dem 10. noch Sex hatte?
+Menter: Ja. Sie sollten informiert werden, besonders da Sie nach Symptombeginn Sex hatten.
+Karsten: (seufzend) Okay. Ich will nicht, dass das mein Leben ruiniert.
+Menter: (sachlich) Die Praxis behandelt solche Fälle täglich. Vertraulichkeit bleibt gewahrt.
+Karsten: Gut. Dann machen wir die Tests.
+Menter: (kurz) Bitte urinieren Sie zunächst in den Becher, dann mache ich den Abstrich. Haben Sie noch Fragen?
+Karsten: Nur eine: Wie wahrscheinlich ist es, dass es etwas Ernstes ist?
+Menter: Unklar ohne Befunde. Viele Ursachen sind behandelbar. Wir klären das mit den Tests.

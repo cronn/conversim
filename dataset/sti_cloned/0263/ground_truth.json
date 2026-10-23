@@ -1,0 +1,92 @@
+{
+  "patient": {
+    "date_of_birth": "2000-05-15",
+    "administrative_sex": "not_discussed",
+    "sex_at_birth": "not_discussed",
+    "gender_identity": "not_discussed",
+    "anatomy_present": [
+      "penis",
+      "scrotum"
+    ],
+    "hormone_therapy_status": "not_discussed",
+    "gender_affirming_surgery_status": "not_discussed",
+    "pregnancy_possible": "not_discussed",
+    "currently_pregnant": "not_discussed"
+  },
+  "partner_und_praktiken": {
+    "last_sexual_contact_date_approx": {
+      "year": 2023,
+      "month": 11,
+      "day": 10
+    },
+    "partners_last_3_months": 3,
+    "practices_last_3_months": [
+      "vaginal",
+      "anal_insertive"
+    ],
+    "condom_use_vaginal": "not_discussed",
+    "condom_use_anal": "not_discussed",
+    "condom_use_oral": "not_discussed",
+    "partner_hiv_status_known": "not_discussed",
+    "recent_sti_in_partners": "yes"
+  },
+  "symptome": {
+    "symptom_onset_date_approx": {
+      "year": 2023,
+      "month": 11,
+      "day": 20
+    },
+    "symptom_sites": [
+      "penis_urethra"
+    ],
+    "symptom_types": [
+      "discharge"
+    ]
+  },
+  "sti_vorgeschichte": {
+    "prior_sti_items": [
+      "chlamydia"
+    ],
+    "last_sti_diagnosis_date_approx": null
+  },
+  "praevention": {
+    "vaccination_hepatitis_a": "not_discussed",
+    "vaccination_hepatitis_b": "not_discussed",
+    "vaccination_hpv": "not_discussed",
+    "prep_current_use": "no",
+    "prep_offered_or_discussed": "yes",
+    "condom_counseling_done": "no"
+  },
+  "substanzen": {
+    "alcohol_use_frequency": "not_discussed",
+    "recreational_drug_use_frequency": "not_discussed",
+    "injection_drug_use": "not_discussed"
+  },
+  "hiv_risiko_fenster": {
+    "relevant_hiv_exposure_suspected": "yes",
+    "last_potential_hiv_exposure_date_approx": {
+      "year": 2023,
+      "month": 11,
+      "day": 10
+    },
+    "exposure_within_72h": "no",
+    "pep_considered": "not_discussed",
+    "exposure_within_6_weeks": "yes",
+    "acute_hiv_symptoms_present": "not_discussed"
+  },
+  "diagnostik_und_kommunikation": {
+    "tests_recommended": [
+      "hiv",
+      "syphilis",
+      "chlamydia",
+      "gonorrhea"
+    ],
+    "sampling_sites": [
+      "blood",
+      "urine",
+      "urethral_swab"
+    ],
+    "result_delivery_method": "not_discussed",
+    "result_delivery_timeframe_days": null
+  }
+}

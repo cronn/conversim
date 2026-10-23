@@ -1,0 +1,38 @@
+Lehmann: Guten Morgen, ich bin Dr. Lehmann. Sie sind wegen einer STI-Abklärung zum ersten Mal bei uns, stimmt das?
+Jessy: Ja, genau. Ein bisschen nervös, ehrlich gesagt — ich war noch nie wegen sowas in der Klinik.
+Lehmann: Das ist völlig in Ordnung, wir reden hier vertraulich. Darf ich kurz Ihr Geburtsdatum aufnehmen?
+Jessy: Klar, 15. Mai 1985.
+Lehmann: Danke. Wie bezeichnen Sie sich geschlechtlich und bei der Geburt?
+Jessy: Ich bin Mann, bei der Geburt auch männlich.
+Lehmann: Verstehe. Haben Sie aktuell geschlechtsspezifische Operationen oder nehmen Sie Hormone?
+Jessy: Keine OPs und keine Hormone, also keine Hormontherapie.
+Lehmann: Gut. Haben Sie die üblichen anatomischen Strukturen, also Penis, Hoden und Rektum?
+Jessy: Ja, alles vorhanden.
+Lehmann: Okay. Erzählen Sie mir bitte von Ihrem Sexualkontakt kürzlich — wann war der letzte Sex ungefähr?
+Jessy: Das war am 10. Mai dieses Jahres, also am 10. Mai 2024.
+Lehmann: Und wie viele Partner hatten Sie in den letzten drei Monaten?
+Jessy: Nur einen.
+Lehmann: Welche Praktiken gab es bei diesem Kontakt?
+Jessy: Wir hatten vaginalen Sex — das war mit Kondom — und außerdem habe ich oralen Sex gemacht, also ich war oral aktiv.
+Lehmann: Sie sagten, beim vaginalen Sex war immer ein Kondom im Einsatz?
+Jessy: Ja, immer.
+Lehmann: Gut zu wissen. Wie ist der HIV-Status Ihres Partners?
+Jessy: Der ist HIV-negativ, das weiß ich sicher.
+Lehmann: Gab es bei dem Partner in letzter Zeit irgendwelche STI-Befunde oder Beschwerden?
+Jessy: Nein, der hatte keine bekannten Infektionen.
+Lehmann: Vielen Dank. Prüfen wir kurz konkret: vermuten Sie eine relevante HIV-Exposition in den letzten Wochen?
+Jessy: Nein, dazu würde ich nicht sagen — kein ungeschützter Analverkehr oder so.
+Lehmann: In Ordnung. Sie sind nicht aktuell auf PrEP, korrekt?
+Jessy: Nein, ich nehme keine PrEP.
+Lehmann: Gut — wir können das Thema PrEP besprechen, wenn Sie möchten; ich erkläre kurz Vor- und Nachteile.
+Jessy: Ja, bitte, gerne. Ich hab schon mal gehört davon, aber noch nicht angefangen.
+Lehmann: Außerdem bespreche ich kurz Kondomschutz mit Ihnen — wichtig ist, dass Sie beim vaginalen Sex konsequent Kondome verwenden, das machen Sie ja.
+Jessy: Ja, das läuft bei mir so.
+Lehmann: Für die Abklärung empfehle ich HIV-, Syphilis-, Chlamydien- und Gonokokken-Tests.
+Jessy: Okay.
+Lehmann: Dafür entnehmen wir Blut, eine Urinprobe und einen Rachenabstrich.
+Jessy: Alles klar, das passt.
+Lehmann: Die Ergebnisse bekommen Sie über das Patientenportal, dann können Sie sie zuhause einsehen.
+Jessy: Super, das ist praktisch.
+Lehmann: Gut. Noch Fragen von Ihrer Seite, bevor wir mit der Untersuchung und den Tests beginnen?
+Jessy: Nein, nicht wirklich — danke, dass das so entspannt rüberkommt.

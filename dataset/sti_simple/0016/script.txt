@@ -1,0 +1,63 @@
+Menter: (neutral, schnell) Was führt Sie heute in die offene Sprechstunde?
+Julian: Ich habe Ausfluss und Brennen beim Wasserlassen, außerdem juckt es gelegentlich.
+Menter: Seit wann bestehen die Beschwerden?
+Julian: Seit dem 10. Mai 2024.
+Menter: Haben Sie Fieber, Schmerzen im Unterbauch oder geschwollene Lymphknoten bemerkt?
+Julian: Kein Fieber, kein Unterbauchschmerz, keine geschwollenen Lymphknoten.
+Menter: (ohne Mimik) Welche Art von Ausfluss, Farbe, Geruch?
+Julian: Gelblich, leicht eitrig, etwas unangenehm riechend.
+Menter: Schmerzen beim Samenerguss oder beim Sex?
+Julian: Nein beim Orgasmus nicht, aber beim Sex ist das Brennen dazwischen spürbar.
+Menter: Sind Sie heterosexuell?
+Julian: Ja, hetero.
+Menter: In einer festen Beziehung?
+Julian: Ja, aber offen.
+Menter: Wie viele Sexualpartner in den letzten zwölf Monaten?
+Julian: Drei verschiedene Frauen.
+Menter: Geschlecht der Partnerinnen?
+Julian: Frauen.
+Menter: Wann hatten Sie zuletzt Sex?
+Julian: Am 5. Mai 2024.
+Menter: Welche Praktiken genau? Vaginal, oral, anal?
+Julian: Vorwiegend vaginal, außerdem Oralsex. Anal nur sehr selten.
+Menter: Wurde beim Sex Kondom verwendet?
+Julian: Gelegentlich, nicht immer.
+Menter: Wissen Sie etwas über STI-Status Ihrer letzten Partnerinnen?
+Julian: Nein, bei einer war der Status unbekannt, die anderen hatten nichts erwähnt.
+Menter: (schnell) Leiden Sie an rektalen Beschwerden wie Schmerzen oder Ausfluss rektal?
+Julian: Nein, nur genital.
+Menter: Haben Sie Juckreiz am Penis oder Rötung?
+Julian: Ja, leichtes Jucken und Rötung an der Eichel.
+Menter: Bestehen Vorerkrankungen, bekannte STIs, Hepatitis oder HIV in der Vergangenheit?
+Julian: Keine bekannten STIs, kein Hepatitis A/B/C, kein HIV, keine Syphilis, kein Gonorrhö, keine Chlamydien, kein Herpes, keine HPV-Warte.
+Menter: (trocken) Letzte allgemeine Vorsorgeuntersuchung?
+Julian: 15. März 2022.
+Menter: Letzter HIV-Test?
+Julian: 1. August 2023.
+Menter: Sind Sie gegen Hepatitis A und B geimpft?
+Julian: Ja, beide Impfungen sind vorhanden.
+Menter: Nehmen Sie regelmäßig Medikamente, Allergien?
+Julian: Keine Dauermedikation, keine Allergien.
+Menter: (präzise) Rauchen, Alkohol, Drogen?
+Julian: Rauche selten, trinke moderat, keine harte Drogen.
+Menter: Ich empfehle Urin-NAAT auf Chlamydien/Gonokokken, Urethralabstrich für Gonokokkenkultur, Blutuntersuchung für HIV, Syphilis und Hepatitis, gegebenenfalls Empirische Therapie. Sind Sie damit einverstanden?
+Julian: Ja, machen wir die Tests. Ich will Klarheit, und bitte diskret — ich arbeite in der Praxis gegenüber.
+Menter: Diskretion wird gewahrt. Haben Sie aktuell Sexualkontakte, sollen wir Sie vorläufig vom Sex abraten?
+Julian: Ja, ich sage meinen Partnerinnen bis auf Weiteres ab.
+Menter: (kühl) Wir entnehmen eine Urinprobe, eventuell einen eitrigen Abstrich. Erwarten Sie eine kurzfristige Antibiotikagabe, wenn die Untersuchung einen bakteriellen Erreger nahelegt?
+Julian: Ja, wenn nötig. Ich will keine lange Rumprobiererei.
+Menter: Gut. Schmerzen, die notfallmäßig behandelt werden müssten, bestechen Sie nicht vor?
+Julian: Nein, nichts so stark, dass ich in die Notaufnahme müsste.
+Menter: (sachlich) Ich trage Ihre Angaben in die Akte: symptomatisch seit 10.05.2024, Ausfluss, Dysurie, Pruritus, heterosexuell, offene Beziehung, 3 Partner letzten 12 Monate, letzte Begegnung 05.05.2024, Schutz durch Kondome nur gelegentlich, Partnerstatus teilweise unbekannt, Hep A/B geimpft, negative Vorgeschichte für STIs, letzte Vorsorge 15.03.2022, letzter HIV-Test 01.08.2023. Stimmen die Daten so?
+Julian: Ja, so ist es.
+Menter: (kurz) Dann führe ich jetzt die Probenentnahme durch. Haben Sie noch Fragen zu Tests oder zur Inkubationszeit?
+Julian: Wie lange dauert das Ergebnis ungefähr?
+Menter: Ergebnisse PCR/NAAT in 1–3 Werktagen, Kultur 2–5 Tage, Blutserologie je nach Test 1–7 Tage.
+Julian: Und wenn's Gonokokken sind, kriege ich sofort was?
+Menter: Bei Nachweis oder starkem Verdacht wird empirisch behandelt — einmalige Injektion plus orale Ergänzung je nach Leitlinie.
+Julian: Alles klar. Bitte dokumentieren Sie auch, dass ich offen bin, damit Nachverfolgung läuft.
+Menter: (formal) Notiert. Wenn die Ergebnisse vorliegen, kontaktieren wir Sie. Kontaktpersonenbenachrichtigung erwünscht?
+Julian: Ja, ich informiere die betroffenen Frauen, aber ich nehme Hilfe an, falls nötig.
+Menter: (abgeklärt) Dann entnehme ich jetzt die Proben. Bitte untenrum freimachen und auf die Liege setzen.
+Julian: (etwas genervt) In Ordnung. Ich wäre froh, wenn das zügig geht — die Praxis ist voll.
+Menter: (effizient) Verstanden. Probenentnahme beginnt jetzt.

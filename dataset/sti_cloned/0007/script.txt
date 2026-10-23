@@ -1,0 +1,59 @@
+Schneider: Guten Morgen, ich bin Dr. Schneider. Danke, dass Sie gekommen sind — wir führen jetzt in Ruhe eine STI-/HIV-Anamnese. Sie können offen sprechen, ich urteile nicht. Zunächst: Wie möchten Sie angesprochen werden und wie ist Ihr Alter?
+Mika: Hallo, danke. Ich heiße Mika und bin 27 Jahre alt, ich bin nicht-binär und werde mit ich/they angesprochen. Geburtsdatum ist der 22. Juli 1998.
+Schneider: Danke, das merke ich mir. In Ihrer Karte steht, dass Sie bei der Geburt als weiblich eingetragen wurden und aktuell eine Hormontherapie bekommen — stimmt das so?
+Mika: Ja, genau, bei der Geburt weiblich, und ich nehme aktuell Hormone, das mache ich schon seit ein paar Jahren.
+Schneider: Gut. Dann frage ich kurz nach Ihren anatomischen Gegebenheiten, weil das für die Tests wichtig ist: Haben Sie eine Vagina und einen Gebärmutterhals, und ist der Enddarm anatomisch vorhanden?
+Mika: Ja, ich habe eine Vagina und einen Gebärmutterhals und auch den Enddarm, also das alles ist da.
+Schneider: Danke. Kommen wir zum Sexualverhalten: Mit wie vielen Partnerinnen oder Partnern hatten Sie in den letzten drei Monaten sexuelle Kontakte?
+Mika: Ähm, in den letzten drei Monaten waren es zwei verschiedene Partnerinnen beziehungsweise Partner, so weit ich das sagen kann.
+Schneider: Welche Arten von Sex hatten Sie in diesem Zeitraum — vaginal, anal, oral?
+Mika: Ja, vaginal, rektal als rezeptive Person und auch oral, also ich habe von allen drei Formen Kontakte gehabt.
+Schneider: Wie sah es mit Kondomen aus — haben Sie sie immer, manchmal oder nie benutzt bei vaginalem, analem und oralem Sex?
+Mika: Bei vaginalem Sex manchmal, beim analen Sex auch manchmal, beim Oralsex eigentlich nie.
+Schneider: Haben Sie mit Ihren Partnern über deren HIV- oder STI-Status gesprochen, wissen Sie, ob einer von ihnen etwas hat?
+Mika: Nicht wirklich, wir haben das nicht groß besprochen. Ich würde sagen, das war eher nicht Thema.
+Schneider: Gab es in Ihrem Umfeld oder bei jüngeren Partnern, von denen Sie wissen, kürzlich eine STI-Diagnose?
+Mika: Nein, soweit ich weiß, hat niemand aus meinem Bekanntenkreis zuletzt eine Infektion gehabt.
+Schneider: Haben Sie im Moment Beschwerden — Schmerzen, Ausfluss, Wunden, Fieber oder ähnliches?
+Mika: Im Moment eigentlich nicht, ich habe nichts Offensichtliches bemerkt. Ich wollte eher zur Kontrolle kommen, weil ich unsicher bin.
+Schneider: In Ihrer Vorgeschichte ist vermerkt, dass Sie 2022 eine Chlamydien-Infektion hatten, stimmt das noch?
+Mika: Ja, das war 2022, so Mitte März, da wurde das festgestellt und behandelt.
+Schneider: Danke. Gab es seitdem weitere STIs oder Behandlungen?
+Mika: Nein, nichts Weiteres.
+Schneider: Ich sehe auch ein Datum, das Sie genannt haben: den 10. Mai 2024 als einen früheren sexuellen Kontakt. Erinnern Sie sich an diesen Kontakt oder an einen konkreten Vorfall, der für Sie wichtig ist?
+Mika: Ja, an den 10.05.2024 erinnere ich mich — das war ein Kontakt bei einer Party, den ich als relevant abgespeichert habe. Aber ehrlich gesagt gab es auch noch andere Gelegenheiten danach, ich bin da ein bisschen unsortiert.
+Schneider: Verstehe, danke für die Offenheit. Wir klären noch, ob in den letzten sechs Wochen ein relevantes Risiko bestand — haben Sie in diesem Zeitraum etwas, das Sie als mögliche Exposition einschätzen würden?
+Mika: Ja, vor ein paar Wochen, vielleicht vor vier Wochen, hatte ich ungeschützten Sex mit einer neuen Person auf einer Party, und seitdem mache ich mir Gedanken.
+Schneider: Gut, das ist wichtig. Innerhalb der letzten 72 Stunden gab es kein Ereignis, das PEP relevant machen würde, korrekt?
+Mika: Nein, das war nicht innerhalb von 72 Stunden, das ist schon länger her.
+Schneider: Haben Sie akut grippeähnliche Symptome wie Fieber, Nachtschweiß, Halsschmerzen oder Lymphknotenschwellungen seit dem möglichen Kontakt bemerkt?
+Mika: Nein, nichts davon. Ich fühle mich eigentlich gesund.
+Schneider: Danke. Wie ist Ihr Impfstatus bei Hepatitis A und B sowie HPV?
+Mika: Da bin ich nicht gut durchgeimpft — Hepatitis A: gar nicht, Hepatitis B: unvollständig, und HPV auch nicht geimpft.
+Schneider: Gut, das notiere ich. Wir werden Impfempfehlungen durchgehen. Nutzen Sie aktuell PrEP zur HIV-Prophylaxe?
+Mika: Nein, ich nehme keine PrEP.
+Schneider: Wurde PrEP Ihnen hier schon einmal angeboten oder erklärt?
+Mika: Ja, das wurde mir schon mal angeboten und wir haben kurz darüber gesprochen, aber ich habe es bisher nicht angefangen.
+Schneider: In Ordnung. Zum Konsum: Trinken Sie Alkohol gelegentlich, und nehmen Sie gelegentlich Freizeitdrogen? Spritzen Sie Drogen?
+Mika: Alkohol nur gelegentlich, ab und zu auch mal irgendwelche Partydrogen, aber ich spritze nichts.
+Schneider: Gut, das hilft beim Risikoprofil. Wegen der Tests: Ich empfehle jetzt HIV-, Syphilis-, Chlamydien-, Gonorrhö- und Hepatitis-B-Tests. Sind Sie mit Blutentnahme und zusätzlichem Abstrich der Vagina, Rektal- und Rachenabstrich sowie Urintest einverstanden?
+Mika: Ja, das klingt gut, mache ich mit. Ich finde es besser, wenn man alles abklärt.
+Schneider: Super, danke. Wir nehmen also Blut für HIV, Syphilis und Hepatitis B, einen Vaginal- oder Zervixabstrich für Chlamydien/Gonorrhö, einen Rektalabstrich, einen Rachenabstrich sowie Urin zur PCR — so decken wir die relevanten Stellen ab.
+Mika: Okay, das ist beruhigend. Dauert das lange, bis die Ergebnisse da sind?
+Schneider: Die Ergebnisse bekommen Sie über das Patientenportal; in der Regel innerhalb einer Woche, meist innerhalb von sieben Tagen.
+Mika: Gut, dann warte ich da drauf.
+Schneider: Da akute HIV-Symptome fehlen und die Exposition nicht in den letzten 72 Stunden war, ist PEP aktuell nicht angezeigt. Wir besprechen aber gerne nochmal, ob PrEP für Sie sinnvoll wäre, vor allem bei gelegentlichem ungeschütztem Sex.
+Mika: Ja, über PrEP würde ich nochmal reden. Ich mache mir Sorgen wegen HIV, auch wenn ich keine Symptome habe.
+Schneider: Verständlich. Wir können in einem separaten Gespräch die Vor- und Nachteile von PrEP, notwendige Tests vor Beginn und die regelmäßigen Kontrollen durchgehen. Außerdem empfehle ich, Ihre Hepatitis-B-Immunität zu vervollständigen und eine HPV-Impfung anzubieten.
+Mika: Ja, das mit Hepatitis B und HPV klingt wichtig — ich wäre dafür offen.
+Schneider: Gut, dann planen wir das. Haben Sie Fragen zu den Abstrichen, etwa ob das schmerzhaft ist oder wie das genau abläuft?
+Mika: Ein bisschen nervös bin ich vor dem Rektalabstrich, ist das unangenehm?
+Schneider: Es kann unangenehm oder kurz piekend sein, aber es ist in der Regel schnell erledigt. Wir gehen behutsam vor, und wenn Sie möchten, erkläre ich jeden Schritt vorher.
+Mika: Das wäre gut, danke. Ach so, zur Verhütung: Schwangerschaft ist für mich kein Thema, ich kann nicht schwanger werden, falls das relevant ist.
+Schneider: Danke, das ist notiert. Das beeinflusst die Tests nicht, aber ist wichtig für Beratung und gegebenenfalls Medikamentenwahl. Noch ein Punkt: Wir haben Ihnen bereits Kondomberatung gegeben — nutzen Sie das Gelernte manchmal?
+Mika: Ja, ich versuche es. Aber es klappt nicht immer, vor allem spontan auf Partys vergesse ich es öfter.
+Schneider: Verstanden. Wir können beim Ausgang noch Materialien und kurze Strategien zur Risikoreduktion mitgeben, das hilft oft. Möchten Sie, dass wir auch über Kontaktpersonenbenachrichtigung sprechen, falls ein Test positiv wäre?
+Mika: Ja, das würde ich gern wissen, wie das läuft, aber nicht jetzt, erst wenn es nötig ist.
+Schneider: Das machen wir so. Ich dokumentiere Ihre Angaben und wir führen jetzt die Abstriche und Blutentnahme durch. Wenn Sie später noch Fragen haben, sprechen Sie mich an. Alles in Ordnung so?
+Mika: Ja, danke — ich fühle mich gut aufgehoben. Ich wäre froh, wenn wir da bald Klarheit bekommen.
+Schneider: Gern. Dann beginnen wir mit der Probenentnahme, und ich melde mich im Patientenportal, sobald die Werte da sind — etwa innerhalb von sieben Tagen.

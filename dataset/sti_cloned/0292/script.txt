@@ -1,0 +1,41 @@
+Schneider: Guten Morgen, ich bin Dr. Schneider. Sie dürfen hier offen reden, das bleibt vertraulich. Worum geht es heute für Sie?
+Kim: Guten Morgen. Ich bin ein bisschen nervös, das ist mein erster STI-Check, deswegen bin ich hergekommen.
+Schneider: Kein Problem, das ist völlig normal. Möchten Sie kurz sagen, wie Sie arbeiten oder leben, damit ich das besser einschätzen kann?
+Kim: Ich arbeite in der Sexarbeit. Ich weiß, das ist wichtig für die Abklärung.
+Schneider: Danke, dass Sie das sagen. Haben Sie Beschwerden im Moment, Schmerzen oder Ausfluss?
+Kim: Nein, Beschwerden habe ich eigentlich nicht. Ich wollte das eher zur Sicherheit prüfen lassen.
+Schneider: Gut. Können Sie mir kurz Ihre Körperdaten sagen? Zum Beispiel Geburtsdatum?
+Kim: Ich bin am 15. Mai 1992 geboren.
+Schneider: Alles klar. Wie identifizieren Sie sich geschlechtlich, und wurden Sie bei der Geburt als weiblich eingetragen?
+Kim: Ich bin nicht-binär, und bei der Geburt wurde ich als weiblich eingetragen.
+Schneider: Verstanden. Sind Sie in irgendeiner Form in Hormontherapie oder hatten Sie geschlechtsangleichende Operationen?
+Kim: Nein, ich nehme keine Hormone und hatte auch keine geschlechtsangleichende OP.
+Schneider: Danke. Haben Sie noch typische weibliche Anatomie, also Vagina, Gebärmutter und Muttermund? Und ist auch der After vorhanden?
+Kim: Ja, ich habe eine Vagina, einen Muttermund, die Gebärmutter und auch den After.
+Schneider: In Ordnung. Das hilft bei der Auswahl der Proben. Welche Praktiken haben Sie in den letzten drei Monaten gehabt — vaginal, oral, anal?
+Kim: In den letzten drei Monaten hatte ich vaginalen Sex und war oral rezeptiv. Anal war nicht dabei.
+Schneider: Und wie ist das mit Kondomen? Nutzen Sie welche beim vaginalen Sex oder beim Oralverkehr?
+Kim: Bei Vaginalverkehr benutze ich meistens Kondome. Beim Oralverkehr nur manchmal.
+Schneider: Verstehe. Wie viele Sexualpartner hatten Sie in den letzten drei Monaten?
+Kim: Insgesamt hatte ich nur einen Partner in den letzten drei Monaten.
+Schneider: Wann war Ihr letzter sexueller Kontakt ungefähr?
+Kim: Das war Anfang April, ungefähr am 1. April 2024.
+Schneider: Danke. Können Sie ausschließen, dass eine Schwangerschaft möglich ist? Nutzen Sie Verhütung?
+Kim: Eine Schwangerschaft ist grundsätzlich möglich. Ich bin mir nicht sicher, ob ich gerade schwanger bin — das weiß ich nicht.
+Schneider: Ok, wir können bei Bedarf einen Schwangerschaftstest machen. Hatten Sie früher schon mal eine STI-Diagnose?
+Kim: Ja, letztes Jahr wurde bei mir Chlamydien festgestellt, das war am 20. August 2023.
+Schneider: Danke für die Offenheit. Wie ist es mit Impfungen, zum Beispiel Hepatitis B oder HPV?
+Kim: Gegen Hepatitis B bin ich nicht geimpft. Bei der HPV-Impfung habe ich angefangen, aber sie ist nicht komplett.
+Schneider: Verstanden. Nehmen Sie aktuell PrEP zur HIV-Prävention?
+Kim: Nein, ich nehme keine PrEP.
+Schneider: Wir können das gern besprechen — PrEP wäre eine Option, wenn Sie möchten. Alkohol oder Drogen spielen eine Rolle beim Sex?
+Kim: Ich trinke nur ab und zu Alkohol, nehme keine Freizeitdrogen und spritze auch nichts.
+Schneider: Gut. Gab es in den letzten Wochen einen Zwischenfall, der ein akutes HIV-Risiko bedeutet — Kontakt in den letzten 72 Stunden oder Symptome wie Fieber, Durchfall, Ausschlag?
+Kim: Nein, kein solcher Vorfall und ich habe auch keine grippeartigen Symptome.
+Schneider: Dann ist eine PEP im Moment nicht nötig. Ich würde vorschlagen, wir testen auf HIV, Syphilis, Chlamydien und Gonorrhö. Einverstanden?
+Kim: Ja, das klingt gut.
+Schneider: Für die Tests nehme ich Blut — für HIV und Syphilis — und außerdem Urin sowie einen vaginalen Abstrich für Chlamydien/Gonorrhö. Weil Sie oral rezeptiv waren, mache ich auch einen Rachenabstrich.
+Kim: Alles klar, das verstehe ich.
+Schneider: Ich erkläre Ihnen kurz noch, wie wir Sie unterstützen: Wir besprechen Kondomnutzung, und ich kann Ihnen Informationen zu PrEP geben. Die Ergebnisse bekommen Sie über unser Patientenportal, in der Regel in etwa sieben Tagen.
+Kim: Super, danke. Das beruhigt mich. Ich würde auch gern mehr über PrEP hören.
+Schneider: Sehr gut — ich gebe Ihnen gleich Informationsmaterial und wir sprechen die Optionen durch. Dann mache ich jetzt die Abstriche und das Blutbild.

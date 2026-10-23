@@ -1,0 +1,33 @@
+Lehmann: Guten Morgen, ich bin Dr. Lehmann. Was führt Sie heute zu uns in die Sexualmedizin?
+Luca: Guten Morgen. Ich wollte mich zur PrEP beraten lassen, deswegen habe ich den Termin gemacht.
+Lehmann: In Ordnung. Vorab noch kurz: In Ihrer Akte sind Sie als weiblich vermerkt, stimmt das so für die Dokumentation?
+Luca: Ja, das ist korrekt.
+Lehmann: Danke. Haben Sie im Moment Beschwerden oder ist das rein eine Vorsorge-Anfrage?
+Luca: Also, eigentlich habe ich seit ein paar Monaten Ausfluss, das fing so ungefähr im März an. Deshalb mache ich mir ein bisschen Sorgen.
+Lehmann: Verstehe. Der Ausfluss kommt also aus der Scheide?
+Luca: Ja, aus der Vagina.
+Lehmann: Gut. Haben Sie noch andere Beschwerden, Brennen beim Wasserlassen oder Schmerzen?
+Luca: Manchmal brennt es ein bisschen beim Urinieren, aber am meisten stört mich der Ausfluss.
+Lehmann: Haben Sie in den letzten drei Monaten viele Sexualpartner gehabt?
+Luca: Nein, nur einen Partner in den letzten drei Monaten.
+Lehmann: Und welche Art von Sexualkontakt hatten Sie in dieser Zeit?
+Luca: Hauptsächlich vaginalen Sex.
+Lehmann: Wann war der letzte sexuelle Kontakt ungefähr?
+Luca: Das war im April dieses Jahres, also im April 2024.
+Lehmann: Verwenden Sie Kondome bei vaginalem Sex?
+Luca: Manchmal benutzen wir Kondome, nicht immer.
+Lehmann: Hatten Sie früher schon mal eine STI-Diagnose?
+Luca: Ja, ich hatte früher schonmal Chlamydien.
+Lehmann: Danke. Ist eine Schwangerschaft grundsätzlich möglich für Sie, und sind Sie aktuell schwanger?
+Luca: Eine Schwangerschaft wäre möglich, aber ich bin im Moment nicht schwanger.
+Lehmann: Gut zu wissen. Bezüglich Ihres HIV-Risikos: vermuten Sie eine kürzliche HIV-Exposition?
+Luca: Nein, davon gehe ich nicht aus.
+Lehmann: In Ordnung. Wir sollten trotzdem einige Tests machen: HIV-Test sowie Abstriche beziehungsweise Tests auf Chlamydien und Gonorrhö.
+Luca: Das klingt gut.
+Lehmann: Für das HIV brauchen wir Blut, für Chlamydien und Gonorrhö einen Vaginalabstrich — dann sind die üblichen Möglichkeiten abgedeckt.
+Luca: Okay, das verstehe ich.
+Lehmann: Wie möchten Sie die Ergebnisse erhalten? Wir können Sie anrufen, wenn alles da ist.
+Luca: Telefonisch ist gut, dann erfahre ich es schnell.
+Lehmann: Prima. Zu Ihrer PrEP-Anfrage: bisher haben wir noch nicht über PrEP mit Ihnen gesprochen, das klären wir jetzt. Vorab noch ein Hinweis zur Prävention: regelmäßige und konsequente Kondomnutzung reduziert das Risiko für viele STIs deutlich.
+Luca: Ja, das ist mir wichtig. Ich würde gern wissen, ob PrEP für mich Sinn macht.
+Lehmann: Das besprechen wir gleich ausführlich — erst die Befunde abwarten und dann schauen wir gemeinsam, ob PrEP sinnvoll ist und wie die Kontrolle aussehen würde. Ich mache jetzt die Abstriche und Blutabnahme, und wir rufen Sie an, sobald die Ergebnisse vorliegen.

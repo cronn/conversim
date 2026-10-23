@@ -1,0 +1,67 @@
+Menter: Guten Tag. Sie sind in der offenen Sprechstunde, ich frage kurz durch. Was führt Sie her?
+Thomas: (nervös) Ich habe Ausfluss und Brennen beim Wasserlassen, deshalb bin ich hier.
+Menter: Seit wann konkret?
+Thomas: Seit dem 10.06.2024 habe ich die Beschwerden angefangen zu bemerken.
+Menter: Haben Sie Juckreiz?
+Thomas: Ja, gelegentlich Juckreiz.
+Menter: Schmerzen? Fieber?
+Thomas: Kein Fieber, nur brennendes Gefühl beim Urinieren.
+Menter: Sind Sie heterosexuell?
+Thomas: Ja, heterosexuell.
+Menter: Beziehungsstatus?
+Thomas: Verheiratet.
+Menter: Leben Sie monogam oder offen?
+Thomas: Wir haben eine offene Beziehung, aber ich... ich habe diesmal nicht alles gesagt.
+Menter: Letzte sexuelle Kontakte, Datum?
+Thomas: Der letzte war am 01.06.2024 auf einer Dienstreise. Es war ungeschützter Sex.
+Menter: Weitere Partner in den letzten 12 Monaten?
+Thomas: Insgesamt drei verschiedene Frauen.
+Menter: Waren die Partnerinnen auf eine STI getestet?
+Thomas: Ich weiß das nicht, ihr STI-Status war mir unbekannt.
+Menter: Verwenden Sie Kondome?
+Thomas: Manchmal. Also: gelegentlich, nicht regelmäßig.
+Menter: Haben Sie bekannte Vorerkrankungen oder frühere STI?
+Thomas: Ich hatte früher Chlamydien, das wurde behandelt.
+Menter: Sonstige Hepatitis- oder HIV-Erkrankungen?
+Thomas: Keine Hepatitis A/B/C, kein HIV.
+Menter: Sind Sie gegen Hepatitis A, Hepatitis B und HPV geimpft?
+Thomas: Ja, das habe ich gemacht.
+Menter: Wann war Ihr letzter Gesundheitscheck?
+Thomas: Beim Hausarzt am 15.03.2022.
+Menter: Letzte Tests auf HIV, Syphilis, Chlamydien/Gonorrhö?
+Thomas: Alle drei zuletzt am 20.08.2023.
+Menter: Gut. Ich werde Abstriche und einen Urin-Nachweis nehmen, sowie Blut für HIV, Syphilis und Hepatitis. Akzeptieren Sie das?
+Thomas: Ja, aber sagen Sie mir bitte: Wird meine Frau informiert? Gilt hier Schweigepflicht?
+Menter: Ärztliche Schweigepflicht besteht. Informationen gebe ich nicht an Dritte ohne Ihre Einwilligung.
+Thomas: Auch nicht an meine Frau, wenn sie mich fragt?
+Menter: Nein. Nur bei gesetzlicher Meldepflicht werden Daten anonymisiert oder an das Gesundheitsamt gemeldet, nicht an Ehepartner.
+Thomas: Was genau ist meldepflichtig?
+Menter: Einige Infektionskrankheiten sind meldepflichtig. Ich informiere Sie, falls das relevant wird.
+Thomas: Können Sie mir versichern, dass das nicht nach Hause gemeldet wird?
+Menter: Ich wiederhole: Schweigepflicht. Meldungen an Behörden erfolgen nur wenn gesetzlich vorgeschrieben und in der Regel anonym.
+Thomas: Gut. Muss ich jetzt warten, bis die Ergebnisse da sind, oder gibt es schon eine Sofortbehandlung?
+Menter: Bei Verdacht auf Gonorrhö/Chlamydien kann empirisch behandelt werden, aber wir prüfen zuerst Abstrich und Urin. Bei starkem Verdacht starte ich sofort eine Therapie.
+Thomas: Was würde das sein, wenn nötig?
+Menter: Kombination aus einer intramuskulären Gabe und oralen Antibiotika möglich. Genaues nach Befund.
+Thomas: Und HIV? Sollte ich sofort ein Medikament bekommen?
+Menter: Nein. Bei möglichem HIV-Risiko machen wir Bluttests. Postexpositionsprophylaxe wird nur in bestimmten Fällen begonnen; das scheint hier nicht der Fall zu sein.
+Thomas: Wie schnell bekomme ich die Ergebnisse?
+Menter: PCR-Abstriche 2–4 Tage. Bluttests in der Regel 1–3 Tage.
+Thomas: Wer bekommt das Ergebnis zuerst, ich oder meine Frau?
+Menter: Sie. Die Befunde werden mit Ihnen besprochen.
+Thomas: Kann das Ergebnis in der Patientenakte sichtbar für andere Mitarbeiter sein?
+Menter: Die Akte ist zugangsbeschränkt. Nur Personen, die an Ihrer Versorgung beteiligt sind, sehen relevante Informationen.
+Thomas: Ich habe Angst, dass das auffällt oder dass jemand meinem Namen weitergibt.
+Menter: Ihre Sorge notiert. Wir arbeiten vertraulich.
+Thomas: Gut. Wenn es Chlamydien ist, könnte das wieder vorkommen?
+Menter: Chlamydien können erneut auftreten. Wichtig ist Partnerbenachrichtigung und konsequente Behandlung.
+Thomas: Muss ich die Partner informieren? Ich möchte nicht, dass meine Frau davon erfährt, aber die anderen müssen es wissen, oder?
+Menter: Partnerbenachrichtigung ist medizinisch sinnvoll. Gesetzlich sind Sie nicht verpflichtet, wenn Sie es nicht wollen, aber für die Infektionskette ist Information wichtig.
+Thomas: Können Sie die Partner anonym informieren?
+Menter: Manche Gesundheitsämter bieten anonyme Partnerbenachrichtigungen an. Ich kann Ihnen Informationen dazu geben.
+Thomas: Okay. Was soll ich jetzt tun?
+Menter: Urin und Abstrich bitte jetzt. Blut wird abgenommen. Danach entscheiden wir über eine empirische Therapie oder warten auf Ergebnisse.
+Thomas: (leise) Noch eine Frage zur Schweigepflicht: Gibt es außer dem Gesundheitsamt noch Stellen, die informiert werden müssten?
+Menter: Nur bei meldepflichtigen Erkrankungen oder bei Gefährdung Dritter. Ansonsten nicht.
+Thomas: Danke. Ich möchte, dass das vertraulich bleibt.
+Menter: Verstanden. Dann bitte zur Probenentnahme, Sie bekommen die Ergebnisse per Termin oder telefonisch von mir.

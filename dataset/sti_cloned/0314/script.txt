@@ -1,0 +1,37 @@
+Müller: Guten Morgen, ich bin Dr. Müller. Wie geht's Ihnen heute, was führt Sie zu uns?
+Mika: Servus. Ich hab seit ein paar Tagen Beschwerden und mach mir Sorgen, deshalb bin ich hier.
+Müller: Danke. Bevor wir anfangen: alles, was Sie mir sagen, bleibt vertraulich. Darf ich kurz Ihr Geburtsdatum?
+Mika: Ja, klar. Ich bin am 20. Juli 1995 geboren.
+Müller: Sehr gut. Und wie fühlen Sie sich insgesamt? Können Sie mir kurz sagen, wie Sie sich selbst bezeichnen — welches Geschlecht?
+Mika: Ich bin nicht-binär. Bei der Geburt wurd ich als weiblich eingeordnet.
+Müller: Danke. Haben Sie bestimmte Körperteile noch, die für die Untersuchung wichtig sind?
+Mika: Ja, ich hab noch meine Vagina, meinen Gebärmutterhals, die Gebärmutter und auch den Mastdarm.
+Müller: Nehmen Sie aktuell irgendwelche Hormone oder eine geschlechtsangleichende Therapie?
+Mika: Nein, ich nehm keine Hormone.
+Müller: Gut. Kommen wir zur sexuellen Anamnese: In den letzten drei Monaten — wie viele Sexualpartner hatten Sie?
+Mika: Nur einen.
+Müller: Welche Art von Sex hatten Sie mit dieser Person in den letzten Monaten?
+Mika: Wir hatten vaginalen Sex.
+Müller: Und dabei wie häufig Schutz durch Kondome?
+Mika: Meistens haben wir ein Kondom verwendet, nicht immer.
+Müller: Verstanden. Haben Sie irgendwelche bekannten Risiken in Bezug auf HIV-Exposition in letzter Zeit — also nichts Spezielles, was Sie beunruhigt?
+Mika: Nein, ich glaub nicht, dass da was Größeres passiert ist.
+Müller: Okay. Haben Sie schon Impfungen, die relevant sind, zum Beispiel gegen Hepatitis B?
+Mika: Ja, ich bin gegen Hepatitis B vollständig geimpft.
+Müller: Gut. Ich empfehle, dass wir heute drei Tests machen: HIV, Syphilis und Chlamydien. Dafür brauchen wir Blut, eine Urinprobe und einen vaginalen Abstrich.
+Mika: Blut und Abstrich, alles klar. Tut das weh?
+Müller: Blutabnahme ist kurz spürbar, der Abstrich kann unangenehm sein, ist aber rasch erledigt. Die Urinprobe ist ohne Pieks. Wir schicken Ihnen die Ergebnisse per E‑Mail, in der Regel innerhalb einer Woche.
+Mika: Per E‑Mail, super. Wenn was dabei rauskommt, wie läuft die Behandlung dann?
+Müller: Bei Chlamydien wäre das in der Regel eine Antibiotika‑Kur, Syphilis wird auch mit Antibiotika behandelt, und bei einem positiven HIV‑Befund besprechen wir sofort die nächsten Schritte und Therapieoptionen. Alles gut erklärt, keine Panik.
+Mika: Okay. Und was ist mit PrEP? Hab ich davon gehört — wäre das was für mich?
+Müller: PrEP ist eine vorbeugende Medikation gegen HIV. Sie ist dann sinnvoll, wenn ein höheres Risiko besteht. Sie nehmen aktuell keine PrEP, richtig?
+Mika: Nein, nehme ich nicht.
+Müller: In Ihrem Fall, mit einem Partner und ohne bekannten HIV‑Risiko, ist PrEP nicht zwingend notwendig, aber ich kann Ihnen das Angebot machen, falls Sie dauerhaft mehr Sicherheit wollen. Ich erkläre Ihnen die Vor‑ und Nachteile gern.
+Mika: Danke, im Moment brauch ich das glaub ich nicht, aber gut zu wissen.
+Müller: In Ordnung. Zwei letzte Dinge: Ich gebe Ihnen ein paar Hinweise zur Kondomnutzung — Kondom von Anfang an anlegen, keine ölhaltigen Gleitmittel bei Latex, und bei Rissen oder verrutschen bitte testen lassen.
+Mika: Alles klar, das merk ich mir.
+Müller: Gut. Dann nehme ich jetzt Blut, bitte geben Sie eine Urinprobe ab und wir machen den vaginalen Abstrich. Wenn Sie noch Fragen haben, fragen Sie ruhig.
+Mika: Noch eine Frage: Wenn die Ergebnisse da sind und alles negativ ist — krieg ich trotzdem eine kurze Info?
+Müller: Ja, Sie bekommen eine E‑Mail mit den Ergebnissen innerhalb von sieben Tagen. Wenn etwas auffällig ist, rufen wir Sie zusätzlich an und vereinbaren einen Termin zur Besprechung.
+Mika: Danke, das beruhigt mich. Dann legen wir los.
+Müller: Sehr gut, ich bereite alles vor.
